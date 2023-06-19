@@ -8,16 +8,16 @@
         "ceo": "Marc Benioff",
         "pe_ratio": 100,
         "report_year_from": 2005,
-        "report_year_to": 2023,
+        "report_year_to": 2024,
         "age": 18,
-        "eps_negative_percentage": 29,
+        "eps_negative_percentage": 27,
         "eps_growth_avg": {
-            "last_all": 12.62,
-            "last_2y": -14.67,
-            "last_4y": 18.43,
-            "last_8y": 18.43,
-            "last_12y": 4.85,
-            "last_16y": 12.62,
+            "last_all": 7.29,
+            "last_2y": null,
+            "last_4y": null,
+            "last_8y": null,
+            "last_12y": null,
+            "last_16y": null,
             "last_20y": null,
             "at_2006_last_3y": null,
             "at_2007_last_3y": 0,
@@ -56,20 +56,20 @@
             "at_2022_last_all": 12.62,
             "at_2023_last_all": 12.62
         },
-        "latest_eps": 1.06,
-        "latest_price": 218.87,
-        "latest_roe": 0.35,
-        "latest_gross_margin": 74.95,
-        "latest_equity": 58359000,
-        "latest_revenue": 8384000,
-        "latest_gross_profit": 6284000,
-        "latest_net_income": -98000,
-        "latest_debt_ratio": 40.96,
-        "latest_current_ratio": 101.95,
-        "latest_account_receivable_turnover_ratio": 0.91,
+        "latest_eps": 1.78,
+        "latest_price": 211.76,
+        "latest_roe": 0.64,
+        "latest_gross_margin": 74.23,
+        "latest_equity": 57412000,
+        "latest_revenue": 8247000,
+        "latest_gross_profit": 6122000,
+        "latest_net_income": 199000,
+        "latest_debt_ratio": 38.62,
+        "latest_current_ratio": 101.64,
+        "latest_account_receivable_turnover_ratio": 0.87,
         "latest_inventory_turnover_ratio": null,
-        "latest_reinvestment_rate": 78.57,
-        "latest_research_to_sale_ratio": 13.45
+        "latest_reinvestment_rate": 73.39,
+        "latest_research_to_sale_ratio": 14.64
     },
     "eps_dividends": {
         "2001": {
@@ -186,6 +186,11 @@
             "cash": 0,
             "stock": 0,
             "eps": 1.07
+        },
+        "2024": {
+            "cash": 0,
+            "stock": 0,
+            "eps": 0.75
         }
     },
     "dividends": [],
@@ -458,7 +463,8 @@
         "202302": "167.98",
         "202303": "185.67",
         "202304": "194.91",
-        "202305": "203.78"
+        "202305": "205.36",
+        "202306": "211.25"
     },
     "quarters": {
         "20011": {
@@ -3130,6 +3136,36 @@
             "eps_avg_yearly": 2.79,
             "eps_latest_yearly": 2.76,
             "eps_growth_yearly": 736.18
+        },
+        "20241": {
+            "year_quarter": 20241,
+            "year": 2024,
+            "quarter": 1,
+            "eps": 0.75,
+            "eps_growth_year": 2036.31,
+            "eps_4q": 1.78,
+            "eps_4q_growth_year": 67.32,
+            "roe": 0.34,
+            "roe_4q": 0.63,
+            "gross_profit": 6122000,
+            "gross_margin": 74.23,
+            "gross_margin_4q_avg": 73.75,
+            "net_income": 199000,
+            "revenue": 8247000,
+            "common_shares": 1000,
+            "book_valuer_per_share": 2.16,
+            "book_valuer_per_share_4q_avg": 2.86,
+            "equity": 57412000,
+            "current_ratio": 101.64,
+            "debt_ratio": 38.62,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": 0.87,
+            "reinvestment_rate": 73.39,
+            "research_to_sale_ratio": 14.64,
+            "price_fair": 100.8,
+            "eps_avg_yearly": 2.88,
+            "eps_latest_yearly": 3,
+            "eps_growth_yearly": 741.44
         }
     },
     "months": {
@@ -4270,7 +4306,12 @@
         },
         "2023-05": {
             "month": "2023-05",
-            "price": "203.78",
+            "price": "205.36",
+            "revenue": 0
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "211.25",
             "revenue": 0
         }
     }
