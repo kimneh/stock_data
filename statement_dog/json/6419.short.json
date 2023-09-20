@@ -6,11 +6,11 @@
         "main_business": "數位監控系統",
         "website_url": "http://www.nuuo.com",
         "ceo": "楊文彬",
-        "pe_ratio": 8,
+        "pe_ratio": 10,
         "report_year_from": 2012,
         "report_year_to": 2023,
         "age": 11,
-        "eps_negative_percentage": 55,
+        "eps_negative_percentage": 45,
         "eps_growth_avg": {
             "last_all": -58.79,
             "last_2y": 11.91,
@@ -56,20 +56,20 @@
             "at_2022_last_all": -58.79,
             "at_2023_last_all": -58.79
         },
-        "latest_eps": 4.14,
-        "latest_price": 31.65,
-        "latest_roe": 18.06,
-        "latest_gross_margin": 61.07,
-        "latest_equity": 329096,
-        "latest_revenue": 42354,
-        "latest_gross_profit": 25864,
-        "latest_net_income": -237,
-        "latest_debt_ratio": 31.33,
-        "latest_current_ratio": 398.87,
-        "latest_account_receivable_turnover_ratio": 4.46,
-        "latest_inventory_turnover_ratio": 1.21,
-        "latest_reinvestment_rate": -310.67,
-        "latest_research_to_sale_ratio": 6.8
+        "latest_eps": 4.57,
+        "latest_price": 44.7,
+        "latest_roe": 19.36,
+        "latest_gross_margin": 49.35,
+        "latest_equity": 340571,
+        "latest_revenue": 64488,
+        "latest_gross_profit": 31827,
+        "latest_net_income": 10961,
+        "latest_debt_ratio": 30.86,
+        "latest_current_ratio": 407.05,
+        "latest_account_receivable_turnover_ratio": 7.07,
+        "latest_inventory_turnover_ratio": 1.96,
+        "latest_reinvestment_rate": -72.01,
+        "latest_research_to_sale_ratio": 3.89
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +183,9 @@
             "eps": 5.45
         },
         "2023": {
-            "cash": 0,
+            "cash": 5.3,
             "stock": 0,
-            "eps": -0.02
+            "eps": 0.81
         }
     },
     "dividends": {
@@ -200,6 +200,10 @@
         "2015-03-13": {
             "cash": 0,
             "stock": 0.72
+        },
+        "2023-08-22": {
+            "cash": 5.3,
+            "stock": 0
         }
     },
     "prices": {
@@ -472,7 +476,10 @@
         "202303": "38.79",
         "202304": "36.90",
         "202305": "31.70",
-        "202306": "31.08"
+        "202306": "31.20",
+        "202307": "39.27",
+        "202308": "34.63",
+        "202309": "40.97"
     },
     "quarters": {
         "20011": {
@@ -3144,6 +3151,36 @@
             "eps_avg_yearly": 8.79,
             "eps_latest_yearly": 15.8,
             "eps_growth_yearly": 1028.53
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": 0.83,
+            "eps_growth_year": 102.44,
+            "eps_4q": 4.57,
+            "eps_4q_growth_year": 25.18,
+            "roe": 3.27,
+            "roe_4q": 19.37,
+            "gross_profit": 31827,
+            "gross_margin": 49.35,
+            "gross_margin_4q_avg": 48.19,
+            "net_income": 10961,
+            "revenue": 64488,
+            "common_shares": 131592,
+            "book_valuer_per_share": 25.86,
+            "book_valuer_per_share_4q_avg": 25.29,
+            "equity": 340571,
+            "current_ratio": 407.05,
+            "debt_ratio": 30.86,
+            "inventory_turnover_ratio": 1.96,
+            "account_receivable_turnover_ratio": 7.07,
+            "reinvestment_rate": -72.01,
+            "research_to_sale_ratio": 3.89,
+            "price_fair": 307.65,
+            "eps_avg_yearly": 8.79,
+            "eps_latest_yearly": 15.8,
+            "eps_growth_yearly": 1028.53
         }
     },
     "months": {
@@ -3756,6 +3793,21 @@
             "month": "2023-05",
             "price": "31.70",
             "revenue": 22480
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "31.20",
+            "revenue": 22197
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "39.27",
+            "revenue": 23802
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "34.63",
+            "revenue": 27735
         }
     }
 }

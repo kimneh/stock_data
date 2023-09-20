@@ -6,11 +6,11 @@
         "main_business": "樞紐組件",
         "website_url": "http://www.sinher.com.tw",
         "ceo": "蘇丁鴻",
-        "pe_ratio": 29,
+        "pe_ratio": 31,
         "report_year_from": 2010,
         "report_year_to": 2023,
         "age": 13,
-        "eps_negative_percentage": 9,
+        "eps_negative_percentage": 0,
         "eps_growth_avg": {
             "last_all": 1.71,
             "last_2y": 18.65,
@@ -56,20 +56,20 @@
             "at_2022_last_all": 1.71,
             "at_2023_last_all": 1.71
         },
-        "latest_eps": 1.27,
-        "latest_price": 37.45,
-        "latest_roe": 2.76,
-        "latest_gross_margin": 12.85,
-        "latest_equity": 3349838,
-        "latest_revenue": 412050,
-        "latest_gross_profit": 52939,
-        "latest_net_income": -58482,
-        "latest_debt_ratio": 18.89,
-        "latest_current_ratio": 418.63,
-        "latest_account_receivable_turnover_ratio": 0.59,
-        "latest_inventory_turnover_ratio": 1.09,
-        "latest_reinvestment_rate": -14.42,
-        "latest_research_to_sale_ratio": 5.88
+        "latest_eps": 1.16,
+        "latest_price": 35.65,
+        "latest_roe": 2.48,
+        "latest_gross_margin": 18.93,
+        "latest_equity": 3401575,
+        "latest_revenue": 567123,
+        "latest_gross_profit": 107372,
+        "latest_net_income": 79865,
+        "latest_debt_ratio": 18.91,
+        "latest_current_ratio": 454.12,
+        "latest_account_receivable_turnover_ratio": 0.81,
+        "latest_inventory_turnover_ratio": 1.42,
+        "latest_reinvestment_rate": -13.5,
+        "latest_research_to_sale_ratio": 4.15
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +185,7 @@
         "2023": {
             "cash": 1.75,
             "stock": 0,
-            "eps": -0.79
+            "eps": 0.29
         }
     },
     "dividends": {
@@ -237,7 +237,7 @@
             "cash": 2,
             "stock": 0
         },
-        "2023-03-16": {
+        "2023-08-11": {
             "cash": 1.75,
             "stock": 0
         }
@@ -512,7 +512,10 @@
         "202303": "38.14",
         "202304": "37.96",
         "202305": "37.51",
-        "202306": "37.57"
+        "202306": "37.50",
+        "202307": "35.99",
+        "202308": "34.79",
+        "202309": "35.42"
     },
     "quarters": {
         "20011": {
@@ -3184,6 +3187,36 @@
             "eps_avg_yearly": 3.94,
             "eps_latest_yearly": 4.96,
             "eps_growth_yearly": 183.41
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": 1.08,
+            "eps_growth_year": -8.47,
+            "eps_4q": 1.16,
+            "eps_4q_growth_year": -65.29,
+            "roe": 2.37,
+            "roe_4q": 2.49,
+            "gross_profit": 107372,
+            "gross_margin": 18.93,
+            "gross_margin_4q_avg": 17.08,
+            "net_income": 79865,
+            "revenue": 567123,
+            "common_shares": 744172,
+            "book_valuer_per_share": 46.21,
+            "book_valuer_per_share_4q_avg": 47.06,
+            "equity": 3401575,
+            "current_ratio": 454.12,
+            "debt_ratio": 18.91,
+            "inventory_turnover_ratio": 1.42,
+            "account_receivable_turnover_ratio": 0.81,
+            "reinvestment_rate": -13.5,
+            "research_to_sale_ratio": 4.15,
+            "price_fair": 138.92,
+            "eps_avg_yearly": 3.97,
+            "eps_latest_yearly": 4.96,
+            "eps_growth_yearly": 118.75
         }
     },
     "months": {
@@ -3911,6 +3944,21 @@
             "month": "2023-05",
             "price": "37.51",
             "revenue": 166194
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "37.50",
+            "revenue": 222184
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "35.99",
+            "revenue": 126200
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "34.79",
+            "revenue": 153040
         }
     }
 }

@@ -6,11 +6,11 @@
         "main_business": "輪胎生產<br>輪胎銷售",
         "website_url": "http://www.nankang-tyre.com",
         "ceo": "林君穎",
-        "pe_ratio": -43,
+        "pe_ratio": -62,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
-        "eps_negative_percentage": 22,
+        "eps_negative_percentage": 17,
         "eps_growth_avg": {
             "last_all": -0.34,
             "last_2y": -62.68,
@@ -56,20 +56,20 @@
             "at_2022_last_all": -0.34,
             "at_2023_last_all": -0.34
         },
-        "latest_eps": -0.94,
-        "latest_price": 40.55,
-        "latest_roe": -7.32,
-        "latest_gross_margin": 11.77,
-        "latest_equity": 10288434,
-        "latest_revenue": 1712289,
-        "latest_gross_profit": 201468,
-        "latest_net_income": -55272,
-        "latest_debt_ratio": 72.83,
-        "latest_current_ratio": 147.25,
-        "latest_account_receivable_turnover_ratio": 1.34,
+        "latest_eps": -0.62,
+        "latest_price": 38.45,
+        "latest_roe": -4.88,
+        "latest_gross_margin": 19.84,
+        "latest_equity": 10228521,
+        "latest_revenue": 2053439,
+        "latest_gross_profit": 407304,
+        "latest_net_income": 103498,
+        "latest_debt_ratio": 73.7,
+        "latest_current_ratio": 151.64,
+        "latest_account_receivable_turnover_ratio": 1.53,
         "latest_inventory_turnover_ratio": 0.08,
-        "latest_reinvestment_rate": 704.19,
-        "latest_research_to_sale_ratio": 1.17
+        "latest_reinvestment_rate": 1663.97,
+        "latest_research_to_sale_ratio": 0.88
     },
     "eps_dividends": {
         "1996": {
@@ -210,7 +210,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.07
+            "eps": 0.05
         }
     },
     "dividends": {
@@ -561,7 +561,10 @@
         "202303": "37.59",
         "202304": "39.36",
         "202305": "39.04",
-        "202306": "39.77"
+        "202306": "39.68",
+        "202307": "38.20",
+        "202308": "38.34",
+        "202309": "38.40"
     },
     "quarters": {
         "20011": {
@@ -3233,6 +3236,36 @@
             "eps_avg_yearly": 1.26,
             "eps_latest_yearly": 1.16,
             "eps_growth_yearly": -21.64
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": 0.12,
+            "eps_growth_year": null,
+            "eps_4q": -0.62,
+            "eps_4q_growth_year": null,
+            "roe": 1.01,
+            "roe_4q": -4.83,
+            "gross_profit": 407304,
+            "gross_margin": 19.84,
+            "gross_margin_4q_avg": 14.23,
+            "net_income": 103498,
+            "revenue": 2053439,
+            "common_shares": 8339349,
+            "book_valuer_per_share": 12.27,
+            "book_valuer_per_share_4q_avg": 12.49,
+            "equity": 10228521,
+            "current_ratio": 151.64,
+            "debt_ratio": 73.7,
+            "inventory_turnover_ratio": 0.08,
+            "account_receivable_turnover_ratio": 1.53,
+            "reinvestment_rate": 1663.97,
+            "research_to_sale_ratio": 0.88,
+            "price_fair": 3.44,
+            "eps_avg_yearly": 1.15,
+            "eps_latest_yearly": 1.16,
+            "eps_growth_yearly": -77.09
         }
     },
     "months": {
@@ -4555,6 +4588,21 @@
             "month": "2023-05",
             "price": "39.04",
             "revenue": 697740
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "39.68",
+            "revenue": 785205
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "38.20",
+            "revenue": 708674
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "38.34",
+            "revenue": 690615
         }
     }
 }

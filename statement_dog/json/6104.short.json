@@ -6,11 +6,11 @@
         "main_business": "設計,製造,測試,銷售積體電路及半導體零組件等<br>電腦軟體程式設計,研發,銷售,測試及電腦資料處理<br>前各項產品之代理及進出口貿易業務",
         "website_url": "http://www.genesyslogic.com",
         "ceo": "王國肇",
-        "pe_ratio": 100,
+        "pe_ratio": -171,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
-        "eps_negative_percentage": 26,
+        "eps_negative_percentage": 22,
         "eps_growth_avg": {
             "last_all": 1.37,
             "last_2y": 37.14,
@@ -56,20 +56,20 @@
             "at_2022_last_all": 1.37,
             "at_2023_last_all": 1.37
         },
-        "latest_eps": 0.35,
-        "latest_price": 115.5,
-        "latest_roe": 1.78,
-        "latest_gross_margin": 38.91,
-        "latest_equity": 1683979,
-        "latest_revenue": 535576,
-        "latest_gross_profit": 208368,
-        "latest_net_income": -28809,
-        "latest_debt_ratio": 48.6,
-        "latest_current_ratio": 195.87,
-        "latest_account_receivable_turnover_ratio": 2.51,
-        "latest_inventory_turnover_ratio": 0.26,
-        "latest_reinvestment_rate": 5.83,
-        "latest_research_to_sale_ratio": 34.31
+        "latest_eps": -0.67,
+        "latest_price": 114.5,
+        "latest_roe": -3.29,
+        "latest_gross_margin": 42.09,
+        "latest_equity": 1723437,
+        "latest_revenue": 625576,
+        "latest_gross_profit": 263278,
+        "latest_net_income": 38278,
+        "latest_debt_ratio": 45.4,
+        "latest_current_ratio": 218.96,
+        "latest_account_receivable_turnover_ratio": 2.89,
+        "latest_inventory_turnover_ratio": 0.34,
+        "latest_reinvestment_rate": 4.59,
+        "latest_research_to_sale_ratio": 27.44
     },
     "eps_dividends": {
         "2000": {
@@ -190,7 +190,7 @@
         "2023": {
             "cash": 2.5,
             "stock": 0,
-            "eps": -0.32
+            "eps": 0.1
         }
     },
     "dividends": {
@@ -537,7 +537,10 @@
         "202303": "123.59",
         "202304": "117.41",
         "202305": "109.11",
-        "202306": "115.63"
+        "202306": "114.50",
+        "202307": "111.90",
+        "202308": "102.69",
+        "202309": "116.46"
     },
     "quarters": {
         "20011": {
@@ -3209,6 +3212,36 @@
             "eps_avg_yearly": 5.04,
             "eps_latest_yearly": 1.08,
             "eps_growth_yearly": 85.72
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": 0.42,
+            "eps_growth_year": -71.03,
+            "eps_4q": -0.67,
+            "eps_4q_growth_year": -106.78,
+            "roe": 2.25,
+            "roe_4q": -2.8799999999999994,
+            "gross_profit": 263278,
+            "gross_margin": 42.09,
+            "gross_margin_4q_avg": 37.37,
+            "net_income": 38278,
+            "revenue": 625576,
+            "common_shares": 902792,
+            "book_valuer_per_share": 19.05,
+            "book_valuer_per_share_4q_avg": 20.4,
+            "equity": 1723437,
+            "current_ratio": 218.96,
+            "debt_ratio": 45.4,
+            "inventory_turnover_ratio": 0.34,
+            "account_receivable_turnover_ratio": 2.89,
+            "reinvestment_rate": 4.59,
+            "research_to_sale_ratio": 27.44,
+            "price_fair": 182.97,
+            "eps_avg_yearly": 5.23,
+            "eps_latest_yearly": 1.08,
+            "eps_growth_yearly": 57.44
         }
     },
     "months": {
@@ -4531,6 +4564,21 @@
             "month": "2023-05",
             "price": "109.11",
             "revenue": 205669
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "114.50",
+            "revenue": 205202
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "111.90",
+            "revenue": 208857
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "102.69",
+            "revenue": 202326
         }
     }
 }

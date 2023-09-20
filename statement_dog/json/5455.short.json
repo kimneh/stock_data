@@ -6,7 +6,7 @@
         "main_business": "住宅及大樓開發租售業<br>建材批發業",
         "website_url": "http://www.signality.com.tw",
         "ceo": "陳文熾",
-        "pe_ratio": 100,
+        "pe_ratio": -580,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
@@ -56,16 +56,16 @@
             "at_2022_last_all": -10.8,
             "at_2023_last_all": -10.8
         },
-        "latest_eps": 0.23,
-        "latest_price": 26.6,
-        "latest_roe": 2.57,
-        "latest_gross_margin": 87.41,
-        "latest_equity": 587101,
-        "latest_revenue": 564,
-        "latest_gross_profit": 493,
-        "latest_net_income": -8071,
-        "latest_debt_ratio": 85.45,
-        "latest_current_ratio": 115.36,
+        "latest_eps": -0.05,
+        "latest_price": 29,
+        "latest_roe": -0.6,
+        "latest_gross_margin": 59.68,
+        "latest_equity": 580155,
+        "latest_revenue": 558,
+        "latest_gross_profit": 333,
+        "latest_net_income": -7629,
+        "latest_debt_ratio": 87.47,
+        "latest_current_ratio": 112.89,
         "latest_account_receivable_turnover_ratio": null,
         "latest_inventory_turnover_ratio": 0,
         "latest_reinvestment_rate": -0.01,
@@ -200,7 +200,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.12
+            "eps": -0.24
         }
     },
     "dividends": {
@@ -499,7 +499,10 @@
         "202303": "27.28",
         "202304": "27.81",
         "202305": "28.03",
-        "202306": "26.91"
+        "202306": "27.13",
+        "202307": "28.35",
+        "202308": "28.00",
+        "202309": "28.77"
     },
     "quarters": {
         "20011": {
@@ -3171,6 +3174,36 @@
             "eps_avg_yearly": 1.05,
             "eps_latest_yearly": 1.08,
             "eps_growth_yearly": 1030.65
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": -0.12,
+            "eps_growth_year": -175,
+            "eps_4q": -0.05,
+            "eps_4q_growth_year": -106.61,
+            "roe": -1.31,
+            "roe_4q": -0.6000000000000001,
+            "gross_profit": 333,
+            "gross_margin": 59.68,
+            "gross_margin_4q_avg": 52.96,
+            "net_income": -7629,
+            "revenue": 558,
+            "common_shares": 655018,
+            "book_valuer_per_share": 8.86,
+            "book_valuer_per_share_4q_avg": 8.99,
+            "equity": 580155,
+            "current_ratio": 112.89,
+            "debt_ratio": 87.47,
+            "inventory_turnover_ratio": 0,
+            "account_receivable_turnover_ratio": null,
+            "reinvestment_rate": -0.01,
+            "research_to_sale_ratio": null,
+            "price_fair": 36.75,
+            "eps_avg_yearly": 1.05,
+            "eps_latest_yearly": 1.08,
+            "eps_growth_yearly": 1030.65
         }
     },
     "months": {
@@ -4493,6 +4526,21 @@
             "month": "2023-05",
             "price": "28.03",
             "revenue": 187
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "27.13",
+            "revenue": 186
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "28.35",
+            "revenue": 186
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "28.00",
+            "revenue": 186
         }
     }
 }

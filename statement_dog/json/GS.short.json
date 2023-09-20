@@ -6,7 +6,7 @@
         "main_business": "高盛集團是一家全球領先的投資銀行，證券和投資管理公司，為包括公司，金融機構，政府和個人在內的眾多多元化客戶群提供廣泛的金融服務。",
         "website_url": "https://www.goldmansachs.com/",
         "ceo": "David M. Solomon",
-        "pe_ratio": 10,
+        "pe_ratio": 12,
         "report_year_from": 1999,
         "report_year_to": 2022,
         "age": 24,
@@ -56,15 +56,15 @@
             "at_2022_last_all": 17.2,
             "at_2023_last_all": 17.2
         },
-        "latest_eps": 30.89,
-        "latest_price": 314.71,
-        "latest_roe": 8.95,
+        "latest_eps": 27.64,
+        "latest_price": 342.54,
+        "latest_roe": 7.52,
         "latest_gross_margin": null,
-        "latest_equity": 117509000,
-        "latest_revenue": 25381000,
+        "latest_equity": 116493000,
+        "latest_revenue": 26047000,
         "latest_gross_profit": null,
-        "latest_net_income": 3234000,
-        "latest_debt_ratio": 92.36,
+        "latest_net_income": 1216000,
+        "latest_debt_ratio": 92.59,
         "latest_current_ratio": null,
         "latest_account_receivable_turnover_ratio": null,
         "latest_inventory_turnover_ratio": null,
@@ -193,9 +193,9 @@
             "eps": 32.1
         },
         "2023": {
-            "cash": 5,
+            "cash": 7.5,
             "stock": 0,
-            "eps": 9.85
+            "eps": 14.54
         }
     },
     "dividends": {
@@ -558,6 +558,10 @@
         "2023-06-29": {
             "cash": 2.5,
             "stock": 0
+        },
+        "2023-09-29": {
+            "cash": 2.5,
+            "stock": 0
         }
     },
     "prices": {
@@ -830,7 +834,10 @@
         "202303": "326.82",
         "202304": "333.72",
         "202305": "326.03",
-        "202306": "330.28"
+        "202306": "327.12",
+        "202307": "336.80",
+        "202308": "335.32",
+        "202309": "329.74"
     },
     "quarters": {
         "20011": {
@@ -3477,10 +3484,10 @@
             "year_quarter": 20231,
             "year": 2023,
             "quarter": 1,
-            "eps": 9.85,
-            "eps_growth_year": -10.93,
-            "eps_4q": 30.89,
-            "eps_4q_growth_year": -41.57,
+            "eps": 10.36,
+            "eps_growth_year": -6.34,
+            "eps_4q": 31.4,
+            "eps_4q_growth_year": -40.61,
             "roe": 2.76,
             "roe_4q": 8.98,
             "gross_profit": null,
@@ -3498,10 +3505,40 @@
             "account_receivable_turnover_ratio": null,
             "reinvestment_rate": null,
             "research_to_sale_ratio": null,
-            "price_fair": 1384.25,
-            "eps_avg_yearly": 39.55,
-            "eps_latest_yearly": 39.4,
-            "eps_growth_yearly": 42.63
+            "price_fair": 1388.71,
+            "eps_avg_yearly": 39.68,
+            "eps_latest_yearly": 41.44,
+            "eps_growth_yearly": 45.68
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": 4.18,
+            "eps_growth_year": -47.31,
+            "eps_4q": 27.64,
+            "eps_4q_growth_year": -38.94,
+            "roe": 1.04,
+            "roe_4q": 7.51,
+            "gross_profit": null,
+            "gross_margin": null,
+            "gross_margin_4q_avg": 0,
+            "net_income": 1216000,
+            "revenue": 26047000,
+            "common_shares": 9000,
+            "book_valuer_per_share": 296.02,
+            "book_valuer_per_share_4q_avg": 295.11,
+            "equity": 116493000,
+            "current_ratio": null,
+            "debt_ratio": 92.59,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": null,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": null,
+            "price_fair": 1373.23,
+            "eps_avg_yearly": 39.24,
+            "eps_latest_yearly": 16.72,
+            "eps_growth_yearly": 30.07
         }
     },
     "months": {
@@ -4852,7 +4889,22 @@
         },
         "2023-06": {
             "month": "2023-06",
-            "price": "330.28",
+            "price": "327.12",
+            "revenue": 0
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "336.80",
+            "revenue": 0
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "335.32",
+            "revenue": 0
+        },
+        "2023-09": {
+            "month": "2023-09",
+            "price": "329.74",
             "revenue": 0
         }
     }

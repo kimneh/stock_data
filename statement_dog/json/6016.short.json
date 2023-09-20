@@ -6,7 +6,7 @@
         "main_business": "證券經紀承銷自營股務代理<br>期貨交易輔助人",
         "website_url": "http://www.concords.com.tw/default.aspx",
         "ceo": "邱榮澄",
-        "pe_ratio": 19,
+        "pe_ratio": 6,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
@@ -56,19 +56,19 @@
             "at_2022_last_all": 3.17,
             "at_2023_last_all": 3.17
         },
-        "latest_eps": 0.75,
-        "latest_price": 14,
-        "latest_roe": 5.3,
+        "latest_eps": 2.21,
+        "latest_price": 13.85,
+        "latest_roe": 16.08,
         "latest_gross_margin": null,
-        "latest_equity": 8300360,
-        "latest_revenue": 989147,
+        "latest_equity": 8939894,
+        "latest_revenue": 1309035,
         "latest_gross_profit": null,
-        "latest_net_income": 420165,
-        "latest_debt_ratio": 77.11,
-        "latest_current_ratio": 110.77,
-        "latest_account_receivable_turnover_ratio": 0.17,
+        "latest_net_income": 634594,
+        "latest_debt_ratio": 78.84,
+        "latest_current_ratio": 111.07,
+        "latest_account_receivable_turnover_ratio": 0.18,
         "latest_inventory_turnover_ratio": null,
-        "latest_reinvestment_rate": -1.53,
+        "latest_reinvestment_rate": 1.13,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -215,7 +215,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 0.71
+            "eps": 1.78
         }
     },
     "dividends": {
@@ -574,7 +574,10 @@
         "202303": "10.83",
         "202304": "11.28",
         "202305": "11.12",
-        "202306": "13.49"
+        "202306": "13.54",
+        "202307": "15.25",
+        "202308": "14.26",
+        "202309": "13.85"
     },
     "quarters": {
         "20011": {
@@ -3246,6 +3249,36 @@
             "eps_avg_yearly": 1.78,
             "eps_latest_yearly": 2.84,
             "eps_growth_yearly": 615.8
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": 1.07,
+            "eps_growth_year": null,
+            "eps_4q": 2.21,
+            "eps_4q_growth_year": 353.07,
+            "roe": 7.36,
+            "roe_4q": 16.020000000000003,
+            "gross_profit": null,
+            "gross_margin": null,
+            "gross_margin_4q_avg": 0,
+            "net_income": 634594,
+            "revenue": 1309035,
+            "common_shares": 5944550,
+            "book_valuer_per_share": 14.94,
+            "book_valuer_per_share_4q_avg": 13.65,
+            "equity": 8939894,
+            "current_ratio": 111.07,
+            "debt_ratio": 78.84,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": 0.18,
+            "reinvestment_rate": 1.13,
+            "research_to_sale_ratio": null,
+            "price_fair": 75.73,
+            "eps_avg_yearly": 2.16,
+            "eps_latest_yearly": 4.28,
+            "eps_growth_yearly": 662.52
         }
     },
     "months": {
@@ -4568,6 +4601,21 @@
             "month": "2023-05",
             "price": "11.12",
             "revenue": 596951
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "13.54",
+            "revenue": 682336
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "15.25",
+            "revenue": 367311
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "14.26",
+            "revenue": 112116
         }
     }
 }

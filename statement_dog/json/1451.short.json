@@ -6,7 +6,7 @@
         "main_business": "紡紗業<br>織布業<br>成衣業",
         "website_url": "https://www.nhjeans.com/",
         "ceo": "蔡樹軒",
-        "pe_ratio": 100,
+        "pe_ratio": -23,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
@@ -56,20 +56,20 @@
             "at_2022_last_all": 0.32,
             "at_2023_last_all": 0.32
         },
-        "latest_eps": 0.13,
-        "latest_price": 22,
-        "latest_roe": 0.37,
-        "latest_gross_margin": -8.94,
-        "latest_equity": 7459193,
-        "latest_revenue": 1504493,
-        "latest_gross_profit": -134544,
-        "latest_net_income": -213250,
-        "latest_debt_ratio": 16.27,
-        "latest_current_ratio": 543.08,
-        "latest_account_receivable_turnover_ratio": 1.05,
-        "latest_inventory_turnover_ratio": 0.65,
+        "latest_eps": -0.81,
+        "latest_price": 18.9,
+        "latest_roe": -2.27,
+        "latest_gross_margin": 2.9,
+        "latest_equity": 7172877,
+        "latest_revenue": 1750256,
+        "latest_gross_profit": 50832,
+        "latest_net_income": -25204,
+        "latest_debt_ratio": 18.76,
+        "latest_current_ratio": 451.77,
+        "latest_account_receivable_turnover_ratio": 1.33,
+        "latest_inventory_turnover_ratio": 0.74,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 0.25
+        "latest_research_to_sale_ratio": 0.2
     },
     "eps_dividends": {
         "1991": {
@@ -235,7 +235,7 @@
         "2023": {
             "cash": 2,
             "stock": 0,
-            "eps": -1.08
+            "eps": -1.21
         }
     },
     "dividends": {
@@ -363,7 +363,7 @@
             "cash": 1,
             "stock": 0
         },
-        "2023-08-01": {
+        "2023-07-03": {
             "cash": 2,
             "stock": 0
         }
@@ -638,7 +638,10 @@
         "202303": "23.07",
         "202304": "22.90",
         "202305": "21.45",
-        "202306": "21.77"
+        "202306": "21.80",
+        "202307": "19.91",
+        "202308": "19.37",
+        "202309": "19.07"
     },
     "quarters": {
         "20011": {
@@ -3310,6 +3313,36 @@
             "eps_avg_yearly": 2.05,
             "eps_latest_yearly": 2.28,
             "eps_growth_yearly": 1355.78
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": -0.13,
+            "eps_growth_year": -115.29,
+            "eps_4q": -0.81,
+            "eps_4q_growth_year": -132.07,
+            "roe": -0.34,
+            "roe_4q": -2.22,
+            "gross_profit": 50832,
+            "gross_margin": 2.9,
+            "gross_margin_4q_avg": 2.18,
+            "net_income": -25204,
+            "revenue": 1750256,
+            "common_shares": 2064500,
+            "book_valuer_per_share": 34.74,
+            "book_valuer_per_share_4q_avg": 36.14,
+            "equity": 7172877,
+            "current_ratio": 451.77,
+            "debt_ratio": 18.76,
+            "inventory_turnover_ratio": 0.74,
+            "account_receivable_turnover_ratio": 1.33,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 0.2,
+            "price_fair": 71.6,
+            "eps_avg_yearly": 2.05,
+            "eps_latest_yearly": 2.28,
+            "eps_growth_yearly": 1355.78
         }
     },
     "months": {
@@ -4632,6 +4665,21 @@
             "month": "2023-05",
             "price": "21.45",
             "revenue": 686204
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "21.80",
+            "revenue": 560978
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "19.91",
+            "revenue": 632126
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "19.37",
+            "revenue": 537506
         }
     }
 }

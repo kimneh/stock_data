@@ -6,11 +6,11 @@
         "main_business": "服飾、珠寶、化妝品、鞋類。<br>運動用品、家用及其他等百貨零售商品。",
         "website_url": "http://www.grandocean.com.tw/",
         "ceo": "黃清海",
-        "pe_ratio": -4,
+        "pe_ratio": -3,
         "report_year_from": 2011,
         "report_year_to": 2023,
         "age": 12,
-        "eps_negative_percentage": 25,
+        "eps_negative_percentage": 33,
         "eps_growth_avg": {
             "last_all": -10.58,
             "last_2y": -100,
@@ -56,18 +56,18 @@
             "at_2022_last_all": -10.58,
             "at_2023_last_all": -10.58
         },
-        "latest_eps": -3.79,
-        "latest_price": 15.8,
-        "latest_roe": -9.52,
-        "latest_gross_margin": 81.11,
-        "latest_equity": 7310463,
-        "latest_revenue": 1056582,
-        "latest_gross_profit": 856950,
-        "latest_net_income": 4080,
-        "latest_debt_ratio": 72.46,
-        "latest_current_ratio": 47.3,
-        "latest_account_receivable_turnover_ratio": 4.61,
-        "latest_inventory_turnover_ratio": 0.95,
+        "latest_eps": -5.17,
+        "latest_price": 12.95,
+        "latest_roe": -13.86,
+        "latest_gross_margin": 82.14,
+        "latest_equity": 6645248,
+        "latest_revenue": 911872,
+        "latest_gross_profit": 748993,
+        "latest_net_income": -415676,
+        "latest_debt_ratio": 72.53,
+        "latest_current_ratio": 38.66,
+        "latest_account_receivable_turnover_ratio": 4.64,
+        "latest_inventory_turnover_ratio": 0.85,
         "latest_reinvestment_rate": null,
         "latest_research_to_sale_ratio": null
     },
@@ -185,7 +185,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 0.02
+            "eps": -2.11
         }
     },
     "dividends": {
@@ -500,7 +500,10 @@
         "202303": "16.33",
         "202304": "15.30",
         "202305": "15.83",
-        "202306": "15.97"
+        "202306": "15.87",
+        "202307": "14.83",
+        "202308": "13.19",
+        "202309": "12.67"
     },
     "quarters": {
         "20011": {
@@ -3172,6 +3175,36 @@
             "eps_avg_yearly": 0.67,
             "eps_latest_yearly": 0.08,
             "eps_growth_yearly": -288.14
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": -2.13,
+            "eps_growth_year": null,
+            "eps_4q": -5.17,
+            "eps_4q_growth_year": null,
+            "roe": -5.96,
+            "roe_4q": -13.77,
+            "gross_profit": 748993,
+            "gross_margin": 82.14,
+            "gross_margin_4q_avg": 82.4,
+            "net_income": -415676,
+            "revenue": 911872,
+            "common_shares": 1955310,
+            "book_valuer_per_share": 33.99,
+            "book_valuer_per_share_4q_avg": 37.06,
+            "equity": 6645248,
+            "current_ratio": 38.66,
+            "debt_ratio": 72.53,
+            "inventory_turnover_ratio": 0.85,
+            "account_receivable_turnover_ratio": 4.64,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": null,
+            "price_fair": 0.42,
+            "eps_avg_yearly": 0.14,
+            "eps_latest_yearly": 0.08,
+            "eps_growth_yearly": -309.69
         }
     },
     "months": {
@@ -3829,6 +3862,21 @@
             "month": "2023-05",
             "price": "15.83",
             "revenue": 338339
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "15.87",
+            "revenue": 295533
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "14.83",
+            "revenue": 250875
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "13.19",
+            "revenue": 308844
         }
     }
 }

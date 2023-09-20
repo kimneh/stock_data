@@ -6,7 +6,7 @@
         "main_business": "應用/系統軟體設計開發<br>系統整合服務業<br>太陽能發電設備/系統及系統工程",
         "website_url": "http://www.apex.com.tw",
         "ceo": "林進財",
-        "pe_ratio": -34,
+        "pe_ratio": 0,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
@@ -56,20 +56,20 @@
             "at_2022_last_all": -23.14,
             "at_2023_last_all": -23.14
         },
-        "latest_eps": -0.5,
-        "latest_price": 17.1,
-        "latest_roe": -6.05,
-        "latest_gross_margin": 73.38,
-        "latest_equity": 500248,
-        "latest_revenue": 57329,
-        "latest_gross_profit": 42069,
-        "latest_net_income": -19165,
-        "latest_debt_ratio": 41.38,
-        "latest_current_ratio": 164.55,
-        "latest_account_receivable_turnover_ratio": 5.8,
-        "latest_inventory_turnover_ratio": 2.15,
+        "latest_eps": 0,
+        "latest_price": 21.9,
+        "latest_roe": 0,
+        "latest_gross_margin": null,
+        "latest_equity": 469251,
+        "latest_revenue": 63363,
+        "latest_gross_profit": null,
+        "latest_net_income": null,
+        "latest_debt_ratio": 40.22,
+        "latest_current_ratio": 237.47,
+        "latest_account_receivable_turnover_ratio": 5.78,
+        "latest_inventory_turnover_ratio": null,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 43.52
+        "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
         "2000": {
@@ -501,7 +501,10 @@
         "202303": "18.12",
         "202304": "17.52",
         "202305": "16.32",
-        "202306": "16.88"
+        "202306": "16.82",
+        "202307": "17.70",
+        "202308": "18.34",
+        "202309": "21.79"
     },
     "quarters": {
         "20011": {
@@ -3173,6 +3176,36 @@
             "eps_avg_yearly": 0.4,
             "eps_latest_yearly": 0.44,
             "eps_growth_yearly": 262.5
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": null,
+            "eps_growth_year": null,
+            "eps_4q": null,
+            "eps_4q_growth_year": null,
+            "roe": null,
+            "roe_4q": -6.47,
+            "gross_profit": null,
+            "gross_margin": null,
+            "gross_margin_4q_avg": 50.8,
+            "net_income": null,
+            "revenue": 63363,
+            "common_shares": 621778,
+            "book_valuer_per_share": 7.55,
+            "book_valuer_per_share_4q_avg": 8.17,
+            "equity": 469251,
+            "current_ratio": 237.47,
+            "debt_ratio": 40.22,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": 5.78,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": null,
+            "price_fair": 14,
+            "eps_avg_yearly": 0.4,
+            "eps_latest_yearly": 0.44,
+            "eps_growth_yearly": 262.5
         }
     },
     "months": {
@@ -4445,6 +4478,21 @@
             "month": "2023-05",
             "price": "16.32",
             "revenue": 22182
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "16.82",
+            "revenue": 25560
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "17.70",
+            "revenue": 19517
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "18.34",
+            "revenue": 25226
         }
     }
 }

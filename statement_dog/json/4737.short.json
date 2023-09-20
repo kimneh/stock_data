@@ -6,11 +6,11 @@
         "main_business": "血糖檢測儀,血糖檢測試片",
         "website_url": "http://www.bionime.com",
         "ceo": "黃椿木",
-        "pe_ratio": 66,
+        "pe_ratio": 100,
         "report_year_from": 2008,
         "report_year_to": 2023,
         "age": 15,
-        "eps_negative_percentage": 7,
+        "eps_negative_percentage": 0,
         "eps_growth_avg": {
             "last_all": 6.67,
             "last_2y": 0.78,
@@ -56,20 +56,20 @@
             "at_2022_last_all": 6.67,
             "at_2023_last_all": 6.67
         },
-        "latest_eps": 1.17,
-        "latest_price": 77.8,
-        "latest_roe": 3.7,
-        "latest_gross_margin": 41.64,
-        "latest_equity": 1949858,
-        "latest_revenue": 415123,
-        "latest_gross_profit": 172875,
-        "latest_net_income": -5091,
-        "latest_debt_ratio": 60.59,
-        "latest_current_ratio": 92.52,
-        "latest_account_receivable_turnover_ratio": 0.75,
-        "latest_inventory_turnover_ratio": 0.43,
-        "latest_reinvestment_rate": -65.29,
-        "latest_research_to_sale_ratio": 12.06
+        "latest_eps": 0.7,
+        "latest_price": 73.9,
+        "latest_roe": 2.21,
+        "latest_gross_margin": 40.28,
+        "latest_equity": 1961328,
+        "latest_revenue": 425645,
+        "latest_gross_profit": 171445,
+        "latest_net_income": 10688,
+        "latest_debt_ratio": 60.83,
+        "latest_current_ratio": 91.6,
+        "latest_account_receivable_turnover_ratio": 0.96,
+        "latest_inventory_turnover_ratio": 0.44,
+        "latest_reinvestment_rate": -75.61,
+        "latest_research_to_sale_ratio": 11.16
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +185,7 @@
         "2023": {
             "cash": 2.1,
             "stock": 0,
-            "eps": -0.09
+            "eps": 0.08
         }
     },
     "dividends": {
@@ -245,7 +245,7 @@
             "cash": 2,
             "stock": 0
         },
-        "2023-03-15": {
+        "2023-08-18": {
             "cash": 2.1,
             "stock": 0
         }
@@ -520,7 +520,10 @@
         "202303": "78.30",
         "202304": "75.46",
         "202305": "76.37",
-        "202306": "78.13"
+        "202306": "77.89",
+        "202307": "76.58",
+        "202308": "73.53",
+        "202309": "74.99"
     },
     "quarters": {
         "20011": {
@@ -3192,6 +3195,36 @@
             "eps_avg_yearly": 1.78,
             "eps_latest_yearly": 1.8,
             "eps_growth_yearly": 489.83
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": 0.17,
+            "eps_growth_year": -73.85,
+            "eps_4q": 0.7,
+            "eps_4q_growth_year": -63.01,
+            "roe": 0.55,
+            "roe_4q": 2.17,
+            "gross_profit": 171445,
+            "gross_margin": 40.28,
+            "gross_margin_4q_avg": 43.78,
+            "net_income": 10688,
+            "revenue": 425645,
+            "common_shares": 607488,
+            "book_valuer_per_share": 32.13,
+            "book_valuer_per_share_4q_avg": 32.96,
+            "equity": 1961328,
+            "current_ratio": 91.6,
+            "debt_ratio": 60.83,
+            "inventory_turnover_ratio": 0.44,
+            "account_receivable_turnover_ratio": 0.96,
+            "reinvestment_rate": -75.61,
+            "research_to_sale_ratio": 11.16,
+            "price_fair": 59.56,
+            "eps_avg_yearly": 1.7,
+            "eps_latest_yearly": 1.8,
+            "eps_growth_yearly": 367.69
         }
     },
     "months": {
@@ -4024,6 +4057,21 @@
             "month": "2023-05",
             "price": "76.37",
             "revenue": 154875
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "77.89",
+            "revenue": 182675
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "76.58",
+            "revenue": 175574
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "73.53",
+            "revenue": 121393
         }
     }
 }

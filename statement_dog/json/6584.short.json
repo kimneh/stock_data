@@ -6,7 +6,7 @@
         "main_business": "電子零組件製造業<br>家具及裝設品製造業<br>其他金屬製品製造業",
         "website_url": "http://www.repon.com.tw/",
         "ceo": "吳仁山",
-        "pe_ratio": 0,
+        "pe_ratio": 100,
         "report_year_from": 2013,
         "report_year_to": 2023,
         "age": 10,
@@ -56,20 +56,20 @@
             "at_2022_last_all": null,
             "at_2023_last_all": null
         },
-        "latest_eps": 0,
-        "latest_price": 80.2,
-        "latest_roe": 0,
-        "latest_gross_margin": 14.25,
-        "latest_equity": 1563329,
-        "latest_revenue": 286594,
-        "latest_gross_profit": 40850,
-        "latest_net_income": -3446,
-        "latest_debt_ratio": 52.62,
-        "latest_current_ratio": 125.45,
-        "latest_account_receivable_turnover_ratio": 1.12,
-        "latest_inventory_turnover_ratio": 0.81,
+        "latest_eps": 0.13,
+        "latest_price": 68.1,
+        "latest_roe": 0.5,
+        "latest_gross_margin": 10.63,
+        "latest_equity": 1890734,
+        "latest_revenue": 293302,
+        "latest_gross_profit": 31167,
+        "latest_net_income": -22027,
+        "latest_debt_ratio": 41.95,
+        "latest_current_ratio": 122.1,
+        "latest_account_receivable_turnover_ratio": 1.24,
+        "latest_inventory_turnover_ratio": 0.85,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 3.08
+        "latest_research_to_sale_ratio": 3.88
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +185,7 @@
         "2023": {
             "cash": 1.2,
             "stock": 0,
-            "eps": -0.06
+            "eps": -0.42
         }
     },
     "dividends": {
@@ -484,7 +484,10 @@
         "202303": "66.97",
         "202304": "78.39",
         "202305": "72.37",
-        "202306": "72.61"
+        "202306": "73.38",
+        "202307": "76.10",
+        "202308": "65.95",
+        "202309": "68.32"
     },
     "quarters": {
         "20011": {
@@ -3156,6 +3159,36 @@
             "eps_avg_yearly": 0,
             "eps_latest_yearly": 0,
             "eps_growth_yearly": 0
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": -0.36,
+            "eps_growth_year": null,
+            "eps_4q": 0.13,
+            "eps_4q_growth_year": null,
+            "roe": -1.28,
+            "roe_4q": 0.7000000000000002,
+            "gross_profit": 31167,
+            "gross_margin": 10.63,
+            "gross_margin_4q_avg": 15.22,
+            "net_income": -22027,
+            "revenue": 293302,
+            "common_shares": 656426,
+            "book_valuer_per_share": 28.8,
+            "book_valuer_per_share_4q_avg": 27.4,
+            "equity": 1890734,
+            "current_ratio": 122.1,
+            "debt_ratio": 41.95,
+            "inventory_turnover_ratio": 0.85,
+            "account_receivable_turnover_ratio": 1.24,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 3.88,
+            "price_fair": 0,
+            "eps_avg_yearly": 0,
+            "eps_latest_yearly": 0,
+            "eps_growth_yearly": 0
         }
     },
     "months": {
@@ -3568,6 +3601,21 @@
             "month": "2023-05",
             "price": "72.37",
             "revenue": 98591
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "73.38",
+            "revenue": 104392
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "76.10",
+            "revenue": 119607
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "65.95",
+            "revenue": 105806
         }
     }
 }

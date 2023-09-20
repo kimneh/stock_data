@@ -6,7 +6,7 @@
         "main_business": "英特爾公司成立於1968年，是全球最大的個人計算機零件和半導體晶片製造商。英特爾於1971年推出了全球第一個微處理器。微處理器所帶來的計算機和網際網路革命，改變了整個世界。英特爾為計算機工業提供關鍵元件，包括效能卓越的微處理器、晶片組、板卡、系統及軟體等，這些產品是標準計算機架構的重要組成部分。公司微處理器包括Itanium,Xeron,Pentium III及Celeron等著名的品牌。",
         "website_url": "https://www.intel.com/",
         "ceo": "Patrick P. Gelsinger",
-        "pe_ratio": -114,
+        "pe_ratio": 100,
         "report_year_from": 1993,
         "report_year_to": 2023,
         "age": 30,
@@ -56,20 +56,20 @@
             "at_2022_last_all": 11.83,
             "at_2023_last_all": 11.83
         },
-        "latest_eps": -0.29,
-        "latest_price": 33,
-        "latest_roe": -2.86,
-        "latest_gross_margin": 34.21,
-        "latest_equity": 98059000,
-        "latest_revenue": 11715000,
-        "latest_gross_profit": 4008000,
-        "latest_net_income": -2768000,
-        "latest_debt_ratio": 47.08,
-        "latest_current_ratio": 176.37,
-        "latest_account_receivable_turnover_ratio": 2.94,
-        "latest_inventory_turnover_ratio": 0.59,
-        "latest_reinvestment_rate": 49.93,
-        "latest_research_to_sale_ratio": 35.07
+        "latest_eps": 0.11,
+        "latest_price": 37.88,
+        "latest_roe": -0.94,
+        "latest_gross_margin": 35.82,
+        "latest_equity": 101017000,
+        "latest_revenue": 12949000,
+        "latest_gross_profit": 4638000,
+        "latest_net_income": 1473000,
+        "latest_debt_ratio": 45.58,
+        "latest_current_ratio": 159.51,
+        "latest_account_receivable_turnover_ratio": 3.78,
+        "latest_inventory_turnover_ratio": 0.67,
+        "latest_reinvestment_rate": 56.94,
+        "latest_research_to_sale_ratio": 31.51
     },
     "eps_dividends": {
         "1995": {
@@ -213,9 +213,9 @@
             "eps": 1.95
         },
         "2023": {
-            "cash": 0.5,
+            "cash": 0.63,
             "stock": 0,
-            "eps": -0.65
+            "eps": -0.27
         }
     },
     "dividends": {
@@ -630,6 +630,10 @@
         "2023-06-01": {
             "cash": 0.13,
             "stock": 0
+        },
+        "2023-09-01": {
+            "cash": 0.13,
+            "stock": 0
         }
     },
     "prices": {
@@ -902,7 +906,10 @@
         "202303": "28.32",
         "202304": "31.44",
         "202305": "29.81",
-        "202306": "32.88"
+        "202306": "33.02",
+        "202307": "33.85",
+        "202308": "34.22",
+        "202309": "37.92"
     },
     "quarters": {
         "20011": {
@@ -3538,7 +3545,7 @@
             "debt_ratio": 44.3,
             "inventory_turnover_ratio": 0.66,
             "account_receivable_turnover_ratio": 2.42,
-            "reinvestment_rate": 40.11,
+            "reinvestment_rate": 40.81,
             "research_to_sale_ratio": 31.79,
             "price_fair": 168.4,
             "eps_avg_yearly": 5.26,
@@ -3574,6 +3581,36 @@
             "eps_avg_yearly": 5.4,
             "eps_latest_yearly": 6.36,
             "eps_growth_yearly": 31.32
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": 0.38,
+            "eps_growth_year": null,
+            "eps_4q": 0.11,
+            "eps_4q_growth_year": -97.46,
+            "roe": 1.48,
+            "roe_4q": -0.95,
+            "gross_profit": 4638000,
+            "gross_margin": 35.82,
+            "gross_margin_4q_avg": 37.95,
+            "net_income": 1473000,
+            "revenue": 12949000,
+            "common_shares": 4188,
+            "book_valuer_per_share": 16.3,
+            "book_valuer_per_share_4q_avg": 16.06,
+            "equity": 101017000,
+            "current_ratio": 159.51,
+            "debt_ratio": 45.58,
+            "inventory_turnover_ratio": 0.67,
+            "account_receivable_turnover_ratio": 3.78,
+            "reinvestment_rate": 56.94,
+            "research_to_sale_ratio": 31.51,
+            "price_fair": 194.09,
+            "eps_avg_yearly": 5.55,
+            "eps_latest_yearly": 6.36,
+            "eps_growth_yearly": 30.41
         }
     },
     "months": {
@@ -4924,7 +4961,22 @@
         },
         "2023-06": {
             "month": "2023-06",
-            "price": "32.88",
+            "price": "33.02",
+            "revenue": 0
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "33.85",
+            "revenue": 0
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "34.22",
+            "revenue": 0
+        },
+        "2023-09": {
+            "month": "2023-09",
+            "price": "37.92",
             "revenue": 0
         }
     }

@@ -6,7 +6,7 @@
         "main_business": "加工絲<br>電子<br>交織布",
         "website_url": "http://www.soly-tech.com",
         "ceo": "鄭傑",
-        "pe_ratio": -12,
+        "pe_ratio": -33,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
@@ -56,20 +56,20 @@
             "at_2022_last_all": -29.51,
             "at_2023_last_all": -29.51
         },
-        "latest_eps": -1.11,
-        "latest_price": 12.95,
-        "latest_roe": -12.79,
-        "latest_gross_margin": 10.8,
-        "latest_equity": 1574956,
-        "latest_revenue": 51332,
-        "latest_gross_profit": 5546,
-        "latest_net_income": -3133,
-        "latest_debt_ratio": 8.51,
-        "latest_current_ratio": 1342.9,
-        "latest_account_receivable_turnover_ratio": 0.94,
-        "latest_inventory_turnover_ratio": 0.7,
-        "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 3.46
+        "latest_eps": -0.57,
+        "latest_price": 18.9,
+        "latest_roe": -6.93,
+        "latest_gross_margin": -2.65,
+        "latest_equity": 1516135,
+        "latest_revenue": 66695,
+        "latest_gross_profit": -1769,
+        "latest_net_income": -34093,
+        "latest_debt_ratio": 8.29,
+        "latest_current_ratio": 1399.34,
+        "latest_account_receivable_turnover_ratio": 1.21,
+        "latest_inventory_turnover_ratio": 1.27,
+        "latest_reinvestment_rate": -5301.24,
+        "latest_research_to_sale_ratio": 4.3
     },
     "eps_dividends": {
         "2000": {
@@ -190,7 +190,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.02
+            "eps": -0.25
         }
     },
     "dividends": {
@@ -485,7 +485,10 @@
         "202303": "7.97",
         "202304": "9.01",
         "202305": "9.26",
-        "202306": "10.04"
+        "202306": "10.99",
+        "202307": "16.09",
+        "202308": "16.22",
+        "202309": "19.95"
     },
     "quarters": {
         "20011": {
@@ -3157,6 +3160,36 @@
             "eps_avg_yearly": 0.87,
             "eps_latest_yearly": 0.2,
             "eps_growth_yearly": -240.77
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": -0.23,
+            "eps_growth_year": null,
+            "eps_4q": -0.57,
+            "eps_4q_growth_year": null,
+            "roe": -2.21,
+            "roe_4q": -6.68,
+            "gross_profit": -1769,
+            "gross_margin": -2.65,
+            "gross_margin_4q_avg": 4.8,
+            "net_income": -34093,
+            "revenue": 66695,
+            "common_shares": 1504145,
+            "book_valuer_per_share": 9.6,
+            "book_valuer_per_share_4q_avg": 9.02,
+            "equity": 1516135,
+            "current_ratio": 1399.34,
+            "debt_ratio": 8.29,
+            "inventory_turnover_ratio": 1.27,
+            "account_receivable_turnover_ratio": 1.21,
+            "reinvestment_rate": -5301.24,
+            "research_to_sale_ratio": 4.3,
+            "price_fair": 2.61,
+            "eps_avg_yearly": 0.87,
+            "eps_latest_yearly": 0.2,
+            "eps_growth_yearly": -240.77
         }
     },
     "months": {
@@ -4479,6 +4512,21 @@
             "month": "2023-05",
             "price": "9.26",
             "revenue": 26705
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "10.99",
+            "revenue": 19050
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "16.09",
+            "revenue": 20416
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "16.22",
+            "revenue": 31576
         }
     }
 }

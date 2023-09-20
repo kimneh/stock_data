@@ -6,7 +6,7 @@
         "main_business": "eBay Inc.初建於1995年9月，於1996年5月在加利福尼亞註冊成立。該公司是一個全球商務平臺和網上支付的領導者。eBay公司主要提供網上商品和服務的銷售，同時也對各領域的個人和商家提供網上商務，或電子商務、平臺、網上支付和網上通訊服務。",
         "website_url": "https://www.ebayinc.com/",
         "ceo": "Jamie Iannone",
-        "pe_ratio": 27,
+        "pe_ratio": 15,
         "report_year_from": 1998,
         "report_year_to": 2023,
         "age": 25,
@@ -56,20 +56,20 @@
             "at_2022_last_all": 10.67,
             "at_2023_last_all": 10.67
         },
-        "latest_eps": 1.62,
-        "latest_price": 43.37,
-        "latest_roe": 12.29,
-        "latest_gross_margin": 72.11,
-        "latest_equity": 5387000,
-        "latest_revenue": 2510000,
-        "latest_gross_profit": 1810000,
-        "latest_net_income": 569000,
-        "latest_debt_ratio": 73.07,
-        "latest_current_ratio": 268.18,
-        "latest_account_receivable_turnover_ratio": 2.67,
+        "latest_eps": 2.97,
+        "latest_price": 43.91,
+        "latest_roe": 25.98,
+        "latest_gross_margin": 71.73,
+        "latest_equity": 5268000,
+        "latest_revenue": 2540000,
+        "latest_gross_profit": 1822000,
+        "latest_net_income": 172000,
+        "latest_debt_ratio": 73.6,
+        "latest_current_ratio": 245.2,
+        "latest_account_receivable_turnover_ratio": 2.68,
         "latest_inventory_turnover_ratio": null,
-        "latest_reinvestment_rate": -25.89,
-        "latest_research_to_sale_ratio": 14.02
+        "latest_reinvestment_rate": -14,
+        "latest_research_to_sale_ratio": 15.43
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +183,9 @@
             "eps": -1.72
         },
         "2023": {
-            "cash": 0.25,
+            "cash": 0.5,
             "stock": 0,
-            "eps": 1.17
+            "eps": 1.65
         }
     },
     "dividends": {
@@ -254,6 +254,10 @@
             "stock": 0
         },
         "2023-06-16": {
+            "cash": 0.25,
+            "stock": 0
+        },
+        "2023-09-15": {
             "cash": 0.25,
             "stock": 0
         }
@@ -528,7 +532,10 @@
         "202303": "43.22",
         "202304": "43.90",
         "202305": "44.50",
-        "202306": "44.82"
+        "202306": "44.73",
+        "202307": "46.53",
+        "202308": "43.65",
+        "202309": "43.97"
     },
     "quarters": {
         "20011": {
@@ -3175,9 +3182,9 @@
             "year_quarter": 20231,
             "year": 2023,
             "quarter": 1,
-            "eps": 1.17,
+            "eps": 1.23,
             "eps_growth_year": null,
-            "eps_4q": 1.62,
+            "eps_4q": 1.68,
             "eps_4q_growth_year": null,
             "roe": 10.8,
             "roe_4q": 14.1,
@@ -3196,10 +3203,40 @@
             "account_receivable_turnover_ratio": 2.67,
             "reinvestment_rate": -25.89,
             "research_to_sale_ratio": 14.02,
-            "price_fair": 101.73,
-            "eps_avg_yearly": 3.03,
-            "eps_latest_yearly": 4.68,
-            "eps_growth_yearly": 23.54
+            "price_fair": 106.91,
+            "eps_avg_yearly": 3.05,
+            "eps_latest_yearly": 4.92,
+            "eps_growth_yearly": 25.15
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": 0.42,
+            "eps_growth_year": null,
+            "eps_4q": 2.97,
+            "eps_4q_growth_year": null,
+            "roe": 3.23,
+            "roe_4q": 26.05,
+            "gross_profit": 1822000,
+            "gross_margin": 71.73,
+            "gross_margin_4q_avg": 72.38,
+            "net_income": 172000,
+            "revenue": 2540000,
+            "common_shares": 2000,
+            "book_valuer_per_share": 1.68,
+            "book_valuer_per_share_4q_avg": 1.71,
+            "equity": 5268000,
+            "current_ratio": 245.2,
+            "debt_ratio": 73.6,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": 2.68,
+            "reinvestment_rate": -14,
+            "research_to_sale_ratio": 15.43,
+            "price_fair": 69.81,
+            "eps_avg_yearly": 3.04,
+            "eps_latest_yearly": 1.68,
+            "eps_growth_yearly": 12.97
         }
     },
     "months": {
@@ -4550,7 +4587,22 @@
         },
         "2023-06": {
             "month": "2023-06",
-            "price": "44.82",
+            "price": "44.73",
+            "revenue": 0
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "46.53",
+            "revenue": 0
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "43.65",
+            "revenue": 0
+        },
+        "2023-09": {
+            "month": "2023-09",
+            "price": "43.97",
             "revenue": 0
         }
     }

@@ -6,7 +6,7 @@
         "main_business": "太陽能電池及模組之製造及銷售",
         "website_url": "http://www.tsecpv.com",
         "ceo": "洪振仁",
-        "pe_ratio": 50,
+        "pe_ratio": 30,
         "report_year_from": 2013,
         "report_year_to": 2023,
         "age": 10,
@@ -56,20 +56,20 @@
             "at_2022_last_all": -23.81,
             "at_2023_last_all": -23.81
         },
-        "latest_eps": 0.71,
-        "latest_price": 35.8,
-        "latest_roe": 5.85,
-        "latest_gross_margin": 9.58,
-        "latest_equity": 6329871,
-        "latest_revenue": 2178973,
-        "latest_gross_profit": 208715,
-        "latest_net_income": 176102,
-        "latest_debt_ratio": 43.55,
-        "latest_current_ratio": 135.69,
-        "latest_account_receivable_turnover_ratio": 2.04,
-        "latest_inventory_turnover_ratio": 1.28,
-        "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 0.52
+        "latest_eps": 0.98,
+        "latest_price": 29,
+        "latest_roe": 7.99,
+        "latest_gross_margin": 10.18,
+        "latest_equity": 6422929,
+        "latest_revenue": 2368830,
+        "latest_gross_profit": 241093,
+        "latest_net_income": 143112,
+        "latest_debt_ratio": 41.97,
+        "latest_current_ratio": 144.74,
+        "latest_account_receivable_turnover_ratio": 2.49,
+        "latest_inventory_turnover_ratio": 1.76,
+        "latest_reinvestment_rate": -603.65,
+        "latest_research_to_sale_ratio": 0.87
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +185,7 @@
         "2023": {
             "cash": 0.1,
             "stock": 0,
-            "eps": 0.37
+            "eps": 0.67
         }
     },
     "dividends": {
@@ -464,7 +464,10 @@
         "202303": "38.09",
         "202304": "38.33",
         "202305": "35.40",
-        "202306": "35.38"
+        "202306": "35.32",
+        "202307": "33.26",
+        "202308": "30.45",
+        "202309": "29.96"
     },
     "quarters": {
         "20011": {
@@ -3136,6 +3139,36 @@
             "eps_avg_yearly": 0.75,
             "eps_latest_yearly": 1.48,
             "eps_growth_yearly": 348.81
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": 0.3,
+            "eps_growth_year": 900,
+            "eps_4q": 0.98,
+            "eps_4q_growth_year": 141.71,
+            "roe": 2.24,
+            "roe_4q": 7.49,
+            "gross_profit": 241093,
+            "gross_margin": 10.18,
+            "gross_margin_4q_avg": 8.8,
+            "net_income": 143112,
+            "revenue": 2368830,
+            "common_shares": 4762967,
+            "book_valuer_per_share": 13.48,
+            "book_valuer_per_share_4q_avg": 13.08,
+            "equity": 6422929,
+            "current_ratio": 144.74,
+            "debt_ratio": 41.97,
+            "inventory_turnover_ratio": 1.76,
+            "account_receivable_turnover_ratio": 2.49,
+            "reinvestment_rate": -603.65,
+            "research_to_sale_ratio": 0.87,
+            "price_fair": 28.4,
+            "eps_avg_yearly": 0.81,
+            "eps_latest_yearly": 1.2,
+            "eps_growth_yearly": 288.17
         }
     },
     "months": {
@@ -3663,6 +3696,21 @@
             "month": "2023-05",
             "price": "35.40",
             "revenue": 796607
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "35.32",
+            "revenue": 699985
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "33.26",
+            "revenue": 615480
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "30.45",
+            "revenue": 623260
         }
     }
 }

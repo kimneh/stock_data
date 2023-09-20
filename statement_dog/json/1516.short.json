@@ -3,10 +3,10 @@
         "stock_name": "川飛",
         "stock_id": "1516",
         "category": "其他",
-        "main_business": "生煤交易業務",
+        "main_business": "生煤交易業務<br>導柄交易業務",
         "website_url": "http://www.falconpower.tw",
         "ceo": "涂椽義",
-        "pe_ratio": 18,
+        "pe_ratio": 19,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
@@ -56,20 +56,20 @@
             "at_2022_last_all": 13.53,
             "at_2023_last_all": 13.53
         },
-        "latest_eps": 1.15,
-        "latest_price": 20.7,
-        "latest_roe": 8.76,
-        "latest_gross_margin": 4.94,
-        "latest_equity": 460740,
-        "latest_revenue": 383243,
-        "latest_gross_profit": 18942,
-        "latest_net_income": 10407,
-        "latest_debt_ratio": 3.57,
-        "latest_current_ratio": 2540.3,
-        "latest_account_receivable_turnover_ratio": 1.22,
+        "latest_eps": 0.92,
+        "latest_price": 17.3,
+        "latest_roe": 8.18,
+        "latest_gross_margin": 4.62,
+        "latest_equity": 446219,
+        "latest_revenue": 40136,
+        "latest_gross_profit": 1855,
+        "latest_net_income": -1081,
+        "latest_debt_ratio": 3.95,
+        "latest_current_ratio": 2300.73,
+        "latest_account_receivable_turnover_ratio": 0.22,
         "latest_inventory_turnover_ratio": null,
-        "latest_reinvestment_rate": -0.38,
-        "latest_research_to_sale_ratio": 0
+        "latest_reinvestment_rate": -0.35,
+        "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
         "1993": {
@@ -215,7 +215,7 @@
         "2023": {
             "cash": 0.38,
             "stock": 0.88,
-            "eps": 0.29
+            "eps": 0.26
         }
     },
     "dividends": {
@@ -275,7 +275,7 @@
             "cash": 1.55,
             "stock": 0
         },
-        "2023-01-18": {
+        "2023-09-26": {
             "cash": 0.38,
             "stock": 0.88
         }
@@ -550,7 +550,10 @@
         "202303": "20.37",
         "202304": "20.42",
         "202305": "20.68",
-        "202306": "21.02"
+        "202306": "20.96",
+        "202307": "20.37",
+        "202308": "18.75",
+        "202309": "17.42"
     },
     "quarters": {
         "20011": {
@@ -3222,6 +3225,36 @@
             "eps_avg_yearly": 1.19,
             "eps_latest_yearly": 1.16,
             "eps_growth_yearly": 189.36
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": -0.03,
+            "eps_growth_year": -125,
+            "eps_4q": 0.92,
+            "eps_4q_growth_year": -46.19,
+            "roe": -0.24,
+            "roe_4q": 8.04,
+            "gross_profit": 1855,
+            "gross_margin": 4.62,
+            "gross_margin_4q_avg": 4.99,
+            "net_income": -1081,
+            "revenue": 40136,
+            "common_shares": 356842,
+            "book_valuer_per_share": 12.5,
+            "book_valuer_per_share_4q_avg": 12.58,
+            "equity": 446219,
+            "current_ratio": 2300.73,
+            "debt_ratio": 3.95,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": 0.22,
+            "reinvestment_rate": -0.35,
+            "research_to_sale_ratio": null,
+            "price_fair": 41.81,
+            "eps_avg_yearly": 1.19,
+            "eps_latest_yearly": 1.16,
+            "eps_growth_yearly": 189.36
         }
     },
     "months": {
@@ -4539,6 +4572,21 @@
             "month": "2023-05",
             "price": "20.68",
             "revenue": 0
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "20.96",
+            "revenue": 40136
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "20.37",
+            "revenue": 53983
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "18.75",
+            "revenue": 60030
         }
     }
 }

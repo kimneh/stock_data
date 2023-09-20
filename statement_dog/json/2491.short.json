@@ -6,7 +6,7 @@
         "main_business": "光學資訊相關產品",
         "website_url": "http://www.focl.com.tw",
         "ceo": "陳碧華",
-        "pe_ratio": -5,
+        "pe_ratio": -16,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
@@ -56,20 +56,20 @@
             "at_2022_last_all": -68.8,
             "at_2023_last_all": -68.8
         },
-        "latest_eps": -3.05,
-        "latest_price": 15.75,
-        "latest_roe": -25.3,
-        "latest_gross_margin": 8.63,
-        "latest_equity": 1269923,
-        "latest_revenue": 38027,
-        "latest_gross_profit": 3283,
-        "latest_net_income": 59444,
-        "latest_debt_ratio": 10.3,
-        "latest_current_ratio": 1025.57,
-        "latest_account_receivable_turnover_ratio": 1.02,
-        "latest_inventory_turnover_ratio": 0.09,
-        "latest_reinvestment_rate": -137.05,
-        "latest_research_to_sale_ratio": 36.72
+        "latest_eps": -0.93,
+        "latest_price": 15.25,
+        "latest_roe": -7.03,
+        "latest_gross_margin": 22.84,
+        "latest_equity": 1237083,
+        "latest_revenue": 46829,
+        "latest_gross_profit": 10695,
+        "latest_net_income": -25761,
+        "latest_debt_ratio": 11.16,
+        "latest_current_ratio": 904.09,
+        "latest_account_receivable_turnover_ratio": 1.41,
+        "latest_inventory_turnover_ratio": 0.1,
+        "latest_reinvestment_rate": 10.17,
+        "latest_research_to_sale_ratio": 34.8
     },
     "eps_dividends": {
         "1998": {
@@ -200,7 +200,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 0.43
+            "eps": 0.26
         }
     },
     "dividends": {
@@ -499,7 +499,10 @@
         "202303": "11.98",
         "202304": "11.96",
         "202305": "14.16",
-        "202306": "15.98"
+        "202306": "15.91",
+        "202307": "15.23",
+        "202308": "14.22",
+        "202309": "13.93"
     },
     "quarters": {
         "20011": {
@@ -3171,6 +3174,36 @@
             "eps_avg_yearly": 4.11,
             "eps_latest_yearly": 1.72,
             "eps_growth_yearly": 233.47
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": -0.17,
+            "eps_growth_year": null,
+            "eps_4q": -0.93,
+            "eps_4q_growth_year": null,
+            "roe": -2.06,
+            "roe_4q": -6.550000000000001,
+            "gross_profit": 10695,
+            "gross_margin": 22.84,
+            "gross_margin_4q_avg": 67.09,
+            "net_income": -25761,
+            "revenue": 46829,
+            "common_shares": 820080,
+            "book_valuer_per_share": 9.89,
+            "book_valuer_per_share_4q_avg": 9.71,
+            "equity": 1237083,
+            "current_ratio": 904.09,
+            "debt_ratio": 11.16,
+            "inventory_turnover_ratio": 0.1,
+            "account_receivable_turnover_ratio": 1.41,
+            "reinvestment_rate": 10.17,
+            "research_to_sale_ratio": 34.8,
+            "price_fair": 143.85,
+            "eps_avg_yearly": 4.11,
+            "eps_latest_yearly": 1.72,
+            "eps_growth_yearly": 233.47
         }
     },
     "months": {
@@ -4433,6 +4466,21 @@
             "month": "2023-05",
             "price": "14.16",
             "revenue": 15755
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "15.91",
+            "revenue": 17560
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "15.23",
+            "revenue": 17116
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "14.22",
+            "revenue": 18033
         }
     }
 }

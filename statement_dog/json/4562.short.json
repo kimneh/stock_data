@@ -6,7 +6,7 @@
         "main_business": "全自動設備<br>工具機<br>其他零件類",
         "website_url": "http://www.ylm.com.tw",
         "ceo": "胡峻嘉",
-        "pe_ratio": 100,
+        "pe_ratio": -63,
         "report_year_from": 2015,
         "report_year_to": 2023,
         "age": 8,
@@ -56,20 +56,20 @@
             "at_2022_last_all": -50.23,
             "at_2023_last_all": -50.23
         },
-        "latest_eps": 0.03,
-        "latest_price": 16.55,
-        "latest_roe": -0.02,
-        "latest_gross_margin": 35.97,
-        "latest_equity": 1126311,
-        "latest_revenue": 198913,
-        "latest_gross_profit": 71544,
-        "latest_net_income": -6601,
-        "latest_debt_ratio": 51.89,
-        "latest_current_ratio": 195.41,
-        "latest_account_receivable_turnover_ratio": 0.66,
-        "latest_inventory_turnover_ratio": 0.16,
+        "latest_eps": -0.25,
+        "latest_price": 15.7,
+        "latest_roe": -2.29,
+        "latest_gross_margin": 32.17,
+        "latest_equity": 1092301,
+        "latest_revenue": 154939,
+        "latest_gross_profit": 49842,
+        "latest_net_income": -38206,
+        "latest_debt_ratio": 53.69,
+        "latest_current_ratio": 180.94,
+        "latest_account_receivable_turnover_ratio": 0.63,
+        "latest_inventory_turnover_ratio": 0.13,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 5.46
+        "latest_research_to_sale_ratio": 7.9
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +185,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.07
+            "eps": -0.49
         }
     },
     "dividends": {
@@ -476,7 +476,10 @@
         "202303": "16.06",
         "202304": "16.46",
         "202305": "16.87",
-        "202306": "16.81"
+        "202306": "16.80",
+        "202307": "16.29",
+        "202308": "15.88",
+        "202309": "15.75"
     },
     "quarters": {
         "20011": {
@@ -3148,6 +3151,36 @@
             "eps_avg_yearly": 0.68,
             "eps_latest_yearly": 0.68,
             "eps_growth_yearly": 369.05
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": -0.42,
+            "eps_growth_year": null,
+            "eps_4q": -0.25,
+            "eps_4q_growth_year": null,
+            "roe": -3.44,
+            "roe_4q": -2.2699999999999996,
+            "gross_profit": 49842,
+            "gross_margin": 32.17,
+            "gross_margin_4q_avg": 33.65,
+            "net_income": -38206,
+            "revenue": 154939,
+            "common_shares": 875460,
+            "book_valuer_per_share": 12.34,
+            "book_valuer_per_share_4q_avg": 12.6,
+            "equity": 1092301,
+            "current_ratio": 180.94,
+            "debt_ratio": 53.69,
+            "inventory_turnover_ratio": 0.13,
+            "account_receivable_turnover_ratio": 0.63,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 7.9,
+            "price_fair": 23.8,
+            "eps_avg_yearly": 0.68,
+            "eps_latest_yearly": 0.68,
+            "eps_growth_yearly": 571.43
         }
     },
     "months": {
@@ -3605,6 +3638,21 @@
             "month": "2023-05",
             "price": "16.87",
             "revenue": 46343
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "16.80",
+            "revenue": 41350
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "16.29",
+            "revenue": 71442
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "15.88",
+            "revenue": 64115
         }
     }
 }

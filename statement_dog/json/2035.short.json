@@ -6,11 +6,11 @@
         "main_business": "不銹鋼品",
         "website_url": "http://www.tangeng.com.tw",
         "ceo": "蔡明洲",
-        "pe_ratio": -22,
+        "pe_ratio": -11,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
-        "eps_negative_percentage": 42,
+        "eps_negative_percentage": 47,
         "eps_growth_avg": {
             "last_all": -74.82,
             "last_2y": -100,
@@ -56,20 +56,20 @@
             "at_2022_last_all": -74.82,
             "at_2023_last_all": -74.82
         },
-        "latest_eps": -1.44,
-        "latest_price": 31.4,
-        "latest_roe": -8.52,
-        "latest_gross_margin": 2.02,
-        "latest_equity": 5723685,
-        "latest_revenue": 3150824,
-        "latest_gross_profit": 63776,
-        "latest_net_income": 9642,
-        "latest_debt_ratio": 66.95,
-        "latest_current_ratio": 109.31,
-        "latest_account_receivable_turnover_ratio": 169.52,
-        "latest_inventory_turnover_ratio": 1.26,
-        "latest_reinvestment_rate": -94.28,
-        "latest_research_to_sale_ratio": 0.07
+        "latest_eps": -2.94,
+        "latest_price": 31.85,
+        "latest_roe": -18.1,
+        "latest_gross_margin": -14.93,
+        "latest_equity": 5236088,
+        "latest_revenue": 2890313,
+        "latest_gross_profit": -431395,
+        "latest_net_income": -488335,
+        "latest_debt_ratio": 69.35,
+        "latest_current_ratio": 110.09,
+        "latest_account_receivable_turnover_ratio": 54.46,
+        "latest_inventory_turnover_ratio": 1.25,
+        "latest_reinvestment_rate": -148.49,
+        "latest_research_to_sale_ratio": 0.08
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +185,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 0.03
+            "eps": -0.11
         }
     },
     "dividends": [],
@@ -459,7 +459,10 @@
         "202303": "31.48",
         "202304": "31.36",
         "202305": "31.30",
-        "202306": "31.23"
+        "202306": "31.08",
+        "202307": "30.01",
+        "202308": "31.37",
+        "202309": "31.88"
     },
     "quarters": {
         "20011": {
@@ -3131,6 +3134,36 @@
             "eps_avg_yearly": 4.26,
             "eps_latest_yearly": 0.44,
             "eps_growth_yearly": 337.42
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": -0.14,
+            "eps_growth_year": -227.27,
+            "eps_4q": -2.94,
+            "eps_4q_growth_year": -166.01,
+            "roe": -8.91,
+            "roe_4q": -18.12,
+            "gross_profit": -431395,
+            "gross_margin": -14.93,
+            "gross_margin_4q_avg": -6.7,
+            "net_income": -488335,
+            "revenue": 2890313,
+            "common_shares": 3500000,
+            "book_valuer_per_share": 14.96,
+            "book_valuer_per_share_4q_avg": 15.98,
+            "equity": 5236088,
+            "current_ratio": 110.09,
+            "debt_ratio": 69.35,
+            "inventory_turnover_ratio": 1.25,
+            "account_receivable_turnover_ratio": 54.46,
+            "reinvestment_rate": -148.49,
+            "research_to_sale_ratio": 0.08,
+            "price_fair": 148.96,
+            "eps_avg_yearly": 4.26,
+            "eps_latest_yearly": 0.44,
+            "eps_growth_yearly": 337.42
         }
     },
     "months": {
@@ -4148,6 +4181,21 @@
             "month": "2023-05",
             "price": "31.30",
             "revenue": 1032386
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "31.08",
+            "revenue": 772083
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "30.01",
+            "revenue": 823607
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "31.37",
+            "revenue": 871230
         }
     }
 }

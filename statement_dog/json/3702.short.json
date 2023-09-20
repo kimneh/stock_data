@@ -6,7 +6,7 @@
         "main_business": "一般投資業<br>國際貿易業",
         "website_url": "http://www.wpgholdings.com",
         "ceo": "張蓉崗",
-        "pe_ratio": 12,
+        "pe_ratio": 14,
         "report_year_from": 2005,
         "report_year_to": 2023,
         "age": 18,
@@ -56,19 +56,19 @@
             "at_2022_last_all": 10.88,
             "at_2023_last_all": 10.88
         },
-        "latest_eps": 4.62,
-        "latest_price": 54.8,
-        "latest_roe": 9.69,
+        "latest_eps": 4.27,
+        "latest_price": 59.4,
+        "latest_roe": 9.27,
         "latest_gross_margin": 3.88,
-        "latest_equity": 82657380,
-        "latest_revenue": 144753604,
-        "latest_gross_profit": 5619228,
-        "latest_net_income": 695609,
-        "latest_debt_ratio": 70.89,
-        "latest_current_ratio": 143.16,
-        "latest_account_receivable_turnover_ratio": 1.31,
-        "latest_inventory_turnover_ratio": 1.3,
-        "latest_reinvestment_rate": 54.33,
+        "latest_equity": 79840846,
+        "latest_revenue": 156689628,
+        "latest_gross_profit": 6086552,
+        "latest_net_income": 2333108,
+        "latest_debt_ratio": 72.46,
+        "latest_current_ratio": 137.24,
+        "latest_account_receivable_turnover_ratio": 1.5,
+        "latest_inventory_turnover_ratio": 1.49,
+        "latest_reinvestment_rate": 60.03,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -185,7 +185,7 @@
         "2023": {
             "cash": 3.85,
             "stock": 0,
-            "eps": 0.41
+            "eps": 1.55
         }
     },
     "dividends": {
@@ -257,7 +257,7 @@
             "cash": 3.5,
             "stock": 0
         },
-        "2023-03-28": {
+        "2023-08-21": {
             "cash": 3.85,
             "stock": 0
         }
@@ -532,7 +532,10 @@
         "202303": "49.13",
         "202304": "50.12",
         "202305": "51.18",
-        "202306": "53.95"
+        "202306": "54.16",
+        "202307": "55.46",
+        "202308": "52.62",
+        "202309": "57.04"
     },
     "quarters": {
         "20011": {
@@ -3204,6 +3207,36 @@
             "eps_avg_yearly": 5.22,
             "eps_latest_yearly": 1.64,
             "eps_growth_yearly": -1.76
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": 1.14,
+            "eps_growth_year": -23.49,
+            "eps_4q": 4.27,
+            "eps_4q_growth_year": -41.35,
+            "roe": 2.87,
+            "roe_4q": 8.879999999999999,
+            "gross_profit": 6086552,
+            "gross_margin": 3.88,
+            "gross_margin_4q_avg": 3.82,
+            "net_income": 2333108,
+            "revenue": 156689628,
+            "common_shares": 16790568,
+            "book_valuer_per_share": 42,
+            "book_valuer_per_share_4q_avg": 43.29,
+            "equity": 79840846,
+            "current_ratio": 137.24,
+            "debt_ratio": 72.46,
+            "inventory_turnover_ratio": 1.49,
+            "account_receivable_turnover_ratio": 1.5,
+            "reinvestment_rate": 60.03,
+            "research_to_sale_ratio": null,
+            "price_fair": 184.01,
+            "eps_avg_yearly": 5.26,
+            "eps_latest_yearly": 4.56,
+            "eps_growth_yearly": 36.67
         }
     },
     "months": {
@@ -4261,6 +4294,21 @@
             "month": "2023-05",
             "price": "51.18",
             "revenue": 53731110
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "54.16",
+            "revenue": 55540972
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "55.46",
+            "revenue": 53195403
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "52.62",
+            "revenue": 63236032
         }
     }
 }

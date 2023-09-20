@@ -6,7 +6,7 @@
         "main_business": "H102011票券金融業<br>H301011證券商（不含營業廳）",
         "website_url": "http://www.cbf.com.tw",
         "ceo": "魏政祥",
-        "pe_ratio": 19,
+        "pe_ratio": 16,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
@@ -56,19 +56,19 @@
             "at_2022_last_all": 3.42,
             "at_2023_last_all": 3.42
         },
-        "latest_eps": 0.83,
-        "latest_price": 15.45,
-        "latest_roe": 4.7,
+        "latest_eps": 0.9,
+        "latest_price": 14.55,
+        "latest_roe": 5.44,
         "latest_gross_margin": null,
-        "latest_equity": 23067352,
-        "latest_revenue": 734030,
+        "latest_equity": 22713458,
+        "latest_revenue": 454132,
         "latest_gross_profit": null,
-        "latest_net_income": 505661,
-        "latest_debt_ratio": 89.11,
+        "latest_net_income": 269192,
+        "latest_debt_ratio": 88.66,
         "latest_current_ratio": null,
         "latest_account_receivable_turnover_ratio": null,
         "latest_inventory_turnover_ratio": null,
-        "latest_reinvestment_rate": -0.09,
+        "latest_reinvestment_rate": -0.08,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -215,7 +215,7 @@
         "2023": {
             "cash": 0.5,
             "stock": 0,
-            "eps": 0.38
+            "eps": 0.58
         }
     },
     "dividends": {
@@ -590,7 +590,10 @@
         "202303": "15.02",
         "202304": "15.07",
         "202305": "15.28",
-        "202306": "15.43"
+        "202306": "15.42",
+        "202307": "14.82",
+        "202308": "14.64",
+        "202309": "14.65"
     },
     "quarters": {
         "20011": {
@@ -3262,6 +3265,36 @@
             "eps_avg_yearly": 1.11,
             "eps_latest_yearly": 1.52,
             "eps_growth_yearly": 82.87
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": 0.2,
+            "eps_growth_year": 53.85,
+            "eps_4q": 0.9,
+            "eps_4q_growth_year": -17.44,
+            "roe": 1.18,
+            "roe_4q": 5.45,
+            "gross_profit": null,
+            "gross_margin": null,
+            "gross_margin_4q_avg": 0,
+            "net_income": 269192,
+            "revenue": 454132,
+            "common_shares": 13429600,
+            "book_valuer_per_share": 16.91,
+            "book_valuer_per_share_4q_avg": 16.64,
+            "equity": 22713458,
+            "current_ratio": null,
+            "debt_ratio": 88.66,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": null,
+            "reinvestment_rate": -0.08,
+            "research_to_sale_ratio": null,
+            "price_fair": 38.41,
+            "eps_avg_yearly": 1.1,
+            "eps_latest_yearly": 0.8,
+            "eps_growth_yearly": 69.94
         }
     },
     "months": {
@@ -4584,6 +4617,21 @@
             "month": "2023-05",
             "price": "15.28",
             "revenue": 154738
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "15.42",
+            "revenue": 164044
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "14.82",
+            "revenue": 216811
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "14.64",
+            "revenue": 142362
         }
     }
 }

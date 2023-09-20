@@ -6,7 +6,7 @@
         "main_business": "染整代工<br>成品布銷售",
         "website_url": "http://www.csgroup.com.tw",
         "ceo": "呂芳福",
-        "pe_ratio": 25,
+        "pe_ratio": 20,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
@@ -56,20 +56,20 @@
             "at_2022_last_all": -18.4,
             "at_2023_last_all": -18.4
         },
-        "latest_eps": 0.59,
-        "latest_price": 14.7,
-        "latest_roe": 4.21,
-        "latest_gross_margin": 1.37,
-        "latest_equity": 2351898,
-        "latest_revenue": 90273,
-        "latest_gross_profit": 1236,
-        "latest_net_income": 33617,
-        "latest_debt_ratio": 17.46,
-        "latest_current_ratio": 400.26,
-        "latest_account_receivable_turnover_ratio": 1.13,
-        "latest_inventory_turnover_ratio": 0.2,
-        "latest_reinvestment_rate": 26.95,
-        "latest_research_to_sale_ratio": 2.66
+        "latest_eps": 0.81,
+        "latest_price": 15.8,
+        "latest_roe": 5.94,
+        "latest_gross_margin": -11.3,
+        "latest_equity": 2288976,
+        "latest_revenue": 65784,
+        "latest_gross_profit": -7433,
+        "latest_net_income": -2790,
+        "latest_debt_ratio": 19.3,
+        "latest_current_ratio": 350.03,
+        "latest_account_receivable_turnover_ratio": 0.99,
+        "latest_inventory_turnover_ratio": 0.15,
+        "latest_reinvestment_rate": 27.18,
+        "latest_research_to_sale_ratio": 3.42
     },
     "eps_dividends": {
         "1995": {
@@ -205,7 +205,7 @@
         "2023": {
             "cash": 0.4,
             "stock": 0,
-            "eps": 0.21
+            "eps": 0.19
         }
     },
     "dividends": {
@@ -273,7 +273,7 @@
             "cash": 0.4,
             "stock": 0
         },
-        "2023-03-23": {
+        "2023-07-24": {
             "cash": 0.4,
             "stock": 0
         }
@@ -548,7 +548,10 @@
         "202303": "14.51",
         "202304": "14.30",
         "202305": "14.47",
-        "202306": "14.54"
+        "202306": "14.58",
+        "202307": "14.73",
+        "202308": "15.16",
+        "202309": "15.70"
     },
     "quarters": {
         "20011": {
@@ -3220,6 +3223,36 @@
             "eps_avg_yearly": 0.63,
             "eps_latest_yearly": 0.84,
             "eps_growth_yearly": 103.99
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": -0.02,
+            "eps_growth_year": null,
+            "eps_4q": 0.81,
+            "eps_4q_growth_year": 964.01,
+            "roe": -0.12,
+            "roe_4q": 5.83,
+            "gross_profit": -7433,
+            "gross_margin": -11.3,
+            "gross_margin_4q_avg": 4.75,
+            "net_income": -2790,
+            "revenue": 65784,
+            "common_shares": 1732684,
+            "book_valuer_per_share": 13.31,
+            "book_valuer_per_share_4q_avg": 13.44,
+            "equity": 2288976,
+            "current_ratio": 350.03,
+            "debt_ratio": 19.3,
+            "inventory_turnover_ratio": 0.15,
+            "account_receivable_turnover_ratio": 0.99,
+            "reinvestment_rate": 27.18,
+            "research_to_sale_ratio": 3.42,
+            "price_fair": 22.4,
+            "eps_avg_yearly": 0.64,
+            "eps_latest_yearly": 0.84,
+            "eps_growth_yearly": 142.85
         }
     },
     "months": {
@@ -4542,6 +4575,21 @@
             "month": "2023-05",
             "price": "14.47",
             "revenue": 22992
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "14.58",
+            "revenue": 24894
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "14.73",
+            "revenue": 25823
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "15.16",
+            "revenue": 38818
         }
     }
 }

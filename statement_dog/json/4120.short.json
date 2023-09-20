@@ -6,11 +6,11 @@
         "main_business": "西藥、醫療器材及乳製品、化妝品、食品等<br>之批發買賣、代理經銷、製造及進出口",
         "website_url": "http://www.oep.com.tw",
         "ceo": "蔡孟霖",
-        "pe_ratio": -11,
+        "pe_ratio": -10,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
-        "eps_negative_percentage": 5,
+        "eps_negative_percentage": 10,
         "eps_growth_avg": {
             "last_all": 4.98,
             "last_2y": -53.05,
@@ -56,20 +56,20 @@
             "at_2022_last_all": 4.98,
             "at_2023_last_all": 4.98
         },
-        "latest_eps": -3.53,
-        "latest_price": 38,
-        "latest_roe": -7.98,
-        "latest_gross_margin": 45.52,
-        "latest_equity": 3706320,
-        "latest_revenue": 1150831,
-        "latest_gross_profit": 523853,
-        "latest_net_income": 30808,
-        "latest_debt_ratio": 65.33,
-        "latest_current_ratio": 112.84,
-        "latest_account_receivable_turnover_ratio": 1.61,
-        "latest_inventory_turnover_ratio": 0.5,
-        "latest_reinvestment_rate": 824.11,
-        "latest_research_to_sale_ratio": 1.98
+        "latest_eps": -4.59,
+        "latest_price": 45.25,
+        "latest_roe": -10.75,
+        "latest_gross_margin": 41.48,
+        "latest_equity": 3855528,
+        "latest_revenue": 1132901,
+        "latest_gross_profit": 469884,
+        "latest_net_income": -187939,
+        "latest_debt_ratio": 64.86,
+        "latest_current_ratio": 102.68,
+        "latest_account_receivable_turnover_ratio": 1.62,
+        "latest_inventory_turnover_ratio": 0.55,
+        "latest_reinvestment_rate": null,
+        "latest_research_to_sale_ratio": 5.82
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +185,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 0.32
+            "eps": -1.86
         }
     },
     "dividends": {
@@ -548,7 +548,10 @@
         "202303": "36.27",
         "202304": "37.06",
         "202305": "37.90",
-        "202306": "38.35"
+        "202306": "39.54",
+        "202307": "42.94",
+        "202308": "37.54",
+        "202309": "40.93"
     },
     "quarters": {
         "20011": {
@@ -3220,6 +3223,36 @@
             "eps_avg_yearly": 2.98,
             "eps_latest_yearly": 1.08,
             "eps_growth_yearly": 57.06
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": -2.18,
+            "eps_growth_year": null,
+            "eps_4q": -4.59,
+            "eps_4q_growth_year": -941.79,
+            "roe": -4.97,
+            "roe_4q": -10.969999999999999,
+            "gross_profit": 469884,
+            "gross_margin": 41.48,
+            "gross_margin_4q_avg": 42.62,
+            "net_income": -187939,
+            "revenue": 1132901,
+            "common_shares": 867471,
+            "book_valuer_per_share": 37.14,
+            "book_valuer_per_share_4q_avg": 34.94,
+            "equity": 3855528,
+            "current_ratio": 102.68,
+            "debt_ratio": 64.86,
+            "inventory_turnover_ratio": 0.55,
+            "account_receivable_turnover_ratio": 1.62,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 5.82,
+            "price_fair": 107.8,
+            "eps_avg_yearly": 3.08,
+            "eps_latest_yearly": 1.08,
+            "eps_growth_yearly": 115.4
         }
     },
     "months": {
@@ -4407,6 +4440,21 @@
             "month": "2023-05",
             "price": "37.90",
             "revenue": 396428
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "39.54",
+            "revenue": 415328
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "42.94",
+            "revenue": 327451
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "37.54",
+            "revenue": 395880
         }
     }
 }

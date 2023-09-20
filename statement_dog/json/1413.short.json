@@ -6,7 +6,7 @@
         "main_business": "合成化學纖維之製造及加工買賣業務<br>塑膠抽絲品之製造及加工買賣業務",
         "website_url": "http://www.hungchou.com.tw/",
         "ceo": "詹正田",
-        "pe_ratio": 65,
+        "pe_ratio": -13,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
@@ -56,19 +56,19 @@
             "at_2022_last_all": -54.34,
             "at_2023_last_all": -54.34
         },
-        "latest_eps": 0.14,
-        "latest_price": 9.12,
-        "latest_roe": 1.57,
-        "latest_gross_margin": -4.37,
-        "latest_equity": 1193061,
-        "latest_revenue": 467757,
-        "latest_gross_profit": -20457,
-        "latest_net_income": -34898,
-        "latest_debt_ratio": 54.71,
-        "latest_current_ratio": 127.62,
-        "latest_account_receivable_turnover_ratio": 4.1,
-        "latest_inventory_turnover_ratio": 0.87,
-        "latest_reinvestment_rate": 16.28,
+        "latest_eps": -0.63,
+        "latest_price": 8.2,
+        "latest_roe": -6.86,
+        "latest_gross_margin": -4.61,
+        "latest_equity": 1158402,
+        "latest_revenue": 448476,
+        "latest_gross_profit": -20688,
+        "latest_net_income": -34659,
+        "latest_debt_ratio": 53.68,
+        "latest_current_ratio": 124.97,
+        "latest_account_receivable_turnover_ratio": 5.42,
+        "latest_inventory_turnover_ratio": 0.88,
+        "latest_reinvestment_rate": null,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -195,7 +195,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.26
+            "eps": -0.52
         }
     },
     "dividends": {
@@ -478,7 +478,10 @@
         "202303": "9.63",
         "202304": "9.53",
         "202305": "9.20",
-        "202306": "9.12"
+        "202306": "9.12",
+        "202307": "9.04",
+        "202308": "8.60",
+        "202309": "8.26"
     },
     "quarters": {
         "20011": {
@@ -3150,6 +3153,36 @@
             "eps_avg_yearly": 1.11,
             "eps_latest_yearly": 2,
             "eps_growth_yearly": 179.38
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": -0.26,
+            "eps_growth_year": -152,
+            "eps_4q": -0.63,
+            "eps_4q_growth_year": -144.23,
+            "roe": -2.95,
+            "roe_4q": -6.88,
+            "gross_profit": -20688,
+            "gross_margin": -4.61,
+            "gross_margin_4q_avg": -0.97,
+            "net_income": -34659,
+            "revenue": 448476,
+            "common_shares": 1321124,
+            "book_valuer_per_share": 8.77,
+            "book_valuer_per_share_4q_avg": 9.12,
+            "equity": 1158402,
+            "current_ratio": 124.97,
+            "debt_ratio": 53.68,
+            "inventory_turnover_ratio": 0.88,
+            "account_receivable_turnover_ratio": 5.42,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": null,
+            "price_fair": 38.73,
+            "eps_avg_yearly": 1.11,
+            "eps_latest_yearly": 2,
+            "eps_growth_yearly": 211.58
         }
     },
     "months": {
@@ -4472,6 +4505,21 @@
             "month": "2023-05",
             "price": "9.20",
             "revenue": 139321
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "9.12",
+            "revenue": 140767
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "9.04",
+            "revenue": 132361
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "8.60",
+            "revenue": 199408
         }
     }
 }

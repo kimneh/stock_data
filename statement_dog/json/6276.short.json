@@ -6,7 +6,7 @@
         "main_business": "電腦週邊產品",
         "website_url": "http://www.antec.com",
         "ceo": "王安左",
-        "pe_ratio": 23,
+        "pe_ratio": 15,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
@@ -56,20 +56,20 @@
             "at_2022_last_all": -17.56,
             "at_2023_last_all": -17.56
         },
-        "latest_eps": 1.83,
-        "latest_price": 42.55,
-        "latest_roe": 16.48,
-        "latest_gross_margin": 32.92,
-        "latest_equity": 367631,
-        "latest_revenue": 249649,
-        "latest_gross_profit": 82182,
-        "latest_net_income": 24627,
-        "latest_debt_ratio": 34.41,
-        "latest_current_ratio": 275.88,
-        "latest_account_receivable_turnover_ratio": 1.34,
-        "latest_inventory_turnover_ratio": 2.56,
-        "latest_reinvestment_rate": 3.67,
-        "latest_research_to_sale_ratio": 1.92
+        "latest_eps": 2.59,
+        "latest_price": 39.2,
+        "latest_roe": 22.57,
+        "latest_gross_margin": 28.02,
+        "latest_equity": 390670,
+        "latest_revenue": 308757,
+        "latest_gross_profit": 86525,
+        "latest_net_income": 24130,
+        "latest_debt_ratio": 34.82,
+        "latest_current_ratio": 272.63,
+        "latest_account_receivable_turnover_ratio": 1.67,
+        "latest_inventory_turnover_ratio": 3.45,
+        "latest_reinvestment_rate": 2.71,
+        "latest_research_to_sale_ratio": 1.65
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +185,7 @@
         "2023": {
             "cash": 0.7,
             "stock": 0,
-            "eps": 0.78
+            "eps": 1.55
         }
     },
     "dividends": {
@@ -512,7 +512,10 @@
         "202303": "18.83",
         "202304": "22.09",
         "202305": "33.18",
-        "202306": "37.52"
+        "202306": "40.74",
+        "202307": "49.09",
+        "202308": "41.89",
+        "202309": "40.07"
     },
     "quarters": {
         "20011": {
@@ -3184,6 +3187,36 @@
             "eps_avg_yearly": 2.61,
             "eps_latest_yearly": 3.12,
             "eps_growth_yearly": 800.99
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": 0.77,
+            "eps_growth_year": 7600,
+            "eps_4q": 2.59,
+            "eps_4q_growth_year": null,
+            "roe": 6.36,
+            "roe_4q": 22.479999999999997,
+            "gross_profit": 86525,
+            "gross_margin": 28.02,
+            "gross_margin_4q_avg": 28.13,
+            "net_income": 24130,
+            "revenue": 308757,
+            "common_shares": 314900,
+            "book_valuer_per_share": 12.39,
+            "book_valuer_per_share_4q_avg": 11.54,
+            "equity": 390670,
+            "current_ratio": 272.63,
+            "debt_ratio": 34.82,
+            "inventory_turnover_ratio": 3.45,
+            "account_receivable_turnover_ratio": 1.67,
+            "reinvestment_rate": 2.71,
+            "research_to_sale_ratio": 1.65,
+            "price_fair": 96.72,
+            "eps_avg_yearly": 2.76,
+            "eps_latest_yearly": 3.08,
+            "eps_growth_yearly": 620.56
         }
     },
     "months": {
@@ -4371,6 +4404,21 @@
             "month": "2023-05",
             "price": "33.18",
             "revenue": 111006
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "40.74",
+            "revenue": 98825
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "49.09",
+            "revenue": 88654
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "41.89",
+            "revenue": 94901
         }
     }
 }

@@ -6,7 +6,7 @@
         "main_business": "測試",
         "website_url": "http://www.vate.com.tw",
         "ceo": "許文景",
-        "pe_ratio": -37,
+        "pe_ratio": -33,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
@@ -56,20 +56,20 @@
             "at_2022_last_all": -1.92,
             "at_2023_last_all": -1.92
         },
-        "latest_eps": -0.44,
-        "latest_price": 16.1,
-        "latest_roe": -6.8,
-        "latest_gross_margin": -9.01,
-        "latest_equity": 487252,
-        "latest_revenue": 53560,
-        "latest_gross_profit": -4824,
-        "latest_net_income": -14450,
-        "latest_debt_ratio": 17.59,
-        "latest_current_ratio": 445.52,
-        "latest_account_receivable_turnover_ratio": 0.76,
-        "latest_inventory_turnover_ratio": 34.41,
-        "latest_reinvestment_rate": -77.39,
-        "latest_research_to_sale_ratio": 1.14
+        "latest_eps": -0.55,
+        "latest_price": 18.05,
+        "latest_roe": -8.4,
+        "latest_gross_margin": 9.45,
+        "latest_equity": 485738,
+        "latest_revenue": 66827,
+        "latest_gross_profit": 6317,
+        "latest_net_income": -1514,
+        "latest_debt_ratio": 18.6,
+        "latest_current_ratio": 396.4,
+        "latest_account_receivable_turnover_ratio": 0.89,
+        "latest_inventory_turnover_ratio": 38.75,
+        "latest_reinvestment_rate": -60.22,
+        "latest_research_to_sale_ratio": 0.91
     },
     "eps_dividends": {
         "1996": {
@@ -200,7 +200,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.18
+            "eps": -0.2
         }
     },
     "dividends": {
@@ -507,7 +507,10 @@
         "202303": "18.02",
         "202304": "17.05",
         "202305": "16.06",
-        "202306": "16.57"
+        "202306": "16.42",
+        "202307": "16.47",
+        "202308": "16.76",
+        "202309": "17.76"
     },
     "quarters": {
         "20011": {
@@ -3179,6 +3182,36 @@
             "eps_avg_yearly": 0.61,
             "eps_latest_yearly": 0.36,
             "eps_growth_yearly": 166.78
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": -0.02,
+            "eps_growth_year": -122.22,
+            "eps_4q": -0.55,
+            "eps_4q_growth_year": -225.33,
+            "roe": -0.31,
+            "roe_4q": -8.41,
+            "gross_profit": 6317,
+            "gross_margin": 9.45,
+            "gross_margin_4q_avg": -5.66,
+            "net_income": -1514,
+            "revenue": 66827,
+            "common_shares": 794474,
+            "book_valuer_per_share": 6.11,
+            "book_valuer_per_share_4q_avg": 6.36,
+            "equity": 485738,
+            "current_ratio": 396.4,
+            "debt_ratio": 18.6,
+            "inventory_turnover_ratio": 38.75,
+            "account_receivable_turnover_ratio": 0.89,
+            "reinvestment_rate": -60.22,
+            "research_to_sale_ratio": 0.91,
+            "price_fair": 21.31,
+            "eps_avg_yearly": 0.61,
+            "eps_latest_yearly": 0.36,
+            "eps_growth_yearly": 166.78
         }
     },
     "months": {
@@ -4501,6 +4534,21 @@
             "month": "2023-05",
             "price": "16.06",
             "revenue": 23125
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "16.42",
+            "revenue": 22714
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "16.47",
+            "revenue": 24696
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "16.76",
+            "revenue": 27779
         }
     }
 }

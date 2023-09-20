@@ -6,11 +6,11 @@
         "main_business": "GaAs pHEMT epi wafers<br>InP HBT epi wafers<br>GaSb infrared material and epi wafers",
         "website_url": "http://www.intelliepi.com.tw",
         "ceo": "高永中",
-        "pe_ratio": 19,
+        "pe_ratio": 60,
         "report_year_from": 2010,
         "report_year_to": 2023,
         "age": 13,
-        "eps_negative_percentage": 0,
+        "eps_negative_percentage": 9,
         "eps_growth_avg": {
             "last_all": 10.68,
             "last_2y": 35.73,
@@ -56,20 +56,20 @@
             "at_2022_last_all": 10.68,
             "at_2023_last_all": 10.68
         },
-        "latest_eps": 3.16,
-        "latest_price": 58.9,
-        "latest_roe": 7.41,
-        "latest_gross_margin": 24.94,
-        "latest_equity": 1641178,
-        "latest_revenue": 147904,
-        "latest_gross_profit": 36893,
-        "latest_net_income": 398,
-        "latest_debt_ratio": 9.83,
-        "latest_current_ratio": 359.89,
-        "latest_account_receivable_turnover_ratio": 1.25,
-        "latest_inventory_turnover_ratio": 0.48,
-        "latest_reinvestment_rate": 25.23,
-        "latest_research_to_sale_ratio": 7.14
+        "latest_eps": 0.97,
+        "latest_price": 58.6,
+        "latest_roe": 2.19,
+        "latest_gross_margin": 13.5,
+        "latest_equity": 1662190,
+        "latest_revenue": 137865,
+        "latest_gross_profit": 18618,
+        "latest_net_income": -20197,
+        "latest_debt_ratio": 9.01,
+        "latest_current_ratio": 366.27,
+        "latest_account_receivable_turnover_ratio": 1.26,
+        "latest_inventory_turnover_ratio": 0.47,
+        "latest_reinvestment_rate": 30.7,
+        "latest_research_to_sale_ratio": 7.65
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +185,7 @@
         "2023": {
             "cash": 2,
             "stock": 0,
-            "eps": 0.01
+            "eps": -0.54
         }
     },
     "dividends": {
@@ -233,7 +233,7 @@
             "cash": 1.5,
             "stock": 0
         },
-        "2023-03-22": {
+        "2023-10-27": {
             "cash": 2,
             "stock": 0
         }
@@ -508,7 +508,10 @@
         "202303": "58.60",
         "202304": "66.45",
         "202305": "58.32",
-        "202306": "58.75"
+        "202306": "58.86",
+        "202307": "59.18",
+        "202308": "56.72",
+        "202309": "59.57"
     },
     "quarters": {
         "20011": {
@@ -3180,6 +3183,36 @@
             "eps_avg_yearly": 2.76,
             "eps_latest_yearly": 0.04,
             "eps_growth_yearly": 359.9
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": -0.55,
+            "eps_growth_year": -133.33,
+            "eps_4q": 0.97,
+            "eps_4q_growth_year": -78.1,
+            "roe": -1.22,
+            "roe_4q": 2.05,
+            "gross_profit": 18618,
+            "gross_margin": 13.5,
+            "gross_margin_4q_avg": 26.02,
+            "net_income": -20197,
+            "revenue": 137865,
+            "common_shares": 367857,
+            "book_valuer_per_share": 45.17,
+            "book_valuer_per_share_4q_avg": 46.18,
+            "equity": 1662190,
+            "current_ratio": 366.27,
+            "debt_ratio": 9.01,
+            "inventory_turnover_ratio": 0.47,
+            "account_receivable_turnover_ratio": 1.26,
+            "reinvestment_rate": 30.7,
+            "research_to_sale_ratio": 7.65,
+            "price_fair": 99.18,
+            "eps_avg_yearly": 2.83,
+            "eps_latest_yearly": 0.04,
+            "eps_growth_yearly": 387.59
         }
     },
     "months": {
@@ -3777,6 +3810,21 @@
             "month": "2023-05",
             "price": "58.32",
             "revenue": 50182
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "58.86",
+            "revenue": 53996
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "59.18",
+            "revenue": 67983
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "56.72",
+            "revenue": 60237
         }
     }
 }

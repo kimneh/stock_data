@@ -6,7 +6,7 @@
         "main_business": "特多龍布<br>特多龍紗",
         "website_url": "http://www.ttfco.com",
         "ceo": "莊燿銘",
-        "pe_ratio": 97,
+        "pe_ratio": 0,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
@@ -56,20 +56,20 @@
             "at_2022_last_all": -2.5,
             "at_2023_last_all": -2.5
         },
-        "latest_eps": 0.18,
-        "latest_price": 17.4,
-        "latest_roe": 1.37,
-        "latest_gross_margin": 9.23,
-        "latest_equity": 1563152,
-        "latest_revenue": 363878,
-        "latest_gross_profit": 33575,
-        "latest_net_income": -3078,
-        "latest_debt_ratio": 22.48,
-        "latest_current_ratio": 269.81,
-        "latest_account_receivable_turnover_ratio": 2.52,
-        "latest_inventory_turnover_ratio": 0.66,
-        "latest_reinvestment_rate": -121.26,
-        "latest_research_to_sale_ratio": 0.71
+        "latest_eps": 0,
+        "latest_price": 17.8,
+        "latest_roe": 0,
+        "latest_gross_margin": 12.13,
+        "latest_equity": 1597058,
+        "latest_revenue": 395249,
+        "latest_gross_profit": 47927,
+        "latest_net_income": null,
+        "latest_debt_ratio": 20.05,
+        "latest_current_ratio": 306.39,
+        "latest_account_receivable_turnover_ratio": 2.97,
+        "latest_inventory_turnover_ratio": 0.69,
+        "latest_reinvestment_rate": null,
+        "latest_research_to_sale_ratio": 0.7
     },
     "eps_dividends": {
         "1991": {
@@ -301,7 +301,7 @@
             "cash": 0.5,
             "stock": 0
         },
-        "2023-03-07": {
+        "2023-09-12": {
             "cash": 0.25,
             "stock": 0
         }
@@ -576,7 +576,10 @@
         "202303": "12.75",
         "202304": "13.39",
         "202305": "15.24",
-        "202306": "16.79"
+        "202306": "16.81",
+        "202307": "17.20",
+        "202308": "17.85",
+        "202309": "17.91"
     },
     "quarters": {
         "20011": {
@@ -3248,6 +3251,36 @@
             "eps_avg_yearly": 0.45,
             "eps_latest_yearly": 0.72,
             "eps_growth_yearly": 148.16
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": null,
+            "eps_growth_year": null,
+            "eps_4q": null,
+            "eps_4q_growth_year": null,
+            "roe": null,
+            "roe_4q": 0.4099999999999999,
+            "gross_profit": 47927,
+            "gross_margin": 12.13,
+            "gross_margin_4q_avg": 9.72,
+            "net_income": null,
+            "revenue": 395249,
+            "common_shares": 1298338,
+            "book_valuer_per_share": 13.08,
+            "book_valuer_per_share_4q_avg": 13.02,
+            "equity": 1597058,
+            "current_ratio": 306.39,
+            "debt_ratio": 20.05,
+            "inventory_turnover_ratio": 0.69,
+            "account_receivable_turnover_ratio": 2.97,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 0.7,
+            "price_fair": 8.8,
+            "eps_avg_yearly": 0.37,
+            "eps_latest_yearly": 0.72,
+            "eps_growth_yearly": 13.77
         }
     },
     "months": {
@@ -4570,6 +4603,21 @@
             "month": "2023-05",
             "price": "15.24",
             "revenue": 154835
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "16.81",
+            "revenue": 121252
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "17.20",
+            "revenue": 126650
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "17.85",
+            "revenue": 144631
         }
     }
 }

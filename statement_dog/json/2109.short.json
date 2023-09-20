@@ -6,7 +6,7 @@
         "main_business": "橡膠.塑膠製品之製造.加工及內外銷.<br>有關上項之進出口業務.<br>經營上項附帶業務.",
         "website_url": "http://www.duro.com.tw",
         "ceo": "王嶠奇",
-        "pe_ratio": 16,
+        "pe_ratio": 12,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
@@ -56,20 +56,20 @@
             "at_2022_last_all": -20.21,
             "at_2023_last_all": -20.21
         },
-        "latest_eps": 0.94,
-        "latest_price": 14.9,
-        "latest_roe": 8.12,
-        "latest_gross_margin": 20.78,
-        "latest_equity": 4759112,
-        "latest_revenue": 1082808,
-        "latest_gross_profit": 225002,
-        "latest_net_income": 80753,
-        "latest_debt_ratio": 41.32,
-        "latest_current_ratio": 207.05,
-        "latest_account_receivable_turnover_ratio": 1.54,
-        "latest_inventory_turnover_ratio": 0.82,
-        "latest_reinvestment_rate": 12.17,
-        "latest_research_to_sale_ratio": 0.53
+        "latest_eps": 1.2,
+        "latest_price": 14.1,
+        "latest_roe": 9.42,
+        "latest_gross_margin": 10.71,
+        "latest_equity": 4773940,
+        "latest_revenue": 1211970,
+        "latest_gross_profit": 129846,
+        "latest_net_income": 143428,
+        "latest_debt_ratio": 41.15,
+        "latest_current_ratio": 221.14,
+        "latest_account_receivable_turnover_ratio": 1.76,
+        "latest_inventory_turnover_ratio": 1.1,
+        "latest_reinvestment_rate": -42.12,
+        "latest_research_to_sale_ratio": 0.48
     },
     "eps_dividends": {
         "1998": {
@@ -193,9 +193,9 @@
             "eps": 1.05
         },
         "2023": {
-            "cash": 0.4,
+            "cash": 0.8,
             "stock": 0,
-            "eps": 0.24
+            "eps": 0.64
         }
     },
     "dividends": {
@@ -256,6 +256,10 @@
             "stock": 0
         },
         "2023-05-22": {
+            "cash": 0.4,
+            "stock": 0
+        },
+        "2023-10-20": {
             "cash": 0.4,
             "stock": 0
         }
@@ -530,7 +534,10 @@
         "202303": "14.66",
         "202304": "14.39",
         "202305": "14.55",
-        "202306": "14.64"
+        "202306": "14.70",
+        "202307": "14.53",
+        "202308": "14.15",
+        "202309": "14.41"
     },
     "quarters": {
         "20011": {
@@ -3202,6 +3209,36 @@
             "eps_avg_yearly": 1.14,
             "eps_latest_yearly": 0.96,
             "eps_growth_yearly": 248.23
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": 0.4,
+            "eps_growth_year": 185.71,
+            "eps_4q": 1.2,
+            "eps_4q_growth_year": 16.14,
+            "roe": 3.01,
+            "roe_4q": 9.36,
+            "gross_profit": 129846,
+            "gross_margin": 10.71,
+            "gross_margin_4q_avg": 17.39,
+            "net_income": 143428,
+            "revenue": 1211970,
+            "common_shares": 2793492,
+            "book_valuer_per_share": 11.75,
+            "book_valuer_per_share_4q_avg": 11.45,
+            "equity": 4773940,
+            "current_ratio": 221.14,
+            "debt_ratio": 41.15,
+            "inventory_turnover_ratio": 1.1,
+            "account_receivable_turnover_ratio": 1.76,
+            "reinvestment_rate": -42.12,
+            "research_to_sale_ratio": 0.48,
+            "price_fair": 41,
+            "eps_avg_yearly": 1.17,
+            "eps_latest_yearly": 1.6,
+            "eps_growth_yearly": 249.55
         }
     },
     "months": {
@@ -4524,6 +4561,21 @@
             "month": "2023-05",
             "price": "14.55",
             "revenue": 429927
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "14.70",
+            "revenue": 401550
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "14.53",
+            "revenue": 412868
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "14.15",
+            "revenue": 407247
         }
     }
 }

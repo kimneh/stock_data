@@ -6,7 +6,7 @@
         "main_business": "鋼捲、鋼管",
         "website_url": "http://www.chsteel.com.tw",
         "ceo": "朱敏",
-        "pe_ratio": -32,
+        "pe_ratio": -18,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
@@ -56,19 +56,19 @@
             "at_2022_last_all": -35.61,
             "at_2023_last_all": -35.61
         },
-        "latest_eps": -0.76,
-        "latest_price": 24.55,
-        "latest_roe": -5.32,
-        "latest_gross_margin": 6.54,
-        "latest_equity": 17650144,
-        "latest_revenue": 9523734,
-        "latest_gross_profit": 623291,
-        "latest_net_income": 394841,
-        "latest_debt_ratio": 48.47,
-        "latest_current_ratio": 144.34,
-        "latest_account_receivable_turnover_ratio": 26.81,
-        "latest_inventory_turnover_ratio": 0.92,
-        "latest_reinvestment_rate": -34.83,
+        "latest_eps": -1.39,
+        "latest_price": 24.8,
+        "latest_roe": -11.2,
+        "latest_gross_margin": -1.18,
+        "latest_equity": 16710630,
+        "latest_revenue": 9734937,
+        "latest_gross_profit": -114736,
+        "latest_net_income": -214113,
+        "latest_debt_ratio": 50.66,
+        "latest_current_ratio": 132.53,
+        "latest_account_receivable_turnover_ratio": 32.88,
+        "latest_inventory_turnover_ratio": 1,
+        "latest_reinvestment_rate": -39.18,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -205,7 +205,7 @@
         "2023": {
             "cash": 0.35,
             "stock": 0,
-            "eps": 0.28
+            "eps": 0.13
         }
     },
     "dividends": {
@@ -257,7 +257,7 @@
             "cash": 2.8,
             "stock": 0
         },
-        "2023-02-23": {
+        "2023-08-25": {
             "cash": 0.35,
             "stock": 0
         }
@@ -532,7 +532,10 @@
         "202303": "27.30",
         "202304": "25.96",
         "202305": "23.62",
-        "202306": "23.95"
+        "202306": "24.16",
+        "202307": "24.07",
+        "202308": "23.80",
+        "202309": "23.65"
     },
     "quarters": {
         "20011": {
@@ -3204,6 +3207,36 @@
             "eps_avg_yearly": 2.67,
             "eps_latest_yearly": 1.88,
             "eps_growth_yearly": 224.4
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": -0.15,
+            "eps_growth_year": -131.91,
+            "eps_4q": -1.39,
+            "eps_4q_growth_year": -156.06,
+            "roe": -1.25,
+            "roe_4q": -11.23,
+            "gross_profit": -114736,
+            "gross_margin": -1.18,
+            "gross_margin_4q_avg": -7.52,
+            "net_income": -214113,
+            "revenue": 9734937,
+            "common_shares": 14355444,
+            "book_valuer_per_share": 11.64,
+            "book_valuer_per_share_4q_avg": 12,
+            "equity": 16710630,
+            "current_ratio": 132.53,
+            "debt_ratio": 50.66,
+            "inventory_turnover_ratio": 1,
+            "account_receivable_turnover_ratio": 32.88,
+            "reinvestment_rate": -39.18,
+            "research_to_sale_ratio": null,
+            "price_fair": 101.68,
+            "eps_avg_yearly": 2.91,
+            "eps_latest_yearly": 1.88,
+            "eps_growth_yearly": 102.45
         }
     },
     "months": {
@@ -4526,6 +4559,21 @@
             "month": "2023-05",
             "price": "23.62",
             "revenue": 3207238
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "24.16",
+            "revenue": 2793164
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "24.07",
+            "revenue": 3058037
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "23.80",
+            "revenue": 3202950
         }
     }
 }

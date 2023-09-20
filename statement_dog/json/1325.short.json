@@ -6,11 +6,11 @@
         "main_business": "各類不織布之產銷",
         "website_url": "http://www.uk.com.tw",
         "ceo": "黃美慧",
-        "pe_ratio": 100,
+        "pe_ratio": 66,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
-        "eps_negative_percentage": 9,
+        "eps_negative_percentage": 4,
         "eps_growth_avg": {
             "last_all": -1.13,
             "last_2y": -26.59,
@@ -56,20 +56,20 @@
             "at_2022_last_all": -1.13,
             "at_2023_last_all": -1.13
         },
-        "latest_eps": 0.14,
-        "latest_price": 24.45,
-        "latest_roe": 0.29,
-        "latest_gross_margin": 5.06,
-        "latest_equity": 2880100,
-        "latest_revenue": 109668,
-        "latest_gross_profit": 5548,
-        "latest_net_income": -2618,
-        "latest_debt_ratio": 3.79,
-        "latest_current_ratio": 3074.12,
-        "latest_account_receivable_turnover_ratio": 1.58,
-        "latest_inventory_turnover_ratio": 0.89,
-        "latest_reinvestment_rate": 13.91,
-        "latest_research_to_sale_ratio": 2.09
+        "latest_eps": 0.34,
+        "latest_price": 22.45,
+        "latest_roe": 0.85,
+        "latest_gross_margin": -1.6,
+        "latest_equity": 2843846,
+        "latest_revenue": 103188,
+        "latest_gross_profit": -1656,
+        "latest_net_income": 18466,
+        "latest_debt_ratio": 4.72,
+        "latest_current_ratio": 2086.86,
+        "latest_account_receivable_turnover_ratio": 1.47,
+        "latest_inventory_turnover_ratio": 0.98,
+        "latest_reinvestment_rate": 12.57,
+        "latest_research_to_sale_ratio": 2.05
     },
     "eps_dividends": {
         "1999": {
@@ -195,7 +195,7 @@
         "2023": {
             "cash": 0.5,
             "stock": 0,
-            "eps": -0.02
+            "eps": 0.21
         }
     },
     "dividends": {
@@ -279,7 +279,7 @@
             "cash": 2,
             "stock": 0
         },
-        "2023-03-24": {
+        "2023-07-27": {
             "cash": 0.5,
             "stock": 0
         }
@@ -554,7 +554,10 @@
         "202303": "23.83",
         "202304": "23.75",
         "202305": "24.40",
-        "202306": "24.83"
+        "202306": "24.68",
+        "202307": "23.09",
+        "202308": "22.49",
+        "202309": "22.60"
     },
     "quarters": {
         "20011": {
@@ -3226,6 +3229,36 @@
             "eps_avg_yearly": 9.09,
             "eps_latest_yearly": 1.12,
             "eps_growth_yearly": 808.72
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": 0.23,
+            "eps_growth_year": 666.67,
+            "eps_4q": 0.34,
+            "eps_4q_growth_year": null,
+            "roe": 0.65,
+            "roe_4q": 0.8500000000000001,
+            "gross_profit": -1656,
+            "gross_margin": -1.6,
+            "gross_margin_4q_avg": 6.01,
+            "net_income": 18466,
+            "revenue": 103188,
+            "common_shares": 852812,
+            "book_valuer_per_share": 32.24,
+            "book_valuer_per_share_4q_avg": 32.56,
+            "equity": 2843846,
+            "current_ratio": 2086.86,
+            "debt_ratio": 4.72,
+            "inventory_turnover_ratio": 0.98,
+            "account_receivable_turnover_ratio": 1.47,
+            "reinvestment_rate": 12.57,
+            "research_to_sale_ratio": 2.05,
+            "price_fair": 345.42,
+            "eps_avg_yearly": 9.87,
+            "eps_latest_yearly": 1.12,
+            "eps_growth_yearly": 879.44
         }
     },
     "months": {
@@ -4548,6 +4581,21 @@
             "month": "2023-05",
             "price": "24.40",
             "revenue": 38968
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "24.68",
+            "revenue": 35180
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "23.09",
+            "revenue": 32802
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "22.49",
+            "revenue": 32476
         }
     }
 }

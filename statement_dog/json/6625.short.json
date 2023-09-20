@@ -6,7 +6,7 @@
         "main_business": "演唱會製作<br>硬體設備租賃",
         "website_url": "http://www.bin-live.com/",
         "ceo": "周佑洋",
-        "pe_ratio": 100,
+        "pe_ratio": 30,
         "report_year_from": 2014,
         "report_year_to": 2023,
         "age": 9,
@@ -56,20 +56,20 @@
             "at_2022_last_all": -58.03,
             "at_2023_last_all": -58.03
         },
-        "latest_eps": 0.69,
-        "latest_price": 128.5,
-        "latest_roe": 3.99,
-        "latest_gross_margin": 21.39,
-        "latest_equity": 579590,
-        "latest_revenue": 273986,
-        "latest_gross_profit": 58597,
-        "latest_net_income": 13617,
-        "latest_debt_ratio": 39.24,
-        "latest_current_ratio": 185.83,
-        "latest_account_receivable_turnover_ratio": 1.18,
+        "latest_eps": 3.42,
+        "latest_price": 103,
+        "latest_roe": 25.02,
+        "latest_gross_margin": 20.76,
+        "latest_equity": 649503,
+        "latest_revenue": 560501,
+        "latest_gross_profit": 116352,
+        "latest_net_income": 71012,
+        "latest_debt_ratio": 42.43,
+        "latest_current_ratio": 164.39,
+        "latest_account_receivable_turnover_ratio": 1.97,
         "latest_inventory_turnover_ratio": null,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 0.68
+        "latest_research_to_sale_ratio": 0.44
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +185,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 0.35
+            "eps": 2.01
         }
     },
     "dividends": {
@@ -476,7 +476,10 @@
         "202303": "47.64",
         "202304": "62.47",
         "202305": "92.19",
-        "202306": "126.02"
+        "202306": "127.69",
+        "202307": "109.86",
+        "202308": "97.30",
+        "202309": "110.54"
     },
     "quarters": {
         "20011": {
@@ -3148,6 +3151,36 @@
             "eps_avg_yearly": 1.4,
             "eps_latest_yearly": 1.4,
             "eps_growth_yearly": -304.11
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": 1.66,
+            "eps_growth_year": null,
+            "eps_4q": 3.42,
+            "eps_4q_growth_year": null,
+            "roe": 11.56,
+            "roe_4q": 24.98,
+            "gross_profit": 116352,
+            "gross_margin": 20.76,
+            "gross_margin_4q_avg": 18.12,
+            "net_income": 71012,
+            "revenue": 560501,
+            "common_shares": 443404,
+            "book_valuer_per_share": 14.77,
+            "book_valuer_per_share_4q_avg": 13,
+            "equity": 649503,
+            "current_ratio": 164.39,
+            "debt_ratio": 42.43,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": 1.97,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 0.44,
+            "price_fair": 140.7,
+            "eps_avg_yearly": 4.02,
+            "eps_latest_yearly": 6.64,
+            "eps_growth_yearly": 596.52
         }
     },
     "months": {
@@ -3525,6 +3558,21 @@
             "month": "2023-05",
             "price": "92.19",
             "revenue": 178036
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "127.69",
+            "revenue": 192449
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "109.86",
+            "revenue": 296719
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "97.30",
+            "revenue": 339341
         }
     }
 }

@@ -3,10 +3,10 @@
         "stock_name": "南璋",
         "stock_id": "4712",
         "category": "食品",
-        "main_business": "貴金屬買賣。<br>電子設備買賣批發。<br>水產養殖買賣批發。",
+        "main_business": "水產品買賣。<br>電子設備買賣批發。",
         "website_url": "http://www.nantsan.com.tw",
         "ceo": "歐金獅",
-        "pe_ratio": -8,
+        "pe_ratio": -9,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
@@ -56,20 +56,20 @@
             "at_2022_last_all": -39.02,
             "at_2023_last_all": -39.02
         },
-        "latest_eps": -0.51,
+        "latest_eps": -0.43,
         "latest_price": 3.95,
-        "latest_roe": -65.75,
-        "latest_gross_margin": null,
-        "latest_equity": 40179,
-        "latest_revenue": 0,
-        "latest_gross_profit": -283,
-        "latest_net_income": -13273,
-        "latest_debt_ratio": 49.38,
-        "latest_current_ratio": 201.34,
-        "latest_account_receivable_turnover_ratio": 0,
+        "latest_roe": -52.78,
+        "latest_gross_margin": -1058.33,
+        "latest_equity": 55318,
+        "latest_revenue": 24,
+        "latest_gross_profit": -254,
+        "latest_net_income": -6137,
+        "latest_debt_ratio": 19.49,
+        "latest_current_ratio": 904.41,
+        "latest_account_receivable_turnover_ratio": 6.86,
         "latest_inventory_turnover_ratio": null,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": null
+        "latest_research_to_sale_ratio": 0
     },
     "eps_dividends": {
         "1998": {
@@ -200,7 +200,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.18
+            "eps": -0.26
         }
     },
     "dividends": {
@@ -519,7 +519,10 @@
         "202303": "4.79",
         "202304": "4.61",
         "202305": "4.23",
-        "202306": "4.05"
+        "202306": "4.03",
+        "202307": "3.86",
+        "202308": "3.88",
+        "202309": "4.20"
     },
     "quarters": {
         "20011": {
@@ -3191,6 +3194,36 @@
             "eps_avg_yearly": 0,
             "eps_latest_yearly": 0,
             "eps_growth_yearly": 0
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": -0.08,
+            "eps_growth_year": null,
+            "eps_4q": -0.43,
+            "eps_4q_growth_year": null,
+            "roe": -12.85,
+            "roe_4q": -62.269999999999996,
+            "gross_profit": -254,
+            "gross_margin": -1058.33,
+            "gross_margin_4q_avg": -574.36,
+            "net_income": -6137,
+            "revenue": 24,
+            "common_shares": 736907,
+            "book_valuer_per_share": 0.75,
+            "book_valuer_per_share_4q_avg": 0.71,
+            "equity": 55318,
+            "current_ratio": 904.41,
+            "debt_ratio": 19.49,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": 6.86,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 0,
+            "price_fair": 0,
+            "eps_avg_yearly": 0,
+            "eps_latest_yearly": 0,
+            "eps_growth_yearly": 0
         }
     },
     "months": {
@@ -4488,6 +4521,21 @@
             "month": "2023-05",
             "price": "4.23",
             "revenue": 3
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "4.03",
+            "revenue": 19
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "3.86",
+            "revenue": 11
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "3.88",
+            "revenue": 20
         }
     }
 }

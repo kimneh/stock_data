@@ -6,7 +6,7 @@
         "main_business": "鋼線、鋼棒、製造加工及買賣",
         "website_url": "http://www.chihlien.com.tw",
         "ceo": "謝陳旺",
-        "pe_ratio": 100,
+        "pe_ratio": -66,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
@@ -56,19 +56,19 @@
             "at_2022_last_all": -20.79,
             "at_2023_last_all": -20.79
         },
-        "latest_eps": 0.06,
-        "latest_price": 18.35,
-        "latest_roe": 0.48,
-        "latest_gross_margin": 3.38,
-        "latest_equity": 1175832,
-        "latest_revenue": 241539,
-        "latest_gross_profit": 8171,
-        "latest_net_income": -13730,
-        "latest_debt_ratio": 44.72,
-        "latest_current_ratio": 203.29,
-        "latest_account_receivable_turnover_ratio": 1.2,
-        "latest_inventory_turnover_ratio": 0.32,
-        "latest_reinvestment_rate": -75.8,
+        "latest_eps": -0.26,
+        "latest_price": 17.1,
+        "latest_roe": -2.19,
+        "latest_gross_margin": 0.16,
+        "latest_equity": 1126187,
+        "latest_revenue": 186263,
+        "latest_gross_profit": 306,
+        "latest_net_income": -15572,
+        "latest_debt_ratio": 43.54,
+        "latest_current_ratio": 208.69,
+        "latest_account_receivable_turnover_ratio": 1.01,
+        "latest_inventory_turnover_ratio": 0.28,
+        "latest_reinvestment_rate": -91.72,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -190,7 +190,7 @@
         "2023": {
             "cash": 0.35,
             "stock": 0,
-            "eps": -0.14
+            "eps": -0.3
         }
     },
     "dividends": {
@@ -509,7 +509,10 @@
         "202303": "19.37",
         "202304": "19.26",
         "202305": "18.37",
-        "202306": "18.05"
+        "202306": "18.03",
+        "202307": "17.42",
+        "202308": "16.37",
+        "202309": "16.49"
     },
     "quarters": {
         "20011": {
@@ -3181,6 +3184,36 @@
             "eps_avg_yearly": 0.87,
             "eps_latest_yearly": 0.44,
             "eps_growth_yearly": 125.86
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": -0.16,
+            "eps_growth_year": -200,
+            "eps_4q": -0.26,
+            "eps_4q_growth_year": -121.67,
+            "roe": -1.35,
+            "roe_4q": -2.1699999999999995,
+            "gross_profit": 306,
+            "gross_margin": 0.16,
+            "gross_margin_4q_avg": 5.21,
+            "net_income": -15572,
+            "revenue": 186263,
+            "common_shares": 975000,
+            "book_valuer_per_share": 11.55,
+            "book_valuer_per_share_4q_avg": 12,
+            "equity": 1126187,
+            "current_ratio": 208.69,
+            "debt_ratio": 43.54,
+            "inventory_turnover_ratio": 0.28,
+            "account_receivable_turnover_ratio": 1.01,
+            "reinvestment_rate": -91.72,
+            "research_to_sale_ratio": null,
+            "price_fair": 32.48,
+            "eps_avg_yearly": 0.93,
+            "eps_latest_yearly": 0.44,
+            "eps_growth_yearly": 146.45
         }
     },
     "months": {
@@ -4488,6 +4521,21 @@
             "month": "2023-05",
             "price": "18.37",
             "revenue": 62915
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "18.03",
+            "revenue": 58176
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "17.42",
+            "revenue": 78875
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "16.37",
+            "revenue": 79188
         }
     }
 }

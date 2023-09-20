@@ -6,7 +6,7 @@
         "main_business": "線上遊戲軟體研發及銷售",
         "website_url": "https://www.uj.com.tw/",
         "ceo": "劉信",
-        "pe_ratio": 13,
+        "pe_ratio": 0,
         "report_year_from": 2006,
         "report_year_to": 2023,
         "age": 17,
@@ -56,20 +56,20 @@
             "at_2022_last_all": -5.64,
             "at_2023_last_all": -5.64
         },
-        "latest_eps": 6.93,
-        "latest_price": 89.6,
-        "latest_roe": 21.8,
-        "latest_gross_margin": 97.09,
-        "latest_equity": 1581328,
-        "latest_revenue": 381277,
-        "latest_gross_profit": 370185,
-        "latest_net_income": 54044,
-        "latest_debt_ratio": 16.08,
-        "latest_current_ratio": 589.94,
-        "latest_account_receivable_turnover_ratio": 2.4,
+        "latest_eps": 0,
+        "latest_price": 81.2,
+        "latest_roe": 0,
+        "latest_gross_margin": null,
+        "latest_equity": null,
+        "latest_revenue": null,
+        "latest_gross_profit": null,
+        "latest_net_income": null,
+        "latest_debt_ratio": 30.38,
+        "latest_current_ratio": 305.48,
+        "latest_account_receivable_turnover_ratio": null,
         "latest_inventory_turnover_ratio": null,
-        "latest_reinvestment_rate": -7.06,
-        "latest_research_to_sale_ratio": 28.14
+        "latest_reinvestment_rate": null,
+        "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
         "2001": {
@@ -253,7 +253,7 @@
             "cash": 5,
             "stock": 0
         },
-        "2023-03-23": {
+        "2023-08-31": {
             "cash": 5.5,
             "stock": 0.5
         }
@@ -528,7 +528,10 @@
         "202303": "75.71",
         "202304": "80.14",
         "202305": "85.32",
-        "202306": "91.02"
+        "202306": "91.02",
+        "202307": "86.28",
+        "202308": "75.73",
+        "202309": "80.32"
     },
     "quarters": {
         "20011": {
@@ -3200,6 +3203,36 @@
             "eps_avg_yearly": 5.98,
             "eps_latest_yearly": 4.48,
             "eps_growth_yearly": 41.28
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": null,
+            "eps_growth_year": null,
+            "eps_4q": null,
+            "eps_4q_growth_year": null,
+            "roe": null,
+            "roe_4q": 15.05,
+            "gross_profit": null,
+            "gross_margin": null,
+            "gross_margin_4q_avg": 68.59,
+            "net_income": null,
+            "revenue": null,
+            "common_shares": 481777,
+            "book_valuer_per_share": 28.91,
+            "book_valuer_per_share_4q_avg": 30.69,
+            "equity": null,
+            "current_ratio": 305.48,
+            "debt_ratio": 30.38,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": null,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": null,
+            "price_fair": 213.55,
+            "eps_avg_yearly": 6.1,
+            "eps_latest_yearly": 4.48,
+            "eps_growth_yearly": 48.22
         }
     },
     "months": {
@@ -4192,6 +4225,21 @@
             "month": "2023-05",
             "price": "85.32",
             "revenue": 103698
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "91.02",
+            "revenue": 98286
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "86.28",
+            "revenue": 94170
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "75.73",
+            "revenue": 100668
         }
     }
 }

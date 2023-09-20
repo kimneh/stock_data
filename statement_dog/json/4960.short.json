@@ -6,7 +6,7 @@
         "main_business": "偏光板<br>其他<br>無",
         "website_url": "http://www.cmmt.com.tw",
         "ceo": "連巍鐘(代理)",
-        "pe_ratio": 46,
+        "pe_ratio": -28,
         "report_year_from": 2009,
         "report_year_to": 2023,
         "age": 14,
@@ -56,20 +56,20 @@
             "at_2022_last_all": -8.15,
             "at_2023_last_all": -8.15
         },
-        "latest_eps": 0.26,
+        "latest_eps": -0.42,
         "latest_price": 11.9,
-        "latest_roe": 1.46,
-        "latest_gross_margin": -0.71,
-        "latest_equity": 9596494,
-        "latest_revenue": 1856990,
-        "latest_gross_profit": -13169,
-        "latest_net_income": -192893,
-        "latest_debt_ratio": 37.63,
-        "latest_current_ratio": 256.83,
-        "latest_account_receivable_turnover_ratio": 0.94,
-        "latest_inventory_turnover_ratio": 0.75,
-        "latest_reinvestment_rate": -2430.68,
-        "latest_research_to_sale_ratio": 4.7
+        "latest_roe": -2.45,
+        "latest_gross_margin": 5.35,
+        "latest_equity": 9362805,
+        "latest_revenue": 2529209,
+        "latest_gross_profit": 135265,
+        "latest_net_income": -175359,
+        "latest_debt_ratio": 36.38,
+        "latest_current_ratio": 264.73,
+        "latest_account_receivable_turnover_ratio": 1.06,
+        "latest_inventory_turnover_ratio": 0.91,
+        "latest_reinvestment_rate": -2141.16,
+        "latest_research_to_sale_ratio": 3.72
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +185,7 @@
         "2023": {
             "cash": 0.25,
             "stock": 0,
-            "eps": -0.3
+            "eps": -0.61
         }
     },
     "dividends": {
@@ -492,7 +492,10 @@
         "202303": "12.35",
         "202304": "12.39",
         "202305": "11.46",
-        "202306": "11.59"
+        "202306": "11.64",
+        "202307": "12.17",
+        "202308": "12.03",
+        "202309": "11.98"
     },
     "quarters": {
         "20011": {
@@ -3164,6 +3167,36 @@
             "eps_avg_yearly": 1.1,
             "eps_latest_yearly": 1.44,
             "eps_growth_yearly": 1050.97
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": -0.31,
+            "eps_growth_year": -196.88,
+            "eps_4q": -0.42,
+            "eps_4q_growth_year": -145.89,
+            "roe": -1.85,
+            "roe_4q": -2.5499999999999994,
+            "gross_profit": 135265,
+            "gross_margin": 5.35,
+            "gross_margin_4q_avg": 3.26,
+            "net_income": -175359,
+            "revenue": 2529209,
+            "common_shares": 5728818,
+            "book_valuer_per_share": 16.34,
+            "book_valuer_per_share_4q_avg": 16.46,
+            "equity": 9362805,
+            "current_ratio": 264.73,
+            "debt_ratio": 36.38,
+            "inventory_turnover_ratio": 0.91,
+            "account_receivable_turnover_ratio": 1.06,
+            "reinvestment_rate": -2141.16,
+            "research_to_sale_ratio": 3.72,
+            "price_fair": 38.33,
+            "eps_avg_yearly": 1.1,
+            "eps_latest_yearly": 1.44,
+            "eps_growth_yearly": 1050.97
         }
     },
     "months": {
@@ -3936,6 +3969,21 @@
             "month": "2023-05",
             "price": "11.46",
             "revenue": 936512
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "11.64",
+            "revenue": 809998
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "12.17",
+            "revenue": 786661
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "12.03",
+            "revenue": 958223
         }
     }
 }

@@ -6,11 +6,11 @@
         "main_business": "新藥研發",
         "website_url": "http://www.obipharma.com/",
         "ceo": "王慧君",
-        "pe_ratio": -12,
+        "pe_ratio": -20,
         "report_year_from": 2011,
         "report_year_to": 2023,
         "age": 12,
-        "eps_negative_percentage": 100,
+        "eps_negative_percentage": 90,
         "eps_growth_avg": {
             "last_all": null,
             "last_2y": null,
@@ -56,20 +56,20 @@
             "at_2022_last_all": null,
             "at_2023_last_all": null
         },
-        "latest_eps": -7.29,
-        "latest_price": 86.6,
-        "latest_roe": -29.68,
-        "latest_gross_margin": -1076.6,
-        "latest_equity": 6406490,
-        "latest_revenue": 1786,
-        "latest_gross_profit": -19228,
-        "latest_net_income": -421805,
-        "latest_debt_ratio": 6,
-        "latest_current_ratio": 3682.6,
-        "latest_account_receivable_turnover_ratio": 0.67,
-        "latest_inventory_turnover_ratio": 0.92,
+        "latest_eps": -4.01,
+        "latest_price": 81,
+        "latest_roe": -19.33,
+        "latest_gross_margin": -188.49,
+        "latest_equity": 6077310,
+        "latest_revenue": 9868,
+        "latest_gross_profit": -18600,
+        "latest_net_income": 335271,
+        "latest_debt_ratio": 5.15,
+        "latest_current_ratio": 3463.88,
+        "latest_account_receivable_turnover_ratio": 1.68,
+        "latest_inventory_turnover_ratio": 1.14,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 18945.63
+        "latest_research_to_sale_ratio": 4607.85
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +185,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -1.59
+            "eps": 0.2
         }
     },
     "dividends": [],
@@ -459,7 +459,10 @@
         "202303": "80.36",
         "202304": "85.96",
         "202305": "84.88",
-        "202306": "88.53"
+        "202306": "89.48",
+        "202307": "91.90",
+        "202308": "84.49",
+        "202309": "82.46"
     },
     "quarters": {
         "20011": {
@@ -3131,6 +3134,36 @@
             "eps_avg_yearly": 0,
             "eps_latest_yearly": 0,
             "eps_growth_yearly": 0
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": 1.79,
+            "eps_growth_year": null,
+            "eps_4q": -4.01,
+            "eps_4q_growth_year": null,
+            "roe": 5.37,
+            "roe_4q": -18.75,
+            "gross_profit": -18600,
+            "gross_margin": -188.49,
+            "gross_margin_4q_avg": -909.12,
+            "net_income": 335271,
+            "revenue": 9868,
+            "common_shares": 2294394,
+            "book_valuer_per_share": 21.25,
+            "book_valuer_per_share_4q_avg": 20.84,
+            "equity": 6077310,
+            "current_ratio": 3463.88,
+            "debt_ratio": 5.15,
+            "inventory_turnover_ratio": 1.14,
+            "account_receivable_turnover_ratio": 1.68,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 4607.85,
+            "price_fair": 0,
+            "eps_avg_yearly": 0,
+            "eps_latest_yearly": 0,
+            "eps_growth_yearly": 0
         }
     },
     "months": {
@@ -3763,6 +3796,21 @@
             "month": "2023-05",
             "price": "84.88",
             "revenue": 1800
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "89.48",
+            "revenue": 7959
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "91.90",
+            "revenue": 3142
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "84.49",
+            "revenue": 2970
         }
     }
 }

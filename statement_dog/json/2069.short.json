@@ -6,7 +6,7 @@
         "main_business": "不銹鋼板、捲裁切<br>不銹鋼捲分條<br>不銹鋼板表面處理",
         "website_url": "http://www.yuenchang.com.tw",
         "ceo": "顏德和",
-        "pe_ratio": 40,
+        "pe_ratio": -12,
         "report_year_from": 2012,
         "report_year_to": 2023,
         "age": 11,
@@ -56,20 +56,20 @@
             "at_2022_last_all": 27.78,
             "at_2023_last_all": 27.78
         },
-        "latest_eps": 0.5,
-        "latest_price": 19.8,
-        "latest_roe": 1.95,
-        "latest_gross_margin": 3.87,
-        "latest_equity": 4100902,
-        "latest_revenue": 2921778,
-        "latest_gross_profit": 113078,
-        "latest_net_income": -38439,
-        "latest_debt_ratio": 57.16,
-        "latest_current_ratio": 106.81,
-        "latest_account_receivable_turnover_ratio": 3.79,
-        "latest_inventory_turnover_ratio": 0.92,
-        "latest_reinvestment_rate": 34.63,
-        "latest_research_to_sale_ratio": 0.15
+        "latest_eps": -1.49,
+        "latest_price": 17.4,
+        "latest_roe": -6.16,
+        "latest_gross_margin": 1.99,
+        "latest_equity": 3757010,
+        "latest_revenue": 3094154,
+        "latest_gross_profit": 61596,
+        "latest_net_income": -92971,
+        "latest_debt_ratio": 60.32,
+        "latest_current_ratio": 100.28,
+        "latest_account_receivable_turnover_ratio": 3.65,
+        "latest_inventory_turnover_ratio": 0.93,
+        "latest_reinvestment_rate": -8.33,
+        "latest_research_to_sale_ratio": 0.14
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +185,7 @@
         "2023": {
             "cash": 1,
             "stock": 0,
-            "eps": -0.23
+            "eps": -0.79
         }
     },
     "dividends": {
@@ -221,7 +221,7 @@
             "cash": 2.2,
             "stock": 0
         },
-        "2023-03-16": {
+        "2023-08-03": {
             "cash": 1,
             "stock": 0
         }
@@ -496,7 +496,10 @@
         "202303": "20.64",
         "202304": "20.04",
         "202305": "19.44",
-        "202306": "19.53"
+        "202306": "19.63",
+        "202307": "18.63",
+        "202308": "17.20",
+        "202309": "17.02"
     },
     "quarters": {
         "20011": {
@@ -3168,6 +3171,36 @@
             "eps_avg_yearly": 3.61,
             "eps_latest_yearly": 5.72,
             "eps_growth_yearly": 143.4
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": -0.56,
+            "eps_growth_year": -139.16,
+            "eps_4q": -1.49,
+            "eps_4q_growth_year": -131.81,
+            "roe": -2.37,
+            "roe_4q": -6.040000000000001,
+            "gross_profit": 61596,
+            "gross_margin": 1.99,
+            "gross_margin_4q_avg": 2.71,
+            "net_income": -92971,
+            "revenue": 3094154,
+            "common_shares": 1663868,
+            "book_valuer_per_share": 22.76,
+            "book_valuer_per_share_4q_avg": 24.5,
+            "equity": 3757010,
+            "current_ratio": 100.28,
+            "debt_ratio": 60.32,
+            "inventory_turnover_ratio": 0.93,
+            "account_receivable_turnover_ratio": 3.65,
+            "reinvestment_rate": -8.33,
+            "research_to_sale_ratio": 0.14,
+            "price_fair": 143.4,
+            "eps_avg_yearly": 4.1,
+            "eps_latest_yearly": 5.72,
+            "eps_growth_yearly": 182.93
         }
     },
     "months": {
@@ -3670,6 +3703,21 @@
             "month": "2023-05",
             "price": "19.44",
             "revenue": 1022214
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "19.63",
+            "revenue": 1074827
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "18.63",
+            "revenue": 966430
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "17.20",
+            "revenue": 1111157
         }
     }
 }

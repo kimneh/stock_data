@@ -6,7 +6,7 @@
         "main_business": "RF射頻晶片",
         "website_url": "http://www.amiccom.com.tw",
         "ceo": "曾三田",
-        "pe_ratio": 100,
+        "pe_ratio": -46,
         "report_year_from": 2011,
         "report_year_to": 2023,
         "age": 12,
@@ -56,20 +56,20 @@
             "at_2022_last_all": -17.08,
             "at_2023_last_all": -17.08
         },
-        "latest_eps": 0.12,
-        "latest_price": 28.1,
-        "latest_roe": 0.62,
-        "latest_gross_margin": 49.42,
-        "latest_equity": 1122642,
-        "latest_revenue": 73410,
-        "latest_gross_profit": 36282,
-        "latest_net_income": -15668,
-        "latest_debt_ratio": 16.08,
-        "latest_current_ratio": 416.64,
-        "latest_account_receivable_turnover_ratio": 1.62,
-        "latest_inventory_turnover_ratio": 0.18,
-        "latest_reinvestment_rate": -103.22,
-        "latest_research_to_sale_ratio": 43.99
+        "latest_eps": -0.6,
+        "latest_price": 27.7,
+        "latest_roe": -3.08,
+        "latest_gross_margin": 46.48,
+        "latest_equity": 1096690,
+        "latest_revenue": 77396,
+        "latest_gross_profit": 35972,
+        "latest_net_income": -12515,
+        "latest_debt_ratio": 16.06,
+        "latest_current_ratio": 429.26,
+        "latest_account_receivable_turnover_ratio": 1.94,
+        "latest_inventory_turnover_ratio": 0.2,
+        "latest_reinvestment_rate": -116.59,
+        "latest_research_to_sale_ratio": 44.09
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +185,7 @@
         "2023": {
             "cash": 0.71,
             "stock": 0,
-            "eps": -0.28
+            "eps": -0.51
         }
     },
     "dividends": {
@@ -500,7 +500,10 @@
         "202303": "31.44",
         "202304": "30.75",
         "202305": "27.69",
-        "202306": "27.97"
+        "202306": "27.89",
+        "202307": "27.32",
+        "202308": "25.26",
+        "202309": "27.23"
     },
     "quarters": {
         "20011": {
@@ -3172,6 +3175,36 @@
             "eps_avg_yearly": 1.18,
             "eps_latest_yearly": 0.36,
             "eps_growth_yearly": -76.82
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": -0.23,
+            "eps_growth_year": -146,
+            "eps_4q": -0.6,
+            "eps_4q_growth_year": -137.3,
+            "roe": -1.13,
+            "roe_4q": -2.9899999999999998,
+            "gross_profit": 35972,
+            "gross_margin": 46.48,
+            "gross_margin_4q_avg": 50.76,
+            "net_income": -12515,
+            "revenue": 77396,
+            "common_shares": 552761,
+            "book_valuer_per_share": 19.84,
+            "book_valuer_per_share_4q_avg": 19.92,
+            "equity": 1096690,
+            "current_ratio": 429.26,
+            "debt_ratio": 16.06,
+            "inventory_turnover_ratio": 0.2,
+            "account_receivable_turnover_ratio": 1.94,
+            "reinvestment_rate": -116.59,
+            "research_to_sale_ratio": 44.09,
+            "price_fair": 3.54,
+            "eps_avg_yearly": 1.18,
+            "eps_latest_yearly": 0.36,
+            "eps_growth_yearly": -76.82
         }
     },
     "months": {
@@ -3834,6 +3867,21 @@
             "month": "2023-05",
             "price": "27.69",
             "revenue": 25976
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "27.89",
+            "revenue": 30429
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "27.32",
+            "revenue": 33630
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "25.26",
+            "revenue": 35999
         }
     }
 }

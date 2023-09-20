@@ -6,7 +6,7 @@
         "main_business": "船舶及其零件製造業<br>船舶維修",
         "website_url": "http://www.lungteh.com",
         "ceo": "黃守龍",
-        "pe_ratio": 0,
+        "pe_ratio": 27,
         "report_year_from": 2020,
         "report_year_to": 2023,
         "age": 3,
@@ -56,20 +56,20 @@
             "at_2022_last_all": null,
             "at_2023_last_all": null
         },
-        "latest_eps": 0,
-        "latest_price": 104,
-        "latest_roe": 0,
-        "latest_gross_margin": 16.08,
-        "latest_equity": 2712488,
-        "latest_revenue": 1520451,
-        "latest_gross_profit": 244469,
-        "latest_net_income": 155068,
-        "latest_debt_ratio": 60.99,
-        "latest_current_ratio": 127.4,
-        "latest_account_receivable_turnover_ratio": 35.37,
-        "latest_inventory_turnover_ratio": 1.06,
+        "latest_eps": 3.7,
+        "latest_price": 98.8,
+        "latest_roe": 17.91,
+        "latest_gross_margin": 14.55,
+        "latest_equity": 2687605,
+        "latest_revenue": 977979,
+        "latest_gross_profit": 142287,
+        "latest_net_income": 82551,
+        "latest_debt_ratio": 59.69,
+        "latest_current_ratio": 124.47,
+        "latest_account_receivable_turnover_ratio": 21.44,
+        "latest_inventory_turnover_ratio": 0.87,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 0.52
+        "latest_research_to_sale_ratio": 0.5
     },
     "eps_dividends": {
         "2001": {
@@ -178,14 +178,14 @@
             "eps": 0
         },
         "2022": {
-            "cash": 1.25,
+            "cash": 0.25,
             "stock": 2.25,
             "eps": 1.65
         },
         "2023": {
-            "cash": 0,
+            "cash": 1,
             "stock": 0,
-            "eps": 1.54
+            "eps": 2.31
         }
     },
     "dividends": {
@@ -193,13 +193,13 @@
             "cash": 0.58,
             "stock": 0
         },
-        "2022-07-26": {
-            "cash": 1,
-            "stock": 0
-        },
         "2022-09-30": {
             "cash": 0.25,
             "stock": 2.25
+        },
+        "2023-09-25": {
+            "cash": 1,
+            "stock": 0
         }
     },
     "prices": {
@@ -472,7 +472,10 @@
         "202303": "91.83",
         "202304": "131.29",
         "202305": "120.61",
-        "202306": "111.87"
+        "202306": "109.48",
+        "202307": "105.48",
+        "202308": "103.96",
+        "202309": "103.33"
     },
     "quarters": {
         "20011": {
@@ -3144,6 +3147,36 @@
             "eps_avg_yearly": 5.64,
             "eps_latest_yearly": 6.16,
             "eps_growth_yearly": 532.52
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": 0.77,
+            "eps_growth_year": null,
+            "eps_4q": 3.7,
+            "eps_4q_growth_year": null,
+            "roe": 3.06,
+            "roe_4q": 18.490000000000002,
+            "gross_profit": 142287,
+            "gross_margin": 14.55,
+            "gross_margin_4q_avg": 15.63,
+            "net_income": 82551,
+            "revenue": 977979,
+            "common_shares": 1077500,
+            "book_valuer_per_share": 24.94,
+            "book_valuer_per_share_4q_avg": 22.05,
+            "equity": 2687605,
+            "current_ratio": 124.47,
+            "debt_ratio": 59.69,
+            "inventory_turnover_ratio": 0.87,
+            "account_receivable_turnover_ratio": 21.44,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 0.5,
+            "price_fair": 167.53,
+            "eps_avg_yearly": 4.79,
+            "eps_latest_yearly": 3.08,
+            "eps_growth_yearly": 288.34
         }
     },
     "months": {
@@ -3286,6 +3319,21 @@
             "month": "2023-05",
             "price": "120.61",
             "revenue": 296427
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "109.48",
+            "revenue": 298367
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "105.48",
+            "revenue": 332552
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "103.96",
+            "revenue": 559894
         }
     }
 }

@@ -6,11 +6,11 @@
         "main_business": "委託營造廠商興建商業大樓、工業大樓及住宅出租出售業務。<br>紡織工業之產銷及其附屬事業暨投資金融與其他經濟事業。",
         "website_url": "http://www.sandirealestate.com.tw/",
         "ceo": "莊峻宇",
-        "pe_ratio": 7,
+        "pe_ratio": -64,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
-        "eps_negative_percentage": 57,
+        "eps_negative_percentage": 61,
         "eps_growth_avg": {
             "last_all": -18.63,
             "last_2y": 0,
@@ -56,19 +56,19 @@
             "at_2022_last_all": -18.63,
             "at_2023_last_all": -18.63
         },
-        "latest_eps": 4.31,
-        "latest_price": 30.8,
-        "latest_roe": 25.01,
-        "latest_gross_margin": 18.29,
-        "latest_equity": 2034989,
-        "latest_revenue": 272237,
-        "latest_gross_profit": 49783,
-        "latest_net_income": 21055,
-        "latest_debt_ratio": 75.37,
-        "latest_current_ratio": 209.93,
-        "latest_account_receivable_turnover_ratio": 45.07,
-        "latest_inventory_turnover_ratio": 0.07,
-        "latest_reinvestment_rate": -6.98,
+        "latest_eps": -0.46,
+        "latest_price": 29.45,
+        "latest_roe": -2.45,
+        "latest_gross_margin": null,
+        "latest_equity": 1907845,
+        "latest_revenue": 0,
+        "latest_gross_profit": 0,
+        "latest_net_income": -35938,
+        "latest_debt_ratio": 77.93,
+        "latest_current_ratio": 182.76,
+        "latest_account_receivable_turnover_ratio": null,
+        "latest_inventory_turnover_ratio": 0,
+        "latest_reinvestment_rate": -7.46,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -195,7 +195,7 @@
         "2023": {
             "cash": 1,
             "stock": 0,
-            "eps": 0.23
+            "eps": -0.16
         }
     },
     "dividends": {
@@ -207,7 +207,7 @@
             "cash": 0,
             "stock": 1
         },
-        "2023-03-10": {
+        "2023-09-28": {
             "cash": 1,
             "stock": 0
         }
@@ -482,7 +482,10 @@
         "202303": "33.69",
         "202304": "31.80",
         "202305": "30.95",
-        "202306": "30.71"
+        "202306": "30.59",
+        "202307": "30.43",
+        "202308": "30.12",
+        "202309": "30.07"
     },
     "quarters": {
         "20011": {
@@ -3154,6 +3157,36 @@
             "eps_avg_yearly": 5.98,
             "eps_latest_yearly": 22.44,
             "eps_growth_yearly": 27764.31
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": -0.39,
+            "eps_growth_year": -106.95,
+            "eps_4q": -0.46,
+            "eps_4q_growth_year": -107.48,
+            "roe": -1.82,
+            "roe_4q": -2.5300000000000002,
+            "gross_profit": 0,
+            "gross_margin": null,
+            "gross_margin_4q_avg": 32.59,
+            "net_income": -35938,
+            "revenue": 0,
+            "common_shares": 912058,
+            "book_valuer_per_share": 20.92,
+            "book_valuer_per_share_4q_avg": 21.56,
+            "equity": 1907845,
+            "current_ratio": 182.76,
+            "debt_ratio": 77.93,
+            "inventory_turnover_ratio": 0,
+            "account_receivable_turnover_ratio": null,
+            "reinvestment_rate": -7.46,
+            "research_to_sale_ratio": null,
+            "price_fair": 209.3,
+            "eps_avg_yearly": 5.98,
+            "eps_latest_yearly": 22.44,
+            "eps_growth_yearly": 27764.31
         }
     },
     "months": {
@@ -4461,6 +4494,21 @@
             "month": "2023-05",
             "price": "30.95",
             "revenue": 0
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "30.59",
+            "revenue": 0
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "30.43",
+            "revenue": 0
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "30.12",
+            "revenue": 27510
         }
     }
 }

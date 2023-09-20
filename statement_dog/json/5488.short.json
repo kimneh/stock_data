@@ -6,11 +6,11 @@
         "main_business": "3C產品用線",
         "website_url": "http://www.sunfpu.com.tw",
         "ceo": "駱秀勇",
-        "pe_ratio": 57,
+        "pe_ratio": 16,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
-        "eps_negative_percentage": 52,
+        "eps_negative_percentage": 48,
         "eps_growth_avg": {
             "last_all": -28.01,
             "last_2y": 100,
@@ -56,20 +56,20 @@
             "at_2022_last_all": -28.01,
             "at_2023_last_all": -28.01
         },
-        "latest_eps": 0.21,
-        "latest_price": 11.9,
-        "latest_roe": 2.11,
-        "latest_gross_margin": 13.26,
-        "latest_equity": 894805,
-        "latest_revenue": 305362,
-        "latest_gross_profit": 40498,
-        "latest_net_income": -1220,
-        "latest_debt_ratio": 43.87,
-        "latest_current_ratio": 294.17,
-        "latest_account_receivable_turnover_ratio": 0.74,
-        "latest_inventory_turnover_ratio": 1.29,
-        "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 0.7
+        "latest_eps": 0.81,
+        "latest_price": 13,
+        "latest_roe": 8.12,
+        "latest_gross_margin": 13.65,
+        "latest_equity": 925749,
+        "latest_revenue": 285428,
+        "latest_gross_profit": 38975,
+        "latest_net_income": 70462,
+        "latest_debt_ratio": 45.07,
+        "latest_current_ratio": 190.93,
+        "latest_account_receivable_turnover_ratio": 0.73,
+        "latest_inventory_turnover_ratio": 1.18,
+        "latest_reinvestment_rate": -70.35,
+        "latest_research_to_sale_ratio": 0.62
     },
     "eps_dividends": {
         "1999": {
@@ -195,7 +195,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.01
+            "eps": 0.76
         }
     },
     "dividends": {
@@ -526,7 +526,10 @@
         "202303": "10.45",
         "202304": "12.70",
         "202305": "12.47",
-        "202306": "12.02"
+        "202306": "11.88",
+        "202307": "11.99",
+        "202308": "12.49",
+        "202309": "13.40"
     },
     "quarters": {
         "20011": {
@@ -3198,6 +3201,36 @@
             "eps_avg_yearly": 0.3,
             "eps_latest_yearly": 0.28,
             "eps_growth_yearly": 2.35
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": 0.77,
+            "eps_growth_year": 352.94,
+            "eps_4q": 0.81,
+            "eps_4q_growth_year": 335.47,
+            "roe": 7.74,
+            "roe_4q": 8.11,
+            "gross_profit": 38975,
+            "gross_margin": 13.65,
+            "gross_margin_4q_avg": 11.63,
+            "net_income": 70462,
+            "revenue": 285428,
+            "common_shares": 915861,
+            "book_valuer_per_share": 10.11,
+            "book_valuer_per_share_4q_avg": 9.88,
+            "equity": 925749,
+            "current_ratio": 190.93,
+            "debt_ratio": 45.07,
+            "inventory_turnover_ratio": 1.18,
+            "account_receivable_turnover_ratio": 0.73,
+            "reinvestment_rate": -70.35,
+            "research_to_sale_ratio": 0.62,
+            "price_fair": 3.71,
+            "eps_avg_yearly": 0.3,
+            "eps_latest_yearly": 0.28,
+            "eps_growth_yearly": 2.35
         }
     },
     "months": {
@@ -4520,6 +4553,21 @@
             "month": "2023-05",
             "price": "12.47",
             "revenue": 93030
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "11.88",
+            "revenue": 77936
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "11.99",
+            "revenue": 51220
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "12.49",
+            "revenue": 67044
         }
     }
 }

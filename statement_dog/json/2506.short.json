@@ -6,11 +6,11 @@
         "main_business": "承攬代辦土木建築工程<br>土地開發興建房屋<br>H701010住宅及大樓開發租售業",
         "website_url": "http://www.pacific-group.com.tw",
         "ceo": "陳清暉",
-        "pe_ratio": 5,
+        "pe_ratio": -16,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
-        "eps_negative_percentage": 30,
+        "eps_negative_percentage": 35,
         "eps_growth_avg": {
             "last_all": -2.1,
             "last_2y": 100,
@@ -56,19 +56,19 @@
             "at_2022_last_all": -2.1,
             "at_2023_last_all": -2.1
         },
-        "latest_eps": 1.86,
-        "latest_price": 9.46,
-        "latest_roe": 9.1,
-        "latest_gross_margin": 62.68,
-        "latest_equity": 9215680,
-        "latest_revenue": 287127,
-        "latest_gross_profit": 179985,
-        "latest_net_income": 55526,
-        "latest_debt_ratio": 34.45,
-        "latest_current_ratio": 217.18,
-        "latest_account_receivable_turnover_ratio": 8.75,
+        "latest_eps": -0.57,
+        "latest_price": 9.11,
+        "latest_roe": -1.46,
+        "latest_gross_margin": 45.46,
+        "latest_equity": 9123900,
+        "latest_revenue": 196472,
+        "latest_gross_profit": 89325,
+        "latest_net_income": -82889,
+        "latest_debt_ratio": 35.07,
+        "latest_current_ratio": 212.31,
+        "latest_account_receivable_turnover_ratio": 7.49,
         "latest_inventory_turnover_ratio": 0.02,
-        "latest_reinvestment_rate": -124.49,
+        "latest_reinvestment_rate": -133.67,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -233,9 +233,9 @@
             "eps": 1.59
         },
         "2023": {
-            "cash": 0.2,
+            "cash": 0.30000000000000004,
             "stock": 0,
-            "eps": 0.13
+            "eps": -0.11
         }
     },
     "dividends": {
@@ -325,6 +325,10 @@
         },
         "2023-07-28": {
             "cash": 0.2,
+            "stock": 0
+        },
+        "2023-12-20": {
+            "cash": 0.1,
             "stock": 0
         }
     },
@@ -598,7 +602,10 @@
         "202303": "9.46",
         "202304": "9.29",
         "202305": "9.32",
-        "202306": "9.47"
+        "202306": "9.44",
+        "202307": "9.18",
+        "202308": "9.12",
+        "202309": "9.11"
     },
     "quarters": {
         "20011": {
@@ -3270,6 +3277,36 @@
             "eps_avg_yearly": 0.84,
             "eps_latest_yearly": 0.08,
             "eps_growth_yearly": -78.17
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": -0.24,
+            "eps_growth_year": -110.96,
+            "eps_4q": -0.57,
+            "eps_4q_growth_year": -129.77,
+            "roe": -0.9,
+            "roe_4q": -1.4599999999999997,
+            "gross_profit": 89325,
+            "gross_margin": 45.46,
+            "gross_margin_4q_avg": -47.91,
+            "net_income": -82889,
+            "revenue": 196472,
+            "common_shares": 3870000,
+            "book_valuer_per_share": 20.05,
+            "book_valuer_per_share_4q_avg": 20.2,
+            "equity": 9123900,
+            "current_ratio": 212.31,
+            "debt_ratio": 35.07,
+            "inventory_turnover_ratio": 0.02,
+            "account_receivable_turnover_ratio": 7.49,
+            "reinvestment_rate": -133.67,
+            "research_to_sale_ratio": null,
+            "price_fair": 2.52,
+            "eps_avg_yearly": 0.84,
+            "eps_latest_yearly": 0.08,
+            "eps_growth_yearly": -78.17
         }
     },
     "months": {
@@ -4592,6 +4629,21 @@
             "month": "2023-05",
             "price": "9.32",
             "revenue": 59893
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "9.44",
+            "revenue": 69046
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "9.18",
+            "revenue": 106539
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "9.12",
+            "revenue": 55878
         }
     }
 }

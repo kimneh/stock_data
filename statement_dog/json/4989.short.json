@@ -6,11 +6,11 @@
         "main_business": "電解銅箔之製造及銷售",
         "website_url": "http://www.lcyt.com.tw",
         "ceo": "陳銘樹",
-        "pe_ratio": 72,
+        "pe_ratio": -67,
         "report_year_from": 2010,
         "report_year_to": 2023,
         "age": 13,
-        "eps_negative_percentage": 0,
+        "eps_negative_percentage": 14,
         "eps_growth_avg": {
             "last_all": -6.26,
             "last_2y": 14.44,
@@ -56,20 +56,20 @@
             "at_2022_last_all": -6.26,
             "at_2023_last_all": -6.26
         },
-        "latest_eps": 0.39,
-        "latest_price": 27.95,
-        "latest_roe": 2.19,
-        "latest_gross_margin": 4.73,
-        "latest_equity": 2303577,
-        "latest_revenue": 894128,
-        "latest_gross_profit": 42263,
-        "latest_net_income": 2089,
-        "latest_debt_ratio": 22.33,
-        "latest_current_ratio": 429.05,
-        "latest_account_receivable_turnover_ratio": 1,
-        "latest_inventory_turnover_ratio": 1.22,
-        "latest_reinvestment_rate": 0.31,
-        "latest_research_to_sale_ratio": 0.35
+        "latest_eps": -0.39,
+        "latest_price": 25.95,
+        "latest_roe": -2.31,
+        "latest_gross_margin": -2.68,
+        "latest_equity": 2269473,
+        "latest_revenue": 927992,
+        "latest_gross_profit": -24909,
+        "latest_net_income": -38668,
+        "latest_debt_ratio": 20.56,
+        "latest_current_ratio": 472.69,
+        "latest_account_receivable_turnover_ratio": 1.05,
+        "latest_inventory_turnover_ratio": 1.33,
+        "latest_reinvestment_rate": 0.41,
+        "latest_research_to_sale_ratio": 0.29
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +185,7 @@
         "2023": {
             "cash": 0.5,
             "stock": 0,
-            "eps": 0.02
+            "eps": -0.26
         }
     },
     "dividends": {
@@ -209,7 +209,7 @@
             "cash": 1.5,
             "stock": 0
         },
-        "2023-03-24": {
+        "2023-08-28": {
             "cash": 0.5,
             "stock": 0
         }
@@ -484,7 +484,10 @@
         "202303": "28.49",
         "202304": "27.01",
         "202305": "26.17",
-        "202306": "27.11"
+        "202306": "27.35",
+        "202307": "28.18",
+        "202308": "27.29",
+        "202309": "25.99"
     },
     "quarters": {
         "20011": {
@@ -3156,6 +3159,36 @@
             "eps_avg_yearly": 2.24,
             "eps_latest_yearly": 0.12,
             "eps_growth_yearly": 494.71
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": -0.28,
+            "eps_growth_year": -156,
+            "eps_4q": -0.39,
+            "eps_4q_growth_year": -110.29,
+            "roe": -1.69,
+            "roe_4q": -2.32,
+            "gross_profit": -24909,
+            "gross_margin": -2.68,
+            "gross_margin_4q_avg": 0.59,
+            "net_income": -38668,
+            "revenue": 927992,
+            "common_shares": 1377765,
+            "book_valuer_per_share": 16.47,
+            "book_valuer_per_share_4q_avg": 16.96,
+            "equity": 2269473,
+            "current_ratio": 472.69,
+            "debt_ratio": 20.56,
+            "inventory_turnover_ratio": 1.33,
+            "account_receivable_turnover_ratio": 1.05,
+            "reinvestment_rate": 0.41,
+            "research_to_sale_ratio": 0.29,
+            "price_fair": 85.24,
+            "eps_avg_yearly": 2.44,
+            "eps_latest_yearly": 0.12,
+            "eps_growth_yearly": 570.85
         }
     },
     "months": {
@@ -3573,6 +3606,21 @@
             "month": "2023-05",
             "price": "26.17",
             "revenue": 359256
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "27.35",
+            "revenue": 308095
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "28.18",
+            "revenue": 260372
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "27.29",
+            "revenue": 285105
         }
     }
 }

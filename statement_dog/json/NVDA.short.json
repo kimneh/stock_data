@@ -3,7 +3,7 @@
         "stock_name": "NVIDIA Corp",
         "stock_id": "NVDA",
         "category": "Computer and Technology",
-        "main_business": "英偉達公司於1993年4月在加利福尼亞州註冊成立，並於1998年4月在特拉華州重新註冊成立。公司開創了加速計算的先河，幫助解決最具挑戰性的計算問題。公司的兩個主營業務——GPU和Tegra處理器——基於一個單一的底層架構。英偉達有一個平臺戰略，彙集硬體、系統軟體、可程式設計演算法、庫、系統和服務，為服務的市場創造獨特的價值。",
+        "main_business": "英偉達公司於1993年4月在加利福尼亞州註冊成立，並於1998年4月在特拉華州重新註冊成立。該公司開創了加速計算的先河，幫助解決最具挑戰性的計算問題。該公司的兩個主營業務——GPU和Tegra處理器——基於一個單一的底層架構。英偉達有一個平臺戰略，彙集硬體、系統軟體、可程式設計演算法、庫、系統和服務，為服務的市場創造獨特的價值。",
         "website_url": "https://www.nvidia.com/",
         "ceo": "Jen Hsun Huang",
         "pe_ratio": 100,
@@ -12,7 +12,7 @@
         "age": 20,
         "eps_negative_percentage": 8,
         "eps_growth_avg": {
-            "last_all": 29.15,
+            "last_all": 32.43,
             "last_2y": null,
             "last_4y": null,
             "last_8y": null,
@@ -56,20 +56,20 @@
             "at_2022_last_all": 34.73,
             "at_2023_last_all": 34.73
         },
-        "latest_eps": 2.15,
-        "latest_price": 422.09,
-        "latest_roe": 20.88,
-        "latest_gross_margin": 64.63,
-        "latest_equity": 24520000,
-        "latest_revenue": 7192000,
-        "latest_gross_profit": 4648000,
-        "latest_net_income": 2043000,
-        "latest_debt_ratio": 44.85,
-        "latest_current_ratio": 342.74,
-        "latest_account_receivable_turnover_ratio": 1.82,
-        "latest_inventory_turnover_ratio": 0.52,
-        "latest_reinvestment_rate": 14.5,
-        "latest_research_to_sale_ratio": 26.07
+        "latest_eps": 4.37,
+        "latest_price": 439.66,
+        "latest_roe": 43.26,
+        "latest_gross_margin": 70.05,
+        "latest_equity": 27501000,
+        "latest_revenue": 13507000,
+        "latest_gross_profit": 9462000,
+        "latest_net_income": 6188000,
+        "latest_debt_ratio": 44.5,
+        "latest_current_ratio": 278.66,
+        "latest_account_receivable_turnover_ratio": 2.42,
+        "latest_inventory_turnover_ratio": 0.91,
+        "latest_reinvestment_rate": 13.28,
+        "latest_research_to_sale_ratio": 15.1
     },
     "eps_dividends": {
         "2001": {
@@ -183,14 +183,14 @@
             "eps": 3.85
         },
         "2023": {
-            "cash": 0.08,
+            "cash": 0.12,
             "stock": 0,
             "eps": 2.43
         },
         "2024": {
             "cash": 0,
             "stock": 0,
-            "eps": 0.89
+            "eps": 3.42
         }
     },
     "dividends": {
@@ -355,6 +355,10 @@
             "stock": 0
         },
         "2023-06-30": {
+            "cash": 0.04,
+            "stock": 0
+        },
+        "2023-09-29": {
             "cash": 0.04,
             "stock": 0
         }
@@ -629,7 +633,10 @@
         "202303": "251.07",
         "202304": "271.49",
         "202305": "310.57",
-        "202306": "407.88"
+        "202306": "409.22",
+        "202307": "447.63",
+        "202308": "452.54",
+        "202309": "459.01"
     },
     "quarters": {
         "20014": {
@@ -3331,6 +3338,36 @@
             "eps_avg_yearly": 2.53,
             "eps_latest_yearly": 3.56,
             "eps_growth_yearly": 75.6
+        },
+        "20242": {
+            "year_quarter": 20242,
+            "year": 2024,
+            "quarter": 2,
+            "eps": 2.53,
+            "eps_growth_year": 725.49,
+            "eps_4q": 4.37,
+            "eps_4q_growth_year": 20.33,
+            "roe": 23.79,
+            "roe_4q": 42.06999999999999,
+            "gross_profit": 9462000,
+            "gross_margin": 70.05,
+            "gross_margin_4q_avg": 62.9,
+            "net_income": 6188000,
+            "revenue": 13507000,
+            "common_shares": 2000,
+            "book_valuer_per_share": 8.78,
+            "book_valuer_per_share_4q_avg": 7.23,
+            "equity": 27501000,
+            "current_ratio": 278.66,
+            "debt_ratio": 44.5,
+            "inventory_turnover_ratio": 0.91,
+            "account_receivable_turnover_ratio": 2.42,
+            "reinvestment_rate": 13.28,
+            "research_to_sale_ratio": 15.1,
+            "price_fair": 108.5,
+            "eps_avg_yearly": 3.1,
+            "eps_latest_yearly": 10.12,
+            "eps_growth_yearly": 112.84
         }
     },
     "months": {
@@ -4681,7 +4718,22 @@
         },
         "2023-06": {
             "month": "2023-06",
-            "price": "407.88",
+            "price": "409.22",
+            "revenue": 0
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "447.63",
+            "revenue": 0
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "452.54",
+            "revenue": 0
+        },
+        "2023-09": {
+            "month": "2023-09",
+            "price": "459.01",
             "revenue": 0
         }
     }

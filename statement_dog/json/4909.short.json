@@ -6,11 +6,11 @@
         "main_business": "高頻微波通訊用基板<br>一般資訊週邊用基板",
         "website_url": "http://www.nee.com.tw",
         "ceo": "張永輝",
-        "pe_ratio": -27,
+        "pe_ratio": -50,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
-        "eps_negative_percentage": 14,
+        "eps_negative_percentage": 9,
         "eps_growth_avg": {
             "last_all": -4.28,
             "last_2y": 0,
@@ -56,20 +56,20 @@
             "at_2022_last_all": -4.28,
             "at_2023_last_all": -4.28
         },
-        "latest_eps": -0.73,
-        "latest_price": 19.65,
-        "latest_roe": -2.89,
-        "latest_gross_margin": 5.51,
-        "latest_equity": 2333071,
-        "latest_revenue": 160616,
-        "latest_gross_profit": 8845,
-        "latest_net_income": -3505,
-        "latest_debt_ratio": 6.42,
-        "latest_current_ratio": 1563.12,
-        "latest_account_receivable_turnover_ratio": 0.88,
-        "latest_inventory_turnover_ratio": 1.88,
+        "latest_eps": -0.52,
+        "latest_price": 25.9,
+        "latest_roe": -2.06,
+        "latest_gross_margin": -1.76,
+        "latest_equity": 2347683,
+        "latest_revenue": 121168,
+        "latest_gross_profit": -2137,
+        "latest_net_income": 8907,
+        "latest_debt_ratio": 7.02,
+        "latest_current_ratio": 1394.02,
+        "latest_account_receivable_turnover_ratio": 0.65,
+        "latest_inventory_turnover_ratio": 1.45,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 2.44
+        "latest_research_to_sale_ratio": 3.57
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +185,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.04
+            "eps": 0.06
         }
     },
     "dividends": {
@@ -544,7 +544,10 @@
         "202303": "18.00",
         "202304": "18.21",
         "202305": "20.20",
-        "202306": "19.81"
+        "202306": "19.85",
+        "202307": "19.65",
+        "202308": "21.64",
+        "202309": "26.41"
     },
     "quarters": {
         "20011": {
@@ -3216,6 +3219,36 @@
             "eps_avg_yearly": 0.84,
             "eps_latest_yearly": 0.84,
             "eps_growth_yearly": 125
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": 0.1,
+            "eps_growth_year": null,
+            "eps_4q": -0.52,
+            "eps_4q_growth_year": null,
+            "roe": 0.38,
+            "roe_4q": -2.06,
+            "gross_profit": -2137,
+            "gross_margin": -1.76,
+            "gross_margin_4q_avg": -3.15,
+            "net_income": 8907,
+            "revenue": 121168,
+            "common_shares": 933568,
+            "book_valuer_per_share": 25.15,
+            "book_valuer_per_share_4q_avg": 25.29,
+            "equity": 2347683,
+            "current_ratio": 1394.02,
+            "debt_ratio": 7.02,
+            "inventory_turnover_ratio": 1.45,
+            "account_receivable_turnover_ratio": 0.65,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 3.57,
+            "price_fair": 0,
+            "eps_avg_yearly": 0,
+            "eps_latest_yearly": 0,
+            "eps_growth_yearly": 0
         }
     },
     "months": {
@@ -4453,6 +4486,21 @@
             "month": "2023-05",
             "price": "20.20",
             "revenue": 47915
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "19.85",
+            "revenue": 36016
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "19.65",
+            "revenue": 74471
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "21.64",
+            "revenue": 70540
         }
     }
 }

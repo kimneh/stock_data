@@ -6,7 +6,7 @@
         "main_business": "筆記型電腦<br>電腦周邊設備",
         "website_url": "http://www.clevo.com.tw",
         "ceo": "蔡明賢",
-        "pe_ratio": 33,
+        "pe_ratio": 23,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
@@ -56,20 +56,20 @@
             "at_2022_last_all": 5.37,
             "at_2023_last_all": 5.37
         },
-        "latest_eps": 1.01,
-        "latest_price": 33.15,
-        "latest_roe": 1.41,
-        "latest_gross_margin": 19.98,
-        "latest_equity": 41487649,
-        "latest_revenue": 5504373,
-        "latest_gross_profit": 1099685,
-        "latest_net_income": 361216,
-        "latest_debt_ratio": 55.96,
-        "latest_current_ratio": 106.54,
-        "latest_account_receivable_turnover_ratio": 2.24,
-        "latest_inventory_turnover_ratio": 1.15,
-        "latest_reinvestment_rate": -161.66,
-        "latest_research_to_sale_ratio": 3.08
+        "latest_eps": 1.37,
+        "latest_price": 31.4,
+        "latest_roe": 1.96,
+        "latest_gross_margin": 20.44,
+        "latest_equity": 40344571,
+        "latest_revenue": 5893205,
+        "latest_gross_profit": 1204819,
+        "latest_net_income": 243441,
+        "latest_debt_ratio": 56.56,
+        "latest_current_ratio": 111.42,
+        "latest_account_receivable_turnover_ratio": 2.22,
+        "latest_inventory_turnover_ratio": 1.17,
+        "latest_reinvestment_rate": -56.86,
+        "latest_research_to_sale_ratio": 2.71
     },
     "eps_dividends": {
         "1993": {
@@ -220,7 +220,7 @@
         "2023": {
             "cash": 1.5,
             "stock": 0,
-            "eps": 0.62
+            "eps": 1.04
         }
     },
     "dividends": {
@@ -607,7 +607,10 @@
         "202303": "30.76",
         "202304": "30.42",
         "202305": "31.72",
-        "202306": "33.74"
+        "202306": "33.58",
+        "202307": "34.30",
+        "202308": "32.18",
+        "202309": "31.82"
     },
     "quarters": {
         "20011": {
@@ -3279,6 +3282,36 @@
             "eps_avg_yearly": 2.22,
             "eps_latest_yearly": 2.48,
             "eps_growth_yearly": 120.71
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": 0.42,
+            "eps_growth_year": 600,
+            "eps_4q": 1.37,
+            "eps_4q_growth_year": -53.02,
+            "roe": 0.6,
+            "roe_4q": 1.9500000000000002,
+            "gross_profit": 1204819,
+            "gross_margin": 20.44,
+            "gross_margin_4q_avg": 20.81,
+            "net_income": 243441,
+            "revenue": 5893205,
+            "common_shares": 6322630,
+            "book_valuer_per_share": 68.94,
+            "book_valuer_per_share_4q_avg": 70.91,
+            "equity": 40344571,
+            "current_ratio": 111.42,
+            "debt_ratio": 56.56,
+            "inventory_turnover_ratio": 1.17,
+            "account_receivable_turnover_ratio": 2.22,
+            "reinvestment_rate": -56.86,
+            "research_to_sale_ratio": 2.71,
+            "price_fair": 77.43,
+            "eps_avg_yearly": 2.21,
+            "eps_latest_yearly": 1.68,
+            "eps_growth_yearly": 125.04
         }
     },
     "months": {
@@ -4601,6 +4634,21 @@
             "month": "2023-05",
             "price": "31.72",
             "revenue": 2184420
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "33.58",
+            "revenue": 1512277
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "34.30",
+            "revenue": 1490865
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "32.18",
+            "revenue": 2122965
         }
     }
 }

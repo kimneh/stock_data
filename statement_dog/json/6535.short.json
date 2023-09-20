@@ -6,11 +6,11 @@
         "main_business": "新藥開發",
         "website_url": "http://www.lumosa.com.tw",
         "ceo": "林榮錦",
-        "pe_ratio": -54,
+        "pe_ratio": -81,
         "report_year_from": 2014,
         "report_year_to": 2023,
         "age": 9,
-        "eps_negative_percentage": 75,
+        "eps_negative_percentage": 88,
         "eps_growth_avg": {
             "last_all": -100,
             "last_2y": -100,
@@ -56,20 +56,20 @@
             "at_2022_last_all": -100,
             "at_2023_last_all": -100
         },
-        "latest_eps": -1.01,
-        "latest_price": 55,
-        "latest_roe": -9.38,
-        "latest_gross_margin": 17.9,
-        "latest_equity": 1815480,
-        "latest_revenue": 7976,
-        "latest_gross_profit": 1428,
-        "latest_net_income": 143957,
-        "latest_debt_ratio": 9.58,
-        "latest_current_ratio": 674.94,
-        "latest_account_receivable_turnover_ratio": 0.73,
-        "latest_inventory_turnover_ratio": 0.06,
+        "latest_eps": -0.74,
+        "latest_price": 60.2,
+        "latest_roe": -7.83,
+        "latest_gross_margin": 79.84,
+        "latest_equity": 1663972,
+        "latest_revenue": 14206,
+        "latest_gross_profit": 11342,
+        "latest_net_income": -152504,
+        "latest_debt_ratio": 10.43,
+        "latest_current_ratio": 624.17,
+        "latest_account_receivable_turnover_ratio": 1.1,
+        "latest_inventory_turnover_ratio": 0.03,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 788.49
+        "latest_research_to_sale_ratio": 767.44
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +185,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 0.89
+            "eps": -0.03
         }
     },
     "dividends": [],
@@ -459,7 +459,10 @@
         "202303": "41.87",
         "202304": "41.42",
         "202305": "52.27",
-        "202306": "60.13"
+        "202306": "60.06",
+        "202307": "60.10",
+        "202308": "60.82",
+        "202309": "60.70"
     },
     "quarters": {
         "20011": {
@@ -3131,6 +3134,36 @@
             "eps_avg_yearly": 3.56,
             "eps_latest_yearly": 3.56,
             "eps_growth_yearly": 1083.33
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": -0.92,
+            "eps_growth_year": null,
+            "eps_4q": -0.74,
+            "eps_4q_growth_year": null,
+            "roe": -8.77,
+            "roe_4q": -7.969999999999999,
+            "gross_profit": 11342,
+            "gross_margin": 79.84,
+            "gross_margin_4q_avg": 54.62,
+            "net_income": -152504,
+            "revenue": 14206,
+            "common_shares": 1631128,
+            "book_valuer_per_share": 9.97,
+            "book_valuer_per_share_4q_avg": 10.15,
+            "equity": 1663972,
+            "current_ratio": 624.17,
+            "debt_ratio": 10.43,
+            "inventory_turnover_ratio": 0.03,
+            "account_receivable_turnover_ratio": 1.1,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 767.44,
+            "price_fair": 124.6,
+            "eps_avg_yearly": 3.56,
+            "eps_latest_yearly": 3.56,
+            "eps_growth_yearly": 1083.33
         }
     },
     "months": {
@@ -3608,6 +3641,21 @@
             "month": "2023-05",
             "price": "52.27",
             "revenue": 10353
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "60.06",
+            "revenue": 959
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "60.10",
+            "revenue": 8376
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "60.82",
+            "revenue": 7488
         }
     }
 }

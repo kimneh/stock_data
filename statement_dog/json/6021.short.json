@@ -6,11 +6,11 @@
         "main_business": "證券商<br>期貨商",
         "website_url": "http://www.tcstock.com.tw",
         "ceo": "莊達修",
-        "pe_ratio": 100,
+        "pe_ratio": 52,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
-        "eps_negative_percentage": 29,
+        "eps_negative_percentage": 21,
         "eps_growth_avg": {
             "last_all": -15.61,
             "last_2y": 38.41,
@@ -56,19 +56,19 @@
             "at_2022_last_all": -15.61,
             "at_2023_last_all": -15.61
         },
-        "latest_eps": 0.02,
-        "latest_price": 15.55,
-        "latest_roe": 0.14,
+        "latest_eps": 0.28,
+        "latest_price": 14.6,
+        "latest_roe": 1.7,
         "latest_gross_margin": null,
-        "latest_equity": 5102673,
-        "latest_revenue": 164252,
+        "latest_equity": 5495473,
+        "latest_revenue": 351660,
         "latest_gross_profit": null,
-        "latest_net_income": -40772,
-        "latest_debt_ratio": 60.93,
-        "latest_current_ratio": 170.53,
-        "latest_account_receivable_turnover_ratio": 0.08,
+        "latest_net_income": 151615,
+        "latest_debt_ratio": 60.68,
+        "latest_current_ratio": 171.16,
+        "latest_account_receivable_turnover_ratio": 0.13,
         "latest_inventory_turnover_ratio": null,
-        "latest_reinvestment_rate": 64.5,
+        "latest_reinvestment_rate": 47.91,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -183,9 +183,9 @@
             "eps": 0.16
         },
         "2023": {
-            "cash": 0,
+            "cash": 0.3,
             "stock": 0,
-            "eps": -0.13
+            "eps": 0.36
         }
     },
     "dividends": {
@@ -243,6 +243,10 @@
         },
         "2019-08-02": {
             "cash": 1,
+            "stock": 0
+        },
+        "2023-10-06": {
+            "cash": 0.3,
             "stock": 0
         }
     },
@@ -516,7 +520,10 @@
         "202303": "17.43",
         "202304": "17.12",
         "202305": "16.16",
-        "202306": "15.54"
+        "202306": "15.51",
+        "202307": "15.15",
+        "202308": "14.80",
+        "202309": "14.80"
     },
     "quarters": {
         "20011": {
@@ -3188,6 +3195,36 @@
             "eps_avg_yearly": 0.65,
             "eps_latest_yearly": 0.4,
             "eps_growth_yearly": 1434.46
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": 0.49,
+            "eps_growth_year": 113.04,
+            "eps_4q": 0.28,
+            "eps_4q_growth_year": -66.79,
+            "roe": 2.86,
+            "roe_4q": 1.4900000000000002,
+            "gross_profit": null,
+            "gross_margin": null,
+            "gross_margin_4q_avg": 0,
+            "net_income": 151615,
+            "revenue": 351660,
+            "common_shares": 3109659,
+            "book_valuer_per_share": 17.69,
+            "book_valuer_per_share_4q_avg": 15.91,
+            "equity": 5495473,
+            "current_ratio": 171.16,
+            "debt_ratio": 60.68,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": 0.13,
+            "reinvestment_rate": 47.91,
+            "research_to_sale_ratio": null,
+            "price_fair": 22.78,
+            "eps_avg_yearly": 0.65,
+            "eps_latest_yearly": 0.4,
+            "eps_growth_yearly": 1434.46
         }
     },
     "months": {
@@ -4400,6 +4437,21 @@
             "month": "2023-05",
             "price": "16.16",
             "revenue": 102497
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "15.51",
+            "revenue": 142748
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "15.15",
+            "revenue": 159708
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "14.80",
+            "revenue": 66487
         }
     }
 }

@@ -3,10 +3,10 @@
         "stock_name": "濱川",
         "stock_id": "1569",
         "category": "電腦及週邊設備",
-        "main_business": "1.消費性電子產品,包括家庭劇院,環繞式音響及DVD之機構件等。<br>2.資訊週邊產品,包括:筆記型電腦鍵盤,印表機及LCD之機構件等。<br>3.上述產品之模具開發。",
+        "main_business": "1.資訊週邊產品,包括:NB金屬機殼及鍵盤,印表機及LCD之機構件等。<br>2.消費性電子產品,包括家庭劇院,環繞式音響及DVD之機構件等。<br>3.上述產品之模具開發。",
         "website_url": "http://www.hamagawa.com",
         "ceo": "蕭欽群",
-        "pe_ratio": 26,
+        "pe_ratio": -752,
         "report_year_from": 2003,
         "report_year_to": 2023,
         "age": 20,
@@ -56,20 +56,20 @@
             "at_2022_last_all": 8.63,
             "at_2023_last_all": 8.63
         },
-        "latest_eps": 0.91,
-        "latest_price": 23.85,
-        "latest_roe": 3.58,
-        "latest_gross_margin": 1.72,
-        "latest_equity": 3556377,
-        "latest_revenue": 873549,
-        "latest_gross_profit": 14989,
-        "latest_net_income": -129335,
-        "latest_debt_ratio": 49.02,
-        "latest_current_ratio": 131.82,
-        "latest_account_receivable_turnover_ratio": 0.59,
-        "latest_inventory_turnover_ratio": 0.84,
-        "latest_reinvestment_rate": -15.31,
-        "latest_research_to_sale_ratio": 5.35
+        "latest_eps": -0.03,
+        "latest_price": 22.55,
+        "latest_roe": 0.55,
+        "latest_gross_margin": 12.73,
+        "latest_equity": 3260449,
+        "latest_revenue": 928479,
+        "latest_gross_profit": 118204,
+        "latest_net_income": 30143,
+        "latest_debt_ratio": 50.94,
+        "latest_current_ratio": 125.65,
+        "latest_account_receivable_turnover_ratio": 0.62,
+        "latest_inventory_turnover_ratio": 0.97,
+        "latest_reinvestment_rate": -28.64,
+        "latest_research_to_sale_ratio": 5.11
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +185,7 @@
         "2023": {
             "cash": 2,
             "stock": 0,
-            "eps": -1.11
+            "eps": -0.9
         }
     },
     "dividends": {
@@ -253,7 +253,7 @@
             "cash": 1.6,
             "stock": 0
         },
-        "2023-03-27": {
+        "2023-09-13": {
             "cash": 2,
             "stock": 0
         }
@@ -528,7 +528,10 @@
         "202303": "25.19",
         "202304": "24.58",
         "202305": "23.20",
-        "202306": "23.74"
+        "202306": "23.76",
+        "202307": "24.55",
+        "202308": "23.34",
+        "202309": "22.07"
     },
     "quarters": {
         "20011": {
@@ -3200,6 +3203,36 @@
             "eps_avg_yearly": 2.93,
             "eps_latest_yearly": 3.92,
             "eps_growth_yearly": 327.24
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": 0.21,
+            "eps_growth_year": -81.9,
+            "eps_4q": -0.03,
+            "eps_4q_growth_year": -100.79,
+            "roe": 0.88,
+            "roe_4q": 0.5399999999999996,
+            "gross_profit": 118204,
+            "gross_margin": 12.73,
+            "gross_margin_4q_avg": 12.92,
+            "net_income": 30143,
+            "revenue": 928479,
+            "common_shares": 1214474,
+            "book_valuer_per_share": 25.91,
+            "book_valuer_per_share_4q_avg": 28.29,
+            "equity": 3260449,
+            "current_ratio": 125.65,
+            "debt_ratio": 50.94,
+            "inventory_turnover_ratio": 0.97,
+            "account_receivable_turnover_ratio": 0.62,
+            "reinvestment_rate": -28.64,
+            "research_to_sale_ratio": 5.11,
+            "price_fair": 109.2,
+            "eps_avg_yearly": 3.12,
+            "eps_latest_yearly": 3.92,
+            "eps_growth_yearly": 346.81
         }
     },
     "months": {
@@ -4332,6 +4365,21 @@
             "month": "2023-05",
             "price": "23.20",
             "revenue": 341516
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "23.76",
+            "revenue": 300457
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "24.55",
+            "revenue": 321357
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "23.34",
+            "revenue": 336109
         }
     }
 }

@@ -6,7 +6,7 @@
         "main_business": "金融控股公司業",
         "website_url": "http://www.yuanta.com",
         "ceo": "翁健",
-        "pe_ratio": 14,
+        "pe_ratio": 13,
         "report_year_from": 2002,
         "report_year_to": 2023,
         "age": 21,
@@ -56,19 +56,19 @@
             "at_2022_last_all": 13.33,
             "at_2023_last_all": 13.33
         },
-        "latest_eps": 1.68,
-        "latest_price": 24.35,
-        "latest_roe": 7.79,
+        "latest_eps": 1.96,
+        "latest_price": 25.75,
+        "latest_roe": 9.61,
         "latest_gross_margin": null,
-        "latest_equity": 289102821,
-        "latest_revenue": 23590867,
+        "latest_equity": 287266377,
+        "latest_revenue": 26541737,
         "latest_gross_profit": null,
-        "latest_net_income": 6404980,
-        "latest_debt_ratio": 90.69,
+        "latest_net_income": 9434551,
+        "latest_debt_ratio": 91.08,
         "latest_current_ratio": null,
         "latest_account_receivable_turnover_ratio": null,
         "latest_inventory_turnover_ratio": null,
-        "latest_reinvestment_rate": 4.87,
+        "latest_reinvestment_rate": 5,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -185,7 +185,7 @@
         "2023": {
             "cash": 0.8,
             "stock": 0.15,
-            "eps": 0.46
+            "eps": 1.18
         }
     },
     "dividends": {
@@ -536,7 +536,10 @@
         "202303": "22.28",
         "202304": "22.47",
         "202305": "23.18",
-        "202306": "24.30"
+        "202306": "24.18",
+        "202307": "23.76",
+        "202308": "24.45",
+        "202309": "24.87"
     },
     "quarters": {
         "20011": {
@@ -3208,6 +3211,36 @@
             "eps_avg_yearly": 2.09,
             "eps_latest_yearly": 1.84,
             "eps_growth_yearly": 66.91
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": 0.72,
+            "eps_growth_year": 67.44,
+            "eps_4q": 1.96,
+            "eps_4q_growth_year": -8.21,
+            "roe": 3.27,
+            "roe_4q": 9.489999999999998,
+            "gross_profit": null,
+            "gross_margin": null,
+            "gross_margin_4q_avg": 0,
+            "net_income": 9434551,
+            "revenue": 26541737,
+            "common_shares": 125015590,
+            "book_valuer_per_share": 21.34,
+            "book_valuer_per_share_4q_avg": 20.81,
+            "equity": 287266377,
+            "current_ratio": null,
+            "debt_ratio": 91.08,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": null,
+            "reinvestment_rate": 5,
+            "research_to_sale_ratio": null,
+            "price_fair": 75.16,
+            "eps_avg_yearly": 2.15,
+            "eps_latest_yearly": 2.88,
+            "eps_growth_yearly": 80.51
         }
     },
     "months": {
@@ -4490,6 +4523,21 @@
             "month": "2023-05",
             "price": "23.18",
             "revenue": 6875855
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "24.18",
+            "revenue": 12139392
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "23.76",
+            "revenue": 11633153
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "24.45",
+            "revenue": 9008431
         }
     }
 }

@@ -6,7 +6,7 @@
         "main_business": "覆蓋膜<br>軟性銅箔基層板<br>補強板",
         "website_url": "http://www.aemg.com.tw/",
         "ceo": "李建輝",
-        "pe_ratio": 0,
+        "pe_ratio": 100,
         "report_year_from": 2009,
         "report_year_to": 2023,
         "age": 14,
@@ -56,20 +56,20 @@
             "at_2022_last_all": 4.24,
             "at_2023_last_all": 4.24
         },
-        "latest_eps": -0,
-        "latest_price": 16.85,
-        "latest_roe": -0.01,
-        "latest_gross_margin": 22.25,
-        "latest_equity": 1557099,
-        "latest_revenue": 314931,
-        "latest_gross_profit": 70076,
-        "latest_net_income": 5363,
-        "latest_debt_ratio": 46.08,
-        "latest_current_ratio": 163.5,
-        "latest_account_receivable_turnover_ratio": 0.45,
-        "latest_inventory_turnover_ratio": 0.83,
-        "latest_reinvestment_rate": 120.52,
-        "latest_research_to_sale_ratio": 5.95
+        "latest_eps": 0.05,
+        "latest_price": 16.7,
+        "latest_roe": 0.33,
+        "latest_gross_margin": 22.12,
+        "latest_equity": 1476510,
+        "latest_revenue": 364898,
+        "latest_gross_profit": 80726,
+        "latest_net_income": -1447,
+        "latest_debt_ratio": 45.93,
+        "latest_current_ratio": 181.08,
+        "latest_account_receivable_turnover_ratio": 0.49,
+        "latest_inventory_turnover_ratio": 0.85,
+        "latest_reinvestment_rate": 79.9,
+        "latest_research_to_sale_ratio": 4.57
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +185,7 @@
         "2023": {
             "cash": 0.48,
             "stock": 0,
-            "eps": 0.05
+            "eps": 0.04
         }
     },
     "dividends": {
@@ -508,7 +508,10 @@
         "202303": "16.53",
         "202304": "16.44",
         "202305": "17.02",
-        "202306": "16.96"
+        "202306": "16.88",
+        "202307": "17.02",
+        "202308": "16.84",
+        "202309": "16.77"
     },
     "quarters": {
         "20011": {
@@ -3180,6 +3183,36 @@
             "eps_avg_yearly": 1.61,
             "eps_latest_yearly": 1.64,
             "eps_growth_yearly": 297.22
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": -0.01,
+            "eps_growth_year": null,
+            "eps_4q": 0.05,
+            "eps_4q_growth_year": -96.01,
+            "roe": -0.1,
+            "roe_4q": 0.32000000000000006,
+            "gross_profit": 80726,
+            "gross_margin": 22.12,
+            "gross_margin_4q_avg": 21.7,
+            "net_income": -1447,
+            "revenue": 364898,
+            "common_shares": 982009,
+            "book_valuer_per_share": 15.04,
+            "book_valuer_per_share_4q_avg": 15.63,
+            "equity": 1476510,
+            "current_ratio": 181.08,
+            "debt_ratio": 45.93,
+            "inventory_turnover_ratio": 0.85,
+            "account_receivable_turnover_ratio": 0.49,
+            "reinvestment_rate": 79.9,
+            "research_to_sale_ratio": 4.57,
+            "price_fair": 56.28,
+            "eps_avg_yearly": 1.61,
+            "eps_latest_yearly": 1.64,
+            "eps_growth_yearly": 297.22
         }
     },
     "months": {
@@ -3967,6 +4000,21 @@
             "month": "2023-05",
             "price": "17.02",
             "revenue": 120392
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "16.88",
+            "revenue": 130637
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "17.02",
+            "revenue": 139086
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "16.84",
+            "revenue": 143213
         }
     }
 }

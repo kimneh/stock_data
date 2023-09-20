@@ -6,7 +6,7 @@
         "main_business": "PHONIC 專業音響之製造及全球行銷",
         "website_url": "http://www.twphonic.com",
         "ceo": "鄒景文",
-        "pe_ratio": -165,
+        "pe_ratio": 100,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
@@ -56,20 +56,20 @@
             "at_2022_last_all": -39.53,
             "at_2023_last_all": -39.53
         },
-        "latest_eps": -0.25,
-        "latest_price": 41.2,
-        "latest_roe": -1.98,
-        "latest_gross_margin": 33.76,
-        "latest_equity": 246564,
-        "latest_revenue": 30268,
-        "latest_gross_profit": 10218,
-        "latest_net_income": 1284,
-        "latest_debt_ratio": 27.83,
-        "latest_current_ratio": 448.95,
-        "latest_account_receivable_turnover_ratio": 9.06,
-        "latest_inventory_turnover_ratio": 0.93,
-        "latest_reinvestment_rate": -30.25,
-        "latest_research_to_sale_ratio": 1.29
+        "latest_eps": 0.36,
+        "latest_price": 38.25,
+        "latest_roe": 2.89,
+        "latest_gross_margin": 33.82,
+        "latest_equity": 251578,
+        "latest_revenue": 40544,
+        "latest_gross_profit": 13713,
+        "latest_net_income": 5524,
+        "latest_debt_ratio": 28.66,
+        "latest_current_ratio": 429.74,
+        "latest_account_receivable_turnover_ratio": 16.07,
+        "latest_inventory_turnover_ratio": 1,
+        "latest_reinvestment_rate": -27.01,
+        "latest_research_to_sale_ratio": 1.26
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +185,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 0.06
+            "eps": 0.34
         }
     },
     "dividends": {
@@ -496,7 +496,10 @@
         "202303": "33.04",
         "202304": "34.05",
         "202305": "35.84",
-        "202306": "38.80"
+        "202306": "39.38",
+        "202307": "38.46",
+        "202308": "40.17",
+        "202309": "37.83"
     },
     "quarters": {
         "20011": {
@@ -3168,6 +3171,36 @@
             "eps_avg_yearly": 0.24,
             "eps_latest_yearly": 0.24,
             "eps_growth_yearly": 400
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": 0.28,
+            "eps_growth_year": null,
+            "eps_4q": 0.36,
+            "eps_4q_growth_year": -92.32,
+            "roe": 2.22,
+            "roe_4q": 2.8900000000000006,
+            "gross_profit": 13713,
+            "gross_margin": 33.82,
+            "gross_margin_4q_avg": 29.78,
+            "net_income": 5524,
+            "revenue": 40544,
+            "common_shares": 200000,
+            "book_valuer_per_share": 12.58,
+            "book_valuer_per_share_4q_avg": 12.35,
+            "equity": 251578,
+            "current_ratio": 429.74,
+            "debt_ratio": 28.66,
+            "inventory_turnover_ratio": 1,
+            "account_receivable_turnover_ratio": 16.07,
+            "reinvestment_rate": -27.01,
+            "research_to_sale_ratio": 1.26,
+            "price_fair": 23.8,
+            "eps_avg_yearly": 0.68,
+            "eps_latest_yearly": 1.12,
+            "eps_growth_yearly": 933.33
         }
     },
     "months": {
@@ -4355,6 +4388,21 @@
             "month": "2023-05",
             "price": "35.84",
             "revenue": 9222
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "39.38",
+            "revenue": 10426
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "38.46",
+            "revenue": 22342
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "40.17",
+            "revenue": 15658
         }
     }
 }

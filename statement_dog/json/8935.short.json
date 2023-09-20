@@ -6,7 +6,7 @@
         "main_business": "運動器材射出零組件之設計<br>製造工程塑膠複合材料之開發<br>其他",
         "website_url": "http://www.pontex.com",
         "ceo": "沈茂根",
-        "pe_ratio": 80,
+        "pe_ratio": -63,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
@@ -56,20 +56,20 @@
             "at_2022_last_all": -71.44,
             "at_2023_last_all": -71.44
         },
-        "latest_eps": 0.16,
-        "latest_price": 12.8,
-        "latest_roe": 1.69,
-        "latest_gross_margin": 12.37,
-        "latest_equity": 895868,
-        "latest_revenue": 195774,
-        "latest_gross_profit": 24218,
-        "latest_net_income": -11083,
-        "latest_debt_ratio": 49.5,
-        "latest_current_ratio": 133.5,
-        "latest_account_receivable_turnover_ratio": 0.86,
-        "latest_inventory_turnover_ratio": 0.58,
-        "latest_reinvestment_rate": -31.8,
-        "latest_research_to_sale_ratio": 1.55
+        "latest_eps": -0.19,
+        "latest_price": 12.05,
+        "latest_roe": -2.12,
+        "latest_gross_margin": 8.47,
+        "latest_equity": 874914,
+        "latest_revenue": 193649,
+        "latest_gross_profit": 16404,
+        "latest_net_income": -9026,
+        "latest_debt_ratio": 48.17,
+        "latest_current_ratio": 131.72,
+        "latest_account_receivable_turnover_ratio": 0.9,
+        "latest_inventory_turnover_ratio": 0.57,
+        "latest_reinvestment_rate": -51.8,
+        "latest_research_to_sale_ratio": 1.44
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +185,7 @@
         "2023": {
             "cash": 0,
             "stock": 0.3,
-            "eps": -0.13
+            "eps": -0.23
         }
     },
     "dividends": {
@@ -476,7 +476,10 @@
         "202303": "12.34",
         "202304": "11.97",
         "202305": "12.34",
-        "202306": "12.64"
+        "202306": "12.63",
+        "202307": "12.32",
+        "202308": "11.97",
+        "202309": "11.92"
     },
     "quarters": {
         "20011": {
@@ -3148,6 +3151,36 @@
             "eps_avg_yearly": 0.56,
             "eps_latest_yearly": 0.24,
             "eps_growth_yearly": 700.25
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": -0.1,
+            "eps_growth_year": -135.71,
+            "eps_4q": -0.19,
+            "eps_4q_growth_year": -160.09,
+            "roe": -1.02,
+            "roe_4q": -2.07,
+            "gross_profit": 16404,
+            "gross_margin": 8.47,
+            "gross_margin_4q_avg": 13.46,
+            "net_income": -9026,
+            "revenue": 193649,
+            "common_shares": 909660,
+            "book_valuer_per_share": 9.62,
+            "book_valuer_per_share_4q_avg": 9.88,
+            "equity": 874914,
+            "current_ratio": 131.72,
+            "debt_ratio": 48.17,
+            "inventory_turnover_ratio": 0.57,
+            "account_receivable_turnover_ratio": 0.9,
+            "reinvestment_rate": -51.8,
+            "research_to_sale_ratio": 1.44,
+            "price_fair": 19.6,
+            "eps_avg_yearly": 0.56,
+            "eps_latest_yearly": 0.24,
+            "eps_growth_yearly": 700.25
         }
     },
     "months": {
@@ -4425,6 +4458,21 @@
             "month": "2023-05",
             "price": "12.34",
             "revenue": 66803
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "12.63",
+            "revenue": 61496
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "12.32",
+            "revenue": 65590
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "11.97",
+            "revenue": 60847
         }
     }
 }

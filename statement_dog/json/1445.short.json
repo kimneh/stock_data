@@ -6,7 +6,7 @@
         "main_business": "各種紡織品之製造,加工染整及營銷<br>有關前項有關原料,材料及成品之進出口貿易業務<br>委託營造廠商興建商業大樓,國民住宅之出租出售事業",
         "website_url": "http://www.utc.tw",
         "ceo": "楊任凱",
-        "pe_ratio": 91,
+        "pe_ratio": 42,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
@@ -56,20 +56,20 @@
             "at_2022_last_all": -7.37,
             "at_2023_last_all": -7.37
         },
-        "latest_eps": 0.22,
-        "latest_price": 20.1,
-        "latest_roe": 1.74,
-        "latest_gross_margin": 16.23,
-        "latest_equity": 1646993,
-        "latest_revenue": 402007,
-        "latest_gross_profit": 65251,
-        "latest_net_income": 15673,
-        "latest_debt_ratio": 21.11,
-        "latest_current_ratio": 391.57,
-        "latest_account_receivable_turnover_ratio": 2.02,
-        "latest_inventory_turnover_ratio": 0.83,
+        "latest_eps": 0.5,
+        "latest_price": 20.8,
+        "latest_roe": 3.94,
+        "latest_gross_margin": 16.12,
+        "latest_equity": 1724636,
+        "latest_revenue": 353787,
+        "latest_gross_profit": 57030,
+        "latest_net_income": 13975,
+        "latest_debt_ratio": 20.9,
+        "latest_current_ratio": 365.01,
+        "latest_account_receivable_turnover_ratio": 1.74,
+        "latest_inventory_turnover_ratio": 0.72,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 0.6
+        "latest_research_to_sale_ratio": 1
     },
     "eps_dividends": {
         "1991": {
@@ -230,7 +230,7 @@
         "2023": {
             "cash": 0.1,
             "stock": 0,
-            "eps": 0.12
+            "eps": 0.23
         }
     },
     "dividends": {
@@ -334,7 +334,7 @@
             "cash": 0.2,
             "stock": 0
         },
-        "2023-07-21": {
+        "2023-06-30": {
             "cash": 0.1,
             "stock": 0
         }
@@ -609,7 +609,10 @@
         "202303": "16.10",
         "202304": "18.93",
         "202305": "20.41",
-        "202306": "20.98"
+        "202306": "20.78",
+        "202307": "19.01",
+        "202308": "20.07",
+        "202309": "20.77"
     },
     "quarters": {
         "20011": {
@@ -3281,6 +3284,36 @@
             "eps_avg_yearly": 0.48,
             "eps_latest_yearly": 0.48,
             "eps_growth_yearly": -40
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": 0.11,
+            "eps_growth_year": null,
+            "eps_4q": 0.5,
+            "eps_4q_growth_year": null,
+            "roe": 0.83,
+            "roe_4q": 4.01,
+            "gross_profit": 57030,
+            "gross_margin": 16.12,
+            "gross_margin_4q_avg": 14.84,
+            "net_income": 13975,
+            "revenue": 353787,
+            "common_shares": 1306660,
+            "book_valuer_per_share": 13.2,
+            "book_valuer_per_share_4q_avg": 12.62,
+            "equity": 1724636,
+            "current_ratio": 365.01,
+            "debt_ratio": 20.9,
+            "inventory_turnover_ratio": 0.72,
+            "account_receivable_turnover_ratio": 1.74,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 1,
+            "price_fair": 1.4,
+            "eps_avg_yearly": 0.47,
+            "eps_latest_yearly": 0.44,
+            "eps_growth_yearly": -37.78
         }
     },
     "months": {
@@ -4603,6 +4636,21 @@
             "month": "2023-05",
             "price": "20.41",
             "revenue": 115960
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "20.78",
+            "revenue": 113575
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "19.01",
+            "revenue": 104813
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "20.07",
+            "revenue": 104160
         }
     }
 }

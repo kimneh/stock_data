@@ -6,11 +6,11 @@
         "main_business": "苯乙烯單體<br>對二乙苯<br>甲苯 乙苯",
         "website_url": "http://www.smct.com.tw/",
         "ceo": "仲崇國",
-        "pe_ratio": -19,
+        "pe_ratio": -14,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 22,
-        "eps_negative_percentage": 30,
+        "eps_negative_percentage": 35,
         "eps_growth_avg": {
             "last_all": -41.72,
             "last_2y": -77.43,
@@ -56,19 +56,19 @@
             "at_2022_last_all": -41.72,
             "at_2023_last_all": -41.72
         },
-        "latest_eps": -0.89,
-        "latest_price": 16.6,
-        "latest_roe": -6.54,
-        "latest_gross_margin": 0.33,
-        "latest_equity": 6810626,
-        "latest_revenue": 2318484,
-        "latest_gross_profit": 7691,
-        "latest_net_income": -588,
-        "latest_debt_ratio": 24.11,
-        "latest_current_ratio": 145.98,
-        "latest_account_receivable_turnover_ratio": 2.15,
-        "latest_inventory_turnover_ratio": 4.46,
-        "latest_reinvestment_rate": -142.36,
+        "latest_eps": -1.18,
+        "latest_price": 16.55,
+        "latest_roe": -9.11,
+        "latest_gross_margin": -14.61,
+        "latest_equity": 6471588,
+        "latest_revenue": 2316728,
+        "latest_gross_profit": -338564,
+        "latest_net_income": -302959,
+        "latest_debt_ratio": 25.32,
+        "latest_current_ratio": 123.4,
+        "latest_account_receivable_turnover_ratio": 2.57,
+        "latest_inventory_turnover_ratio": 4.94,
+        "latest_reinvestment_rate": null,
         "latest_research_to_sale_ratio": 0
     },
     "eps_dividends": {
@@ -215,7 +215,7 @@
         "2023": {
             "cash": 0.2,
             "stock": 0,
-            "eps": 0
+            "eps": -0.57
         }
     },
     "dividends": {
@@ -303,7 +303,7 @@
             "cash": 0.15,
             "stock": 0
         },
-        "2023-03-08": {
+        "2023-10-25": {
             "cash": 0.2,
             "stock": 0
         }
@@ -578,7 +578,10 @@
         "202303": "13.90",
         "202304": "15.39",
         "202305": "16.68",
-        "202306": "16.66"
+        "202306": "16.58",
+        "202307": "15.81",
+        "202308": "15.82",
+        "202309": "15.92"
     },
     "quarters": {
         "20011": {
@@ -3250,6 +3253,36 @@
             "eps_avg_yearly": 1.6,
             "eps_latest_yearly": 1.88,
             "eps_growth_yearly": 4592.16
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": -0.57,
+            "eps_growth_year": null,
+            "eps_4q": -1.18,
+            "eps_4q_growth_year": null,
+            "roe": -4.56,
+            "roe_4q": -9.139999999999999,
+            "gross_profit": -338564,
+            "gross_margin": -14.61,
+            "gross_margin_4q_avg": -6.55,
+            "net_income": -302959,
+            "revenue": 2316728,
+            "common_shares": 5278698,
+            "book_valuer_per_share": 11.79,
+            "book_valuer_per_share_4q_avg": 12.3,
+            "equity": 6471588,
+            "current_ratio": 123.4,
+            "debt_ratio": 25.32,
+            "inventory_turnover_ratio": 4.94,
+            "account_receivable_turnover_ratio": 2.57,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 0,
+            "price_fair": 51.8,
+            "eps_avg_yearly": 1.48,
+            "eps_latest_yearly": 1.88,
+            "eps_growth_yearly": 5362.81
         }
     },
     "months": {
@@ -4572,6 +4605,21 @@
             "month": "2023-05",
             "price": "16.68",
             "revenue": 711900
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "16.58",
+            "revenue": 641308
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "15.81",
+            "revenue": 689103
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "15.82",
+            "revenue": 814218
         }
     }
 }

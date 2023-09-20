@@ -3,7 +3,7 @@
         "stock_name": "Cisco Systems Inc",
         "stock_id": "CSCO",
         "category": "Computer and Technology",
-        "main_business": "思科公司設計並銷售一系列為網際網路供電的技術。該公司正在將基於意圖的技術整合到網路、安全、協作、應用程式和雲上。這些技術旨在幫助客戶管理更多的使用者、裝置和連線到他們網路的東西。",
+        "main_business": "思科公司於1984年在加利福尼亞州註冊成立，並於2021年在特拉華州重新註冊成立。該公司設計並銷售一系列為網際網路提供動力的技術。該公司正在整合跨網路、安全、協作、應用和雲的產品組合，為客戶的數字業務建立高度安全、智慧的平臺。這些平臺旨在幫助客戶管理更多的使用者、裝置和連線到他們網路的東西。公司的產品和技術分為以下幾類：安全、敏捷網路；面向未來的網際網路；協作；端到端安全；最佳化應用體驗；以及其他產品。除了提供產品外，該公司還提供廣泛的服務，包括技術支援服務和高階服務。該公司越來越多地透過軟體和服務提供技術。該公司的客戶包括各種規模的企業、公共機構、政府和服務提供商，包括大型網路服務提供商。",
         "website_url": "https://www.cisco.com/",
         "ceo": "Charles H. Robbins",
         "pe_ratio": 18,
@@ -56,20 +56,20 @@
             "at_2022_last_all": 16.59,
             "at_2023_last_all": 16.59
         },
-        "latest_eps": 2.85,
-        "latest_price": 50.33,
-        "latest_roe": 28.01,
-        "latest_gross_margin": 63.36,
-        "latest_equity": 42295000,
-        "latest_revenue": 14571000,
-        "latest_gross_profit": 9232000,
-        "latest_net_income": 3212000,
-        "latest_debt_ratio": 56.63,
-        "latest_current_ratio": 139.11,
-        "latest_account_receivable_turnover_ratio": 1.56,
-        "latest_inventory_turnover_ratio": 1.61,
-        "latest_reinvestment_rate": -2.04,
-        "latest_research_to_sale_ratio": 13.47
+        "latest_eps": 3.19,
+        "latest_price": 56.11,
+        "latest_roe": 29.96,
+        "latest_gross_margin": 64.12,
+        "latest_equity": 44353000,
+        "latest_revenue": 15203000,
+        "latest_gross_profit": 9748000,
+        "latest_net_income": 3958000,
+        "latest_debt_ratio": 56.45,
+        "latest_current_ratio": 138.45,
+        "latest_account_receivable_turnover_ratio": 1.57,
+        "latest_inventory_turnover_ratio": 1.53,
+        "latest_reinvestment_rate": -4.17,
+        "latest_research_to_sale_ratio": 12.85
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +183,9 @@
             "eps": 2.83
         },
         "2023": {
-            "cash": 1.1600000000000001,
+            "cash": 1.5500000000000003,
             "stock": 0,
-            "eps": 2.17
+            "eps": 3.19
         }
     },
     "dividends": {
@@ -386,6 +386,10 @@
             "stock": 0
         },
         "2023-07-27": {
+            "cash": 0.39,
+            "stock": 0
+        },
+        "2023-10-26": {
             "cash": 0.39,
             "stock": 0
         }
@@ -660,7 +664,10 @@
         "202303": "49.78",
         "202304": "49.35",
         "202305": "47.64",
-        "202306": "50.56"
+        "202306": "50.66",
+        "202307": "51.91",
+        "202308": "54.43",
+        "202309": "56.70"
     },
     "quarters": {
         "20012": {
@@ -3362,6 +3369,36 @@
             "eps_avg_yearly": 2.78,
             "eps_latest_yearly": 3.2,
             "eps_growth_yearly": 4.26
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": 1.02,
+            "eps_growth_year": 49.93,
+            "eps_4q": 3.19,
+            "eps_4q_growth_year": 12.59,
+            "roe": 9.14,
+            "roe_4q": 30.260000000000005,
+            "gross_profit": 9748000,
+            "gross_margin": 64.12,
+            "gross_margin_4q_avg": 62.68,
+            "net_income": 3958000,
+            "revenue": 15203000,
+            "common_shares": 44289000,
+            "book_valuer_per_share": 0.98,
+            "book_valuer_per_share_4q_avg": 0.41,
+            "equity": 44353000,
+            "current_ratio": 138.45,
+            "debt_ratio": 56.45,
+            "inventory_turnover_ratio": 1.53,
+            "account_receivable_turnover_ratio": 1.57,
+            "reinvestment_rate": -4.17,
+            "research_to_sale_ratio": 12.85,
+            "price_fair": 58.39,
+            "eps_avg_yearly": 2.86,
+            "eps_latest_yearly": 4.08,
+            "eps_growth_yearly": 10.42
         }
     },
     "months": {
@@ -4712,7 +4749,22 @@
         },
         "2023-06": {
             "month": "2023-06",
-            "price": "50.56",
+            "price": "50.66",
+            "revenue": 0
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "51.91",
+            "revenue": 0
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "54.43",
+            "revenue": 0
+        },
+        "2023-09": {
+            "month": "2023-09",
+            "price": "56.70",
             "revenue": 0
         }
     }

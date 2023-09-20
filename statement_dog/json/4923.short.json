@@ -6,11 +6,11 @@
         "main_business": "MOSFETS",
         "website_url": "http://www.force-mos.com",
         "ceo": "鍾明道",
-        "pe_ratio": 10,
+        "pe_ratio": 30,
         "report_year_from": 2009,
         "report_year_to": 2023,
         "age": 14,
-        "eps_negative_percentage": 0,
+        "eps_negative_percentage": 33,
         "eps_growth_avg": {
             "last_all": null,
             "last_2y": null,
@@ -56,20 +56,20 @@
             "at_2022_last_all": null,
             "at_2023_last_all": null
         },
-        "latest_eps": 4.32,
-        "latest_price": 43.55,
-        "latest_roe": 14.4,
-        "latest_gross_margin": 28.4,
-        "latest_equity": 820568,
-        "latest_revenue": 182870,
-        "latest_gross_profit": 51944,
-        "latest_net_income": 1817,
-        "latest_debt_ratio": 14.48,
-        "latest_current_ratio": 662.29,
-        "latest_account_receivable_turnover_ratio": 1.25,
-        "latest_inventory_turnover_ratio": 0.53,
+        "latest_eps": 1.51,
+        "latest_price": 45.05,
+        "latest_roe": 6.64,
+        "latest_gross_margin": 22.33,
+        "latest_equity": 734291,
+        "latest_revenue": 148474,
+        "latest_gross_profit": 33156,
+        "latest_net_income": -2744,
+        "latest_debt_ratio": 16.06,
+        "latest_current_ratio": 577,
+        "latest_account_receivable_turnover_ratio": 1.02,
+        "latest_inventory_turnover_ratio": 0.51,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 7.16
+        "latest_research_to_sale_ratio": 10.55
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +185,7 @@
         "2023": {
             "cash": 3,
             "stock": 2,
-            "eps": 0.07
+            "eps": -0.01
         }
     },
     "dividends": {
@@ -496,7 +496,10 @@
         "202303": "63.71",
         "202304": "61.70",
         "202305": "50.93",
-        "202306": "43.23"
+        "202306": "43.24",
+        "202307": "40.69",
+        "202308": "40.98",
+        "202309": "44.57"
     },
     "quarters": {
         "20011": {
@@ -3168,6 +3171,36 @@
             "eps_avg_yearly": 5.49,
             "eps_latest_yearly": 0.28,
             "eps_growth_yearly": -107.08
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": -0.08,
+            "eps_growth_year": -103.32,
+            "eps_4q": 1.51,
+            "eps_4q_growth_year": -79.95,
+            "roe": -0.35,
+            "roe_4q": 6.29,
+            "gross_profit": 33156,
+            "gross_margin": 22.33,
+            "gross_margin_4q_avg": 27.64,
+            "net_income": -2744,
+            "revenue": 148474,
+            "common_shares": 338908,
+            "book_valuer_per_share": 22.02,
+            "book_valuer_per_share_4q_avg": 27.54,
+            "equity": 734291,
+            "current_ratio": 577,
+            "debt_ratio": 16.06,
+            "inventory_turnover_ratio": 0.51,
+            "account_receivable_turnover_ratio": 1.02,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 10.55,
+            "price_fair": 16.46,
+            "eps_avg_yearly": 5.49,
+            "eps_latest_yearly": 0.28,
+            "eps_growth_yearly": -107.08
         }
     },
     "months": {
@@ -3840,6 +3873,21 @@
             "month": "2023-05",
             "price": "50.93",
             "revenue": 50025
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "43.24",
+            "revenue": 55010
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "40.69",
+            "revenue": 60030
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "40.98",
+            "revenue": 66090
         }
     }
 }

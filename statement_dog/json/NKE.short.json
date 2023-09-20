@@ -6,7 +6,7 @@
         "main_business": "耐克公司於1967年根據俄勒岡州法律成立。公司的主要業務活動是運動鞋、服裝、裝置、配件和服務的設計、開發和全球營銷和銷售。公司是世界上最大的運動鞋和運動服裝銷售商。公司透過耐克旗下的零售店和網際網路網站，以及世界各地的獨立經銷商和授權經銷商，向零售客戶銷售產品。實際上，公司的所有產品都是由獨立的承包商生產。幾乎所有的鞋類和服裝產品都在美國境外生產，而裝備產品則在美國和國外生產。",
         "website_url": "https://about.nike.com/",
         "ceo": "John J. Donahoe II",
-        "pe_ratio": 32,
+        "pe_ratio": 30,
         "report_year_from": 1995,
         "report_year_to": 2023,
         "age": 28,
@@ -56,19 +56,19 @@
             "at_2022_last_all": 19.16,
             "at_2023_last_all": 19.16
         },
-        "latest_eps": 3.47,
-        "latest_price": 109.52,
-        "latest_roe": 35.98,
-        "latest_gross_margin": 43.35,
-        "latest_equity": 14531000,
-        "latest_revenue": 12390000,
-        "latest_gross_profit": 5371000,
-        "latest_net_income": 1240000,
-        "latest_debt_ratio": 62.05,
-        "latest_current_ratio": 272.67,
-        "latest_account_receivable_turnover_ratio": 2.49,
-        "latest_inventory_turnover_ratio": 0.77,
-        "latest_reinvestment_rate": 15.66,
+        "latest_eps": 3.23,
+        "latest_price": 95.51,
+        "latest_roe": 34.01,
+        "latest_gross_margin": 43.63,
+        "latest_equity": 14004000,
+        "latest_revenue": 12825000,
+        "latest_gross_profit": 5595000,
+        "latest_net_income": 1031000,
+        "latest_debt_ratio": 62.69,
+        "latest_current_ratio": 272.28,
+        "latest_account_receivable_turnover_ratio": 2.97,
+        "latest_inventory_turnover_ratio": 0.83,
+        "latest_reinvestment_rate": 2.87,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -213,9 +213,9 @@
             "eps": 3.76
         },
         "2023": {
-            "cash": 0.68,
+            "cash": 1.02,
             "stock": 0,
-            "eps": 2.57
+            "eps": 3.23
         }
     },
     "dividends": {
@@ -654,6 +654,10 @@
         "2023-06-30": {
             "cash": 0.34,
             "stock": 0
+        },
+        "2023-10-03": {
+            "cash": 0.34,
+            "stock": 0
         }
     },
     "prices": {
@@ -926,7 +930,10 @@
         "202303": "119.83",
         "202304": "124.41",
         "202305": "117.77",
-        "202306": "108.37"
+        "202306": "109.34",
+        "202307": "108.02",
+        "202308": "105.07",
+        "202309": "97.88"
     },
     "quarters": {
         "20013": {
@@ -3598,6 +3605,36 @@
             "eps_avg_yearly": 3.44,
             "eps_latest_yearly": 3.16,
             "eps_growth_yearly": 2.63
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": 0.66,
+            "eps_growth_year": -26.52,
+            "eps_4q": 3.23,
+            "eps_4q_growth_year": -13.99,
+            "roe": 7.23,
+            "roe_4q": 33.55,
+            "gross_profit": 5595000,
+            "gross_margin": 43.63,
+            "gross_margin_4q_avg": 43.53,
+            "net_income": 1031000,
+            "revenue": 12825000,
+            "common_shares": 3000,
+            "book_valuer_per_share": 8.78,
+            "book_valuer_per_share_4q_avg": 9.28,
+            "equity": 14004000,
+            "current_ratio": 272.28,
+            "debt_ratio": 62.69,
+            "inventory_turnover_ratio": 0.83,
+            "account_receivable_turnover_ratio": 2.97,
+            "reinvestment_rate": 2.87,
+            "research_to_sale_ratio": null,
+            "price_fair": 34.51,
+            "eps_avg_yearly": 3.45,
+            "eps_latest_yearly": 2.64,
+            "eps_growth_yearly": 0.45
         }
     },
     "months": {
@@ -4948,7 +4985,22 @@
         },
         "2023-06": {
             "month": "2023-06",
-            "price": "108.37",
+            "price": "109.34",
+            "revenue": 0
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "108.02",
+            "revenue": 0
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "105.07",
+            "revenue": 0
+        },
+        "2023-09": {
+            "month": "2023-09",
+            "price": "97.88",
             "revenue": 0
         }
     }

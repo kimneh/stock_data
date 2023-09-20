@@ -3,10 +3,10 @@
         "stock_name": "訊映",
         "stock_id": "4155",
         "category": "生技醫療",
-        "main_business": "醫療器材製造業<br>醫療器材批發業<br>醫療器材零售業",
+        "main_business": "醫療器材製造業<br>醫療器材設備業<br>醫療器材零售業",
         "website_url": "http://www.okbiotech.com",
         "ceo": "賴家德",
-        "pe_ratio": 37,
+        "pe_ratio": 50,
         "report_year_from": 2010,
         "report_year_to": 2023,
         "age": 13,
@@ -56,20 +56,20 @@
             "at_2022_last_all": -1.11,
             "at_2023_last_all": -1.11
         },
-        "latest_eps": 0.98,
-        "latest_price": 36.3,
-        "latest_roe": 5.49,
-        "latest_gross_margin": 23.35,
-        "latest_equity": 2237921,
-        "latest_revenue": 321031,
-        "latest_gross_profit": 74946,
-        "latest_net_income": 17437,
-        "latest_debt_ratio": 27.25,
-        "latest_current_ratio": 185.69,
-        "latest_account_receivable_turnover_ratio": 0.82,
-        "latest_inventory_turnover_ratio": 0.59,
-        "latest_reinvestment_rate": 77.89,
-        "latest_research_to_sale_ratio": 3.03
+        "latest_eps": 0.57,
+        "latest_price": 28.25,
+        "latest_roe": 3.61,
+        "latest_gross_margin": 21.17,
+        "latest_equity": 2150526,
+        "latest_revenue": 319389,
+        "latest_gross_profit": 67620,
+        "latest_net_income": 12991,
+        "latest_debt_ratio": 27.55,
+        "latest_current_ratio": 180.76,
+        "latest_account_receivable_turnover_ratio": 0.8,
+        "latest_inventory_turnover_ratio": 0.65,
+        "latest_reinvestment_rate": 80.51,
+        "latest_research_to_sale_ratio": 4.33
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +185,7 @@
         "2023": {
             "cash": 1.26,
             "stock": 1.04,
-            "eps": 0.18
+            "eps": 0.31
         }
     },
     "dividends": {
@@ -237,7 +237,7 @@
             "cash": 1,
             "stock": 0
         },
-        "2023-04-25": {
+        "2023-10-20": {
             "cash": 1.26,
             "stock": 1.04
         }
@@ -512,7 +512,10 @@
         "202303": "35.54",
         "202304": "34.31",
         "202305": "35.34",
-        "202306": "35.62"
+        "202306": "36.24",
+        "202307": "35.70",
+        "202308": "32.57",
+        "202309": "29.64"
     },
     "quarters": {
         "20011": {
@@ -3184,6 +3187,36 @@
             "eps_avg_yearly": 1.69,
             "eps_latest_yearly": 1.96,
             "eps_growth_yearly": 10.6
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": 0.13,
+            "eps_growth_year": -77.19,
+            "eps_4q": 0.57,
+            "eps_4q_growth_year": -53.11,
+            "roe": 0.59,
+            "roe_4q": 3.71,
+            "gross_profit": 67620,
+            "gross_margin": 21.17,
+            "gross_margin_4q_avg": 22.25,
+            "net_income": 12991,
+            "revenue": 319389,
+            "common_shares": 1168926,
+            "book_valuer_per_share": 18.4,
+            "book_valuer_per_share_4q_avg": 18.72,
+            "equity": 2150526,
+            "current_ratio": 180.76,
+            "debt_ratio": 27.55,
+            "inventory_turnover_ratio": 0.65,
+            "account_receivable_turnover_ratio": 0.8,
+            "reinvestment_rate": 80.51,
+            "research_to_sale_ratio": 4.33,
+            "price_fair": 23.51,
+            "eps_avg_yearly": 1.61,
+            "eps_latest_yearly": 0.52,
+            "eps_growth_yearly": 4.62
         }
     },
     "months": {
@@ -3936,6 +3969,21 @@
             "month": "2023-05",
             "price": "35.34",
             "revenue": 105662
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "36.24",
+            "revenue": 147055
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "35.70",
+            "revenue": 92213
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "32.57",
+            "revenue": 96208
         }
     }
 }

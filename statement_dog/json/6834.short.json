@@ -6,7 +6,7 @@
         "main_business": "專業晶片電阻之製造與銷售業務",
         "website_url": "http://www.everohms.com",
         "ceo": "詹清輝",
-        "pe_ratio": 100,
+        "pe_ratio": -35,
         "report_year_from": 2020,
         "report_year_to": 2023,
         "age": 3,
@@ -56,20 +56,20 @@
             "at_2022_last_all": null,
             "at_2023_last_all": null
         },
-        "latest_eps": 0.14,
-        "latest_price": 27,
-        "latest_roe": 0.81,
-        "latest_gross_margin": 0.05,
-        "latest_equity": 1576465,
-        "latest_revenue": 219353,
-        "latest_gross_profit": 108,
-        "latest_net_income": -35521,
-        "latest_debt_ratio": 25.99,
-        "latest_current_ratio": 203.19,
-        "latest_account_receivable_turnover_ratio": 0.82,
-        "latest_inventory_turnover_ratio": 0.61,
+        "latest_eps": -0.75,
+        "latest_price": 26.15,
+        "latest_roe": -4.67,
+        "latest_gross_margin": 5.27,
+        "latest_equity": 1448602,
+        "latest_revenue": 232045,
+        "latest_gross_profit": 12232,
+        "latest_net_income": -30274,
+        "latest_debt_ratio": 36.53,
+        "latest_current_ratio": 151.63,
+        "latest_account_receivable_turnover_ratio": 0.85,
+        "latest_inventory_turnover_ratio": 0.64,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 3.94
+        "latest_research_to_sale_ratio": 3.44
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +185,7 @@
         "2023": {
             "cash": 1.1,
             "stock": 0,
-            "eps": -0.4
+            "eps": -0.74
         }
     },
     "dividends": {
@@ -472,7 +472,10 @@
         "202303": "28.90",
         "202304": "28.69",
         "202305": "26.70",
-        "202306": "27.05"
+        "202306": "27.03",
+        "202307": "26.48",
+        "202308": "26.38",
+        "202309": "26.25"
     },
     "quarters": {
         "20011": {
@@ -3144,6 +3147,36 @@
             "eps_avg_yearly": 1.82,
             "eps_latest_yearly": 1.24,
             "eps_growth_yearly": -127.65
+        },
+        "20232": {
+            "year_quarter": 20232,
+            "year": 2023,
+            "quarter": 2,
+            "eps": -0.34,
+            "eps_growth_year": -156.61,
+            "eps_4q": -0.75,
+            "eps_4q_growth_year": null,
+            "roe": -2,
+            "roe_4q": -4.120000000000001,
+            "gross_profit": 12232,
+            "gross_margin": 5.27,
+            "gross_margin_4q_avg": 9.45,
+            "net_income": -30274,
+            "revenue": 232045,
+            "common_shares": 884711,
+            "book_valuer_per_share": 16.37,
+            "book_valuer_per_share_4q_avg": 17.71,
+            "equity": 1448602,
+            "current_ratio": 151.63,
+            "debt_ratio": 36.53,
+            "inventory_turnover_ratio": 0.64,
+            "account_receivable_turnover_ratio": 0.85,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 3.44,
+            "price_fair": 5.46,
+            "eps_avg_yearly": 1.82,
+            "eps_latest_yearly": 1.24,
+            "eps_growth_yearly": -127.65
         }
     },
     "months": {
@@ -3256,6 +3289,21 @@
             "month": "2023-05",
             "price": "26.70",
             "revenue": 84547
+        },
+        "2023-06": {
+            "month": "2023-06",
+            "price": "27.03",
+            "revenue": 85990
+        },
+        "2023-07": {
+            "month": "2023-07",
+            "price": "26.48",
+            "revenue": 92633
+        },
+        "2023-08": {
+            "month": "2023-08",
+            "price": "26.38",
+            "revenue": 94838
         }
     }
 }
