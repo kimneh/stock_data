@@ -6,14 +6,14 @@
         "main_business": "鋼結構製造<br>貨櫃修理<br>除許可業務外，得經營法令非禁止或限制之業務",
         "website_url": "http://www.evergreennet.com",
         "ceo": "劉邦恩",
-        "pe_ratio": 9,
+        "pe_ratio": 11,
         "report_year_from": 2019,
         "report_year_to": 2023,
-        "age": 4,
+        "age": 5,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 99.04,
-            "last_2y": null,
+            "last_all": 74.77,
+            "last_2y": 74.77,
             "last_4y": null,
             "last_8y": null,
             "last_12y": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,20 +55,21 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": 99.04,
-            "at_2023_last_all": 99.04
+            "at_2023_last_all": 74.77,
+            "at_2024_last_all": 74.77
         },
-        "latest_eps": 8.13,
-        "latest_price": 70.8,
-        "latest_roe": 15.6,
-        "latest_gross_margin": 32.06,
-        "latest_equity": 27241039,
-        "latest_revenue": 3436966,
-        "latest_gross_profit": 1101812,
-        "latest_net_income": 2098489,
-        "latest_debt_ratio": 27.18,
-        "latest_current_ratio": 213.38,
-        "latest_account_receivable_turnover_ratio": 2.11,
-        "latest_inventory_turnover_ratio": 0.81,
+        "latest_eps": 9.05,
+        "latest_price": 104,
+        "latest_roe": 17.87,
+        "latest_gross_margin": 36.43,
+        "latest_equity": 26428692,
+        "latest_revenue": 3091036,
+        "latest_gross_profit": 1125967,
+        "latest_net_income": 1089996,
+        "latest_debt_ratio": 22.7,
+        "latest_current_ratio": 291.87,
+        "latest_account_receivable_turnover_ratio": 1.81,
+        "latest_inventory_turnover_ratio": 0.67,
         "latest_reinvestment_rate": null,
         "latest_research_to_sale_ratio": null
     },
@@ -183,9 +185,9 @@
             "eps": 6.21
         },
         "2023": {
-            "cash": 5,
+            "cash": 10,
             "stock": 0,
-            "eps": 5.64
+            "eps": 7.84
         }
     },
     "dividends": {
@@ -199,6 +201,10 @@
         },
         "2022-09-16": {
             "cash": 3,
+            "stock": 0
+        },
+        "2023-03-10": {
+            "cash": 5,
             "stock": 0
         },
         "2023-08-17": {
@@ -480,7 +486,9 @@
         "202307": "61.62",
         "202308": "66.67",
         "202309": "69.96",
-        "202310": "69.94"
+        "202310": "70.02",
+        "202311": "75.29",
+        "202312": "95.91"
     },
     "quarters": {
         "20011": {
@@ -3362,6 +3370,38 @@
             "eps_avg_yearly": 5.65,
             "eps_latest_yearly": 17.88,
             "eps_growth_yearly": 184.25
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 2.2,
+            "eps_growth_year": 71.88,
+            "eps_4q": 9.05,
+            "eps_4q_growth_year": 58.83,
+            "roe": 4.06,
+            "roe_4q": 17.389999999999997,
+            "gross_profit": 1125967,
+            "gross_margin": 36.43,
+            "gross_margin_4q_avg": 34.3,
+            "net_income": 1089996,
+            "net_income_4q": null,
+            "revenue": 3091036,
+            "revenue_4q": null,
+            "common_shares": 4170915,
+            "book_valuer_per_share": 55.25,
+            "book_valuer_per_share_4q_avg": 54.17,
+            "equity": 26428692,
+            "current_ratio": 291.87,
+            "debt_ratio": 22.7,
+            "inventory_turnover_ratio": 0.67,
+            "account_receivable_turnover_ratio": 1.81,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": null,
+            "price_fair": 207.08,
+            "eps_avg_yearly": 5.92,
+            "eps_latest_yearly": 8.8,
+            "eps_growth_yearly": 151.97
         }
     },
     "months": {
@@ -3589,6 +3629,16 @@
             "month": "2023-09",
             "price": "69.96",
             "revenue": 854884
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "70.02",
+            "revenue": 520497
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "75.29",
+            "revenue": 550560
         }
     }
 }

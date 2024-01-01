@@ -6,16 +6,16 @@
         "main_business": "機車及其零件製造及銷售<br>沙灘車及其零件製造及銷售<br>其他車輛及其零件製造及銷售",
         "website_url": "http://www.aeonmotor.com",
         "ceo": "鍾杰霖",
-        "pe_ratio": 27,
+        "pe_ratio": 28,
         "report_year_from": 2009,
         "report_year_to": 2023,
-        "age": 14,
-        "eps_negative_percentage": 8,
+        "age": 15,
+        "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 11.23,
-            "last_2y": 24.22,
-            "last_4y": 15.34,
-            "last_8y": 5.31,
+            "last_all": 3.42,
+            "last_2y": -18.34,
+            "last_4y": -9.64,
+            "last_8y": 1.94,
             "last_12y": null,
             "last_16y": null,
             "last_20y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": -0.03,
             "at_2021_last_3y": 24.47,
             "at_2022_last_3y": 8.56,
-            "at_2023_last_3y": 8.56,
+            "at_2023_last_3y": -2.44,
+            "at_2024_last_3y": -2.44,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 10.67,
             "at_2021_last_all": 14.47,
             "at_2022_last_all": 11.23,
-            "at_2023_last_all": 11.23
+            "at_2023_last_all": 3.42,
+            "at_2024_last_all": 3.42
         },
-        "latest_eps": 1.29,
-        "latest_price": 35.35,
-        "latest_roe": 5.01,
-        "latest_gross_margin": 16.99,
-        "latest_equity": 1866448,
-        "latest_revenue": 381944,
-        "latest_gross_profit": 64891,
-        "latest_net_income": 10207,
-        "latest_debt_ratio": 33.51,
-        "latest_current_ratio": 233.26,
-        "latest_account_receivable_turnover_ratio": 5.35,
-        "latest_inventory_turnover_ratio": 0.51,
-        "latest_reinvestment_rate": 59.97,
-        "latest_research_to_sale_ratio": 7.55
+        "latest_eps": 1.26,
+        "latest_price": 35.4,
+        "latest_roe": 4.65,
+        "latest_gross_margin": 22.67,
+        "latest_equity": 1979811,
+        "latest_revenue": 946473,
+        "latest_gross_profit": 214599,
+        "latest_net_income": 87771,
+        "latest_debt_ratio": 38.93,
+        "latest_current_ratio": 193.83,
+        "latest_account_receivable_turnover_ratio": 4.88,
+        "latest_inventory_turnover_ratio": 1.28,
+        "latest_reinvestment_rate": 52.09,
+        "latest_research_to_sale_ratio": 3.7
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 1.5,
             "stock": 0,
-            "eps": -0.54
+            "eps": 0.66
         }
     },
     "dividends": {
@@ -512,7 +514,9 @@
         "202307": "37.41",
         "202308": "36.23",
         "202309": "36.71",
-        "202310": "35.74"
+        "202310": "35.72",
+        "202311": "35.29",
+        "202312": "35.05"
     },
     "quarters": {
         "20011": {
@@ -3394,6 +3398,38 @@
             "eps_avg_yearly": 3.58,
             "eps_latest_yearly": 2.36,
             "eps_growth_yearly": 94.11
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 1.2,
+            "eps_growth_year": -2.44,
+            "eps_4q": 1.26,
+            "eps_4q_growth_year": -69.71,
+            "roe": 4.56,
+            "roe_4q": 4.719999999999999,
+            "gross_profit": 214599,
+            "gross_margin": 22.67,
+            "gross_margin_4q_avg": 19.32,
+            "net_income": 87771,
+            "net_income_4q": null,
+            "revenue": 946473,
+            "revenue_4q": null,
+            "common_shares": 745287,
+            "book_valuer_per_share": 27.11,
+            "book_valuer_per_share_4q_avg": 26.41,
+            "equity": 1979811,
+            "current_ratio": 193.83,
+            "debt_ratio": 38.93,
+            "inventory_turnover_ratio": 1.28,
+            "account_receivable_turnover_ratio": 4.88,
+            "reinvestment_rate": 52.09,
+            "research_to_sale_ratio": 3.7,
+            "price_fair": 131.8,
+            "eps_avg_yearly": 3.77,
+            "eps_latest_yearly": 4.8,
+            "eps_growth_yearly": 308.82
         }
     },
     "months": {
@@ -4116,6 +4152,16 @@
             "month": "2023-09",
             "price": "36.71",
             "revenue": 315732
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "35.72",
+            "revenue": 170654
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "35.29",
+            "revenue": 144910
         }
     }
 }

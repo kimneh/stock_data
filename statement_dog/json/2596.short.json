@@ -6,17 +6,17 @@
         "main_business": "住宅及大樓開發租售業務<br>工業廠房開發租售業務<br>特定專業區開發業",
         "website_url": "http://www.realycorp.com.tw",
         "ceo": "許燈城",
-        "pe_ratio": -145,
+        "pe_ratio": 100,
         "report_year_from": 2005,
         "report_year_to": 2023,
-        "age": 18,
-        "eps_negative_percentage": 6,
+        "age": 19,
+        "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 4.81,
-            "last_2y": 39.65,
-            "last_4y": 13.64,
-            "last_8y": 4.57,
-            "last_12y": 2.43,
+            "last_all": 0.85,
+            "last_2y": -13.22,
+            "last_4y": -5.69,
+            "last_8y": 0.34,
+            "last_12y": 2.11,
             "last_16y": null,
             "last_20y": null,
             "at_2006_last_3y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 3.4,
             "at_2021_last_3y": 37.31,
             "at_2022_last_3y": 7.55,
-            "at_2023_last_3y": 7.55,
+            "at_2023_last_3y": 15.08,
+            "at_2024_last_3y": 15.08,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,21 +55,22 @@
             "at_2020_last_all": 4.1,
             "at_2021_last_all": 10.95,
             "at_2022_last_all": 4.81,
-            "at_2023_last_all": 4.81
+            "at_2023_last_all": 0.85,
+            "at_2024_last_all": 0.85
         },
-        "latest_eps": -0.16,
-        "latest_price": 23.2,
-        "latest_roe": -0.78,
-        "latest_gross_margin": 3.84,
-        "latest_equity": 2311728,
-        "latest_revenue": 51838,
-        "latest_gross_profit": 1991,
-        "latest_net_income": -12249,
-        "latest_debt_ratio": 43.38,
-        "latest_current_ratio": 222.91,
-        "latest_account_receivable_turnover_ratio": 2.56,
-        "latest_inventory_turnover_ratio": 0.02,
-        "latest_reinvestment_rate": -0.79,
+        "latest_eps": 0.22,
+        "latest_price": 25.15,
+        "latest_roe": 0.82,
+        "latest_gross_margin": 20.36,
+        "latest_equity": 2359356,
+        "latest_revenue": 461649,
+        "latest_gross_profit": 93984,
+        "latest_net_income": 47628,
+        "latest_debt_ratio": 45.31,
+        "latest_current_ratio": 213.82,
+        "latest_account_receivable_turnover_ratio": 9.08,
+        "latest_inventory_turnover_ratio": 0.13,
+        "latest_reinvestment_rate": -0.72,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 1,
             "stock": 0,
-            "eps": -0.24
+            "eps": 0.24
         }
     },
     "dividends": {
@@ -532,7 +534,9 @@
         "202307": "22.32",
         "202308": "21.88",
         "202309": "23.30",
-        "202310": "23.31"
+        "202310": "23.32",
+        "202311": "22.78",
+        "202312": "23.25"
     },
     "quarters": {
         "20011": {
@@ -3414,6 +3418,38 @@
             "eps_avg_yearly": 3.69,
             "eps_latest_yearly": 2.6,
             "eps_growth_yearly": 409.78
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.48,
+            "eps_growth_year": 380,
+            "eps_4q": 0.22,
+            "eps_4q_growth_year": -87.19,
+            "roe": 2.04,
+            "roe_4q": 0.87,
+            "gross_profit": 93984,
+            "gross_margin": 20.36,
+            "gross_margin_4q_avg": 12.57,
+            "net_income": 47628,
+            "net_income_4q": null,
+            "revenue": 461649,
+            "revenue_4q": null,
+            "common_shares": 1000000,
+            "book_valuer_per_share": 19.95,
+            "book_valuer_per_share_4q_avg": 20.18,
+            "equity": 2359356,
+            "current_ratio": 213.82,
+            "debt_ratio": 45.31,
+            "inventory_turnover_ratio": 0.13,
+            "account_receivable_turnover_ratio": 9.08,
+            "reinvestment_rate": -0.72,
+            "research_to_sale_ratio": null,
+            "price_fair": 129.08,
+            "eps_avg_yearly": 3.69,
+            "eps_latest_yearly": 2.6,
+            "eps_growth_yearly": 409.78
         }
     },
     "months": {
@@ -4381,6 +4417,16 @@
             "month": "2023-09",
             "price": "23.30",
             "revenue": 119248
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "23.32",
+            "revenue": 73063
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "22.78",
+            "revenue": 213582
         }
     }
 }

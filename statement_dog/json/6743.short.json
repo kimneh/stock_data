@@ -6,14 +6,14 @@
         "main_business": "耳機產品設計及製造<br>消費性電子產品塑膠零組件設計及製造",
         "website_url": "http://www.ampacscorp.com/",
         "ceo": "黃常青",
-        "pe_ratio": 100,
+        "pe_ratio": -305,
         "report_year_from": 2019,
         "report_year_to": 2023,
-        "age": 4,
+        "age": 5,
         "eps_negative_percentage": 50,
         "eps_growth_avg": {
             "last_all": -100,
-            "last_2y": null,
+            "last_2y": -100,
             "last_4y": null,
             "last_8y": null,
             "last_12y": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": -100,
-            "at_2023_last_all": -100
+            "at_2023_last_all": -100,
+            "at_2024_last_all": -100
         },
-        "latest_eps": 0.07,
-        "latest_price": 50.2,
-        "latest_roe": 0.35,
-        "latest_gross_margin": 16.12,
-        "latest_equity": 2713837,
-        "latest_revenue": 1038801,
-        "latest_gross_profit": 167479,
-        "latest_net_income": 4661,
-        "latest_debt_ratio": 66.59,
-        "latest_current_ratio": 81.22,
-        "latest_account_receivable_turnover_ratio": 0.9,
-        "latest_inventory_turnover_ratio": 0.49,
+        "latest_eps": -0.17,
+        "latest_price": 51.9,
+        "latest_roe": -0.95,
+        "latest_gross_margin": 19.95,
+        "latest_equity": 2735765,
+        "latest_revenue": 1020178,
+        "latest_gross_profit": 203560,
+        "latest_net_income": 1604,
+        "latest_debt_ratio": 66.35,
+        "latest_current_ratio": 79.93,
+        "latest_account_receivable_turnover_ratio": 0.87,
+        "latest_inventory_turnover_ratio": 0.45,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 4.66
+        "latest_research_to_sale_ratio": 4.33
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 0.49
         },
         "2023": {
-            "cash": 0.5,
+            "cash": 1,
             "stock": 0,
-            "eps": -0.12
+            "eps": -0.1
         }
     },
     "dividends": {
@@ -198,6 +200,10 @@
             "stock": 2.3
         },
         "2022-08-30": {
+            "cash": 0.5,
+            "stock": 0
+        },
+        "2023-04-27": {
             "cash": 0.5,
             "stock": 0
         },
@@ -480,7 +486,9 @@
         "202307": "60.61",
         "202308": "50.88",
         "202309": "51.43",
-        "202310": "51.12"
+        "202310": "50.94",
+        "202311": "49.38",
+        "202312": "51.61"
     },
     "quarters": {
         "20011": {
@@ -3362,6 +3370,38 @@
             "eps_avg_yearly": 1.4,
             "eps_latest_yearly": 1.04,
             "eps_growth_yearly": 150.1
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.02,
+            "eps_growth_year": -92.31,
+            "eps_4q": -0.17,
+            "eps_4q_growth_year": -175.67,
+            "roe": 0.06,
+            "roe_4q": -0.94,
+            "gross_profit": 203560,
+            "gross_margin": 19.95,
+            "gross_margin_4q_avg": 18.23,
+            "net_income": 1604,
+            "net_income_4q": null,
+            "revenue": 1020178,
+            "revenue_4q": null,
+            "common_shares": 1500000,
+            "book_valuer_per_share": 18.47,
+            "book_valuer_per_share_4q_avg": 18.64,
+            "equity": 2735765,
+            "current_ratio": 79.93,
+            "debt_ratio": 66.35,
+            "inventory_turnover_ratio": 0.45,
+            "account_receivable_turnover_ratio": 0.87,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 4.33,
+            "price_fair": 41.3,
+            "eps_avg_yearly": 1.18,
+            "eps_latest_yearly": 0.08,
+            "eps_growth_yearly": 102.86
         }
     },
     "months": {
@@ -3594,6 +3634,16 @@
             "month": "2023-09",
             "price": "51.43",
             "revenue": 358395
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "50.94",
+            "revenue": 280184
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "49.38",
+            "revenue": 312509
         }
     }
 }

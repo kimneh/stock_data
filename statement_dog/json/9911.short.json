@@ -9,16 +9,16 @@
         "pe_ratio": 15,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 13,
         "eps_growth_avg": {
-            "last_all": -0.87,
-            "last_2y": 4.84,
-            "last_4y": 7.33,
-            "last_8y": 12.3,
-            "last_12y": 14.49,
-            "last_16y": 9.01,
-            "last_20y": -0.87,
+            "last_all": -2.32,
+            "last_2y": -4.81,
+            "last_4y": -0.55,
+            "last_8y": 7.68,
+            "last_12y": 9.1,
+            "last_16y": 13.48,
+            "last_20y": 3.1,
             "at_2006_last_3y": -79.89,
             "at_2007_last_3y": -79.89,
             "at_2008_last_3y": -68.03,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 10.65,
             "at_2021_last_3y": 8.89,
             "at_2022_last_3y": 6.43,
-            "at_2023_last_3y": 6.43,
+            "at_2023_last_3y": -3.49,
+            "at_2024_last_3y": -3.49,
             "at_2006_last_all": -86.59,
             "at_2007_last_all": -86.59,
             "at_2008_last_all": -76.02,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -1.86,
             "at_2021_last_all": -0.99,
             "at_2022_last_all": -0.87,
-            "at_2023_last_all": -0.87
+            "at_2023_last_all": -2.32,
+            "at_2024_last_all": -2.32
         },
-        "latest_eps": 4.23,
-        "latest_price": 64,
-        "latest_roe": 17.34,
-        "latest_gross_margin": 33.67,
-        "latest_equity": 5341719,
-        "latest_revenue": 1891310,
-        "latest_gross_profit": 636781,
-        "latest_net_income": 194420,
-        "latest_debt_ratio": 39.06,
-        "latest_current_ratio": 153.83,
-        "latest_account_receivable_turnover_ratio": 1.84,
-        "latest_inventory_turnover_ratio": 1.22,
-        "latest_reinvestment_rate": 19.91,
-        "latest_research_to_sale_ratio": 1.06
+        "latest_eps": 4.53,
+        "latest_price": 69.5,
+        "latest_roe": 17.49,
+        "latest_gross_margin": 36.08,
+        "latest_equity": 5722510,
+        "latest_revenue": 2134096,
+        "latest_gross_profit": 770025,
+        "latest_net_income": 317415,
+        "latest_debt_ratio": 34.02,
+        "latest_current_ratio": 176.14,
+        "latest_account_receivable_turnover_ratio": 1.96,
+        "latest_inventory_turnover_ratio": 1.27,
+        "latest_reinvestment_rate": 19.85,
+        "latest_research_to_sale_ratio": 1.12
     },
     "eps_dividends": {
         "1991": {
@@ -208,9 +210,9 @@
             "eps": 4.67
         },
         "2023": {
-            "cash": 3.7,
+            "cash": 7.4,
             "stock": 0,
-            "eps": 1.89
+            "eps": 3.34
         }
     },
     "dividends": {
@@ -308,6 +310,10 @@
         },
         "2022-07-15": {
             "cash": 3.6,
+            "stock": 0
+        },
+        "2023-05-10": {
+            "cash": 3.7,
             "stock": 0
         },
         "2023-07-21": {
@@ -589,7 +595,9 @@
         "202307": "62.99",
         "202308": "62.75",
         "202309": "63.65",
-        "202310": "64.16"
+        "202310": "64.12",
+        "202311": "65.65",
+        "202312": "68.84"
     },
     "quarters": {
         "20011": {
@@ -3471,6 +3479,38 @@
             "eps_avg_yearly": 4.44,
             "eps_latest_yearly": 3.56,
             "eps_growth_yearly": 30.83
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 1.45,
+            "eps_growth_year": 26.09,
+            "eps_4q": 4.53,
+            "eps_4q_growth_year": -5.24,
+            "roe": 5.74,
+            "roe_4q": 17.43,
+            "gross_profit": 770025,
+            "gross_margin": 36.08,
+            "gross_margin_4q_avg": 34.09,
+            "net_income": 317415,
+            "net_income_4q": null,
+            "revenue": 2134096,
+            "revenue_4q": null,
+            "common_shares": 2211212,
+            "book_valuer_per_share": 25.91,
+            "book_valuer_per_share_4q_avg": 25.74,
+            "equity": 5722510,
+            "current_ratio": 176.14,
+            "debt_ratio": 34.02,
+            "inventory_turnover_ratio": 1.27,
+            "account_receivable_turnover_ratio": 1.96,
+            "reinvestment_rate": 19.85,
+            "research_to_sale_ratio": 1.12,
+            "price_fair": 160.56,
+            "eps_avg_yearly": 4.59,
+            "eps_latest_yearly": 5.8,
+            "eps_growth_yearly": 38.6
         }
     },
     "months": {
@@ -4813,6 +4853,16 @@
             "month": "2023-09",
             "price": "63.65",
             "revenue": 750342
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "64.12",
+            "revenue": 719203
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "65.65",
+            "revenue": 763735
         }
     }
 }

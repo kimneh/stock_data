@@ -6,14 +6,14 @@
         "main_business": "健身器材",
         "website_url": "http://www.dyaco.com",
         "ceo": "陳明男",
-        "pe_ratio": -40,
+        "pe_ratio": -31,
         "report_year_from": 2011,
         "report_year_to": 2023,
-        "age": 12,
+        "age": 13,
         "eps_negative_percentage": 44,
         "eps_growth_avg": {
             "last_all": -19.09,
-            "last_2y": -22.93,
+            "last_2y": -84.39,
             "last_4y": 1.14,
             "last_8y": null,
             "last_12y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 24.44,
             "at_2021_last_3y": 34.85,
             "at_2022_last_3y": 1.14,
-            "at_2023_last_3y": 1.14,
+            "at_2023_last_3y": -22.93,
+            "at_2024_last_3y": -22.93,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 24.44,
             "at_2021_last_all": 1.14,
             "at_2022_last_all": -19.09,
-            "at_2023_last_all": -19.09
+            "at_2023_last_all": -19.09,
+            "at_2024_last_all": -19.09
         },
-        "latest_eps": -0.8,
-        "latest_price": 32,
-        "latest_roe": -2.52,
-        "latest_gross_margin": 34.13,
-        "latest_equity": 4760354,
-        "latest_revenue": 1499737,
-        "latest_gross_profit": 511928,
-        "latest_net_income": -51492,
-        "latest_debt_ratio": 61.39,
-        "latest_current_ratio": 113.76,
-        "latest_account_receivable_turnover_ratio": 1.36,
-        "latest_inventory_turnover_ratio": 0.37,
-        "latest_reinvestment_rate": 66.64,
-        "latest_research_to_sale_ratio": 2.21
+        "latest_eps": -1.14,
+        "latest_price": 34.85,
+        "latest_roe": -4.14,
+        "latest_gross_margin": 35.74,
+        "latest_equity": 4842392,
+        "latest_revenue": 1665463,
+        "latest_gross_profit": 595304,
+        "latest_net_income": -4434,
+        "latest_debt_ratio": 57.94,
+        "latest_current_ratio": 125.3,
+        "latest_account_receivable_turnover_ratio": 1.81,
+        "latest_inventory_turnover_ratio": 0.38,
+        "latest_reinvestment_rate": 76.98,
+        "latest_research_to_sale_ratio": 1.65
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": -0.6
         },
         "2023": {
-            "cash": 0.5,
+            "cash": 1,
             "stock": 0,
-            "eps": -1.19
+            "eps": -1.02
         }
     },
     "dividends": {
@@ -227,6 +229,10 @@
         },
         "2022-07-29": {
             "cash": 2.5,
+            "stock": 0
+        },
+        "2023-03-23": {
+            "cash": 0.5,
             "stock": 0
         },
         "2023-06-13": {
@@ -508,7 +514,9 @@
         "202307": "37.65",
         "202308": "32.34",
         "202309": "34.10",
-        "202310": "33.03"
+        "202310": "32.90",
+        "202311": "34.55",
+        "202312": "35.98"
     },
     "quarters": {
         "20011": {
@@ -3390,6 +3398,38 @@
             "eps_avg_yearly": 6.87,
             "eps_latest_yearly": 0.44,
             "eps_growth_yearly": 7805.88
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.17,
+            "eps_growth_year": -72.13,
+            "eps_4q": -1.14,
+            "eps_4q_growth_year": null,
+            "roe": -0.09,
+            "roe_4q": -4.4799999999999995,
+            "gross_profit": 595304,
+            "gross_margin": 35.74,
+            "gross_margin_4q_avg": 34.31,
+            "net_income": -4434,
+            "net_income_4q": null,
+            "revenue": 1665463,
+            "revenue_4q": null,
+            "common_shares": 1596097,
+            "book_valuer_per_share": 29.62,
+            "book_valuer_per_share_4q_avg": 29.03,
+            "equity": 4842392,
+            "current_ratio": 125.3,
+            "debt_ratio": 57.94,
+            "inventory_turnover_ratio": 0.38,
+            "account_receivable_turnover_ratio": 1.81,
+            "reinvestment_rate": 76.98,
+            "research_to_sale_ratio": 1.65,
+            "price_fair": 240.49,
+            "eps_avg_yearly": 6.87,
+            "eps_latest_yearly": 0.44,
+            "eps_growth_yearly": 7805.88
         }
     },
     "months": {
@@ -4112,6 +4152,16 @@
             "month": "2023-09",
             "price": "34.10",
             "revenue": 585465
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "32.90",
+            "revenue": 695978
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "34.55",
+            "revenue": 855898
         }
     }
 }

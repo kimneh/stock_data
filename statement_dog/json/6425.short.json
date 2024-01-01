@@ -6,15 +6,15 @@
         "main_business": "高科技自動化設備設計、製造、銷售",
         "website_url": "https://www.efctw.com",
         "ceo": "劉國麟",
-        "pe_ratio": -29,
+        "pe_ratio": -22,
         "report_year_from": 2011,
         "report_year_to": 2023,
-        "age": 12,
+        "age": 13,
         "eps_negative_percentage": 57,
         "eps_growth_avg": {
-            "last_all": 0,
-            "last_2y": null,
-            "last_4y": null,
+            "last_all": -33.33,
+            "last_2y": -100,
+            "last_4y": -100,
             "last_8y": null,
             "last_12y": null,
             "last_16y": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": -100,
             "at_2023_last_3y": -100,
+            "at_2024_last_3y": -100,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 0,
             "at_2021_last_all": 0,
             "at_2022_last_all": 0,
-            "at_2023_last_all": 0
+            "at_2023_last_all": -33.33,
+            "at_2024_last_all": -33.33
         },
-        "latest_eps": -0.71,
-        "latest_price": 20.35,
-        "latest_roe": -3.48,
-        "latest_gross_margin": 26.25,
-        "latest_equity": 914534,
-        "latest_revenue": 301781,
-        "latest_gross_profit": 79217,
-        "latest_net_income": -27145,
-        "latest_debt_ratio": 62.95,
-        "latest_current_ratio": 117.73,
-        "latest_account_receivable_turnover_ratio": 0.64,
-        "latest_inventory_turnover_ratio": 0.66,
+        "latest_eps": -0.98,
+        "latest_price": 21.8,
+        "latest_roe": -5.02,
+        "latest_gross_margin": 25.92,
+        "latest_equity": 906452,
+        "latest_revenue": 240077,
+        "latest_gross_profit": 62237,
+        "latest_net_income": -11529,
+        "latest_debt_ratio": 62.49,
+        "latest_current_ratio": 116.81,
+        "latest_account_receivable_turnover_ratio": 0.52,
+        "latest_inventory_turnover_ratio": 0.53,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 10.59
+        "latest_research_to_sale_ratio": 13.73
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 1,
             "stock": 0,
-            "eps": -1.7
+            "eps": -1.92
         }
     },
     "dividends": {
@@ -508,7 +510,9 @@
         "202307": "21.24",
         "202308": "20.93",
         "202309": "20.74",
-        "202310": "20.43"
+        "202310": "20.40",
+        "202311": "20.45",
+        "202312": "21.99"
     },
     "quarters": {
         "20011": {
@@ -3390,6 +3394,38 @@
             "eps_avg_yearly": 3.14,
             "eps_latest_yearly": 3.76,
             "eps_growth_yearly": 5460
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.22,
+            "eps_growth_year": -540,
+            "eps_4q": -0.98,
+            "eps_4q_growth_year": -491.76,
+            "roe": -1.27,
+            "roe_4q": -5.029999999999999,
+            "gross_profit": 62237,
+            "gross_margin": 25.92,
+            "gross_margin_4q_avg": 26.84,
+            "net_income": -11529,
+            "net_income_4q": null,
+            "revenue": 240077,
+            "revenue_4q": null,
+            "common_shares": 436020,
+            "book_valuer_per_share": 19.04,
+            "book_valuer_per_share_4q_avg": 20.26,
+            "equity": 906452,
+            "current_ratio": 116.81,
+            "debt_ratio": 62.49,
+            "inventory_turnover_ratio": 0.53,
+            "account_receivable_turnover_ratio": 0.52,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 13.73,
+            "price_fair": 109.9,
+            "eps_avg_yearly": 3.14,
+            "eps_latest_yearly": 3.76,
+            "eps_growth_yearly": 5460
         }
     },
     "months": {
@@ -4002,6 +4038,16 @@
             "month": "2023-09",
             "price": "20.74",
             "revenue": 96329
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "20.40",
+            "revenue": 83800
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "20.45",
+            "revenue": 57658
         }
     }
 }

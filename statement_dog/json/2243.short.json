@@ -6,10 +6,10 @@
         "main_business": "汽車鈑金模具",
         "website_url": "http://www.horngshiue.com",
         "ceo": "林維源",
-        "pe_ratio": -7,
+        "pe_ratio": -10,
         "report_year_from": 2014,
         "report_year_to": 2023,
-        "age": 9,
+        "age": 10,
         "eps_negative_percentage": 100,
         "eps_growth_avg": {
             "last_all": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": null,
-            "at_2023_last_all": null
+            "at_2023_last_all": null,
+            "at_2024_last_all": null
         },
-        "latest_eps": -2.31,
-        "latest_price": 16.6,
-        "latest_roe": -25.69,
-        "latest_gross_margin": -15.9,
-        "latest_equity": 707860,
-        "latest_revenue": 220597,
-        "latest_gross_profit": -35082,
-        "latest_net_income": -74283,
-        "latest_debt_ratio": 81.28,
-        "latest_current_ratio": 110,
-        "latest_account_receivable_turnover_ratio": 0.39,
-        "latest_inventory_turnover_ratio": 0.14,
+        "latest_eps": -1.91,
+        "latest_price": 18.5,
+        "latest_roe": -19.79,
+        "latest_gross_margin": 15.63,
+        "latest_equity": 775021,
+        "latest_revenue": 489286,
+        "latest_gross_profit": 76478,
+        "latest_net_income": 32138,
+        "latest_debt_ratio": 79.41,
+        "latest_current_ratio": 113.4,
+        "latest_account_receivable_turnover_ratio": 0.82,
+        "latest_inventory_turnover_ratio": 0.21,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 1.1
+        "latest_research_to_sale_ratio": 0.52
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -1.82
+            "eps": -1.36
         }
     },
     "dividends": {
@@ -472,7 +474,9 @@
         "202307": "16.79",
         "202308": "15.04",
         "202309": "15.50",
-        "202310": "15.93"
+        "202310": "15.95",
+        "202311": "17.59",
+        "202312": "18.89"
     },
     "quarters": {
         "20011": {
@@ -3354,6 +3358,38 @@
             "eps_avg_yearly": 0.92,
             "eps_latest_yearly": 0.4,
             "eps_growth_yearly": 555.56
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.46,
+            "eps_growth_year": 360,
+            "eps_4q": -1.91,
+            "eps_4q_growth_year": null,
+            "roe": 4.33,
+            "roe_4q": -21.4,
+            "gross_profit": 76478,
+            "gross_margin": 15.63,
+            "gross_margin_4q_avg": 0.27,
+            "net_income": 32138,
+            "net_income_4q": null,
+            "revenue": 489286,
+            "revenue_4q": null,
+            "common_shares": 693682,
+            "book_valuer_per_share": 11.17,
+            "book_valuer_per_share_4q_avg": 10.88,
+            "equity": 775021,
+            "current_ratio": 113.4,
+            "debt_ratio": 79.41,
+            "inventory_turnover_ratio": 0.21,
+            "account_receivable_turnover_ratio": 0.82,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 0.52,
+            "price_fair": 32.2,
+            "eps_avg_yearly": 0.92,
+            "eps_latest_yearly": 0.4,
+            "eps_growth_yearly": 555.56
         }
     },
     "months": {
@@ -3721,6 +3757,16 @@
             "month": "2023-09",
             "price": "15.50",
             "revenue": 324067
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "15.95",
+            "revenue": 243362
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "17.59",
+            "revenue": 158916
         }
     }
 }

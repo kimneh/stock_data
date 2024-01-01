@@ -6,14 +6,14 @@
         "main_business": "金屬建築材料製造與銷售<br>模組化建材及配套材料之開發、設計、製造與銷售",
         "website_url": "http://www.buima.com.tw",
         "ceo": "莊宏偉",
-        "pe_ratio": -15,
+        "pe_ratio": -13,
         "report_year_from": 2013,
         "report_year_to": 2023,
-        "age": 10,
+        "age": 11,
         "eps_negative_percentage": 38,
         "eps_growth_avg": {
             "last_all": -12.93,
-            "last_2y": 9.52,
+            "last_2y": 0,
             "last_4y": 8.84,
             "last_8y": null,
             "last_12y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": -21.55,
             "at_2021_last_3y": 45.12,
             "at_2022_last_3y": 8.84,
-            "at_2023_last_3y": 8.84,
+            "at_2023_last_3y": 9.52,
+            "at_2024_last_3y": 9.52,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -21.55,
             "at_2021_last_all": 8.84,
             "at_2022_last_all": -12.93,
-            "at_2023_last_all": -12.93
+            "at_2023_last_all": -12.93,
+            "at_2024_last_all": -12.93
         },
-        "latest_eps": -2.94,
-        "latest_price": 44.9,
-        "latest_roe": -7.72,
-        "latest_gross_margin": 7.88,
-        "latest_equity": 1233113,
-        "latest_revenue": 868726,
-        "latest_gross_profit": 68428,
-        "latest_net_income": -30822,
-        "latest_debt_ratio": 72,
-        "latest_current_ratio": 109.43,
-        "latest_account_receivable_turnover_ratio": 1.37,
-        "latest_inventory_turnover_ratio": 0.8,
-        "latest_reinvestment_rate": 1003.72,
-        "latest_research_to_sale_ratio": 2.9
+        "latest_eps": -3.08,
+        "latest_price": 40,
+        "latest_roe": -9.81,
+        "latest_gross_margin": 13.81,
+        "latest_equity": 1258889,
+        "latest_revenue": 761598,
+        "latest_gross_profit": 105207,
+        "latest_net_income": 6406,
+        "latest_debt_ratio": 69.06,
+        "latest_current_ratio": 110.6,
+        "latest_account_receivable_turnover_ratio": 1.05,
+        "latest_inventory_turnover_ratio": 0.7,
+        "latest_reinvestment_rate": 1840.31,
+        "latest_research_to_sale_ratio": 3.58
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0.8,
             "stock": 0,
-            "eps": -1.69
+            "eps": -1.81
         }
     },
     "dividends": {
@@ -504,7 +506,9 @@
         "202307": "49.49",
         "202308": "46.55",
         "202309": "46.50",
-        "202310": "45.68"
+        "202310": "45.61",
+        "202311": "42.11",
+        "202312": "40.28"
     },
     "quarters": {
         "20011": {
@@ -3386,6 +3390,38 @@
             "eps_avg_yearly": 2.14,
             "eps_latest_yearly": 0.08,
             "eps_growth_yearly": 1762
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.12,
+            "eps_growth_year": -700,
+            "eps_4q": -3.08,
+            "eps_4q_growth_year": -606.71,
+            "roe": 0.51,
+            "roe_4q": -9.8,
+            "gross_profit": 105207,
+            "gross_margin": 13.81,
+            "gross_margin_4q_avg": 10.62,
+            "net_income": 6406,
+            "net_income_4q": null,
+            "revenue": 761598,
+            "revenue_4q": null,
+            "common_shares": 393045,
+            "book_valuer_per_share": 16.83,
+            "book_valuer_per_share_4q_avg": 17.37,
+            "equity": 1258889,
+            "current_ratio": 110.6,
+            "debt_ratio": 69.06,
+            "inventory_turnover_ratio": 0.7,
+            "account_receivable_turnover_ratio": 1.05,
+            "reinvestment_rate": 1840.31,
+            "research_to_sale_ratio": 3.58,
+            "price_fair": 82.08,
+            "eps_avg_yearly": 2.35,
+            "eps_latest_yearly": 0.08,
+            "eps_growth_yearly": 2003.68
         }
     },
     "months": {
@@ -3833,6 +3869,16 @@
             "month": "2023-09",
             "price": "46.50",
             "revenue": 251477
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "45.61",
+            "revenue": 300186
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "42.11",
+            "revenue": 282119
         }
     }
 }

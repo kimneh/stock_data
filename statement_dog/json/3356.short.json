@@ -6,18 +6,18 @@
         "main_business": "數位監控系統",
         "website_url": "https://www.geovision.com.tw",
         "ceo": "王有傳",
-        "pe_ratio": 14,
+        "pe_ratio": 16,
         "report_year_from": 2003,
         "report_year_to": 2023,
-        "age": 20,
+        "age": 21,
         "eps_negative_percentage": 5,
         "eps_growth_avg": {
-            "last_all": -4.18,
+            "last_all": 1.3,
             "last_2y": 23.9,
-            "last_4y": 0.3,
-            "last_8y": -27.22,
-            "last_12y": -13.82,
-            "last_16y": -10.03,
+            "last_4y": 20.24,
+            "last_8y": -11.83,
+            "last_12y": -1.89,
+            "last_16y": -5.34,
             "last_20y": null,
             "at_2006_last_3y": null,
             "at_2007_last_3y": 34.25,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": -23.5,
             "at_2021_last_3y": 13.6,
             "at_2022_last_3y": 0.3,
-            "at_2023_last_3y": 0.3,
+            "at_2023_last_3y": 42.93,
+            "at_2024_last_3y": 42.93,
             "at_2006_last_all": 36.71,
             "at_2007_last_all": 34.25,
             "at_2008_last_all": 25.03,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -2.94,
             "at_2021_last_all": -2.1,
             "at_2022_last_all": -4.18,
-            "at_2023_last_all": -4.18
+            "at_2023_last_all": 1.3,
+            "at_2024_last_all": 1.3
         },
-        "latest_eps": 2.9,
-        "latest_price": 40.85,
-        "latest_roe": 14.27,
-        "latest_gross_margin": 44.69,
-        "latest_equity": 1945311,
-        "latest_revenue": 327396,
-        "latest_gross_profit": 146317,
-        "latest_net_income": 94738,
-        "latest_debt_ratio": 21.38,
-        "latest_current_ratio": 471.84,
-        "latest_account_receivable_turnover_ratio": 3.34,
+        "latest_eps": 2.75,
+        "latest_price": 44.35,
+        "latest_roe": 13.22,
+        "latest_gross_margin": 49.21,
+        "latest_equity": 1991785,
+        "latest_revenue": 317217,
+        "latest_gross_profit": 156095,
+        "latest_net_income": 33325,
+        "latest_debt_ratio": 23.61,
+        "latest_current_ratio": 450.38,
+        "latest_account_receivable_turnover_ratio": 2.61,
         "latest_inventory_turnover_ratio": 0.26,
-        "latest_reinvestment_rate": -22.7,
-        "latest_research_to_sale_ratio": 9.83
+        "latest_reinvestment_rate": -22.65,
+        "latest_research_to_sale_ratio": 10.47
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 1.19
         },
         "2023": {
-            "cash": 1.4,
+            "cash": 2.8,
             "stock": 0,
-            "eps": 2.05
+            "eps": 2.39
         }
     },
     "dividends": {
@@ -255,6 +257,10 @@
         },
         "2022-10-31": {
             "cash": 1.2,
+            "stock": 0
+        },
+        "2023-02-24": {
+            "cash": 1.4,
             "stock": 0
         },
         "2023-10-31": {
@@ -536,7 +542,9 @@
         "202307": "54.75",
         "202308": "48.25",
         "202309": "46.78",
-        "202310": "42.62"
+        "202310": "42.42",
+        "202311": "42.95",
+        "202312": "44.07"
     },
     "quarters": {
         "20011": {
@@ -3418,6 +3426,38 @@
             "eps_avg_yearly": 2.38,
             "eps_latest_yearly": 4.2,
             "eps_growth_yearly": 86.49
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.34,
+            "eps_growth_year": -29.17,
+            "eps_4q": 2.75,
+            "eps_4q_growth_year": 81.78,
+            "roe": 1.69,
+            "roe_4q": 13.459999999999999,
+            "gross_profit": 156095,
+            "gross_margin": 49.21,
+            "gross_margin_4q_avg": 46.49,
+            "net_income": 33325,
+            "net_income_4q": null,
+            "revenue": 317217,
+            "revenue_4q": null,
+            "common_shares": 898221,
+            "book_valuer_per_share": 21.95,
+            "book_valuer_per_share_4q_avg": 21.11,
+            "equity": 1991785,
+            "current_ratio": 450.38,
+            "debt_ratio": 23.61,
+            "inventory_turnover_ratio": 0.26,
+            "account_receivable_turnover_ratio": 2.61,
+            "reinvestment_rate": -22.65,
+            "research_to_sale_ratio": 10.47,
+            "price_fair": 86.52,
+            "eps_avg_yearly": 2.47,
+            "eps_latest_yearly": 1.36,
+            "eps_growth_yearly": 86.5
         }
     },
     "months": {
@@ -4580,6 +4620,16 @@
             "month": "2023-09",
             "price": "46.78",
             "revenue": 103058
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "42.42",
+            "revenue": 133731
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "42.95",
+            "revenue": 113034
         }
     }
 }

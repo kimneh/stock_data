@@ -6,19 +6,19 @@
         "main_business": "接受客戶委託代辦國內外觀光旅遊安排食宿及相關服務等",
         "website_url": "http://travel.com.tw",
         "ceo": "卞傑民",
-        "pe_ratio": 75,
+        "pe_ratio": 48,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 4,
         "eps_growth_avg": {
             "last_all": 2.57,
-            "last_2y": -31.7,
-            "last_4y": -14.9,
-            "last_8y": -7.21,
-            "last_12y": -0.67,
-            "last_16y": -1.43,
-            "last_20y": 2.57,
+            "last_2y": 0,
+            "last_4y": -18.72,
+            "last_8y": -4.11,
+            "last_12y": -9.05,
+            "last_16y": -0.67,
+            "last_20y": 4.62,
             "at_2006_last_3y": 25.78,
             "at_2007_last_3y": 23.57,
             "at_2008_last_3y": -0.8,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": -18.99,
             "at_2021_last_3y": 6.37,
             "at_2022_last_3y": -18.72,
-            "at_2023_last_3y": -18.72,
+            "at_2023_last_3y": -31.7,
+            "at_2024_last_3y": -31.7,
             "at_2006_last_all": 12.95,
             "at_2007_last_all": 11.52,
             "at_2008_last_all": 10.23,
@@ -54,21 +55,22 @@
             "at_2020_last_all": 2.84,
             "at_2021_last_all": 7.7,
             "at_2022_last_all": 2.57,
-            "at_2023_last_all": 2.57
+            "at_2023_last_all": 2.57,
+            "at_2024_last_all": 2.57
         },
-        "latest_eps": 0.89,
-        "latest_price": 66.4,
-        "latest_roe": 4.71,
-        "latest_gross_margin": 16.14,
-        "latest_equity": 1348624,
-        "latest_revenue": 513096,
-        "latest_gross_profit": 82801,
-        "latest_net_income": 66087,
-        "latest_debt_ratio": 57.02,
-        "latest_current_ratio": 131.18,
-        "latest_account_receivable_turnover_ratio": 8.26,
+        "latest_eps": 1.52,
+        "latest_price": 73.5,
+        "latest_roe": 8.29,
+        "latest_gross_margin": 13.24,
+        "latest_equity": 1356394,
+        "latest_revenue": 762631,
+        "latest_gross_profit": 100999,
+        "latest_net_income": 58036,
+        "latest_debt_ratio": 55.6,
+        "latest_current_ratio": 126.9,
+        "latest_account_receivable_turnover_ratio": 10.35,
         "latest_inventory_turnover_ratio": null,
-        "latest_reinvestment_rate": 109.1,
+        "latest_reinvestment_rate": 131.82,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -188,9 +190,9 @@
             "eps": -0.48
         },
         "2023": {
-            "cash": 0.3,
+            "cash": 0.6,
             "stock": 0,
-            "eps": 0.79
+            "eps": 1.59
         }
     },
     "dividends": {
@@ -285,6 +287,10 @@
         "2022-09-05": {
             "cash": 1,
             "stock": 1
+        },
+        "2023-03-16": {
+            "cash": 0.3,
+            "stock": 0
         },
         "2023-08-09": {
             "cash": 0.3,
@@ -565,7 +571,9 @@
         "202307": "89.74",
         "202308": "76.61",
         "202309": "67.94",
-        "202310": "63.62"
+        "202310": "63.86",
+        "202311": "72.65",
+        "202312": "72.55"
     },
     "quarters": {
         "20011": {
@@ -3447,6 +3455,38 @@
             "eps_avg_yearly": 1.57,
             "eps_latest_yearly": 0.24,
             "eps_growth_yearly": -164.51
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.8,
+            "eps_growth_year": 370.59,
+            "eps_4q": 1.52,
+            "eps_4q_growth_year": null,
+            "roe": 4.29,
+            "roe_4q": 7.92,
+            "gross_profit": 100999,
+            "gross_margin": 13.24,
+            "gross_margin_4q_avg": 17.08,
+            "net_income": 58036,
+            "net_income_4q": null,
+            "revenue": 762631,
+            "revenue_4q": null,
+            "common_shares": 737670,
+            "book_valuer_per_share": 18.19,
+            "book_valuer_per_share_4q_avg": 17.41,
+            "equity": 1356394,
+            "current_ratio": 126.9,
+            "debt_ratio": 55.6,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": 10.35,
+            "reinvestment_rate": 131.82,
+            "research_to_sale_ratio": null,
+            "price_fair": 3.7,
+            "eps_avg_yearly": 1.23,
+            "eps_latest_yearly": 3.2,
+            "eps_growth_yearly": -187.13
         }
     },
     "months": {
@@ -4764,6 +4804,16 @@
             "month": "2023-09",
             "price": "67.94",
             "revenue": 230018
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "63.86",
+            "revenue": 317388
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "72.65",
+            "revenue": 182183
         }
     }
 }

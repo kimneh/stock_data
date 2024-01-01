@@ -6,13 +6,13 @@
         "main_business": "鋰電池模組之研發、生產及銷售，並提供相關售後服務。",
         "website_url": "http://www.advancedenergysolution.com.tw/",
         "ceo": "宋維哲",
-        "pe_ratio": 20,
+        "pe_ratio": 29,
         "report_year_from": 2020,
         "report_year_to": 2023,
-        "age": 3,
+        "age": 4,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": null,
+            "last_all": -15.12,
             "last_2y": null,
             "last_4y": null,
             "last_8y": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": null,
-            "at_2023_last_all": null
+            "at_2023_last_all": -15.12,
+            "at_2024_last_all": -15.12
         },
-        "latest_eps": 31.45,
-        "latest_price": 615,
-        "latest_roe": 23.19,
-        "latest_gross_margin": 37.4,
-        "latest_equity": 12132821,
-        "latest_revenue": 2370295,
-        "latest_gross_profit": 886490,
-        "latest_net_income": 439494,
-        "latest_debt_ratio": 41.63,
-        "latest_current_ratio": 192.26,
-        "latest_account_receivable_turnover_ratio": 2.11,
-        "latest_inventory_turnover_ratio": 0.25,
+        "latest_eps": 25.98,
+        "latest_price": 753,
+        "latest_roe": 17.64,
+        "latest_gross_margin": 37.7,
+        "latest_equity": 12958107,
+        "latest_revenue": 2254058,
+        "latest_gross_profit": 849853,
+        "latest_net_income": 446431,
+        "latest_debt_ratio": 30.55,
+        "latest_current_ratio": 257.06,
+        "latest_account_receivable_turnover_ratio": 2.87,
+        "latest_inventory_turnover_ratio": 0.22,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 11.68
+        "latest_research_to_sale_ratio": 11.38
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 37.68
         },
         "2023": {
-            "cash": 19,
+            "cash": 38,
             "stock": 0,
-            "eps": 12.34
+            "eps": 17.57
         }
     },
     "dividends": {
@@ -195,6 +197,10 @@
         },
         "2022-08-18": {
             "cash": 15,
+            "stock": 0
+        },
+        "2023-03-14": {
+            "cash": 19,
             "stock": 0
         },
         "2023-08-15": {
@@ -476,7 +482,9 @@
         "202307": "741.81",
         "202308": "627.05",
         "202309": "647.40",
-        "202310": "641.06"
+        "202310": "638.45",
+        "202311": "688.00",
+        "202312": "731.00"
     },
     "quarters": {
         "20011": {
@@ -3358,6 +3366,38 @@
             "eps_avg_yearly": 31.7,
             "eps_latest_yearly": 20.6,
             "eps_growth_yearly": -19.25
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 5.23,
+            "eps_growth_year": -51.12,
+            "eps_4q": 25.98,
+            "eps_4q_growth_year": -28.65,
+            "roe": 3.56,
+            "roe_4q": 17.5,
+            "gross_profit": 849853,
+            "gross_margin": 37.7,
+            "gross_margin_4q_avg": 37.54,
+            "net_income": 446431,
+            "net_income_4q": null,
+            "revenue": 2254058,
+            "revenue_4q": null,
+            "common_shares": 854188,
+            "book_valuer_per_share": 151.69,
+            "book_valuer_per_share_4q_avg": 149.68,
+            "equity": 12958107,
+            "current_ratio": 257.06,
+            "debt_ratio": 30.55,
+            "inventory_turnover_ratio": 0.22,
+            "account_receivable_turnover_ratio": 2.87,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 11.38,
+            "price_fair": 91.87,
+            "eps_avg_yearly": 30.62,
+            "eps_latest_yearly": 20.92,
+            "eps_growth_yearly": -16.71
         }
     },
     "months": {
@@ -3515,6 +3555,16 @@
             "month": "2023-09",
             "price": "647.40",
             "revenue": 803501
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "638.45",
+            "revenue": 810279
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "688.00",
+            "revenue": 820161
         }
     }
 }

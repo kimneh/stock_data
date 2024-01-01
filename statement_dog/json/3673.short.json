@@ -6,17 +6,17 @@
         "main_business": "觸控感應器、觸控模組、觸控螢幕、<br>ITO玻璃及保護玻璃相關產品之研發、生產及銷售。",
         "website_url": "http://www.tpk.com",
         "ceo": "謝立群",
-        "pe_ratio": 34,
+        "pe_ratio": 65,
         "report_year_from": 2008,
         "report_year_to": 2023,
-        "age": 15,
+        "age": 16,
         "eps_negative_percentage": 13,
         "eps_growth_avg": {
-            "last_all": -8.91,
-            "last_2y": 18.16,
-            "last_4y": -8.89,
-            "last_8y": -34.38,
-            "last_12y": -8.91,
+            "last_all": -13.33,
+            "last_2y": -35.82,
+            "last_4y": -2.94,
+            "last_8y": -29.49,
+            "last_12y": -23.64,
             "last_16y": null,
             "last_20y": null,
             "at_2006_last_3y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 0.35,
             "at_2021_last_3y": 1.14,
             "at_2022_last_3y": 11.81,
-            "at_2023_last_3y": 11.81,
+            "at_2023_last_3y": -1.86,
+            "at_2024_last_3y": -1.86,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -5.84,
             "at_2021_last_all": -4.9,
             "at_2022_last_all": -8.91,
-            "at_2023_last_all": -8.91
+            "at_2023_last_all": -13.33,
+            "at_2024_last_all": -13.33
         },
-        "latest_eps": 0.93,
-        "latest_price": 31.95,
-        "latest_roe": 1.02,
-        "latest_gross_margin": 3.88,
-        "latest_equity": 37459099,
-        "latest_revenue": 16228625,
-        "latest_gross_profit": 630439,
-        "latest_net_income": 10578,
-        "latest_debt_ratio": 60.02,
-        "latest_current_ratio": 200.32,
-        "latest_account_receivable_turnover_ratio": 1.74,
-        "latest_inventory_turnover_ratio": 2.41,
-        "latest_reinvestment_rate": -510.81,
-        "latest_research_to_sale_ratio": 1.05
+        "latest_eps": 0.56,
+        "latest_price": 36.2,
+        "latest_roe": 0.58,
+        "latest_gross_margin": 5.78,
+        "latest_equity": 38804076,
+        "latest_revenue": 18053290,
+        "latest_gross_profit": 1043999,
+        "latest_net_income": 60276,
+        "latest_debt_ratio": 59.5,
+        "latest_current_ratio": 215.21,
+        "latest_account_receivable_turnover_ratio": 1.82,
+        "latest_inventory_turnover_ratio": 2.69,
+        "latest_reinvestment_rate": -493.86,
+        "latest_research_to_sale_ratio": 0.77
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 1.34
         },
         "2023": {
-            "cash": 0.5,
+            "cash": 1,
             "stock": 0,
-            "eps": 0.33
+            "eps": 0.51
         }
     },
     "dividends": {
@@ -219,6 +221,10 @@
         },
         "2022-08-15": {
             "cash": 1.5,
+            "stock": 0
+        },
+        "2023-03-08": {
+            "cash": 0.5,
             "stock": 0
         },
         "2023-08-15": {
@@ -500,7 +506,9 @@
         "202307": "41.68",
         "202308": "35.69",
         "202309": "34.53",
-        "202310": "33.44"
+        "202310": "33.31",
+        "202311": "34.18",
+        "202312": "35.22"
     },
     "quarters": {
         "20011": {
@@ -3382,6 +3390,38 @@
             "eps_avg_yearly": 2.09,
             "eps_latest_yearly": 0.32,
             "eps_growth_yearly": 419.35
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.18,
+            "eps_growth_year": -67.27,
+            "eps_4q": 0.56,
+            "eps_4q_growth_year": -64.83,
+            "roe": 0.16,
+            "roe_4q": 0.6000000000000001,
+            "gross_profit": 1043999,
+            "gross_margin": 5.78,
+            "gross_margin_4q_avg": 4.27,
+            "net_income": 60276,
+            "net_income_4q": null,
+            "revenue": 18053290,
+            "revenue_4q": null,
+            "common_shares": 4066638,
+            "book_valuer_per_share": 94.61,
+            "book_valuer_per_share_4q_avg": 91.87,
+            "equity": 38804076,
+            "current_ratio": 215.21,
+            "debt_ratio": 59.5,
+            "inventory_turnover_ratio": 2.69,
+            "account_receivable_turnover_ratio": 1.82,
+            "reinvestment_rate": -493.86,
+            "research_to_sale_ratio": 0.77,
+            "price_fair": 69.2,
+            "eps_avg_yearly": 1.98,
+            "eps_latest_yearly": 0.72,
+            "eps_growth_yearly": 360.56
         }
     },
     "months": {
@@ -4164,6 +4204,16 @@
             "month": "2023-09",
             "price": "34.53",
             "revenue": 5598402
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "33.31",
+            "revenue": 5967036
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "34.18",
+            "revenue": 5575523
         }
     }
 }

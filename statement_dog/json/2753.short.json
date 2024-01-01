@@ -6,13 +6,13 @@
         "main_business": "餐飲銷售及連鎖加盟",
         "website_url": "http://www.8way.com.tw",
         "ceo": "張瑞蓮",
-        "pe_ratio": 18,
+        "pe_ratio": 19,
         "report_year_from": 2019,
         "report_year_to": 2023,
-        "age": 4,
+        "age": 5,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": null,
+            "last_all": -10.81,
             "last_2y": null,
             "last_4y": null,
             "last_8y": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": null,
-            "at_2023_last_all": null
+            "at_2023_last_all": -10.81,
+            "at_2024_last_all": -10.81
         },
-        "latest_eps": 9.32,
-        "latest_price": 166,
-        "latest_roe": 18.81,
-        "latest_gross_margin": 35.63,
-        "latest_equity": 3309311,
-        "latest_revenue": 1771774,
-        "latest_gross_profit": 631336,
-        "latest_net_income": 140828,
-        "latest_debt_ratio": 43.25,
-        "latest_current_ratio": 170.86,
-        "latest_account_receivable_turnover_ratio": 13.08,
-        "latest_inventory_turnover_ratio": 4.65,
+        "latest_eps": 8.87,
+        "latest_price": 170.5,
+        "latest_roe": 17.58,
+        "latest_gross_margin": 34.14,
+        "latest_equity": 3353772,
+        "latest_revenue": 1925239,
+        "latest_gross_profit": 657325,
+        "latest_net_income": 144036,
+        "latest_debt_ratio": 44.08,
+        "latest_current_ratio": 132.56,
+        "latest_account_receivable_turnover_ratio": 13.72,
+        "latest_inventory_turnover_ratio": 4.77,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 0.26
+        "latest_research_to_sale_ratio": 0.25
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,14 @@
             "eps": 10
         },
         "2023": {
-            "cash": 9.51,
+            "cash": 7.51,
             "stock": 0,
-            "eps": 4.17
+            "eps": 6.41
+        },
+        "2024": {
+            "cash": 2,
+            "stock": 0,
+            "eps": 0
         }
     },
     "dividends": {
@@ -217,7 +224,7 @@
             "cash": 5.01,
             "stock": 0
         },
-        "2023-08-10": {
+        "2024-01-19": {
             "cash": 2,
             "stock": 0
         }
@@ -496,7 +503,9 @@
         "202307": "170.40",
         "202308": "166.82",
         "202309": "169.80",
-        "202310": "172.28"
+        "202310": "171.75",
+        "202311": "175.00",
+        "202312": "171.86"
     },
     "quarters": {
         "20011": {
@@ -3378,6 +3387,38 @@
             "eps_avg_yearly": 9.16,
             "eps_latest_yearly": 8.68,
             "eps_growth_yearly": 1.39
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 2.24,
+            "eps_growth_year": -16.73,
+            "eps_4q": 8.87,
+            "eps_4q_growth_year": -8.6,
+            "roe": 4.32,
+            "roe_4q": 17.52,
+            "gross_profit": 657325,
+            "gross_margin": 34.14,
+            "gross_margin_4q_avg": 35.51,
+            "net_income": 144036,
+            "net_income_4q": null,
+            "revenue": 1925239,
+            "revenue_4q": null,
+            "common_shares": 664198,
+            "book_valuer_per_share": 49.36,
+            "book_valuer_per_share_4q_avg": 48.49,
+            "equity": 3353772,
+            "current_ratio": 132.56,
+            "debt_ratio": 44.08,
+            "inventory_turnover_ratio": 4.77,
+            "account_receivable_turnover_ratio": 13.72,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 0.25,
+            "price_fair": 114.65,
+            "eps_avg_yearly": 9.14,
+            "eps_latest_yearly": 8.96,
+            "eps_growth_yearly": 2.54
         }
     },
     "months": {
@@ -3565,6 +3606,16 @@
             "month": "2023-09",
             "price": "169.80",
             "revenue": 615167
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "171.75",
+            "revenue": 656274
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "175.00",
+            "revenue": 621649
         }
     }
 }

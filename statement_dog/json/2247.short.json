@@ -6,14 +6,14 @@
         "main_business": "汽車零售業務<br>汽、機車零件配備零售業務<br>汽車修理業務",
         "website_url": "http://www.pgum.com.tw",
         "ceo": "杜黃旭",
-        "pe_ratio": 15,
+        "pe_ratio": 13,
         "report_year_from": 2014,
         "report_year_to": 2023,
-        "age": 9,
+        "age": 10,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 41.94,
-            "last_2y": 41.94,
+            "last_all": 30.08,
+            "last_2y": 6.77,
             "last_4y": null,
             "last_8y": null,
             "last_12y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": null,
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
-            "at_2023_last_3y": null,
+            "at_2023_last_3y": 30.08,
+            "at_2024_last_3y": 30.08,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,21 +55,22 @@
             "at_2020_last_all": null,
             "at_2021_last_all": 53.37,
             "at_2022_last_all": 41.94,
-            "at_2023_last_all": 41.94
+            "at_2023_last_all": 30.08,
+            "at_2024_last_all": 30.08
         },
-        "latest_eps": 21.11,
-        "latest_price": 307,
-        "latest_roe": 14.54,
-        "latest_gross_margin": 10.97,
-        "latest_equity": 11969862,
-        "latest_revenue": 15248470,
-        "latest_gross_profit": 1672318,
-        "latest_net_income": 543400,
-        "latest_debt_ratio": 46,
-        "latest_current_ratio": 193.43,
-        "latest_account_receivable_turnover_ratio": 39.83,
-        "latest_inventory_turnover_ratio": 3.72,
-        "latest_reinvestment_rate": 19.79,
+        "latest_eps": 22.24,
+        "latest_price": 299.5,
+        "latest_roe": 14.82,
+        "latest_gross_margin": 11.44,
+        "latest_equity": 12414907,
+        "latest_revenue": 13149038,
+        "latest_gross_profit": 1504654,
+        "latest_net_income": 445045,
+        "latest_debt_ratio": 41.45,
+        "latest_current_ratio": 221.01,
+        "latest_account_receivable_turnover_ratio": 31.43,
+        "latest_inventory_turnover_ratio": 2.76,
+        "latest_reinvestment_rate": 14.78,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -183,9 +185,9 @@
             "eps": 18.28
         },
         "2023": {
-            "cash": 15,
+            "cash": 30,
             "stock": 0,
-            "eps": 11.76
+            "eps": 17.27
         }
     },
     "dividends": {
@@ -207,6 +209,10 @@
         },
         "2022-08-01": {
             "cash": 12,
+            "stock": 0
+        },
+        "2023-03-24": {
+            "cash": 15,
             "stock": 0
         },
         "2023-07-14": {
@@ -488,7 +494,9 @@
         "202307": "325.62",
         "202308": "310.77",
         "202309": "308.72",
-        "202310": "310.03"
+        "202310": "309.60",
+        "202311": "309.50",
+        "202312": "303.40"
     },
     "quarters": {
         "20011": {
@@ -3370,6 +3378,38 @@
             "eps_avg_yearly": 17.09,
             "eps_latest_yearly": 26.92,
             "eps_growth_yearly": 103.76
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 5.51,
+            "eps_growth_year": 25.8,
+            "eps_4q": 22.24,
+            "eps_4q_growth_year": 27.49,
+            "roe": 3.65,
+            "roe_4q": 15.06,
+            "gross_profit": 1504654,
+            "gross_margin": 11.44,
+            "gross_margin_4q_avg": 11.65,
+            "net_income": 445045,
+            "net_income_4q": null,
+            "revenue": 13149038,
+            "revenue_4q": null,
+            "common_shares": 807087,
+            "book_valuer_per_share": 153.82,
+            "book_valuer_per_share_4q_avg": 148.82,
+            "equity": 12414907,
+            "current_ratio": 221.01,
+            "debt_ratio": 41.45,
+            "inventory_turnover_ratio": 2.76,
+            "account_receivable_turnover_ratio": 31.43,
+            "reinvestment_rate": 14.78,
+            "research_to_sale_ratio": null,
+            "price_fair": 609.09,
+            "eps_avg_yearly": 17.4,
+            "eps_latest_yearly": 22.04,
+            "eps_growth_yearly": 92.74
         }
     },
     "months": {
@@ -3732,6 +3772,16 @@
             "month": "2023-09",
             "price": "308.72",
             "revenue": 4382452
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "309.60",
+            "revenue": 3551249
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "309.50",
+            "revenue": 3304182
         }
     }
 }

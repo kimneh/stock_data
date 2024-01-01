@@ -6,14 +6,14 @@
         "main_business": "高分子正溫度係數熱敏電阻",
         "website_url": "http://www.fuzetec.com",
         "ceo": "陳繼聖",
-        "pe_ratio": 20,
+        "pe_ratio": 30,
         "report_year_from": 2016,
         "report_year_to": 2023,
-        "age": 7,
+        "age": 8,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 30.61,
-            "last_2y": 30.61,
+            "last_all": 6.03,
+            "last_2y": 1.35,
             "last_4y": null,
             "last_8y": null,
             "last_12y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": null,
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
-            "at_2023_last_3y": null,
+            "at_2023_last_3y": 6.03,
+            "at_2024_last_3y": 6.03,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": 50.12,
             "at_2022_last_all": 30.61,
-            "at_2023_last_all": 30.61
+            "at_2023_last_all": 6.03,
+            "at_2024_last_all": 6.03
         },
-        "latest_eps": 2.4,
-        "latest_price": 47,
-        "latest_roe": 9.06,
-        "latest_gross_margin": 40.7,
-        "latest_equity": 964810,
-        "latest_revenue": 99103,
-        "latest_gross_profit": 40332,
-        "latest_net_income": 19340,
-        "latest_debt_ratio": 23.49,
-        "latest_current_ratio": 300.61,
-        "latest_account_receivable_turnover_ratio": 0.8,
-        "latest_inventory_turnover_ratio": 0.86,
-        "latest_reinvestment_rate": 79.37,
-        "latest_research_to_sale_ratio": 5.96
+        "latest_eps": 1.55,
+        "latest_price": 46,
+        "latest_roe": 5.66,
+        "latest_gross_margin": 43.63,
+        "latest_equity": 986041,
+        "latest_revenue": 104395,
+        "latest_gross_profit": 45544,
+        "latest_net_income": 18323,
+        "latest_debt_ratio": 18.83,
+        "latest_current_ratio": 662.21,
+        "latest_account_receivable_turnover_ratio": 0.88,
+        "latest_inventory_turnover_ratio": 1,
+        "latest_reinvestment_rate": 85.23,
+        "latest_research_to_sale_ratio": 5.81
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 3.6,
             "stock": 0,
-            "eps": 0.88
+            "eps": 1.37
         }
     },
     "dividends": {
@@ -488,7 +490,9 @@
         "202307": "50.45",
         "202308": "48.22",
         "202309": "47.57",
-        "202310": "46.98"
+        "202310": "46.94",
+        "202311": "46.57",
+        "202312": "46.47"
     },
     "quarters": {
         "20011": {
@@ -3370,6 +3374,38 @@
             "eps_avg_yearly": 3.33,
             "eps_latest_yearly": 2.08,
             "eps_growth_yearly": 38.88
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.49,
+            "eps_growth_year": -63.16,
+            "eps_4q": 1.55,
+            "eps_4q_growth_year": -70.71,
+            "roe": 1.88,
+            "roe_4q": 5.669999999999999,
+            "gross_profit": 45544,
+            "gross_margin": 43.63,
+            "gross_margin_4q_avg": 41.66,
+            "net_income": 18323,
+            "net_income_4q": null,
+            "revenue": 104395,
+            "revenue_4q": null,
+            "common_shares": 373996,
+            "book_valuer_per_share": 26.37,
+            "book_valuer_per_share_4q_avg": 27.43,
+            "equity": 986041,
+            "current_ratio": 662.21,
+            "debt_ratio": 18.83,
+            "inventory_turnover_ratio": 1,
+            "account_receivable_turnover_ratio": 0.88,
+            "reinvestment_rate": 85.23,
+            "research_to_sale_ratio": 5.81,
+            "price_fair": 116.38,
+            "eps_avg_yearly": 3.33,
+            "eps_latest_yearly": 1.96,
+            "eps_growth_yearly": 41.67
         }
     },
     "months": {
@@ -3732,6 +3768,16 @@
             "month": "2023-09",
             "price": "47.57",
             "revenue": 34217
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "46.94",
+            "revenue": 37984
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "46.57",
+            "revenue": 38436
         }
     }
 }

@@ -6,13 +6,13 @@
         "main_business": "熱塑性聚氨基甲酸酯製品<br>TPU薄膜,TPU油封, TPU管帶",
         "website_url": "http://www.dingzing.com",
         "ceo": "林庚賢",
-        "pe_ratio": 30,
+        "pe_ratio": 27,
         "report_year_from": 2015,
         "report_year_to": 2023,
-        "age": 8,
+        "age": 9,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 100,
+            "last_all": 67.17,
             "last_2y": null,
             "last_4y": null,
             "last_8y": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": 100,
-            "at_2023_last_all": 100
+            "at_2023_last_all": 67.17,
+            "at_2024_last_all": 67.17
         },
-        "latest_eps": 3.85,
-        "latest_price": 116,
-        "latest_roe": 9.34,
-        "latest_gross_margin": 32.31,
-        "latest_equity": 2887731,
-        "latest_revenue": 654699,
-        "latest_gross_profit": 211523,
-        "latest_net_income": 92011,
-        "latest_debt_ratio": 42.44,
-        "latest_current_ratio": 125.59,
-        "latest_account_receivable_turnover_ratio": 1.55,
-        "latest_inventory_turnover_ratio": 0.61,
+        "latest_eps": 4.96,
+        "latest_price": 136,
+        "latest_roe": 11.57,
+        "latest_gross_margin": 37.57,
+        "latest_equity": 3036213,
+        "latest_revenue": 729105,
+        "latest_gross_profit": 273905,
+        "latest_net_income": 140685,
+        "latest_debt_ratio": 40.89,
+        "latest_current_ratio": 130.77,
+        "latest_account_receivable_turnover_ratio": 1.48,
+        "latest_inventory_turnover_ratio": 0.66,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 4.31
+        "latest_research_to_sale_ratio": 3.55
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 4.01
         },
         "2023": {
-            "cash": 3,
+            "cash": 6,
             "stock": 0,
-            "eps": 2.04
+            "eps": 4.07
         }
     },
     "dividends": {
@@ -210,6 +212,10 @@
             "stock": 0
         },
         "2022-07-06": {
+            "cash": 3,
+            "stock": 0
+        },
+        "2023-03-14": {
             "cash": 3,
             "stock": 0
         },
@@ -492,7 +498,9 @@
         "202307": "78.10",
         "202308": "86.01",
         "202309": "106.40",
-        "202310": "119.22"
+        "202310": "119.15",
+        "202311": "129.11",
+        "202312": "127.52"
     },
     "quarters": {
         "20011": {
@@ -3374,6 +3382,38 @@
             "eps_avg_yearly": 3.91,
             "eps_latest_yearly": 5.32,
             "eps_growth_yearly": 37.83
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 2.03,
+            "eps_growth_year": 118.28,
+            "eps_4q": 4.96,
+            "eps_4q_growth_year": 35.75,
+            "roe": 4.75,
+            "roe_4q": 11.8,
+            "gross_profit": 273905,
+            "gross_margin": 37.57,
+            "gross_margin_4q_avg": 31.4,
+            "net_income": 140685,
+            "net_income_4q": null,
+            "revenue": 729105,
+            "revenue_4q": null,
+            "common_shares": 692430,
+            "book_valuer_per_share": 43.85,
+            "book_valuer_per_share_4q_avg": 42.16,
+            "equity": 3036213,
+            "current_ratio": 130.77,
+            "debt_ratio": 40.89,
+            "inventory_turnover_ratio": 0.66,
+            "account_receivable_turnover_ratio": 1.48,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 3.55,
+            "price_fair": 155.23,
+            "eps_avg_yearly": 4.44,
+            "eps_latest_yearly": 8.12,
+            "eps_growth_yearly": 59.41
         }
     },
     "months": {
@@ -3801,6 +3841,16 @@
             "month": "2023-09",
             "price": "106.40",
             "revenue": 248913
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "119.15",
+            "revenue": 263317
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "129.11",
+            "revenue": 245361
         }
     }
 }

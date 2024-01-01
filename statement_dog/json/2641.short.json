@@ -6,16 +6,16 @@
         "main_business": "船務代理業<br>海運承攬運送業<br>其他顧問服務業",
         "website_url": "http://www.franbo.com.tw",
         "ceo": "蔡景仲",
-        "pe_ratio": 4,
+        "pe_ratio": 8,
         "report_year_from": 2011,
         "report_year_to": 2023,
-        "age": 12,
+        "age": 13,
         "eps_negative_percentage": 18,
         "eps_growth_avg": {
-            "last_all": 28.41,
-            "last_2y": 72.96,
-            "last_4y": 52.96,
-            "last_8y": 28.41,
+            "last_all": 14.65,
+            "last_2y": 39.43,
+            "last_4y": 26.03,
+            "last_8y": 2.46,
             "last_12y": null,
             "last_16y": null,
             "last_20y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 5.93,
             "at_2021_last_3y": 37.28,
             "at_2022_last_3y": 52.96,
-            "at_2023_last_3y": 52.96,
+            "at_2023_last_3y": 34.29,
+            "at_2024_last_3y": 34.29,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,20 +55,21 @@
             "at_2020_last_all": -0.22,
             "at_2021_last_all": 16.48,
             "at_2022_last_all": 28.41,
-            "at_2023_last_all": 28.41
+            "at_2023_last_all": 14.65,
+            "at_2024_last_all": 14.65
         },
-        "latest_eps": 3.84,
-        "latest_price": 16.35,
-        "latest_roe": 21.37,
-        "latest_gross_margin": 42.67,
-        "latest_equity": 5184836,
-        "latest_revenue": 335037,
-        "latest_gross_profit": 142958,
-        "latest_net_income": 32063,
-        "latest_debt_ratio": 33.23,
-        "latest_current_ratio": 121.85,
-        "latest_account_receivable_turnover_ratio": 1431.78,
-        "latest_inventory_turnover_ratio": 0.3,
+        "latest_eps": 2.77,
+        "latest_price": 21.1,
+        "latest_roe": 13.52,
+        "latest_gross_margin": 51.51,
+        "latest_equity": 6009736,
+        "latest_revenue": 349706,
+        "latest_gross_profit": 180138,
+        "latest_net_income": 164680,
+        "latest_debt_ratio": 37.54,
+        "latest_current_ratio": 168.77,
+        "latest_account_receivable_turnover_ratio": 441.27,
+        "latest_inventory_turnover_ratio": 0.25,
         "latest_reinvestment_rate": null,
         "latest_research_to_sale_ratio": null
     },
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 1.5,
             "stock": 0,
-            "eps": 0.45
+            "eps": 1.12
         }
     },
     "dividends": {
@@ -496,7 +498,9 @@
         "202307": "16.82",
         "202308": "15.88",
         "202309": "16.59",
-        "202310": "16.86"
+        "202310": "16.78",
+        "202311": "17.00",
+        "202312": "21.47"
     },
     "quarters": {
         "20011": {
@@ -3378,6 +3382,38 @@
             "eps_avg_yearly": 2.43,
             "eps_latest_yearly": 0.52,
             "eps_growth_yearly": 17.51
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.67,
+            "eps_growth_year": -59.64,
+            "eps_4q": 2.77,
+            "eps_4q_growth_year": -31.56,
+            "roe": 2.94,
+            "roe_4q": 14.18,
+            "gross_profit": 180138,
+            "gross_margin": 51.51,
+            "gross_margin_4q_avg": 50.19,
+            "net_income": 164680,
+            "net_income_4q": null,
+            "revenue": 349706,
+            "revenue_4q": null,
+            "common_shares": 2700305,
+            "book_valuer_per_share": 22.26,
+            "book_valuer_per_share_4q_avg": 21.8,
+            "equity": 6009736,
+            "current_ratio": 168.77,
+            "debt_ratio": 37.54,
+            "inventory_turnover_ratio": 0.25,
+            "account_receivable_turnover_ratio": 441.27,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": null,
+            "price_fair": 90.6,
+            "eps_avg_yearly": 2.59,
+            "eps_latest_yearly": 2.68,
+            "eps_growth_yearly": 136.19
         }
     },
     "months": {
@@ -4090,6 +4126,16 @@
             "month": "2023-09",
             "price": "16.59",
             "revenue": 119758
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "16.78",
+            "revenue": 127495
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "17.00",
+            "revenue": 128534
         }
     }
 }

@@ -6,13 +6,13 @@
         "main_business": "機能彈性紗製造與銷售",
         "website_url": "http://www.yishin-textile.com.tw",
         "ceo": "邱倉沛",
-        "pe_ratio": 17,
+        "pe_ratio": 28,
         "report_year_from": 2018,
         "report_year_to": 2023,
-        "age": 5,
+        "age": 6,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": null,
+            "last_all": -67.58,
             "last_2y": null,
             "last_4y": null,
             "last_8y": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": null,
-            "at_2023_last_all": null
+            "at_2023_last_all": -67.58,
+            "at_2024_last_all": -67.58
         },
-        "latest_eps": 1.54,
-        "latest_price": 26.1,
-        "latest_roe": 7.88,
-        "latest_gross_margin": 7.84,
-        "latest_equity": 1276948,
-        "latest_revenue": 222753,
-        "latest_gross_profit": 17471,
-        "latest_net_income": 7618,
-        "latest_debt_ratio": 42.5,
-        "latest_current_ratio": 131.94,
-        "latest_account_receivable_turnover_ratio": 1.82,
-        "latest_inventory_turnover_ratio": 0.86,
+        "latest_eps": 0.94,
+        "latest_price": 26.2,
+        "latest_roe": 4.72,
+        "latest_gross_margin": 8.51,
+        "latest_equity": 1281896,
+        "latest_revenue": 265681,
+        "latest_gross_profit": 22597,
+        "latest_net_income": 5676,
+        "latest_debt_ratio": 42.08,
+        "latest_current_ratio": 135.98,
+        "latest_account_receivable_turnover_ratio": 1.89,
+        "latest_inventory_turnover_ratio": 1.05,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 0.35
+        "latest_research_to_sale_ratio": 0.38
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 2.89
         },
         "2023": {
-            "cash": 3,
+            "cash": 6,
             "stock": 0,
-            "eps": 0.27
+            "eps": 0.35
         }
     },
     "dividends": {
@@ -203,6 +205,10 @@
         },
         "2022-07-01": {
             "cash": 4,
+            "stock": 0
+        },
+        "2023-03-01": {
+            "cash": 3,
             "stock": 0
         },
         "2023-07-07": {
@@ -484,7 +490,9 @@
         "202307": "29.85",
         "202308": "28.16",
         "202309": "27.62",
-        "202310": "26.40"
+        "202310": "26.37",
+        "202311": "26.19",
+        "202312": "26.12"
     },
     "quarters": {
         "20011": {
@@ -3366,6 +3374,38 @@
             "eps_avg_yearly": 3.15,
             "eps_latest_yearly": 0.44,
             "eps_growth_yearly": -85.57
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.08,
+            "eps_growth_year": -88.24,
+            "eps_4q": 0.94,
+            "eps_4q_growth_year": -72.08,
+            "roe": 0.44,
+            "roe_4q": 4.48,
+            "gross_profit": 22597,
+            "gross_margin": 8.51,
+            "gross_margin_4q_avg": 11.58,
+            "net_income": 5676,
+            "net_income_4q": null,
+            "revenue": 265681,
+            "revenue_4q": null,
+            "common_shares": 675980,
+            "book_valuer_per_share": 18.96,
+            "book_valuer_per_share_4q_avg": 20.32,
+            "equity": 1281896,
+            "current_ratio": 135.98,
+            "debt_ratio": 42.08,
+            "inventory_turnover_ratio": 1.05,
+            "account_receivable_turnover_ratio": 1.89,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 0.38,
+            "price_fair": 8.6,
+            "eps_avg_yearly": 2.87,
+            "eps_latest_yearly": 0.32,
+            "eps_growth_yearly": -87.93
         }
     },
     "months": {
@@ -3613,6 +3653,16 @@
             "month": "2023-09",
             "price": "27.62",
             "revenue": 76828
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "26.37",
+            "revenue": 73576
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "26.19",
+            "revenue": 93445
         }
     }
 }

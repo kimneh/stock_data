@@ -6,15 +6,15 @@
         "main_business": "珠寶首飾之設計、製造及銷售",
         "website_url": "http://www.regaljewelrygroup.com",
         "ceo": "林如茵",
-        "pe_ratio": -7,
+        "pe_ratio": -4,
         "report_year_from": 2016,
         "report_year_to": 2023,
-        "age": 7,
+        "age": 8,
         "eps_negative_percentage": 29,
         "eps_growth_avg": {
-            "last_all": -19.11,
-            "last_2y": -15.35,
-            "last_4y": -19.11,
+            "last_all": -35.28,
+            "last_2y": -43.57,
+            "last_4y": -57.68,
             "last_8y": null,
             "last_12y": null,
             "last_16y": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": -0.6,
             "at_2022_last_3y": -43.57,
             "at_2023_last_3y": -43.57,
+            "at_2024_last_3y": -43.57,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -22.86,
             "at_2021_last_all": -0.6,
             "at_2022_last_all": -19.11,
-            "at_2023_last_all": -19.11
+            "at_2023_last_all": -35.28,
+            "at_2024_last_all": -35.28
         },
-        "latest_eps": -2.36,
-        "latest_price": 16.55,
-        "latest_roe": -9.51,
-        "latest_gross_margin": -7.94,
-        "latest_equity": 853122,
-        "latest_revenue": 250599,
-        "latest_gross_profit": -19891,
-        "latest_net_income": -59381,
-        "latest_debt_ratio": 33.6,
-        "latest_current_ratio": 240.03,
-        "latest_account_receivable_turnover_ratio": 1.32,
-        "latest_inventory_turnover_ratio": 0.79,
-        "latest_reinvestment_rate": 6.9,
-        "latest_research_to_sale_ratio": 6.41
+        "latest_eps": -4.51,
+        "latest_price": 18.5,
+        "latest_roe": -19.35,
+        "latest_gross_margin": 11.28,
+        "latest_equity": 832767,
+        "latest_revenue": 323395,
+        "latest_gross_profit": 36475,
+        "latest_net_income": -21825,
+        "latest_debt_ratio": 38.76,
+        "latest_current_ratio": 206.98,
+        "latest_account_receivable_turnover_ratio": 1.5,
+        "latest_inventory_turnover_ratio": 0.75,
+        "latest_reinvestment_rate": -3.27,
+        "latest_research_to_sale_ratio": 5.36
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 0.84
         },
         "2023": {
-            "cash": 0.45,
+            "cash": 0.9,
             "stock": 0,
-            "eps": -3.61
+            "eps": -4.15
         }
     },
     "dividends": {
@@ -211,6 +213,10 @@
         },
         "2022-09-30": {
             "cash": 1.66,
+            "stock": 0
+        },
+        "2023-02-23": {
+            "cash": 0.45,
             "stock": 0
         },
         "2023-08-01": {
@@ -492,7 +498,9 @@
         "202307": "18.82",
         "202308": "18.31",
         "202309": "17.28",
-        "202310": "16.46"
+        "202310": "16.45",
+        "202311": "16.32",
+        "202312": "17.26"
     },
     "quarters": {
         "20011": {
@@ -3374,6 +3382,38 @@
             "eps_avg_yearly": 3.31,
             "eps_latest_yearly": 4.4,
             "eps_growth_yearly": 116.17
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.54,
+            "eps_growth_year": -133.54,
+            "eps_4q": -4.51,
+            "eps_4q_growth_year": -294.59,
+            "roe": -2.59,
+            "roe_4q": -18.72,
+            "gross_profit": 36475,
+            "gross_margin": 11.28,
+            "gross_margin_4q_avg": 3.29,
+            "net_income": -21825,
+            "net_income_4q": null,
+            "revenue": 323395,
+            "revenue_4q": null,
+            "common_shares": 383960,
+            "book_valuer_per_share": 19.63,
+            "book_valuer_per_share_4q_avg": 21.67,
+            "equity": 832767,
+            "current_ratio": 206.98,
+            "debt_ratio": 38.76,
+            "inventory_turnover_ratio": 0.75,
+            "account_receivable_turnover_ratio": 1.5,
+            "reinvestment_rate": -3.27,
+            "research_to_sale_ratio": 5.36,
+            "price_fair": 115.97,
+            "eps_avg_yearly": 3.31,
+            "eps_latest_yearly": 4.4,
+            "eps_growth_yearly": 116.17
         }
     },
     "months": {
@@ -3791,6 +3831,16 @@
             "month": "2023-09",
             "price": "17.28",
             "revenue": 129027
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "16.45",
+            "revenue": 141972
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "16.32",
+            "revenue": 117956
         }
     }
 }

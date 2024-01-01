@@ -6,19 +6,19 @@
         "main_business": "通訊產品製造及買賣",
         "website_url": "http://www.amigo.com.tw",
         "ceo": "黃士珍",
-        "pe_ratio": -8,
+        "pe_ratio": -10,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 57,
         "eps_growth_avg": {
             "last_all": -40.87,
-            "last_2y": 0,
+            "last_2y": -100,
             "last_4y": 0,
-            "last_8y": -13.94,
-            "last_12y": -38.28,
+            "last_8y": -33.33,
+            "last_12y": -37.85,
             "last_16y": -46,
-            "last_20y": -40.87,
+            "last_20y": -52,
             "at_2006_last_3y": -100,
             "at_2007_last_3y": null,
             "at_2008_last_3y": -100,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": 0,
             "at_2022_last_3y": 0,
             "at_2023_last_3y": 0,
+            "at_2024_last_3y": 0,
             "at_2006_last_all": -20.38,
             "at_2007_last_all": -20.38,
             "at_2008_last_all": -46.92,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -34.3,
             "at_2021_last_all": -40.87,
             "at_2022_last_all": -40.87,
-            "at_2023_last_all": -40.87
+            "at_2023_last_all": -40.87,
+            "at_2024_last_all": -40.87
         },
-        "latest_eps": -1.46,
-        "latest_price": 12.2,
-        "latest_roe": -23.97,
-        "latest_gross_margin": 11.15,
-        "latest_equity": 357745,
-        "latest_revenue": 184486,
-        "latest_gross_profit": 20563,
-        "latest_net_income": -11490,
-        "latest_debt_ratio": 34.39,
-        "latest_current_ratio": 274.71,
-        "latest_account_receivable_turnover_ratio": 0.94,
-        "latest_inventory_turnover_ratio": 0.94,
+        "latest_eps": -1.39,
+        "latest_price": 13.3,
+        "latest_roe": -24.16,
+        "latest_gross_margin": 11.56,
+        "latest_equity": 341822,
+        "latest_revenue": 173137,
+        "latest_gross_profit": 20017,
+        "latest_net_income": -15923,
+        "latest_debt_ratio": 29.34,
+        "latest_current_ratio": 313.05,
+        "latest_account_receivable_turnover_ratio": 0.85,
+        "latest_inventory_turnover_ratio": 1.23,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 12.87
+        "latest_research_to_sale_ratio": 17.77
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.79
+            "eps": -1.12
         }
     },
     "dividends": {
@@ -480,7 +482,9 @@
         "202307": "14.17",
         "202308": "13.21",
         "202309": "12.96",
-        "202310": "12.26"
+        "202310": "12.24",
+        "202311": "11.92",
+        "202312": "13.33"
     },
     "quarters": {
         "20011": {
@@ -3362,6 +3366,38 @@
             "eps_avg_yearly": 0.64,
             "eps_latest_yearly": 0.32,
             "eps_growth_yearly": 243.44
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.33,
+            "eps_growth_year": null,
+            "eps_4q": -1.39,
+            "eps_4q_growth_year": null,
+            "roe": -4.55,
+            "roe_4q": -22.549999999999997,
+            "gross_profit": 20017,
+            "gross_margin": 11.56,
+            "gross_margin_4q_avg": 10.76,
+            "net_income": -15923,
+            "net_income_4q": null,
+            "revenue": 173137,
+            "revenue_4q": null,
+            "common_shares": 487000,
+            "book_valuer_per_share": 7.02,
+            "book_valuer_per_share_4q_avg": 7.15,
+            "equity": 341822,
+            "current_ratio": 313.05,
+            "debt_ratio": 29.34,
+            "inventory_turnover_ratio": 1.23,
+            "account_receivable_turnover_ratio": 0.85,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 17.77,
+            "price_fair": 22.4,
+            "eps_avg_yearly": 0.64,
+            "eps_latest_yearly": 0.32,
+            "eps_growth_yearly": 243.44
         }
     },
     "months": {
@@ -4564,6 +4600,16 @@
             "month": "2023-09",
             "price": "12.96",
             "revenue": 52919
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "12.24",
+            "revenue": 37889
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "11.92",
+            "revenue": 48230
         }
     }
 }

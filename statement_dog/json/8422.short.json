@@ -6,16 +6,16 @@
         "main_business": "有害事業廢棄物清除處理業務",
         "website_url": "http://www.cleanaway.tw",
         "ceo": "楊永發",
-        "pe_ratio": 14,
+        "pe_ratio": 17,
         "report_year_from": 2009,
         "report_year_to": 2023,
-        "age": 14,
+        "age": 15,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 0.49,
-            "last_2y": 4.73,
-            "last_4y": 0.06,
-            "last_8y": 1.57,
+            "last_all": -3.1,
+            "last_2y": -9.43,
+            "last_4y": -7.82,
+            "last_8y": -1.2,
             "last_12y": null,
             "last_16y": null,
             "last_20y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": -4.85,
             "at_2021_last_3y": -4.01,
             "at_2022_last_3y": 0.89,
-            "at_2023_last_3y": 0.89,
+            "at_2023_last_3y": -7.12,
+            "at_2024_last_3y": -7.12,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -0.99,
             "at_2021_last_all": -1.09,
             "at_2022_last_all": 0.49,
-            "at_2023_last_all": 0.49
+            "at_2023_last_all": -3.1,
+            "at_2024_last_all": -3.1
         },
-        "latest_eps": 12.32,
-        "latest_price": 174.5,
-        "latest_roe": 22.15,
-        "latest_gross_margin": 41.15,
-        "latest_equity": 6419472,
-        "latest_revenue": 1243455,
-        "latest_gross_profit": 511725,
-        "latest_net_income": 302593,
-        "latest_debt_ratio": 53.1,
-        "latest_current_ratio": 163.18,
-        "latest_account_receivable_turnover_ratio": 2.56,
-        "latest_inventory_turnover_ratio": 12.01,
-        "latest_reinvestment_rate": 74.34,
-        "latest_research_to_sale_ratio": 0.52
+        "latest_eps": 10.59,
+        "latest_price": 180,
+        "latest_roe": 18.1,
+        "latest_gross_margin": 49.1,
+        "latest_equity": 6576518,
+        "latest_revenue": 678851,
+        "latest_gross_profit": 333316,
+        "latest_net_income": 136563,
+        "latest_debt_ratio": 53.57,
+        "latest_current_ratio": 116.83,
+        "latest_account_receivable_turnover_ratio": 1.04,
+        "latest_inventory_turnover_ratio": 5.38,
+        "latest_reinvestment_rate": 95.57,
+        "latest_research_to_sale_ratio": 1.03
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 12.33
         },
         "2023": {
-            "cash": 10,
+            "cash": 20,
             "stock": 0,
-            "eps": 5.71
+            "eps": 7.07
         }
     },
     "dividends": {
@@ -234,6 +236,10 @@
             "stock": 0
         },
         "2022-06-30": {
+            "cash": 10,
+            "stock": 0
+        },
+        "2023-02-24": {
             "cash": 10,
             "stock": 0
         },
@@ -516,7 +522,9 @@
         "202307": "195.67",
         "202308": "183.50",
         "202309": "180.08",
-        "202310": "175.36"
+        "202310": "175.18",
+        "202311": "177.80",
+        "202312": "179.31"
     },
     "quarters": {
         "20011": {
@@ -3398,6 +3406,38 @@
             "eps_avg_yearly": 11.19,
             "eps_latest_yearly": 11.32,
             "eps_growth_yearly": 8.26
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 1.36,
+            "eps_growth_year": -55.99,
+            "eps_4q": 10.59,
+            "eps_4q_growth_year": -3.34,
+            "roe": 2.1,
+            "roe_4q": 17.97,
+            "gross_profit": 333316,
+            "gross_margin": 49.1,
+            "gross_margin_4q_avg": 43.58,
+            "net_income": 136563,
+            "net_income_4q": null,
+            "revenue": 678851,
+            "revenue_4q": null,
+            "common_shares": 1091226,
+            "book_valuer_per_share": 55.28,
+            "book_valuer_per_share_4q_avg": 54.41,
+            "equity": 6576518,
+            "current_ratio": 116.83,
+            "debt_ratio": 53.57,
+            "inventory_turnover_ratio": 5.38,
+            "account_receivable_turnover_ratio": 1.04,
+            "reinvestment_rate": 95.57,
+            "research_to_sale_ratio": 1.03,
+            "price_fair": 32.91,
+            "eps_avg_yearly": 10.97,
+            "eps_latest_yearly": 5.44,
+            "eps_growth_yearly": -0.03
         }
     },
     "months": {
@@ -4180,6 +4220,16 @@
             "month": "2023-09",
             "price": "180.08",
             "revenue": 310817
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "175.18",
+            "revenue": 333528
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "177.80",
+            "revenue": 382583
         }
     }
 }

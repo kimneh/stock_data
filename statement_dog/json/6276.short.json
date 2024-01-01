@@ -6,19 +6,19 @@
         "main_business": "電腦週邊產品",
         "website_url": "http://www.antec.com",
         "ceo": "王安左",
-        "pe_ratio": 19,
+        "pe_ratio": 27,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 36,
         "eps_growth_avg": {
-            "last_all": -17.56,
+            "last_all": -8.51,
             "last_2y": -0.19,
-            "last_4y": 24.86,
-            "last_8y": -1.13,
-            "last_12y": -9.92,
+            "last_4y": 39.89,
+            "last_8y": 16.57,
+            "last_12y": 3.82,
             "last_16y": -7.72,
-            "last_20y": null,
+            "last_20y": -8.51,
             "at_2006_last_3y": -10.31,
             "at_2007_last_3y": -36.57,
             "at_2008_last_3y": -23.96,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": 43.75,
             "at_2022_last_3y": 24.86,
             "at_2023_last_3y": 24.86,
+            "at_2024_last_3y": 24.86,
             "at_2006_last_all": -10.31,
             "at_2007_last_all": -28.25,
             "at_2008_last_all": -28.25,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -11.01,
             "at_2021_last_all": -16.26,
             "at_2022_last_all": -17.56,
-            "at_2023_last_all": -17.56
+            "at_2023_last_all": -8.51,
+            "at_2024_last_all": -8.51
         },
-        "latest_eps": 2.59,
-        "latest_price": 49.65,
-        "latest_roe": 22.57,
-        "latest_gross_margin": 28.02,
-        "latest_equity": 390670,
-        "latest_revenue": 308757,
-        "latest_gross_profit": 86525,
-        "latest_net_income": 24130,
-        "latest_debt_ratio": 34.82,
-        "latest_current_ratio": 272.63,
-        "latest_account_receivable_turnover_ratio": 1.67,
-        "latest_inventory_turnover_ratio": 3.45,
-        "latest_reinvestment_rate": 2.71,
-        "latest_research_to_sale_ratio": 1.65
+        "latest_eps": 3.34,
+        "latest_price": 89,
+        "latest_roe": 27.94,
+        "latest_gross_margin": 29.67,
+        "latest_equity": 418818,
+        "latest_revenue": 306217,
+        "latest_gross_profit": 90856,
+        "latest_net_income": 26487,
+        "latest_debt_ratio": 31.22,
+        "latest_current_ratio": 302.86,
+        "latest_account_receivable_turnover_ratio": 1.42,
+        "latest_inventory_turnover_ratio": 3.19,
+        "latest_reinvestment_rate": -2.02,
+        "latest_research_to_sale_ratio": 2.49
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0.7,
             "stock": 0,
-            "eps": 1.55
+            "eps": 2.39
         }
     },
     "dividends": {
@@ -516,7 +518,9 @@
         "202307": "49.09",
         "202308": "41.89",
         "202309": "39.44",
-        "202310": "45.38"
+        "202310": "45.82",
+        "202311": "52.93",
+        "202312": "95.63"
     },
     "quarters": {
         "20011": {
@@ -3398,6 +3402,38 @@
             "eps_avg_yearly": 2.76,
             "eps_latest_yearly": 3.08,
             "eps_growth_yearly": 620.56
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.84,
+            "eps_growth_year": 833.33,
+            "eps_4q": 3.34,
+            "eps_4q_growth_year": null,
+            "roe": 6.54,
+            "roe_4q": 28.190000000000005,
+            "gross_profit": 90856,
+            "gross_margin": 29.67,
+            "gross_margin_4q_avg": 29.95,
+            "net_income": 26487,
+            "net_income_4q": null,
+            "revenue": 306217,
+            "revenue_4q": null,
+            "common_shares": 314900,
+            "book_valuer_per_share": 13.28,
+            "book_valuer_per_share_4q_avg": 12.22,
+            "equity": 418818,
+            "current_ratio": 302.86,
+            "debt_ratio": 31.22,
+            "inventory_turnover_ratio": 3.19,
+            "account_receivable_turnover_ratio": 1.42,
+            "reinvestment_rate": -2.02,
+            "research_to_sale_ratio": 2.49,
+            "price_fair": 104.07,
+            "eps_avg_yearly": 2.97,
+            "eps_latest_yearly": 3.36,
+            "eps_growth_yearly": 635.05
         }
     },
     "months": {
@@ -4605,6 +4641,16 @@
             "month": "2023-09",
             "price": "39.44",
             "revenue": 122662
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "45.82",
+            "revenue": 104571
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "52.93",
+            "revenue": 85321
         }
     }
 }

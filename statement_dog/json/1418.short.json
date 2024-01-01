@@ -6,16 +6,16 @@
         "main_business": "聚丙烯青合成纖維.聚丙烯青梳毛條之製造及內外銷<br>生產聚丙烯青紗內外銷<br>聚尿酯系纖維及其原料之製造.加工及內外銷",
         "website_url": "http://www.tonghwa.com.tw",
         "ceo": "林壯燁",
-        "pe_ratio": 51,
+        "pe_ratio": 39,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 87,
         "eps_growth_avg": {
             "last_all": -100,
-            "last_2y": null,
-            "last_4y": null,
-            "last_8y": null,
+            "last_2y": -100,
+            "last_4y": -100,
+            "last_8y": -100,
             "last_12y": -100,
             "last_16y": -100,
             "last_20y": -100,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": null,
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
-            "at_2023_last_3y": null,
+            "at_2023_last_3y": -100,
+            "at_2024_last_3y": -100,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -100,
             "at_2021_last_all": -100,
             "at_2022_last_all": -100,
-            "at_2023_last_all": -100
+            "at_2023_last_all": -100,
+            "at_2024_last_all": -100
         },
-        "latest_eps": 0.44,
-        "latest_price": 22.35,
-        "latest_roe": 2.07,
-        "latest_gross_margin": 28.5,
-        "latest_equity": 1176442,
-        "latest_revenue": 3158,
-        "latest_gross_profit": 900,
-        "latest_net_income": -29800,
-        "latest_debt_ratio": 72.54,
-        "latest_current_ratio": 31.43,
+        "latest_eps": 0.53,
+        "latest_price": 20.55,
+        "latest_roe": 2.54,
+        "latest_gross_margin": 2.85,
+        "latest_equity": 1154705,
+        "latest_revenue": 3786,
+        "latest_gross_profit": 108,
+        "latest_net_income": -21551,
+        "latest_debt_ratio": 72.9,
+        "latest_current_ratio": 29.31,
         "latest_account_receivable_turnover_ratio": null,
-        "latest_inventory_turnover_ratio": 0.43,
+        "latest_inventory_turnover_ratio": 0.72,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": null
+        "latest_research_to_sale_ratio": 0
     },
     "eps_dividends": {
         "1990": {
@@ -230,7 +232,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.97
+            "eps": -1.37
         }
     },
     "dividends": {
@@ -549,7 +551,9 @@
         "202307": "21.46",
         "202308": "21.77",
         "202309": "23.55",
-        "202310": "23.10"
+        "202310": "23.02",
+        "202311": "21.22",
+        "202312": "20.80"
     },
     "quarters": {
         "20011": {
@@ -3431,6 +3435,38 @@
             "eps_avg_yearly": 0,
             "eps_latest_yearly": 0,
             "eps_growth_yearly": 0
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.4,
+            "eps_growth_year": null,
+            "eps_4q": 0.53,
+            "eps_4q_growth_year": null,
+            "roe": -1.85,
+            "roe_4q": 2.54,
+            "gross_profit": 108,
+            "gross_margin": 2.85,
+            "gross_margin_4q_avg": 18.36,
+            "net_income": -21551,
+            "net_income_4q": null,
+            "revenue": 3786,
+            "revenue_4q": null,
+            "common_shares": 568343,
+            "book_valuer_per_share": 21.26,
+            "book_valuer_per_share_4q_avg": 21.95,
+            "equity": 1154705,
+            "current_ratio": 29.31,
+            "debt_ratio": 72.9,
+            "inventory_turnover_ratio": 0.72,
+            "account_receivable_turnover_ratio": null,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 0,
+            "price_fair": 0,
+            "eps_avg_yearly": 0,
+            "eps_latest_yearly": 0,
+            "eps_growth_yearly": 0
         }
     },
     "months": {
@@ -4773,6 +4809,16 @@
             "month": "2023-09",
             "price": "23.55",
             "revenue": 1137
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "23.02",
+            "revenue": 258
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "21.22",
+            "revenue": 739
         }
     }
 }

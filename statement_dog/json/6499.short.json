@@ -9,7 +9,7 @@
         "pe_ratio": -4,
         "report_year_from": 2012,
         "report_year_to": 2023,
-        "age": 11,
+        "age": 12,
         "eps_negative_percentage": 78,
         "eps_growth_avg": {
             "last_all": -100,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": -100,
             "at_2022_last_3y": -100,
             "at_2023_last_3y": -100,
+            "at_2024_last_3y": -100,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -100,
             "at_2021_last_all": -100,
             "at_2022_last_all": -100,
-            "at_2023_last_all": -100
+            "at_2023_last_all": -100,
+            "at_2024_last_all": -100
         },
-        "latest_eps": -12.12,
-        "latest_price": 48.2,
-        "latest_roe": -34.83,
-        "latest_gross_margin": 8.19,
-        "latest_equity": 2794215,
-        "latest_revenue": 51729,
-        "latest_gross_profit": 4237,
-        "latest_net_income": -649710,
-        "latest_debt_ratio": 13.21,
-        "latest_current_ratio": 1080.38,
-        "latest_account_receivable_turnover_ratio": 1.28,
-        "latest_inventory_turnover_ratio": 4.68,
-        "latest_reinvestment_rate": -9.32,
-        "latest_research_to_sale_ratio": 317.03
+        "latest_eps": -12.87,
+        "latest_price": 46.65,
+        "latest_roe": -38.49,
+        "latest_gross_margin": 0.08,
+        "latest_equity": 2605257,
+        "latest_revenue": 45723,
+        "latest_gross_profit": 36,
+        "latest_net_income": -208227,
+        "latest_debt_ratio": 12.6,
+        "latest_current_ratio": 1193.12,
+        "latest_account_receivable_turnover_ratio": 1.15,
+        "latest_inventory_turnover_ratio": 5.34,
+        "latest_reinvestment_rate": -16.16,
+        "latest_research_to_sale_ratio": 369.61
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0.5,
             "stock": 0.5,
-            "eps": -9.2
+            "eps": -11.31
         }
     },
     "dividends": {
@@ -480,7 +482,9 @@
         "202307": "58.18",
         "202308": "51.80",
         "202309": "48.55",
-        "202310": "48.21"
+        "202310": "48.22",
+        "202311": "46.62",
+        "202312": "47.55"
     },
     "quarters": {
         "20011": {
@@ -3362,6 +3366,38 @@
             "eps_avg_yearly": 0,
             "eps_latest_yearly": 0,
             "eps_growth_yearly": 0
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -2.11,
+            "eps_growth_year": null,
+            "eps_4q": -12.87,
+            "eps_4q_growth_year": null,
+            "roe": -7.71,
+            "roe_4q": -39.24,
+            "gross_profit": 36,
+            "gross_margin": 0.08,
+            "gross_margin_4q_avg": 10.74,
+            "net_income": -208227,
+            "net_income_4q": null,
+            "revenue": 45723,
+            "revenue_4q": null,
+            "common_shares": 922449,
+            "book_valuer_per_share": 27.55,
+            "book_valuer_per_share_4q_avg": 34.54,
+            "equity": 2605257,
+            "current_ratio": 1193.12,
+            "debt_ratio": 12.6,
+            "inventory_turnover_ratio": 5.34,
+            "account_receivable_turnover_ratio": 1.15,
+            "reinvestment_rate": -16.16,
+            "research_to_sale_ratio": 369.61,
+            "price_fair": 0,
+            "eps_avg_yearly": 0,
+            "eps_latest_yearly": 0,
+            "eps_growth_yearly": 0
         }
     },
     "months": {
@@ -3894,6 +3930,16 @@
             "month": "2023-09",
             "price": "48.55",
             "revenue": 15619
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "48.22",
+            "revenue": 18256
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "46.62",
+            "revenue": 15364
         }
     }
 }

@@ -6,18 +6,18 @@
         "main_business": "紅外線溫度量測儀<br>耳溫槍、額溫槍等體溫量測產品<br>其他",
         "website_url": "http://www.radiantek.com.tw",
         "ceo": "黃幼謙",
-        "pe_ratio": -144,
+        "pe_ratio": -34,
         "report_year_from": 2003,
         "report_year_to": 2023,
-        "age": 20,
+        "age": 21,
         "eps_negative_percentage": 6,
         "eps_growth_avg": {
-            "last_all": 3.84,
-            "last_2y": -19.78,
-            "last_4y": 8.78,
-            "last_8y": 10.54,
-            "last_12y": 3.46,
-            "last_16y": null,
+            "last_all": -2.27,
+            "last_2y": -86.44,
+            "last_4y": -11.87,
+            "last_8y": -11.68,
+            "last_12y": -2.42,
+            "last_16y": -2.27,
             "last_20y": null,
             "at_2006_last_3y": null,
             "at_2007_last_3y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 34.92,
             "at_2021_last_3y": 29.63,
             "at_2022_last_3y": 10.17,
-            "at_2023_last_3y": 10.17,
+            "at_2023_last_3y": -39.83,
+            "at_2024_last_3y": -39.83,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": -3.28,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 15.77,
             "at_2021_last_all": 9.07,
             "at_2022_last_all": 3.84,
-            "at_2023_last_all": 3.84
+            "at_2023_last_all": -2.27,
+            "at_2024_last_all": -2.27
         },
-        "latest_eps": -0.14,
-        "latest_price": 20.1,
-        "latest_roe": -0.6,
-        "latest_gross_margin": 14.58,
-        "latest_equity": 949074,
-        "latest_revenue": 93399,
-        "latest_gross_profit": 13615,
-        "latest_net_income": -7947,
-        "latest_debt_ratio": 7.08,
-        "latest_current_ratio": 1132.96,
-        "latest_account_receivable_turnover_ratio": 2.05,
+        "latest_eps": -0.79,
+        "latest_price": 26.6,
+        "latest_roe": -3.43,
+        "latest_gross_margin": 16.82,
+        "latest_equity": 950881,
+        "latest_revenue": 95189,
+        "latest_gross_profit": 16010,
+        "latest_net_income": -10101,
+        "latest_debt_ratio": 5.37,
+        "latest_current_ratio": 1468.82,
+        "latest_account_receivable_turnover_ratio": 2.22,
         "latest_inventory_turnover_ratio": 0.15,
-        "latest_reinvestment_rate": 0.93,
-        "latest_research_to_sale_ratio": 14.83
+        "latest_reinvestment_rate": 1.13,
+        "latest_research_to_sale_ratio": 22.34
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0.5,
             "stock": 0,
-            "eps": -0.52
+            "eps": -0.75
         }
     },
     "dividends": {
@@ -536,7 +538,9 @@
         "202307": "21.07",
         "202308": "19.64",
         "202309": "20.31",
-        "202310": "21.03"
+        "202310": "20.94",
+        "202311": "22.74",
+        "202312": "28.10"
     },
     "quarters": {
         "20011": {
@@ -3418,6 +3422,38 @@
             "eps_avg_yearly": 7.44,
             "eps_latest_yearly": 1.68,
             "eps_growth_yearly": 792.37
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.23,
+            "eps_growth_year": -154.76,
+            "eps_4q": -0.79,
+            "eps_4q_growth_year": -178.5,
+            "roe": -1.06,
+            "roe_4q": -3.4699999999999998,
+            "gross_profit": 16010,
+            "gross_margin": 16.82,
+            "gross_margin_4q_avg": 17.41,
+            "net_income": -10101,
+            "net_income_4q": null,
+            "revenue": 95189,
+            "revenue_4q": null,
+            "common_shares": 432898,
+            "book_valuer_per_share": 21.97,
+            "book_valuer_per_share_4q_avg": 22.59,
+            "equity": 950881,
+            "current_ratio": 1468.82,
+            "debt_ratio": 5.37,
+            "inventory_turnover_ratio": 0.15,
+            "account_receivable_turnover_ratio": 2.22,
+            "reinvestment_rate": 1.13,
+            "research_to_sale_ratio": 22.34,
+            "price_fair": 282.8,
+            "eps_avg_yearly": 8.08,
+            "eps_latest_yearly": 1.68,
+            "eps_growth_yearly": 868.13
         }
     },
     "months": {
@@ -4495,6 +4531,16 @@
             "month": "2023-09",
             "price": "20.31",
             "revenue": 30170
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "20.94",
+            "revenue": 31138
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "22.74",
+            "revenue": 34557
         }
     }
 }

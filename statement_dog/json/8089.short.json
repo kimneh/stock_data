@@ -5,15 +5,15 @@
         "category": "通信網路",
         "main_business": "寬頻通訊設備",
         "website_url": "http://www.comtrend.com",
-        "ceo": "邱裕昌",
-        "pe_ratio": -6,
+        "ceo": "洪榮隆",
+        "pe_ratio": -14,
         "report_year_from": 2015,
         "report_year_to": 2023,
-        "age": 8,
+        "age": 9,
         "eps_negative_percentage": 50,
         "eps_growth_avg": {
             "last_all": -100,
-            "last_2y": null,
+            "last_2y": -100,
             "last_4y": null,
             "last_8y": null,
             "last_12y": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": -100,
-            "at_2023_last_all": -100
+            "at_2023_last_all": -100,
+            "at_2024_last_all": -100
         },
-        "latest_eps": -3,
-        "latest_price": 18.1,
-        "latest_roe": -15.74,
-        "latest_gross_margin": 11.62,
-        "latest_equity": 1030693,
-        "latest_revenue": 240289,
-        "latest_gross_profit": 27921,
-        "latest_net_income": -89672,
-        "latest_debt_ratio": 35.24,
-        "latest_current_ratio": 353.57,
-        "latest_account_receivable_turnover_ratio": 1.51,
-        "latest_inventory_turnover_ratio": 0.61,
+        "latest_eps": -4.11,
+        "latest_price": 55.8,
+        "latest_roe": -21.47,
+        "latest_gross_margin": 32.34,
+        "latest_equity": 983973,
+        "latest_revenue": 279470,
+        "latest_gross_profit": 90376,
+        "latest_net_income": -37476,
+        "latest_debt_ratio": 35.82,
+        "latest_current_ratio": 344.15,
+        "latest_account_receivable_turnover_ratio": 1.39,
+        "latest_inventory_turnover_ratio": 0.54,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 14.97
+        "latest_research_to_sale_ratio": 11.92
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0.7,
             "stock": 0,
-            "eps": -3.35
+            "eps": -3.99
         }
     },
     "dividends": {
@@ -488,7 +490,9 @@
         "202307": "21.00",
         "202308": "19.29",
         "202309": "18.63",
-        "202310": "18.38"
+        "202310": "18.50",
+        "202311": "27.36",
+        "202312": "53.76"
     },
     "quarters": {
         "20011": {
@@ -3370,6 +3374,38 @@
             "eps_avg_yearly": 3.1,
             "eps_latest_yearly": 0.24,
             "eps_growth_yearly": 466.09
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.64,
+            "eps_growth_year": -233.33,
+            "eps_4q": -4.11,
+            "eps_4q_growth_year": null,
+            "roe": -3.72,
+            "roe_4q": -21.31,
+            "gross_profit": 90376,
+            "gross_margin": 32.34,
+            "gross_margin_4q_avg": 22.66,
+            "net_income": -37476,
+            "net_income_4q": null,
+            "revenue": 279470,
+            "revenue_4q": null,
+            "common_shares": 586655,
+            "book_valuer_per_share": 16.77,
+            "book_valuer_per_share_4q_avg": 18.93,
+            "equity": 983973,
+            "current_ratio": 344.15,
+            "debt_ratio": 35.82,
+            "inventory_turnover_ratio": 0.54,
+            "account_receivable_turnover_ratio": 1.39,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 11.92,
+            "price_fair": 108.5,
+            "eps_avg_yearly": 3.1,
+            "eps_latest_yearly": 0.24,
+            "eps_growth_yearly": 466.09
         }
     },
     "months": {
@@ -3682,6 +3718,16 @@
             "month": "2023-09",
             "price": "18.63",
             "revenue": 89457
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "18.50",
+            "revenue": 79891
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "27.36",
+            "revenue": 59243
         }
     }
 }

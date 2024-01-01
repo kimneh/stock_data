@@ -6,14 +6,14 @@
         "main_business": "研究、開發微波半導體元件、積體電路及其次系統。<br>生產、製造、銷售微波半導體元件、積體電路及其次系統。",
         "website_url": "http://www.transcominc.com.tw/chinese/index.php",
         "ceo": "張全生、吳昌崙、張景學",
-        "pe_ratio": 33,
+        "pe_ratio": 30,
         "report_year_from": 2010,
         "report_year_to": 2023,
-        "age": 13,
+        "age": 14,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 40.93,
-            "last_2y": null,
+            "last_all": 33.05,
+            "last_2y": 33.05,
             "last_4y": null,
             "last_8y": null,
             "last_12y": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": 40.93,
-            "at_2023_last_all": 40.93
+            "at_2023_last_all": 33.05,
+            "at_2024_last_all": 33.05
         },
-        "latest_eps": 4.83,
-        "latest_price": 160.5,
-        "latest_roe": 18.86,
-        "latest_gross_margin": 55.54,
-        "latest_equity": 1995043,
-        "latest_revenue": 345206,
-        "latest_gross_profit": 191732,
-        "latest_net_income": 135810,
-        "latest_debt_ratio": 15.59,
-        "latest_current_ratio": 584.85,
-        "latest_account_receivable_turnover_ratio": 2.23,
-        "latest_inventory_turnover_ratio": 0.32,
+        "latest_eps": 5.55,
+        "latest_price": 167,
+        "latest_roe": 20.65,
+        "latest_gross_margin": 58.21,
+        "latest_equity": 2119872,
+        "latest_revenue": 309603,
+        "latest_gross_profit": 180213,
+        "latest_net_income": 122719,
+        "latest_debt_ratio": 14.5,
+        "latest_current_ratio": 641.25,
+        "latest_account_receivable_turnover_ratio": 1.46,
+        "latest_inventory_turnover_ratio": 0.27,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 3.89
+        "latest_research_to_sale_ratio": 4.71
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 3.7
         },
         "2023": {
-            "cash": 3,
-            "stock": 1,
-            "eps": 2.69
+            "cash": 6,
+            "stock": 2,
+            "eps": 4.34
         }
     },
     "dividends": {
@@ -204,6 +206,10 @@
         "2022-04-29": {
             "cash": 3.5,
             "stock": 0
+        },
+        "2023-03-15": {
+            "cash": 3,
+            "stock": 1
         },
         "2023-04-28": {
             "cash": 3,
@@ -484,7 +490,9 @@
         "202307": "178.00",
         "202308": "171.11",
         "202309": "167.52",
-        "202310": "165.25"
+        "202310": "164.62",
+        "202311": "164.80",
+        "202312": "167.57"
     },
     "quarters": {
         "20011": {
@@ -3366,6 +3374,38 @@
             "eps_avg_yearly": 3.86,
             "eps_latest_yearly": 8.04,
             "eps_growth_yearly": 179.03
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 1.65,
+            "eps_growth_year": 61.76,
+            "eps_4q": 5.55,
+            "eps_4q_growth_year": 72.46,
+            "roe": 5.96,
+            "roe_4q": 21.02,
+            "gross_profit": 180213,
+            "gross_margin": 58.21,
+            "gross_margin_4q_avg": 55.37,
+            "net_income": 122719,
+            "net_income_4q": null,
+            "revenue": 309603,
+            "revenue_4q": null,
+            "common_shares": 745637,
+            "book_valuer_per_share": 28.43,
+            "book_valuer_per_share_4q_avg": 28.7,
+            "equity": 2119872,
+            "current_ratio": 641.25,
+            "debt_ratio": 14.5,
+            "inventory_turnover_ratio": 0.27,
+            "account_receivable_turnover_ratio": 1.46,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 4.71,
+            "price_fair": 143.69,
+            "eps_avg_yearly": 4.11,
+            "eps_latest_yearly": 6.6,
+            "eps_growth_yearly": 156.25
         }
     },
     "months": {
@@ -4018,6 +4058,16 @@
             "month": "2023-09",
             "price": "167.52",
             "revenue": 108076
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "164.62",
+            "revenue": 116456
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "164.80",
+            "revenue": 124311
         }
     }
 }

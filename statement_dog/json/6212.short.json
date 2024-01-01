@@ -6,19 +6,19 @@
         "main_business": "住宅及大樓開發租售業",
         "website_url": "http://www.met.com.tw",
         "ceo": "曾森縣",
-        "pe_ratio": 31,
+        "pe_ratio": 34,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 22,
         "eps_growth_avg": {
-            "last_all": 3.26,
-            "last_2y": 20.85,
-            "last_4y": 13.07,
-            "last_8y": -0.45,
-            "last_12y": 0.2,
-            "last_16y": 9.04,
-            "last_20y": 3.26,
+            "last_all": -0.66,
+            "last_2y": -33.63,
+            "last_4y": -19.62,
+            "last_8y": -8.33,
+            "last_12y": 3.04,
+            "last_16y": 3.87,
+            "last_20y": -6.95,
             "at_2006_last_3y": -82.66,
             "at_2007_last_3y": -100,
             "at_2008_last_3y": 15.38,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 13.39,
             "at_2021_last_3y": 30.61,
             "at_2022_last_3y": -8.67,
-            "at_2023_last_3y": -8.67,
+            "at_2023_last_3y": -0.22,
+            "at_2024_last_3y": -0.22,
             "at_2006_last_all": -21.77,
             "at_2007_last_all": -21.77,
             "at_2008_last_all": -12.48,
@@ -54,18 +55,19 @@
             "at_2020_last_all": 6.41,
             "at_2021_last_all": 7.29,
             "at_2022_last_all": 3.26,
-            "at_2023_last_all": 3.26
+            "at_2023_last_all": -0.66,
+            "at_2024_last_all": -0.66
         },
-        "latest_eps": 1.57,
-        "latest_price": 48,
-        "latest_roe": 5.79,
-        "latest_gross_margin": 95.48,
-        "latest_equity": 2847223,
-        "latest_revenue": 1172,
-        "latest_gross_profit": 1119,
-        "latest_net_income": -17352,
-        "latest_debt_ratio": 81.51,
-        "latest_current_ratio": 122.46,
+        "latest_eps": 1.59,
+        "latest_price": 53.9,
+        "latest_roe": 5.88,
+        "latest_gross_margin": 53.43,
+        "latest_equity": 2840725,
+        "latest_revenue": 8952,
+        "latest_gross_profit": 4783,
+        "latest_net_income": -6498,
+        "latest_debt_ratio": 82.66,
+        "latest_current_ratio": 120.75,
         "latest_account_receivable_turnover_ratio": null,
         "latest_inventory_turnover_ratio": 0,
         "latest_reinvestment_rate": 0.03,
@@ -190,7 +192,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 0.7
+            "eps": 0.64
         }
     },
     "dividends": {
@@ -509,7 +511,9 @@
         "202307": "47.37",
         "202308": "46.17",
         "202309": "49.28",
-        "202310": "47.68"
+        "202310": "47.84",
+        "202311": "51.99",
+        "202312": "53.83"
     },
     "quarters": {
         "20011": {
@@ -3391,6 +3395,38 @@
             "eps_avg_yearly": 4.67,
             "eps_latest_yearly": 3.48,
             "eps_growth_yearly": 136.22
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.06,
+            "eps_growth_year": null,
+            "eps_4q": 1.59,
+            "eps_4q_growth_year": -30.77,
+            "roe": -0.23,
+            "roe_4q": 5.88,
+            "gross_profit": 4783,
+            "gross_margin": 53.43,
+            "gross_margin_4q_avg": 57.66,
+            "net_income": -6498,
+            "net_income_4q": null,
+            "revenue": 8952,
+            "revenue_4q": null,
+            "common_shares": 1020000,
+            "book_valuer_per_share": 27.85,
+            "book_valuer_per_share_4q_avg": 27.77,
+            "equity": 2840725,
+            "current_ratio": 120.75,
+            "debt_ratio": 82.66,
+            "inventory_turnover_ratio": 0,
+            "account_receivable_turnover_ratio": null,
+            "reinvestment_rate": 0.03,
+            "research_to_sale_ratio": null,
+            "price_fair": 163.33,
+            "eps_avg_yearly": 4.67,
+            "eps_latest_yearly": 3.48,
+            "eps_growth_yearly": 136.22
         }
     },
     "months": {
@@ -4643,6 +4679,16 @@
             "month": "2023-09",
             "price": "49.28",
             "revenue": 225
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "47.84",
+            "revenue": 473
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "51.99",
+            "revenue": 28701
         }
     }
 }

@@ -6,15 +6,15 @@
         "main_business": "散熱風扇",
         "website_url": "http://www.sun-max.com.tw",
         "ceo": "許文昉",
-        "pe_ratio": 18,
+        "pe_ratio": 13,
         "report_year_from": 2016,
         "report_year_to": 2023,
-        "age": 7,
+        "age": 8,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 20.4,
-            "last_2y": 29.32,
-            "last_4y": 20.4,
+            "last_all": 7.05,
+            "last_2y": -11.06,
+            "last_4y": 7.52,
             "last_8y": null,
             "last_12y": null,
             "last_16y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": null,
             "at_2021_last_3y": 25.02,
             "at_2022_last_3y": 24.32,
-            "at_2023_last_3y": 24.32,
+            "at_2023_last_3y": 7.07,
+            "at_2024_last_3y": 7.07,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 25.17,
             "at_2021_last_all": 25.02,
             "at_2022_last_all": 20.4,
-            "at_2023_last_all": 20.4
+            "at_2023_last_all": 7.05,
+            "at_2024_last_all": 7.05
         },
-        "latest_eps": 2.95,
-        "latest_price": 51.8,
-        "latest_roe": 6.28,
-        "latest_gross_margin": 24.28,
-        "latest_equity": 1645790,
-        "latest_revenue": 316036,
-        "latest_gross_profit": 76725,
-        "latest_net_income": 36867,
-        "latest_debt_ratio": 41.92,
-        "latest_current_ratio": 238.83,
-        "latest_account_receivable_turnover_ratio": 0.58,
-        "latest_inventory_turnover_ratio": 0.92,
-        "latest_reinvestment_rate": 116.54,
-        "latest_research_to_sale_ratio": 5.7
+        "latest_eps": 3.72,
+        "latest_price": 49.45,
+        "latest_roe": 7.52,
+        "latest_gross_margin": 31.47,
+        "latest_equity": 1784356,
+        "latest_revenue": 404888,
+        "latest_gross_profit": 127437,
+        "latest_net_income": 45903,
+        "latest_debt_ratio": 33.18,
+        "latest_current_ratio": 265.16,
+        "latest_account_receivable_turnover_ratio": 0.75,
+        "latest_inventory_turnover_ratio": 1.13,
+        "latest_reinvestment_rate": 123.79,
+        "latest_research_to_sale_ratio": 4.49
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 6.97
         },
         "2023": {
-            "cash": 4,
+            "cash": 8,
             "stock": 0,
-            "eps": 1.53
+            "eps": 2.81
         }
     },
     "dividends": {
@@ -210,6 +212,10 @@
             "stock": 0
         },
         "2022-07-22": {
+            "cash": 4,
+            "stock": 0
+        },
+        "2023-03-13": {
             "cash": 4,
             "stock": 0
         },
@@ -492,7 +498,9 @@
         "202307": "51.04",
         "202308": "51.07",
         "202309": "52.86",
-        "202310": "52.84"
+        "202310": "52.62",
+        "202311": "51.05",
+        "202312": "49.30"
     },
     "quarters": {
         "20011": {
@@ -3374,6 +3382,38 @@
             "eps_avg_yearly": 5.93,
             "eps_latest_yearly": 4.32,
             "eps_growth_yearly": 663.55
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 1.28,
+            "eps_growth_year": 156,
+            "eps_4q": 3.72,
+            "eps_4q_growth_year": -49.6,
+            "roe": 2.68,
+            "roe_4q": 7.81,
+            "gross_profit": 127437,
+            "gross_margin": 31.47,
+            "gross_margin_4q_avg": 29.59,
+            "net_income": 45903,
+            "net_income_4q": null,
+            "revenue": 404888,
+            "revenue_4q": null,
+            "common_shares": 355681,
+            "book_valuer_per_share": 49.91,
+            "book_valuer_per_share_4q_avg": 48.67,
+            "equity": 1784356,
+            "current_ratio": 265.16,
+            "debt_ratio": 33.18,
+            "inventory_turnover_ratio": 1.13,
+            "account_receivable_turnover_ratio": 0.75,
+            "reinvestment_rate": 123.79,
+            "research_to_sale_ratio": 4.49,
+            "price_fair": 201.6,
+            "eps_avg_yearly": 5.76,
+            "eps_latest_yearly": 5.12,
+            "eps_growth_yearly": 86.93
         }
     },
     "months": {
@@ -3791,6 +3831,16 @@
             "month": "2023-09",
             "price": "52.86",
             "revenue": 147444
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "52.62",
+            "revenue": 113887
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "51.05",
+            "revenue": 101810
         }
     }
 }

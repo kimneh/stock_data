@@ -6,17 +6,17 @@
         "main_business": "導電銲帶之研發、製造及銷售<br>太陽能電廠工程服務",
         "website_url": "http://www.gigastorage.com.tw/index.aspx",
         "ceo": "陳繼明",
-        "pe_ratio": -19,
+        "pe_ratio": -20,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 61,
         "eps_growth_avg": {
             "last_all": -74.78,
             "last_2y": -100,
             "last_4y": -100,
             "last_8y": -100,
-            "last_12y": -71.63,
+            "last_12y": -96.15,
             "last_16y": -71.63,
             "last_20y": -74.78,
             "at_2006_last_3y": -100,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": -100,
             "at_2022_last_3y": -100,
             "at_2023_last_3y": -100,
+            "at_2024_last_3y": -100,
             "at_2006_last_all": -100,
             "at_2007_last_all": -100,
             "at_2008_last_all": -100,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -71.63,
             "at_2021_last_all": -71.63,
             "at_2022_last_all": -74.78,
-            "at_2023_last_all": -74.78
+            "at_2023_last_all": -74.78,
+            "at_2024_last_all": -74.78
         },
-        "latest_eps": -0.8,
-        "latest_price": 14.85,
-        "latest_roe": -11.45,
-        "latest_gross_margin": -3.31,
-        "latest_equity": 9683810,
-        "latest_revenue": 792278,
-        "latest_gross_profit": -26261,
-        "latest_net_income": -293320,
-        "latest_debt_ratio": 31.54,
-        "latest_current_ratio": 277.95,
-        "latest_account_receivable_turnover_ratio": 1.05,
-        "latest_inventory_turnover_ratio": 0.83,
+        "latest_eps": -0.81,
+        "latest_price": 16.45,
+        "latest_roe": -10.62,
+        "latest_gross_margin": 5.25,
+        "latest_equity": 9572902,
+        "latest_revenue": 810804,
+        "latest_gross_profit": 42605,
+        "latest_net_income": -82970,
+        "latest_debt_ratio": 32.87,
+        "latest_current_ratio": 257.91,
+        "latest_account_receivable_turnover_ratio": 1.23,
+        "latest_inventory_turnover_ratio": 0.82,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 10.8
+        "latest_research_to_sale_ratio": 9.98
     },
     "eps_dividends": {
         "1999": {
@@ -195,7 +197,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.37
+            "eps": -0.4
         }
     },
     "dividends": {
@@ -502,7 +504,9 @@
         "202307": "17.09",
         "202308": "16.03",
         "202309": "15.59",
-        "202310": "14.84"
+        "202310": "15.01",
+        "202311": "16.25",
+        "202312": "16.57"
     },
     "quarters": {
         "20011": {
@@ -3384,6 +3388,38 @@
             "eps_avg_yearly": 0,
             "eps_latest_yearly": 0,
             "eps_growth_yearly": 0
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.03,
+            "eps_growth_year": null,
+            "eps_4q": -0.81,
+            "eps_4q_growth_year": null,
+            "roe": -0.86,
+            "roe_4q": -10.629999999999999,
+            "gross_profit": 42605,
+            "gross_margin": 5.25,
+            "gross_margin_4q_avg": 0.97,
+            "net_income": -82970,
+            "net_income_4q": null,
+            "revenue": 810804,
+            "revenue_4q": null,
+            "common_shares": 3509057,
+            "book_valuer_per_share": 11.8,
+            "book_valuer_per_share_4q_avg": 12.05,
+            "equity": 9572902,
+            "current_ratio": 257.91,
+            "debt_ratio": 32.87,
+            "inventory_turnover_ratio": 0.82,
+            "account_receivable_turnover_ratio": 1.23,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 9.98,
+            "price_fair": 0,
+            "eps_avg_yearly": 0,
+            "eps_latest_yearly": 0,
+            "eps_growth_yearly": 0
         }
     },
     "months": {
@@ -4726,6 +4762,16 @@
             "month": "2023-09",
             "price": "15.59",
             "revenue": 326251
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "15.01",
+            "revenue": 277946
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "16.25",
+            "revenue": 329804
         }
     }
 }

@@ -6,18 +6,18 @@
         "main_business": "積體電路之設計",
         "website_url": "https://www.mblock.com.tw/zh-tw",
         "ceo": "陳企凱",
-        "pe_ratio": 0,
+        "pe_ratio": -368,
         "report_year_from": 2006,
         "report_year_to": 2023,
-        "age": 17,
+        "age": 18,
         "eps_negative_percentage": 6,
         "eps_growth_avg": {
-            "last_all": 2.08,
-            "last_2y": -6.94,
-            "last_4y": 6.59,
-            "last_8y": 5.6,
-            "last_12y": 4.11,
-            "last_16y": null,
+            "last_all": -3.92,
+            "last_2y": -16.42,
+            "last_4y": -28.59,
+            "last_8y": -7.07,
+            "last_12y": -7.6,
+            "last_16y": -3.92,
             "last_20y": null,
             "at_2006_last_3y": null,
             "at_2007_last_3y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": -12.41,
             "at_2021_last_3y": 20.55,
             "at_2022_last_3y": -10.74,
-            "at_2023_last_3y": -10.74,
+            "at_2023_last_3y": -30.21,
+            "at_2024_last_3y": -30.21,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": 5.59,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -1.24,
             "at_2021_last_all": 5.51,
             "at_2022_last_all": 2.08,
-            "at_2023_last_all": 2.08
+            "at_2023_last_all": -3.92,
+            "at_2024_last_all": -3.92
         },
-        "latest_eps": -0,
-        "latest_price": 99.1,
-        "latest_roe": -0,
-        "latest_gross_margin": 38.6,
-        "latest_equity": 2480533,
-        "latest_revenue": 462730,
-        "latest_gross_profit": 178594,
-        "latest_net_income": -10419,
-        "latest_debt_ratio": 18.79,
-        "latest_current_ratio": 439.18,
-        "latest_account_receivable_turnover_ratio": 0.89,
-        "latest_inventory_turnover_ratio": 0.4,
-        "latest_reinvestment_rate": 20.77,
-        "latest_research_to_sale_ratio": 29.01
+        "latest_eps": -0.3,
+        "latest_price": 110.5,
+        "latest_roe": -0.51,
+        "latest_gross_margin": 41.92,
+        "latest_equity": 2501565,
+        "latest_revenue": 482296,
+        "latest_gross_profit": 202167,
+        "latest_net_income": 13565,
+        "latest_debt_ratio": 13.56,
+        "latest_current_ratio": 614.55,
+        "latest_account_receivable_turnover_ratio": 0.86,
+        "latest_inventory_turnover_ratio": 0.49,
+        "latest_reinvestment_rate": 18.31,
+        "latest_research_to_sale_ratio": 29.83
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 4,
             "stock": 0,
-            "eps": -0.42
+            "eps": -0.11
         }
     },
     "dividends": {
@@ -536,7 +538,9 @@
         "202307": "100.18",
         "202308": "91.37",
         "202309": "92.80",
-        "202310": "96.42"
+        "202310": "96.90",
+        "202311": "100.68",
+        "202312": "109.64"
     },
     "quarters": {
         "20011": {
@@ -3418,6 +3422,38 @@
             "eps_avg_yearly": 6.93,
             "eps_latest_yearly": 2.4,
             "eps_growth_yearly": 294.82
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.31,
+            "eps_growth_year": -48.33,
+            "eps_4q": -0.3,
+            "eps_4q_growth_year": -103.04,
+            "roe": 0.54,
+            "roe_4q": -0.49,
+            "gross_profit": 202167,
+            "gross_margin": 41.92,
+            "gross_margin_4q_avg": 39.5,
+            "net_income": 13565,
+            "net_income_4q": null,
+            "revenue": 482296,
+            "revenue_4q": null,
+            "common_shares": 444451,
+            "book_valuer_per_share": 56.28,
+            "book_valuer_per_share_4q_avg": 57.19,
+            "equity": 2501565,
+            "current_ratio": 614.55,
+            "debt_ratio": 13.56,
+            "inventory_turnover_ratio": 0.49,
+            "account_receivable_turnover_ratio": 0.86,
+            "reinvestment_rate": 18.31,
+            "research_to_sale_ratio": 29.83,
+            "price_fair": 255.15,
+            "eps_avg_yearly": 7.29,
+            "eps_latest_yearly": 2.4,
+            "eps_growth_yearly": 343.47
         }
     },
     "months": {
@@ -4445,6 +4481,16 @@
             "month": "2023-09",
             "price": "92.80",
             "revenue": 180941
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "96.90",
+            "revenue": 119676
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "100.68",
+            "revenue": 153667
         }
     }
 }

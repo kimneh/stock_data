@@ -6,13 +6,13 @@
         "main_business": "資源回收再生產品研發產製與銷售<br>特用化學品研發產製與銷售<br>其他綠色產品與設備之研發與銷售",
         "website_url": "https://www.persee.com.tw",
         "ceo": "陳彥亨",
-        "pe_ratio": 35,
+        "pe_ratio": 28,
         "report_year_from": 2011,
         "report_year_to": 2023,
-        "age": 12,
+        "age": 13,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": null,
+            "last_all": -28.56,
             "last_2y": null,
             "last_4y": null,
             "last_8y": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": null,
-            "at_2023_last_all": null
+            "at_2023_last_all": -28.56,
+            "at_2024_last_all": -28.56
         },
-        "latest_eps": 0.7,
-        "latest_price": 24.6,
-        "latest_roe": 2.94,
-        "latest_gross_margin": 11.34,
-        "latest_equity": 1651110,
-        "latest_revenue": 789466,
-        "latest_gross_profit": 89527,
-        "latest_net_income": 19442,
-        "latest_debt_ratio": 42.41,
-        "latest_current_ratio": 168.87,
-        "latest_account_receivable_turnover_ratio": 2.06,
-        "latest_inventory_turnover_ratio": 3.92,
+        "latest_eps": 0.92,
+        "latest_price": 26.2,
+        "latest_roe": 3.81,
+        "latest_gross_margin": 13.16,
+        "latest_equity": 1692318,
+        "latest_revenue": 757159,
+        "latest_gross_profit": 99632,
+        "latest_net_income": 26467,
+        "latest_debt_ratio": 40.47,
+        "latest_current_ratio": 163.97,
+        "latest_account_receivable_turnover_ratio": 2.1,
+        "latest_inventory_turnover_ratio": 3.78,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 0.25
+        "latest_research_to_sale_ratio": 0.12
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 1.48
         },
         "2023": {
-            "cash": 1,
+            "cash": 2,
             "stock": 0,
-            "eps": 0.49
+            "eps": 0.87
         }
     },
     "dividends": {
@@ -219,6 +221,10 @@
         },
         "2022-07-07": {
             "cash": 2,
+            "stock": 0
+        },
+        "2023-02-22": {
+            "cash": 1,
             "stock": 0
         },
         "2023-07-20": {
@@ -500,7 +506,9 @@
         "202307": "26.10",
         "202308": "27.62",
         "202309": "26.24",
-        "202310": "25.11"
+        "202310": "25.05",
+        "202311": "25.73",
+        "202312": "26.66"
     },
     "quarters": {
         "20011": {
@@ -3382,6 +3390,38 @@
             "eps_avg_yearly": 1.59,
             "eps_latest_yearly": 1.12,
             "eps_growth_yearly": 61.2
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.38,
+            "eps_growth_year": 153.33,
+            "eps_4q": 0.92,
+            "eps_4q_growth_year": -55.78,
+            "roe": 1.58,
+            "roe_4q": 3.8200000000000003,
+            "gross_profit": 99632,
+            "gross_margin": 13.16,
+            "gross_margin_4q_avg": 11.24,
+            "net_income": 26467,
+            "net_income_4q": null,
+            "revenue": 757159,
+            "revenue_4q": null,
+            "common_shares": 699430,
+            "book_valuer_per_share": 24.2,
+            "book_valuer_per_share_4q_avg": 24.19,
+            "equity": 1692318,
+            "current_ratio": 163.97,
+            "debt_ratio": 40.47,
+            "inventory_turnover_ratio": 3.78,
+            "account_receivable_turnover_ratio": 2.1,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 0.12,
+            "price_fair": 55.3,
+            "eps_avg_yearly": 1.58,
+            "eps_latest_yearly": 1.52,
+            "eps_growth_yearly": 71.4
         }
     },
     "months": {
@@ -4079,6 +4119,16 @@
             "month": "2023-09",
             "price": "26.24",
             "revenue": 251210
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "25.05",
+            "revenue": 262085
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "25.73",
+            "revenue": 243356
         }
     }
 }

@@ -6,19 +6,19 @@
         "main_business": "電腦及事務性機器設備批發<br>資訊軟體批發<br>電腦設備安裝",
         "website_url": "http://www.xander.com.tw",
         "ceo": "陳文康",
-        "pe_ratio": -69,
+        "pe_ratio": -84,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 30,
         "eps_growth_avg": {
-            "last_all": -25.87,
-            "last_2y": 5.83,
+            "last_all": -30.5,
+            "last_2y": -29.44,
             "last_4y": -29.44,
             "last_8y": -17.67,
-            "last_12y": -14.62,
+            "last_12y": -19.27,
             "last_16y": -16.84,
-            "last_20y": -25.87,
+            "last_20y": -32.95,
             "at_2006_last_3y": -97.39,
             "at_2007_last_3y": -100,
             "at_2008_last_3y": -65,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 0,
             "at_2021_last_3y": -25,
             "at_2022_last_3y": 5.83,
-            "at_2023_last_3y": 5.83,
+            "at_2023_last_3y": -29.44,
+            "at_2024_last_3y": -29.44,
             "at_2006_last_all": -71.48,
             "at_2007_last_all": -71.48,
             "at_2008_last_all": -63.18,
@@ -54,21 +55,22 @@
             "at_2020_last_all": -30.74,
             "at_2021_last_all": -24.98,
             "at_2022_last_all": -25.87,
-            "at_2023_last_all": -25.87
+            "at_2023_last_all": -30.5,
+            "at_2024_last_all": -30.5
         },
-        "latest_eps": -0.38,
-        "latest_price": 26.05,
-        "latest_roe": -3.41,
-        "latest_gross_margin": 3.58,
-        "latest_equity": 997401,
-        "latest_revenue": 1956684,
-        "latest_gross_profit": 70071,
-        "latest_net_income": -43871,
-        "latest_debt_ratio": 65.51,
-        "latest_current_ratio": 142.03,
-        "latest_account_receivable_turnover_ratio": 1.49,
-        "latest_inventory_turnover_ratio": 1.91,
-        "latest_reinvestment_rate": 21.29,
+        "latest_eps": -0.33,
+        "latest_price": 27.85,
+        "latest_roe": -2.91,
+        "latest_gross_margin": 4.55,
+        "latest_equity": 1001348,
+        "latest_revenue": 2240561,
+        "latest_gross_profit": 102038,
+        "latest_net_income": 3947,
+        "latest_debt_ratio": 68.92,
+        "latest_current_ratio": 135.91,
+        "latest_account_receivable_turnover_ratio": 1.67,
+        "latest_inventory_turnover_ratio": 2.06,
+        "latest_reinvestment_rate": 19.62,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.52
+            "eps": -0.48
         }
     },
     "dividends": {
@@ -512,7 +514,9 @@
         "202307": "31.62",
         "202308": "26.97",
         "202309": "27.86",
-        "202310": "26.31"
+        "202310": "26.25",
+        "202311": "28.47",
+        "202312": "28.10"
     },
     "quarters": {
         "20011": {
@@ -3394,6 +3398,38 @@
             "eps_avg_yearly": 0.52,
             "eps_latest_yearly": 0.64,
             "eps_growth_yearly": 179.27
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.04,
+            "eps_growth_year": null,
+            "eps_4q": -0.33,
+            "eps_4q_growth_year": -203.32,
+            "roe": 0.39,
+            "roe_4q": -2.9099999999999997,
+            "gross_profit": 102038,
+            "gross_margin": 4.55,
+            "gross_margin_4q_avg": 3.91,
+            "net_income": 3947,
+            "net_income_4q": null,
+            "revenue": 2240561,
+            "revenue_4q": null,
+            "common_shares": 908896,
+            "book_valuer_per_share": 11.02,
+            "book_valuer_per_share_4q_avg": 11.24,
+            "equity": 1001348,
+            "current_ratio": 135.91,
+            "debt_ratio": 68.92,
+            "inventory_turnover_ratio": 2.06,
+            "account_receivable_turnover_ratio": 1.67,
+            "reinvestment_rate": 19.62,
+            "research_to_sale_ratio": null,
+            "price_fair": 18.2,
+            "eps_avg_yearly": 0.52,
+            "eps_latest_yearly": 0.64,
+            "eps_growth_yearly": 179.27
         }
     },
     "months": {
@@ -4716,6 +4752,16 @@
             "month": "2023-09",
             "price": "27.86",
             "revenue": 716064
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "26.25",
+            "revenue": 810451
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "28.47",
+            "revenue": 718841
         }
     }
 }

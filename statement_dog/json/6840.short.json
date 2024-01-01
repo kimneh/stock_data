@@ -6,10 +6,10 @@
         "main_business": "電子產品之電磁相容認證及安規檢測服務",
         "website_url": "http://www.btl.com.tw",
         "ceo": "吳仲超",
-        "pe_ratio": 25,
+        "pe_ratio": -268,
         "report_year_from": 2021,
         "report_year_to": 2023,
-        "age": 2,
+        "age": 3,
         "eps_negative_percentage": 50,
         "eps_growth_avg": {
             "last_all": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": null,
-            "at_2023_last_all": null
+            "at_2023_last_all": null,
+            "at_2024_last_all": null
         },
-        "latest_eps": 2.36,
-        "latest_price": 60.1,
-        "latest_roe": 7.76,
-        "latest_gross_margin": 38.25,
-        "latest_equity": 851973,
-        "latest_revenue": 177474,
-        "latest_gross_profit": 67890,
-        "latest_net_income": -1970,
-        "latest_debt_ratio": 46.02,
-        "latest_current_ratio": 185.86,
-        "latest_account_receivable_turnover_ratio": 0.88,
+        "latest_eps": -0.27,
+        "latest_price": 72.4,
+        "latest_roe": -0.87,
+        "latest_gross_margin": 26,
+        "latest_equity": 844646,
+        "latest_revenue": 168344,
+        "latest_gross_profit": 43765,
+        "latest_net_income": -17453,
+        "latest_debt_ratio": 43.96,
+        "latest_current_ratio": 188.19,
+        "latest_account_receivable_turnover_ratio": 0.82,
         "latest_inventory_turnover_ratio": null,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 4.31
+        "latest_research_to_sale_ratio": 5.53
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 3,
             "stock": 0,
-            "eps": -0.34
+            "eps": -1.03
         }
     },
     "dividends": {
@@ -476,7 +478,9 @@
         "202307": "67.92",
         "202308": "64.64",
         "202309": "64.14",
-        "202310": "62.51"
+        "202310": "62.31",
+        "202311": "65.75",
+        "202312": "71.66"
     },
     "quarters": {
         "20011": {
@@ -3358,6 +3362,38 @@
             "eps_avg_yearly": 3.24,
             "eps_latest_yearly": 3.24,
             "eps_growth_yearly": -248.6
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.69,
+            "eps_growth_year": -132.24,
+            "eps_4q": -0.27,
+            "eps_4q_growth_year": null,
+            "roe": -2.06,
+            "roe_4q": -0.5,
+            "gross_profit": 43765,
+            "gross_margin": 26,
+            "gross_margin_4q_avg": 36.21,
+            "net_income": -17453,
+            "net_income_4q": null,
+            "revenue": 168344,
+            "revenue_4q": null,
+            "common_shares": 252780,
+            "book_valuer_per_share": 33.41,
+            "book_valuer_per_share_4q_avg": 34.21,
+            "equity": 844646,
+            "current_ratio": 188.19,
+            "debt_ratio": 43.96,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": 0.82,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 5.53,
+            "price_fair": 9.72,
+            "eps_avg_yearly": 3.24,
+            "eps_latest_yearly": 3.24,
+            "eps_growth_yearly": -248.6
         }
     },
     "months": {
@@ -3465,6 +3501,16 @@
             "month": "2023-09",
             "price": "64.14",
             "revenue": 62688
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "62.31",
+            "revenue": 55218
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "65.75",
+            "revenue": 63091
         }
     }
 }

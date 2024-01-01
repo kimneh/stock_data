@@ -6,15 +6,15 @@
         "main_business": "美容美體產品<br>美容美體SPA課程",
         "website_url": "http://www.jourdeness.com",
         "ceo": "陳佳琦",
-        "pe_ratio": 100,
+        "pe_ratio": -640,
         "report_year_from": 2015,
         "report_year_to": 2023,
-        "age": 8,
+        "age": 9,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": -11.39,
-            "last_2y": -42.11,
-            "last_4y": -7.49,
+            "last_all": -13.46,
+            "last_2y": -36.27,
+            "last_4y": -33.09,
             "last_8y": null,
             "last_12y": null,
             "last_16y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 2.64,
             "at_2021_last_3y": 14.37,
             "at_2022_last_3y": -34.36,
-            "at_2023_last_3y": -34.36,
+            "at_2023_last_3y": -38.58,
+            "at_2024_last_3y": -38.58,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 0.22,
             "at_2021_last_all": 2.54,
             "at_2022_last_all": -11.39,
-            "at_2023_last_all": -11.39
+            "at_2023_last_all": -13.46,
+            "at_2024_last_all": -13.46
         },
-        "latest_eps": 0.36,
-        "latest_price": 63.8,
-        "latest_roe": 1.01,
-        "latest_gross_margin": 70.28,
-        "latest_equity": 2148923,
-        "latest_revenue": 814855,
-        "latest_gross_profit": 572648,
-        "latest_net_income": 47003,
-        "latest_debt_ratio": 72.81,
-        "latest_current_ratio": 52.62,
-        "latest_account_receivable_turnover_ratio": 4.66,
-        "latest_inventory_turnover_ratio": 0.67,
-        "latest_reinvestment_rate": 177.51,
-        "latest_research_to_sale_ratio": 1.48
+        "latest_eps": -0.09,
+        "latest_price": 57.6,
+        "latest_roe": -0.26,
+        "latest_gross_margin": 65.93,
+        "latest_equity": 2157662,
+        "latest_revenue": 677863,
+        "latest_gross_profit": 446896,
+        "latest_net_income": -41667,
+        "latest_debt_ratio": 72.96,
+        "latest_current_ratio": 53.5,
+        "latest_account_receivable_turnover_ratio": 4.09,
+        "latest_inventory_turnover_ratio": 0.6,
+        "latest_reinvestment_rate": 210.75,
+        "latest_research_to_sale_ratio": 2.08
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 0.25
         },
         "2023": {
-            "cash": 1,
+            "cash": 2,
             "stock": 0,
-            "eps": 0.87
+            "eps": 0.18
         }
     },
     "dividends": {
@@ -219,6 +221,10 @@
         },
         "2022-05-20": {
             "cash": 3.5,
+            "stock": 0
+        },
+        "2023-03-23": {
+            "cash": 1,
             "stock": 0
         },
         "2023-05-25": {
@@ -500,7 +506,9 @@
         "202307": "79.60",
         "202308": "70.97",
         "202309": "68.16",
-        "202310": "65.39"
+        "202310": "65.12",
+        "202311": "62.99",
+        "202312": "59.66"
     },
     "quarters": {
         "20011": {
@@ -3382,6 +3390,38 @@
             "eps_avg_yearly": 5.2,
             "eps_latest_yearly": 3.12,
             "eps_growth_yearly": 422.26
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.69,
+            "eps_growth_year": null,
+            "eps_4q": -0.09,
+            "eps_4q_growth_year": -104.47,
+            "roe": -1.94,
+            "roe_4q": -0.23999999999999977,
+            "gross_profit": 446896,
+            "gross_margin": 65.93,
+            "gross_margin_4q_avg": 67.72,
+            "net_income": -41667,
+            "net_income_4q": null,
+            "revenue": 677863,
+            "revenue_4q": null,
+            "common_shares": 614775,
+            "book_valuer_per_share": 35.1,
+            "book_valuer_per_share_4q_avg": 35.13,
+            "equity": 2157662,
+            "current_ratio": 53.5,
+            "debt_ratio": 72.96,
+            "inventory_turnover_ratio": 0.6,
+            "account_receivable_turnover_ratio": 4.09,
+            "reinvestment_rate": 210.75,
+            "research_to_sale_ratio": 2.08,
+            "price_fair": 178.92,
+            "eps_avg_yearly": 5.11,
+            "eps_latest_yearly": 3.12,
+            "eps_growth_yearly": 481.34
         }
     },
     "months": {
@@ -3864,6 +3904,16 @@
             "month": "2023-09",
             "price": "68.16",
             "revenue": 242168
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "65.12",
+            "revenue": 231439
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "62.99",
+            "revenue": 209148
         }
     }
 }

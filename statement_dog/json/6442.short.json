@@ -6,16 +6,16 @@
         "main_business": "各種光纖及光纖連合器等之製造組立加工及買賣業務<br>通訊光電介面產品及通信網路設備之加工裝配業務<br>電子組件用精密金屬零件及電子產品之加工製造組立業務",
         "website_url": "http://www.ezconn.com",
         "ceo": "張英華",
-        "pe_ratio": 22,
+        "pe_ratio": 31,
         "report_year_from": 2011,
         "report_year_to": 2023,
-        "age": 12,
+        "age": 13,
         "eps_negative_percentage": 20,
         "eps_growth_avg": {
-            "last_all": 17.37,
-            "last_2y": 100,
-            "last_4y": 33.33,
-            "last_8y": null,
+            "last_all": 6.9,
+            "last_2y": 22.06,
+            "last_4y": -18.63,
+            "last_8y": 6.9,
             "last_12y": null,
             "last_16y": null,
             "last_20y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": -27.87,
             "at_2021_last_3y": 0,
             "at_2022_last_3y": 0,
-            "at_2023_last_3y": 0,
+            "at_2023_last_3y": 22.06,
+            "at_2024_last_3y": 22.06,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 0.84,
             "at_2021_last_all": 0.84,
             "at_2022_last_all": 17.37,
-            "at_2023_last_all": 17.37
+            "at_2023_last_all": 6.9,
+            "at_2024_last_all": 6.9
         },
-        "latest_eps": 3.6,
-        "latest_price": 80.3,
-        "latest_roe": 12.75,
-        "latest_gross_margin": 35.83,
-        "latest_equity": 1911408,
-        "latest_revenue": 698592,
-        "latest_gross_profit": 250312,
-        "latest_net_income": 70949,
-        "latest_debt_ratio": 42.69,
-        "latest_current_ratio": 230.5,
-        "latest_account_receivable_turnover_ratio": 1.11,
-        "latest_inventory_turnover_ratio": 0.67,
-        "latest_reinvestment_rate": 58.35,
-        "latest_research_to_sale_ratio": 3.87
+        "latest_eps": 2.27,
+        "latest_price": 70.3,
+        "latest_roe": 7.53,
+        "latest_gross_margin": 33.68,
+        "latest_equity": 2012740,
+        "latest_revenue": 666543,
+        "latest_gross_profit": 224464,
+        "latest_net_income": 67669,
+        "latest_debt_ratio": 37.74,
+        "latest_current_ratio": 260.69,
+        "latest_account_receivable_turnover_ratio": 1.17,
+        "latest_inventory_turnover_ratio": 0.77,
+        "latest_reinvestment_rate": -5.65,
+        "latest_research_to_sale_ratio": 3.96
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 4.85
         },
         "2023": {
-            "cash": 2.1,
+            "cash": 4.2,
             "stock": 0,
-            "eps": 1.12
+            "eps": 2.14
         }
     },
     "dividends": {
@@ -223,6 +225,10 @@
         },
         "2022-08-23": {
             "cash": 1.2,
+            "stock": 0
+        },
+        "2023-03-14": {
+            "cash": 2.1,
             "stock": 0
         },
         "2023-08-15": {
@@ -504,7 +510,9 @@
         "202307": "65.12",
         "202308": "63.21",
         "202309": "64.61",
-        "202310": "75.79"
+        "202310": "75.70",
+        "202311": "73.08",
+        "202312": "67.75"
     },
     "quarters": {
         "20011": {
@@ -3386,6 +3394,38 @@
             "eps_avg_yearly": 2.78,
             "eps_latest_yearly": 4.28,
             "eps_growth_yearly": 821.75
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 1.02,
+            "eps_growth_year": -56.41,
+            "eps_4q": 2.27,
+            "eps_4q_growth_year": -56.23,
+            "roe": 3.45,
+            "roe_4q": 7.840000000000001,
+            "gross_profit": 224464,
+            "gross_margin": 33.68,
+            "gross_margin_4q_avg": 31.09,
+            "net_income": 67669,
+            "net_income_4q": null,
+            "revenue": 666543,
+            "revenue_4q": null,
+            "common_shares": 663000,
+            "book_valuer_per_share": 30.36,
+            "book_valuer_per_share_4q_avg": 29.31,
+            "equity": 2012740,
+            "current_ratio": 260.69,
+            "debt_ratio": 37.74,
+            "inventory_turnover_ratio": 0.77,
+            "account_receivable_turnover_ratio": 1.17,
+            "reinvestment_rate": -5.65,
+            "research_to_sale_ratio": 3.96,
+            "price_fair": 107.8,
+            "eps_avg_yearly": 3.08,
+            "eps_latest_yearly": 4.08,
+            "eps_growth_yearly": 832.17
         }
     },
     "months": {
@@ -3963,6 +4003,16 @@
             "month": "2023-09",
             "price": "64.61",
             "revenue": 201507
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "75.70",
+            "revenue": 231218
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "73.08",
+            "revenue": 156024
         }
     }
 }

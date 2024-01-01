@@ -6,16 +6,16 @@
         "main_business": "光學膜相關產品",
         "website_url": "http://www.optivtech.com",
         "ceo": "袁廣麟",
-        "pe_ratio": -3,
+        "pe_ratio": -5,
         "report_year_from": 2008,
         "report_year_to": 2023,
-        "age": 15,
+        "age": 16,
         "eps_negative_percentage": 45,
         "eps_growth_avg": {
             "last_all": -8.06,
             "last_2y": -100,
             "last_4y": -100,
-            "last_8y": -8.06,
+            "last_8y": -29.68,
             "last_12y": null,
             "last_16y": null,
             "last_20y": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": -100,
             "at_2022_last_3y": -100,
             "at_2023_last_3y": -100,
+            "at_2024_last_3y": -100,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 10.32,
             "at_2021_last_all": -8.06,
             "at_2022_last_all": -8.06,
-            "at_2023_last_all": -8.06
+            "at_2023_last_all": -8.06,
+            "at_2024_last_all": -8.06
         },
-        "latest_eps": -8.02,
-        "latest_price": 26.85,
-        "latest_roe": -41.85,
-        "latest_gross_margin": -17.25,
-        "latest_equity": 807197,
-        "latest_revenue": 170840,
-        "latest_gross_profit": -29462,
-        "latest_net_income": -111878,
-        "latest_debt_ratio": 27.29,
-        "latest_current_ratio": 204.83,
-        "latest_account_receivable_turnover_ratio": 0.7,
-        "latest_inventory_turnover_ratio": 1.16,
+        "latest_eps": -5.72,
+        "latest_price": 26.15,
+        "latest_roe": -33.42,
+        "latest_gross_margin": -5.93,
+        "latest_equity": 757394,
+        "latest_revenue": 216013,
+        "latest_gross_profit": -12809,
+        "latest_net_income": -39813,
+        "latest_debt_ratio": 36.59,
+        "latest_current_ratio": 166.63,
+        "latest_account_receivable_turnover_ratio": 0.75,
+        "latest_inventory_turnover_ratio": 1.41,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 5.57
+        "latest_research_to_sale_ratio": 4.05
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -3.09
+            "eps": -3.84
         }
     },
     "dividends": {
@@ -492,7 +494,9 @@
         "202307": "26.93",
         "202308": "26.03",
         "202309": "25.42",
-        "202310": "28.01"
+        "202310": "27.86",
+        "202311": "26.65",
+        "202312": "27.19"
     },
     "quarters": {
         "20011": {
@@ -3374,6 +3378,38 @@
             "eps_avg_yearly": 1.86,
             "eps_latest_yearly": 0.12,
             "eps_growth_yearly": 462.95
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.75,
+            "eps_growth_year": null,
+            "eps_4q": -5.72,
+            "eps_4q_growth_year": null,
+            "roe": -5.09,
+            "roe_4q": -33.49,
+            "gross_profit": -12809,
+            "gross_margin": -5.93,
+            "gross_margin_4q_avg": -16.48,
+            "net_income": -39813,
+            "net_income_4q": null,
+            "revenue": 216013,
+            "revenue_4q": null,
+            "common_shares": 587016,
+            "book_valuer_per_share": 14.3,
+            "book_valuer_per_share_4q_avg": 16.24,
+            "equity": 757394,
+            "current_ratio": 166.63,
+            "debt_ratio": 36.59,
+            "inventory_turnover_ratio": 1.41,
+            "account_receivable_turnover_ratio": 0.75,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 4.05,
+            "price_fair": 65,
+            "eps_avg_yearly": 1.86,
+            "eps_latest_yearly": 0.12,
+            "eps_growth_yearly": 462.95
         }
     },
     "months": {
@@ -4236,6 +4272,16 @@
             "month": "2023-09",
             "price": "25.42",
             "revenue": 72086
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "27.86",
+            "revenue": 51914
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "26.65",
+            "revenue": 60862
         }
     }
 }

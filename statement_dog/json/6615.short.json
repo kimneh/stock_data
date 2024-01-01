@@ -6,15 +6,15 @@
         "main_business": "孕前、產前及新生兒之各項基因檢測及癌症基因檢測等服務",
         "website_url": "http://www.sofivagenomics.com.tw",
         "ceo": "洪加政",
-        "pe_ratio": 28,
+        "pe_ratio": 26,
         "report_year_from": 2014,
         "report_year_to": 2023,
-        "age": 9,
+        "age": 10,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 10.79,
-            "last_2y": -2.06,
-            "last_4y": 10.79,
+            "last_all": -2.12,
+            "last_2y": -9.42,
+            "last_4y": -8.37,
             "last_8y": null,
             "last_12y": null,
             "last_16y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": null,
             "at_2021_last_3y": 19.73,
             "at_2022_last_3y": 6.2,
-            "at_2023_last_3y": 6.2,
+            "at_2023_last_3y": -18.21,
+            "at_2024_last_3y": -18.21,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 5.17,
             "at_2021_last_all": 19.73,
             "at_2022_last_all": 10.79,
-            "at_2023_last_all": 10.79
+            "at_2023_last_all": -2.12,
+            "at_2024_last_all": -2.12
         },
-        "latest_eps": 1.45,
-        "latest_price": 39.95,
-        "latest_roe": 5.17,
-        "latest_gross_margin": 28.7,
-        "latest_equity": 614227,
-        "latest_revenue": 119074,
-        "latest_gross_profit": 34170,
-        "latest_net_income": 4354,
-        "latest_debt_ratio": 22.85,
-        "latest_current_ratio": 247.23,
-        "latest_account_receivable_turnover_ratio": 2.11,
-        "latest_inventory_turnover_ratio": 1.86,
-        "latest_reinvestment_rate": 97.95,
-        "latest_research_to_sale_ratio": 3.04
+        "latest_eps": 1.6,
+        "latest_price": 41,
+        "latest_roe": 5.64,
+        "latest_gross_margin": 27.6,
+        "latest_equity": 620404,
+        "latest_revenue": 119889,
+        "latest_gross_profit": 33092,
+        "latest_net_income": 5833,
+        "latest_debt_ratio": 19.09,
+        "latest_current_ratio": 302.85,
+        "latest_account_receivable_turnover_ratio": 2.04,
+        "latest_inventory_turnover_ratio": 2,
+        "latest_reinvestment_rate": 105.99,
+        "latest_research_to_sale_ratio": 1.45
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 1,
             "stock": 0,
-            "eps": 0.4
+            "eps": 0.67
         }
     },
     "dividends": {
@@ -496,7 +498,9 @@
         "202307": "38.86",
         "202308": "41.47",
         "202309": "40.20",
-        "202310": "39.04"
+        "202310": "39.04",
+        "202311": "39.47",
+        "202312": "39.96"
     },
     "quarters": {
         "20011": {
@@ -3378,6 +3382,38 @@
             "eps_avg_yearly": 2.03,
             "eps_latest_yearly": 0.8,
             "eps_growth_yearly": 134.29
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.27,
+            "eps_growth_year": 125,
+            "eps_4q": 1.6,
+            "eps_4q_growth_year": -6.89,
+            "roe": 0.94,
+            "roe_4q": 5.609999999999999,
+            "gross_profit": 33092,
+            "gross_margin": 27.6,
+            "gross_margin_4q_avg": 28.81,
+            "net_income": 5833,
+            "net_income_4q": null,
+            "revenue": 119889,
+            "revenue_4q": null,
+            "common_shares": 213624,
+            "book_valuer_per_share": 29.06,
+            "book_valuer_per_share_4q_avg": 28.93,
+            "equity": 620404,
+            "current_ratio": 302.85,
+            "debt_ratio": 19.09,
+            "inventory_turnover_ratio": 2,
+            "account_receivable_turnover_ratio": 2.04,
+            "reinvestment_rate": 105.99,
+            "research_to_sale_ratio": 1.45,
+            "price_fair": 66.24,
+            "eps_avg_yearly": 1.89,
+            "eps_latest_yearly": 1.08,
+            "eps_growth_yearly": 145.24
         }
     },
     "months": {
@@ -3785,6 +3821,16 @@
             "month": "2023-09",
             "price": "40.20",
             "revenue": 38613
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "39.04",
+            "revenue": 38686
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "39.47",
+            "revenue": 35720
         }
     }
 }

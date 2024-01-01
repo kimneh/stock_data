@@ -6,15 +6,15 @@
         "main_business": "各類影像相關產品之設計、生產及銷售<br>各類影像處理系統之設計、生產及銷售<br>各類安全監控系統之設計、生產及銷售",
         "website_url": "http://www.appropho.com",
         "ceo": "陳義文",
-        "pe_ratio": -145,
+        "pe_ratio": -125,
         "report_year_from": 2014,
         "report_year_to": 2023,
-        "age": 9,
-        "eps_negative_percentage": 25,
+        "age": 10,
+        "eps_negative_percentage": 13,
         "eps_growth_avg": {
-            "last_all": -14.92,
-            "last_2y": 25.6,
-            "last_4y": 6.35,
+            "last_all": -28.33,
+            "last_2y": -39.51,
+            "last_4y": -13.99,
             "last_8y": null,
             "last_12y": null,
             "last_16y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": -17.14,
             "at_2021_last_3y": 36.83,
             "at_2022_last_3y": 6.35,
-            "at_2023_last_3y": 6.35,
+            "at_2023_last_3y": -4.64,
+            "at_2024_last_3y": -4.64,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -17.14,
             "at_2021_last_all": 2.62,
             "at_2022_last_all": -14.92,
-            "at_2023_last_all": -14.92
+            "at_2023_last_all": -28.33,
+            "at_2024_last_all": -28.33
         },
-        "latest_eps": -0.2,
-        "latest_price": 29,
-        "latest_roe": -1.06,
-        "latest_gross_margin": 37.65,
-        "latest_equity": 463788,
-        "latest_revenue": 25901,
-        "latest_gross_profit": 9752,
-        "latest_net_income": 1474,
-        "latest_debt_ratio": 14.48,
-        "latest_current_ratio": 595.98,
-        "latest_account_receivable_turnover_ratio": 0.63,
-        "latest_inventory_turnover_ratio": 0.24,
-        "latest_reinvestment_rate": -2.91,
-        "latest_research_to_sale_ratio": 40.64
+        "latest_eps": -0.25,
+        "latest_price": 31.15,
+        "latest_roe": -1.31,
+        "latest_gross_margin": 30.63,
+        "latest_equity": 472012,
+        "latest_revenue": 38278,
+        "latest_gross_profit": 11723,
+        "latest_net_income": 8224,
+        "latest_debt_ratio": 10.09,
+        "latest_current_ratio": 918.7,
+        "latest_account_receivable_turnover_ratio": 1.29,
+        "latest_inventory_turnover_ratio": 0.47,
+        "latest_reinvestment_rate": -2.64,
+        "latest_research_to_sale_ratio": 34.24
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 1,
             "stock": 0,
-            "eps": -0.25
+            "eps": 0.07
         }
     },
     "dividends": {
@@ -496,7 +498,9 @@
         "202307": "32.33",
         "202308": "30.33",
         "202309": "29.24",
-        "202310": "29.14"
+        "202310": "29.12",
+        "202311": "30.32",
+        "202312": "32.37"
     },
     "quarters": {
         "20011": {
@@ -3378,6 +3382,38 @@
             "eps_avg_yearly": 5.68,
             "eps_latest_yearly": 1.48,
             "eps_growth_yearly": 96.63
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.32,
+            "eps_growth_year": -13.51,
+            "eps_4q": -0.25,
+            "eps_4q_growth_year": -108.03,
+            "roe": 1.76,
+            "roe_4q": -1.1700000000000002,
+            "gross_profit": 11723,
+            "gross_margin": 30.63,
+            "gross_margin_4q_avg": 29.54,
+            "net_income": 8224,
+            "net_income_4q": null,
+            "revenue": 38278,
+            "revenue_4q": null,
+            "common_shares": 258747,
+            "book_valuer_per_share": 18.24,
+            "book_valuer_per_share_4q_avg": 18.55,
+            "equity": 472012,
+            "current_ratio": 918.7,
+            "debt_ratio": 10.09,
+            "inventory_turnover_ratio": 0.47,
+            "account_receivable_turnover_ratio": 1.29,
+            "reinvestment_rate": -2.64,
+            "research_to_sale_ratio": 34.24,
+            "price_fair": 199.66,
+            "eps_avg_yearly": 5.7,
+            "eps_latest_yearly": 1.28,
+            "eps_growth_yearly": 254.1
         }
     },
     "months": {
@@ -3845,6 +3881,16 @@
             "month": "2023-09",
             "price": "29.24",
             "revenue": 12069
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "29.12",
+            "revenue": 4939
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "30.32",
+            "revenue": 6069
         }
     }
 }

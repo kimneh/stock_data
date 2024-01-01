@@ -6,19 +6,19 @@
         "main_business": "醋酸鈷、錳、磁性材料生產製造買賣及進出口業務<br>鈷化合物、錳化合物之生產買賣及進出口業務<br>鈷金屬、錳金屬之買賣及進出口業務",
         "website_url": "http://www.mechema.com",
         "ceo": "嚴隆財",
-        "pe_ratio": -199,
+        "pe_ratio": -90,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 4,
         "eps_growth_avg": {
-            "last_all": 13.53,
-            "last_2y": 20.52,
-            "last_4y": 13.66,
-            "last_8y": 19.92,
-            "last_12y": 16.95,
-            "last_16y": 13.36,
-            "last_20y": 13.53,
+            "last_all": 8.37,
+            "last_2y": 1.8,
+            "last_4y": -9.72,
+            "last_8y": 4.33,
+            "last_12y": 1.57,
+            "last_16y": 7.48,
+            "last_20y": 7.07,
             "at_2006_last_3y": 5.31,
             "at_2007_last_3y": 7.76,
             "at_2008_last_3y": -5.73,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 2.7,
             "at_2021_last_3y": 15.73,
             "at_2022_last_3y": 12.85,
-            "at_2023_last_3y": 12.85,
+            "at_2023_last_3y": -9.61,
+            "at_2024_last_3y": -9.61,
             "at_2006_last_all": 11.4,
             "at_2007_last_all": 20.57,
             "at_2008_last_all": 14.68,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 9.41,
             "at_2021_last_all": 13.94,
             "at_2022_last_all": 13.53,
-            "at_2023_last_all": 13.53
+            "at_2023_last_all": 8.37,
+            "at_2024_last_all": 8.37
         },
-        "latest_eps": -0.39,
-        "latest_price": 77.6,
-        "latest_roe": -2.34,
-        "latest_gross_margin": 6.01,
-        "latest_equity": 1054801,
-        "latest_revenue": 642328,
-        "latest_gross_profit": 38618,
-        "latest_net_income": -25742,
-        "latest_debt_ratio": 43.38,
-        "latest_current_ratio": 179.88,
-        "latest_account_receivable_turnover_ratio": 1.29,
-        "latest_inventory_turnover_ratio": 1.43,
-        "latest_reinvestment_rate": -9.36,
-        "latest_research_to_sale_ratio": 0.46
+        "latest_eps": -0.97,
+        "latest_price": 87.1,
+        "latest_roe": -5.52,
+        "latest_gross_margin": 17,
+        "latest_equity": 1117989,
+        "latest_revenue": 549880,
+        "latest_gross_profit": 93463,
+        "latest_net_income": 47856,
+        "latest_debt_ratio": 38.75,
+        "latest_current_ratio": 202.19,
+        "latest_account_receivable_turnover_ratio": 0.97,
+        "latest_inventory_turnover_ratio": 1.18,
+        "latest_reinvestment_rate": -8.86,
+        "latest_research_to_sale_ratio": 0.96
     },
     "eps_dividends": {
         "1999": {
@@ -195,7 +197,7 @@
         "2023": {
             "cash": 4.6,
             "stock": 0,
-            "eps": -1.18
+            "eps": -0.54
         }
     },
     "dividends": {
@@ -574,7 +576,9 @@
         "202307": "93.81",
         "202308": "81.46",
         "202309": "82.08",
-        "202310": "79.77"
+        "202310": "79.48",
+        "202311": "81.51",
+        "202312": "88.75"
     },
     "quarters": {
         "20011": {
@@ -3456,6 +3460,38 @@
             "eps_avg_yearly": 4.18,
             "eps_latest_yearly": 4.88,
             "eps_growth_yearly": 69.44
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.64,
+            "eps_growth_year": -47.54,
+            "eps_4q": -0.97,
+            "eps_4q_growth_year": -114.17,
+            "roe": 4.4,
+            "roe_4q": -4.97,
+            "gross_profit": 93463,
+            "gross_margin": 17,
+            "gross_margin_4q_avg": 7.34,
+            "net_income": 47856,
+            "net_income_4q": null,
+            "revenue": 549880,
+            "revenue_4q": null,
+            "common_shares": 749863,
+            "book_valuer_per_share": 14.91,
+            "book_valuer_per_share_4q_avg": 15.9,
+            "equity": 1117989,
+            "current_ratio": 202.19,
+            "debt_ratio": 38.75,
+            "inventory_turnover_ratio": 1.18,
+            "account_receivable_turnover_ratio": 0.97,
+            "reinvestment_rate": -8.86,
+            "research_to_sale_ratio": 0.96,
+            "price_fair": 147.35,
+            "eps_avg_yearly": 4.21,
+            "eps_latest_yearly": 4.88,
+            "eps_growth_yearly": 67.33
         }
     },
     "months": {
@@ -4798,6 +4834,16 @@
             "month": "2023-09",
             "price": "82.08",
             "revenue": 177093
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "79.48",
+            "revenue": 145740
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "81.51",
+            "revenue": 164096
         }
     }
 }

@@ -6,19 +6,19 @@
         "main_business": "電子零組件製造業(電子點火器、電壓調整器、整流器)；<br>電動工具製造業(電鑽、打釘機等)<br>機車及其零件製造業；一般儀器製造業；",
         "website_url": "http://www.more.com.tw",
         "ceo": "蔡裕慶",
-        "pe_ratio": -52,
+        "pe_ratio": -46,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 9,
         "eps_growth_avg": {
-            "last_all": -8.35,
-            "last_2y": -37.19,
-            "last_4y": -7.19,
-            "last_8y": -7.53,
-            "last_12y": 0.68,
-            "last_16y": -1.12,
-            "last_20y": -8.35,
+            "last_all": -12.72,
+            "last_2y": -51.34,
+            "last_4y": -47.19,
+            "last_8y": -20.22,
+            "last_12y": -0.5,
+            "last_16y": -13.62,
+            "last_20y": -12.91,
             "at_2006_last_3y": -10.07,
             "at_2007_last_3y": -4.57,
             "at_2008_last_3y": -7.68,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 12.66,
             "at_2021_last_3y": 4.52,
             "at_2022_last_3y": -33.98,
-            "at_2023_last_3y": -33.98,
+            "at_2023_last_3y": -52.9,
+            "at_2024_last_3y": -52.9,
             "at_2006_last_all": -9.82,
             "at_2007_last_all": -12.64,
             "at_2008_last_all": -25.12,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -6.28,
             "at_2021_last_all": -5.95,
             "at_2022_last_all": -8.35,
-            "at_2023_last_all": -8.35
+            "at_2023_last_all": -12.72,
+            "at_2024_last_all": -12.72
         },
-        "latest_eps": -1.01,
-        "latest_price": 52.5,
-        "latest_roe": -7.33,
-        "latest_gross_margin": 16.05,
-        "latest_equity": 2815007,
-        "latest_revenue": 1103558,
-        "latest_gross_profit": 177090,
-        "latest_net_income": -62893,
-        "latest_debt_ratio": 67.26,
-        "latest_current_ratio": 178.82,
-        "latest_account_receivable_turnover_ratio": 1.31,
-        "latest_inventory_turnover_ratio": 0.49,
-        "latest_reinvestment_rate": 823.1,
-        "latest_research_to_sale_ratio": 4.42
+        "latest_eps": -1.18,
+        "latest_price": 54.8,
+        "latest_roe": -7.45,
+        "latest_gross_margin": 19.69,
+        "latest_equity": 2828011,
+        "latest_revenue": 1046346,
+        "latest_gross_profit": 206009,
+        "latest_net_income": -20848,
+        "latest_debt_ratio": 67.52,
+        "latest_current_ratio": 179.18,
+        "latest_account_receivable_turnover_ratio": 1.2,
+        "latest_inventory_turnover_ratio": 0.44,
+        "latest_reinvestment_rate": 1002.46,
+        "latest_research_to_sale_ratio": 4.86
     },
     "eps_dividends": {
         "1999": {
@@ -195,7 +197,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.91
+            "eps": -0.86
         }
     },
     "dividends": {
@@ -558,7 +560,9 @@
         "202307": "63.27",
         "202308": "56.43",
         "202309": "57.20",
-        "202310": "54.64"
+        "202310": "54.42",
+        "202311": "55.46",
+        "202312": "55.68"
     },
     "quarters": {
         "20011": {
@@ -3440,6 +3444,38 @@
             "eps_avg_yearly": 1.09,
             "eps_latest_yearly": 0.88,
             "eps_growth_yearly": 175.98
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.05,
+            "eps_growth_year": -77.27,
+            "eps_4q": -1.18,
+            "eps_4q_growth_year": -254.83,
+            "roe": -0.74,
+            "roe_4q": -7.510000000000001,
+            "gross_profit": 206009,
+            "gross_margin": 19.69,
+            "gross_margin_4q_avg": 18.79,
+            "net_income": -20848,
+            "net_income_4q": null,
+            "revenue": 1046346,
+            "revenue_4q": null,
+            "common_shares": 985475,
+            "book_valuer_per_share": 25.95,
+            "book_valuer_per_share_4q_avg": 25.94,
+            "equity": 2828011,
+            "current_ratio": 179.18,
+            "debt_ratio": 67.52,
+            "inventory_turnover_ratio": 0.44,
+            "account_receivable_turnover_ratio": 1.2,
+            "reinvestment_rate": 1002.46,
+            "research_to_sale_ratio": 4.86,
+            "price_fair": 37.1,
+            "eps_avg_yearly": 1.06,
+            "eps_latest_yearly": 0.88,
+            "eps_growth_yearly": 218.26
         }
     },
     "months": {
@@ -4782,6 +4818,16 @@
             "month": "2023-09",
             "price": "57.20",
             "revenue": 332544
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "54.42",
+            "revenue": 425390
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "55.46",
+            "revenue": 300250
         }
     }
 }

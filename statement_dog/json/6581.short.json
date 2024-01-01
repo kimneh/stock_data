@@ -6,15 +6,15 @@
         "main_business": "廢棄物清除再利用<br>銷售氧化鋅",
         "website_url": "https://www.tsutw.com.tw/",
         "ceo": "林才翔",
-        "pe_ratio": 14,
+        "pe_ratio": 19,
         "report_year_from": 2016,
         "report_year_to": 2023,
-        "age": 7,
+        "age": 8,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 16.25,
-            "last_2y": 38.32,
-            "last_4y": 16.25,
+            "last_all": 2.19,
+            "last_2y": 14.96,
+            "last_4y": -0.51,
             "last_8y": null,
             "last_12y": null,
             "last_16y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": null,
             "at_2021_last_3y": 1.76,
             "at_2022_last_3y": 16.4,
-            "at_2023_last_3y": 16.4,
+            "at_2023_last_3y": 11.71,
+            "at_2024_last_3y": 11.71,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -10.58,
             "at_2021_last_all": 1.76,
             "at_2022_last_all": 16.25,
-            "at_2023_last_all": 16.25
+            "at_2023_last_all": 2.19,
+            "at_2024_last_all": 2.19
         },
-        "latest_eps": 6.24,
-        "latest_price": 87,
-        "latest_roe": 17.95,
-        "latest_gross_margin": 43.09,
-        "latest_equity": 3858005,
-        "latest_revenue": 603248,
-        "latest_gross_profit": 259920,
-        "latest_net_income": 165768,
-        "latest_debt_ratio": 14.13,
-        "latest_current_ratio": 182.25,
-        "latest_account_receivable_turnover_ratio": 4,
-        "latest_inventory_turnover_ratio": 1.53,
-        "latest_reinvestment_rate": 31.83,
-        "latest_research_to_sale_ratio": 0.03
+        "latest_eps": 4.87,
+        "latest_price": 91.6,
+        "latest_roe": 13.52,
+        "latest_gross_margin": 30.83,
+        "latest_equity": 3920971,
+        "latest_revenue": 411091,
+        "latest_gross_profit": 126745,
+        "latest_net_income": 62735,
+        "latest_debt_ratio": 9.87,
+        "latest_current_ratio": 232.85,
+        "latest_account_receivable_turnover_ratio": 3.02,
+        "latest_inventory_turnover_ratio": 1.48,
+        "latest_reinvestment_rate": 16.55,
+        "latest_research_to_sale_ratio": 0.37
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 8.85
         },
         "2023": {
-            "cash": 6.5,
+            "cash": 13,
             "stock": 0,
-            "eps": 2.26
+            "eps": 2.82
         }
     },
     "dividends": {
@@ -211,6 +213,10 @@
         },
         "2022-04-22": {
             "cash": 4,
+            "stock": 0
+        },
+        "2023-02-22": {
+            "cash": 6.5,
             "stock": 0
         },
         "2023-04-24": {
@@ -492,7 +498,9 @@
         "202307": "89.85",
         "202308": "89.75",
         "202309": "89.08",
-        "202310": "87.94"
+        "202310": "87.84",
+        "202311": "90.16",
+        "202312": "90.52"
     },
     "quarters": {
         "20011": {
@@ -3374,6 +3382,38 @@
             "eps_avg_yearly": 5.71,
             "eps_latest_yearly": 5.96,
             "eps_growth_yearly": 115.78
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.56,
+            "eps_growth_year": -71.13,
+            "eps_4q": 4.87,
+            "eps_4q_growth_year": -46.48,
+            "roe": 1.61,
+            "roe_4q": 13.54,
+            "gross_profit": 126745,
+            "gross_margin": 30.83,
+            "gross_margin_4q_avg": 42.64,
+            "net_income": 62735,
+            "net_income_4q": null,
+            "revenue": 411091,
+            "revenue_4q": null,
+            "common_shares": 1112709,
+            "book_valuer_per_share": 35.24,
+            "book_valuer_per_share_4q_avg": 35.5,
+            "equity": 3920971,
+            "current_ratio": 232.85,
+            "debt_ratio": 9.87,
+            "inventory_turnover_ratio": 1.48,
+            "account_receivable_turnover_ratio": 3.02,
+            "reinvestment_rate": 16.55,
+            "research_to_sale_ratio": 0.37,
+            "price_fair": 201.8,
+            "eps_avg_yearly": 5.77,
+            "eps_latest_yearly": 2.24,
+            "eps_growth_yearly": 121.08
         }
     },
     "months": {
@@ -3801,6 +3841,16 @@
             "month": "2023-09",
             "price": "89.08",
             "revenue": 105723
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "87.84",
+            "revenue": 266332
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "90.16",
+            "revenue": 108222
         }
     }
 }

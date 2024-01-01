@@ -6,14 +6,14 @@
         "main_business": "幹細胞產品<br>免疫細胞產品",
         "website_url": "http://www.ever-supreme.com.tw",
         "ceo": "黃文良",
-        "pe_ratio": 46,
+        "pe_ratio": 25,
         "report_year_from": 2018,
         "report_year_to": 2023,
-        "age": 5,
+        "age": 6,
         "eps_negative_percentage": 25,
         "eps_growth_avg": {
-            "last_all": -51.09,
-            "last_2y": null,
+            "last_all": 24.46,
+            "last_2y": 24.46,
             "last_4y": null,
             "last_8y": null,
             "last_12y": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": -51.09,
-            "at_2023_last_all": -51.09
+            "at_2023_last_all": 24.46,
+            "at_2024_last_all": 24.46
         },
-        "latest_eps": 4.45,
-        "latest_price": 206,
-        "latest_roe": 19.42,
-        "latest_gross_margin": 61.47,
-        "latest_equity": 1826206,
-        "latest_revenue": 159701,
-        "latest_gross_profit": 98164,
-        "latest_net_income": 50728,
-        "latest_debt_ratio": 9.19,
-        "latest_current_ratio": 807.84,
-        "latest_account_receivable_turnover_ratio": 2.65,
-        "latest_inventory_turnover_ratio": 0.73,
+        "latest_eps": 7.79,
+        "latest_price": 195.5,
+        "latest_roe": 33.55,
+        "latest_gross_margin": 71.66,
+        "latest_equity": 1744762,
+        "latest_revenue": 226835,
+        "latest_gross_profit": 162555,
+        "latest_net_income": 274910,
+        "latest_debt_ratio": 10.08,
+        "latest_current_ratio": 641.74,
+        "latest_account_receivable_turnover_ratio": 2.29,
+        "latest_inventory_turnover_ratio": 0.81,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 15.34
+        "latest_research_to_sale_ratio": 13.41
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 2,
             "stock": 1,
-            "eps": 2.38
+            "eps": 6.08
         }
     },
     "dividends": {
@@ -472,7 +474,9 @@
         "202307": "193.81",
         "202308": "189.80",
         "202309": "196.88",
-        "202310": "202.25"
+        "202310": "202.15",
+        "202311": "197.07",
+        "202312": "195.21"
     },
     "quarters": {
         "20011": {
@@ -3354,6 +3358,38 @@
             "eps_avg_yearly": 6.64,
             "eps_latest_yearly": 2.72,
             "eps_growth_yearly": 227.13
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 3.7,
+            "eps_growth_year": 560.71,
+            "eps_4q": 7.79,
+            "eps_4q_growth_year": 247.77,
+            "roe": 15.4,
+            "roe_4q": 31.91,
+            "gross_profit": 162555,
+            "gross_margin": 71.66,
+            "gross_margin_4q_avg": 62.43,
+            "net_income": 274910,
+            "net_income_4q": null,
+            "revenue": 226835,
+            "revenue_4q": null,
+            "common_shares": 751987,
+            "book_valuer_per_share": 23.79,
+            "book_valuer_per_share_4q_avg": 25.59,
+            "equity": 1744762,
+            "current_ratio": 641.74,
+            "debt_ratio": 10.08,
+            "inventory_turnover_ratio": 0.81,
+            "account_receivable_turnover_ratio": 2.29,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 13.41,
+            "price_fair": 273.2,
+            "eps_avg_yearly": 7.81,
+            "eps_latest_yearly": 14.8,
+            "eps_growth_yearly": 448.47
         }
     },
     "months": {
@@ -3656,6 +3692,16 @@
             "month": "2023-09",
             "price": "196.88",
             "revenue": 87189
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "202.15",
+            "revenue": 87514
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "197.07",
+            "revenue": 87601
         }
     }
 }

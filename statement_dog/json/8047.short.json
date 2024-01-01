@@ -6,18 +6,18 @@
         "main_business": "電腦割字機<br>雷射雕刻機",
         "website_url": "http://www.gccworld.com",
         "ceo": "吳景湧",
-        "pe_ratio": -7,
+        "pe_ratio": -8,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 24,
         "eps_growth_avg": {
             "last_all": -17.48,
             "last_2y": -23.21,
-            "last_4y": -48.81,
-            "last_8y": -16.36,
+            "last_4y": -23.21,
+            "last_8y": -21.33,
             "last_12y": -4.54,
-            "last_16y": -10.39,
+            "last_16y": -6.35,
             "last_20y": null,
             "at_2006_last_3y": null,
             "at_2007_last_3y": -24.28,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": -23.21,
             "at_2022_last_3y": -23.21,
             "at_2023_last_3y": -23.21,
+            "at_2024_last_3y": -23.21,
             "at_2006_last_all": -65.71,
             "at_2007_last_all": -24.28,
             "at_2008_last_all": -26.86,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -16.66,
             "at_2021_last_all": -11.98,
             "at_2022_last_all": -17.48,
-            "at_2023_last_all": -17.48
+            "at_2023_last_all": -17.48,
+            "at_2024_last_all": -17.48
         },
-        "latest_eps": -1.62,
-        "latest_price": 11.5,
-        "latest_roe": -14.47,
-        "latest_gross_margin": 25.79,
-        "latest_equity": 442252,
-        "latest_revenue": 124048,
-        "latest_gross_profit": 31987,
-        "latest_net_income": -21036,
-        "latest_debt_ratio": 15.07,
-        "latest_current_ratio": 503.08,
-        "latest_account_receivable_turnover_ratio": 2.72,
-        "latest_inventory_turnover_ratio": 0.56,
+        "latest_eps": -1.51,
+        "latest_price": 11.9,
+        "latest_roe": -13.33,
+        "latest_gross_margin": 29.45,
+        "latest_equity": 445219,
+        "latest_revenue": 116612,
+        "latest_gross_profit": 34342,
+        "latest_net_income": -9309,
+        "latest_debt_ratio": 18.7,
+        "latest_current_ratio": 410.81,
+        "latest_account_receivable_turnover_ratio": 3.06,
+        "latest_inventory_turnover_ratio": 0.58,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 8.93
+        "latest_research_to_sale_ratio": 9.97
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -1.06
+            "eps": -1.28
         }
     },
     "dividends": {
@@ -532,7 +534,9 @@
         "202307": "11.52",
         "202308": "11.41",
         "202309": "11.51",
-        "202310": "11.51"
+        "202310": "11.50",
+        "202311": "11.69",
+        "202312": "11.82"
     },
     "quarters": {
         "20011": {
@@ -3414,6 +3418,38 @@
             "eps_avg_yearly": 0.76,
             "eps_latest_yearly": 0.08,
             "eps_growth_yearly": 264.2
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.22,
+            "eps_growth_year": null,
+            "eps_4q": -1.51,
+            "eps_4q_growth_year": null,
+            "roe": -2.1,
+            "roe_4q": -13.650000000000002,
+            "gross_profit": 34342,
+            "gross_margin": 29.45,
+            "gross_margin_4q_avg": 23.84,
+            "net_income": -9309,
+            "net_income_4q": null,
+            "revenue": 116612,
+            "revenue_4q": null,
+            "common_shares": 416663,
+            "book_valuer_per_share": 10.69,
+            "book_valuer_per_share_4q_avg": 10.95,
+            "equity": 445219,
+            "current_ratio": 410.81,
+            "debt_ratio": 18.7,
+            "inventory_turnover_ratio": 0.58,
+            "account_receivable_turnover_ratio": 3.06,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 9.97,
+            "price_fair": 26.6,
+            "eps_avg_yearly": 0.76,
+            "eps_latest_yearly": 0.08,
+            "eps_growth_yearly": 264.2
         }
     },
     "months": {
@@ -4621,6 +4657,16 @@
             "month": "2023-09",
             "price": "11.51",
             "revenue": 34100
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "11.50",
+            "revenue": 38987
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "11.69",
+            "revenue": 38476
         }
     }
 }

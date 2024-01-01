@@ -6,16 +6,16 @@
         "main_business": "果汁、果粒、果粉類等產品之生產與銷售",
         "website_url": "http://www.myfreshjuice.com",
         "ceo": "吳明憲",
-        "pe_ratio": 14,
+        "pe_ratio": 16,
         "report_year_from": 2010,
         "report_year_to": 2023,
-        "age": 13,
+        "age": 14,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 13.22,
-            "last_2y": -4.15,
-            "last_4y": 8.88,
-            "last_8y": 3.58,
+            "last_all": 12.67,
+            "last_2y": -14.97,
+            "last_4y": 1.88,
+            "last_8y": 5.72,
             "last_12y": null,
             "last_16y": null,
             "last_20y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 29.35,
             "at_2021_last_3y": 21.89,
             "at_2022_last_3y": 0.56,
-            "at_2023_last_3y": 0.56,
+            "at_2023_last_3y": -1.33,
+            "at_2024_last_3y": -1.33,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 23.03,
             "at_2021_last_all": 19.48,
             "at_2022_last_all": 13.22,
-            "at_2023_last_all": 13.22
+            "at_2023_last_all": 12.67,
+            "at_2024_last_all": 12.67
         },
-        "latest_eps": 15.99,
-        "latest_price": 228,
-        "latest_roe": 15.73,
-        "latest_gross_margin": 30.01,
-        "latest_equity": 4045117,
-        "latest_revenue": 1502872,
-        "latest_gross_profit": 450991,
-        "latest_net_income": 232169,
-        "latest_debt_ratio": 20.55,
-        "latest_current_ratio": 298.91,
-        "latest_account_receivable_turnover_ratio": 2.77,
-        "latest_inventory_turnover_ratio": 2,
-        "latest_reinvestment_rate": 20.68,
-        "latest_research_to_sale_ratio": 0.89
+        "latest_eps": 14.75,
+        "latest_price": 241.5,
+        "latest_roe": 13.5,
+        "latest_gross_margin": 30.1,
+        "latest_equity": 4380823,
+        "latest_revenue": 1576662,
+        "latest_gross_profit": 474535,
+        "latest_net_income": 207796,
+        "latest_debt_ratio": 15.3,
+        "latest_current_ratio": 405.14,
+        "latest_account_receivable_turnover_ratio": 2.59,
+        "latest_inventory_turnover_ratio": 2.17,
+        "latest_reinvestment_rate": 20.94,
+        "latest_research_to_sale_ratio": 0.87
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 11.91
         },
         "2023": {
-            "cash": 6.5,
+            "cash": 13,
             "stock": 0,
-            "eps": 7.43
+            "eps": 12.76
         }
     },
     "dividends": {
@@ -231,6 +233,10 @@
         },
         "2022-08-18": {
             "cash": 13,
+            "stock": 0
+        },
+        "2023-03-24": {
+            "cash": 6.5,
             "stock": 0
         },
         "2023-07-19": {
@@ -512,7 +518,9 @@
         "202307": "311.26",
         "202308": "284.62",
         "202309": "272.27",
-        "202310": "249.37"
+        "202310": "246.15",
+        "202311": "240.25",
+        "202312": "247.20"
     },
     "quarters": {
         "20011": {
@@ -3394,6 +3402,38 @@
             "eps_avg_yearly": 17.83,
             "eps_latest_yearly": 24.36,
             "eps_growth_yearly": 599.79
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 5.33,
+            "eps_growth_year": -18.87,
+            "eps_4q": 14.75,
+            "eps_4q_growth_year": 44.09,
+            "roe": 4.93,
+            "roe_4q": 13.77,
+            "gross_profit": 474535,
+            "gross_margin": 30.1,
+            "gross_margin_4q_avg": 28.68,
+            "net_income": 207796,
+            "net_income_4q": null,
+            "revenue": 1576662,
+            "revenue_4q": null,
+            "common_shares": 338422,
+            "book_valuer_per_share": 114.43,
+            "book_valuer_per_share_4q_avg": 109.51,
+            "equity": 4380823,
+            "current_ratio": 405.14,
+            "debt_ratio": 15.3,
+            "inventory_turnover_ratio": 2.17,
+            "account_receivable_turnover_ratio": 2.59,
+            "reinvestment_rate": 20.94,
+            "research_to_sale_ratio": 0.87,
+            "price_fair": 622.48,
+            "eps_avg_yearly": 17.79,
+            "eps_latest_yearly": 21.32,
+            "eps_growth_yearly": 596.53
         }
     },
     "months": {
@@ -4061,6 +4101,16 @@
             "month": "2023-09",
             "price": "272.27",
             "revenue": 444032
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "246.15",
+            "revenue": 222574
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "240.25",
+            "revenue": 228652
         }
     }
 }

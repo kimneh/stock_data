@@ -6,15 +6,15 @@
         "main_business": "消費性IC設計",
         "website_url": "http://www.nyquest.com.tw",
         "ceo": "陳建隆",
-        "pe_ratio": 44,
+        "pe_ratio": 90,
         "report_year_from": 2013,
         "report_year_to": 2023,
-        "age": 10,
+        "age": 11,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 17.75,
-            "last_2y": 34.77,
-            "last_4y": 14.3,
+            "last_all": 4.99,
+            "last_2y": -9.61,
+            "last_4y": 3.93,
             "last_8y": null,
             "last_12y": null,
             "last_16y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 6.4,
             "at_2021_last_3y": 29.02,
             "at_2022_last_3y": 25.98,
-            "at_2023_last_3y": 25.98,
+            "at_2023_last_3y": 5,
+            "at_2024_last_3y": 5,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 13.76,
             "at_2021_last_all": 28.13,
             "at_2022_last_all": 17.75,
-            "at_2023_last_all": 17.75
+            "at_2023_last_all": 4.99,
+            "at_2024_last_all": 4.99
         },
-        "latest_eps": 1.47,
-        "latest_price": 65,
-        "latest_roe": 4.24,
-        "latest_gross_margin": 29.8,
-        "latest_equity": 1017858,
-        "latest_revenue": 353992,
-        "latest_gross_profit": 105501,
-        "latest_net_income": 36574,
-        "latest_debt_ratio": 32.13,
-        "latest_current_ratio": 222.07,
-        "latest_account_receivable_turnover_ratio": 2.57,
-        "latest_inventory_turnover_ratio": 0.56,
-        "latest_reinvestment_rate": 3.31,
-        "latest_research_to_sale_ratio": 17.42
+        "latest_eps": 0.89,
+        "latest_price": 80.4,
+        "latest_roe": 2.45,
+        "latest_gross_margin": 34.9,
+        "latest_equity": 1056116,
+        "latest_revenue": 367421,
+        "latest_gross_profit": 128228,
+        "latest_net_income": 37559,
+        "latest_debt_ratio": 22.67,
+        "latest_current_ratio": 372.86,
+        "latest_account_receivable_turnover_ratio": 2.32,
+        "latest_inventory_turnover_ratio": 0.63,
+        "latest_reinvestment_rate": 2.63,
+        "latest_research_to_sale_ratio": 17.72
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 6.5,
             "stock": 0,
-            "eps": 0.31
+            "eps": 1.5
         }
     },
     "dividends": {
@@ -500,7 +502,9 @@
         "202307": "59.99",
         "202308": "58.55",
         "202309": "62.42",
-        "202310": "64.40"
+        "202310": "64.48",
+        "202311": "74.58",
+        "202312": "83.10"
     },
     "quarters": {
         "20011": {
@@ -3382,6 +3386,38 @@
             "eps_avg_yearly": 10.13,
             "eps_latest_yearly": 7.08,
             "eps_growth_yearly": 177.97
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 1.19,
+            "eps_growth_year": -32.77,
+            "eps_4q": 0.89,
+            "eps_4q_growth_year": -94.35,
+            "roe": 3.62,
+            "roe_4q": 3.129999999999999,
+            "gross_profit": 128228,
+            "gross_margin": 34.9,
+            "gross_margin_4q_avg": 28.78,
+            "net_income": 37559,
+            "net_income_4q": null,
+            "revenue": 367421,
+            "revenue_4q": null,
+            "common_shares": 315597,
+            "book_valuer_per_share": 33.46,
+            "book_valuer_per_share_4q_avg": 35.44,
+            "equity": 1056116,
+            "current_ratio": 372.86,
+            "debt_ratio": 22.67,
+            "inventory_turnover_ratio": 0.63,
+            "account_receivable_turnover_ratio": 2.32,
+            "reinvestment_rate": 2.63,
+            "research_to_sale_ratio": 17.72,
+            "price_fair": 355.28,
+            "eps_avg_yearly": 10.15,
+            "eps_latest_yearly": 4.76,
+            "eps_growth_yearly": 184.05
         }
     },
     "months": {
@@ -3914,6 +3950,16 @@
             "month": "2023-09",
             "price": "62.42",
             "revenue": 115332
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "64.48",
+            "revenue": 115523
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "74.58",
+            "revenue": 104193
         }
     }
 }

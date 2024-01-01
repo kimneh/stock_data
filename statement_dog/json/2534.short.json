@@ -6,19 +6,19 @@
         "main_business": "委託營造廠興建國民住宅及商業大樓出售出租業務<br>房屋租售之介紹業務<br>室內裝潢之設計及施工業務(現場僅作辦公室使用)",
         "website_url": "http://www.hsc.com.tw",
         "ceo": "陸永富",
-        "pe_ratio": 5,
+        "pe_ratio": 7,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 26,
         "eps_growth_avg": {
-            "last_all": 14.45,
-            "last_2y": 38.19,
-            "last_4y": 12.57,
-            "last_8y": 37.55,
-            "last_12y": 6.07,
-            "last_16y": 14.45,
-            "last_20y": 14.45,
+            "last_all": 8.51,
+            "last_2y": 24.15,
+            "last_4y": -5.14,
+            "last_8y": 22.79,
+            "last_12y": -0.42,
+            "last_16y": 2.41,
+            "last_20y": 8.51,
             "at_2006_last_3y": 100,
             "at_2007_last_3y": 66.71,
             "at_2008_last_3y": 18.22,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 2.46,
             "at_2021_last_3y": -9.29,
             "at_2022_last_3y": 13.71,
-            "at_2023_last_3y": 13.71,
+            "at_2023_last_3y": 8.51,
+            "at_2024_last_3y": 8.51,
             "at_2006_last_all": 100,
             "at_2007_last_all": 66.71,
             "at_2008_last_all": 18.22,
@@ -54,21 +55,22 @@
             "at_2020_last_all": 4.9,
             "at_2021_last_all": 8.34,
             "at_2022_last_all": 14.45,
-            "at_2023_last_all": 14.45
+            "at_2023_last_all": 8.51,
+            "at_2024_last_all": 8.51
         },
-        "latest_eps": 3.43,
-        "latest_price": 18,
-        "latest_roe": 11.56,
-        "latest_gross_margin": 44.33,
-        "latest_equity": 14458972,
-        "latest_revenue": 382267,
-        "latest_gross_profit": 169463,
-        "latest_net_income": -56833,
-        "latest_debt_ratio": 51.59,
-        "latest_current_ratio": 125.8,
-        "latest_account_receivable_turnover_ratio": 31.09,
+        "latest_eps": 3.1,
+        "latest_price": 20.25,
+        "latest_roe": 10.34,
+        "latest_gross_margin": 42.49,
+        "latest_equity": 14566821,
+        "latest_revenue": 510039,
+        "latest_gross_profit": 216712,
+        "latest_net_income": 91366,
+        "latest_debt_ratio": 52.21,
+        "latest_current_ratio": 134.21,
+        "latest_account_receivable_turnover_ratio": 16.66,
         "latest_inventory_turnover_ratio": 0.02,
-        "latest_reinvestment_rate": 3.17,
+        "latest_reinvestment_rate": 4.34,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -218,9 +220,9 @@
             "eps": 4.16
         },
         "2023": {
-            "cash": 1.75,
+            "cash": 3.5,
             "stock": 0,
-            "eps": 0.62
+            "eps": 0.81
         }
     },
     "dividends": {
@@ -318,6 +320,10 @@
         },
         "2022-09-08": {
             "cash": 1.2,
+            "stock": 0
+        },
+        "2023-03-29": {
+            "cash": 1.75,
             "stock": 0
         },
         "2023-08-22": {
@@ -599,7 +605,9 @@
         "202307": "21.31",
         "202308": "19.50",
         "202309": "19.20",
-        "202310": "18.56"
+        "202310": "18.50",
+        "202311": "19.53",
+        "202312": "20.34"
     },
     "quarters": {
         "20011": {
@@ -3481,6 +3489,38 @@
             "eps_avg_yearly": 2.7,
             "eps_latest_yearly": 2.96,
             "eps_growth_yearly": 141.46
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.19,
+            "eps_growth_year": -63.46,
+            "eps_4q": 3.1,
+            "eps_4q_growth_year": 26.49,
+            "roe": 0.63,
+            "roe_4q": 10.09,
+            "gross_profit": 216712,
+            "gross_margin": 42.49,
+            "gross_margin_4q_avg": 43.07,
+            "net_income": 91366,
+            "net_income_4q": null,
+            "revenue": 510039,
+            "revenue_4q": null,
+            "common_shares": 4742280,
+            "book_valuer_per_share": 30.8,
+            "book_valuer_per_share_4q_avg": 31.33,
+            "equity": 14566821,
+            "current_ratio": 134.21,
+            "debt_ratio": 52.21,
+            "inventory_turnover_ratio": 0.02,
+            "account_receivable_turnover_ratio": 16.66,
+            "reinvestment_rate": 4.34,
+            "research_to_sale_ratio": null,
+            "price_fair": 94.85,
+            "eps_avg_yearly": 2.71,
+            "eps_latest_yearly": 2.96,
+            "eps_growth_yearly": 139.18
         }
     },
     "months": {
@@ -4823,6 +4863,16 @@
             "month": "2023-09",
             "price": "19.20",
             "revenue": 164687
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "18.50",
+            "revenue": 164483
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "19.53",
+            "revenue": 149641
         }
     }
 }

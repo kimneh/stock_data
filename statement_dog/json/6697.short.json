@@ -5,15 +5,15 @@
         "category": "資訊服務",
         "main_business": "資訊委外服務<br>業務流程委外服務",
         "website_url": "http://www.itts.com.tw",
-        "ceo": "高尚偉",
-        "pe_ratio": 23,
+        "ceo": "陳春旭",
+        "pe_ratio": 24,
         "report_year_from": 2018,
         "report_year_to": 2023,
-        "age": 5,
+        "age": 6,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 29.05,
-            "last_2y": 29.05,
+            "last_all": 22.77,
+            "last_2y": -2.97,
             "last_4y": null,
             "last_8y": null,
             "last_12y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": null,
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
-            "at_2023_last_3y": null,
+            "at_2023_last_3y": 22.77,
+            "at_2024_last_3y": 22.77,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": 55.42,
             "at_2022_last_all": 29.05,
-            "at_2023_last_all": 29.05
+            "at_2023_last_all": 22.77,
+            "at_2024_last_all": 22.77
         },
-        "latest_eps": 2.16,
-        "latest_price": 50.2,
-        "latest_roe": 10.87,
-        "latest_gross_margin": 15.05,
-        "latest_equity": 550141,
-        "latest_revenue": 281874,
-        "latest_gross_profit": 42414,
-        "latest_net_income": 20044,
-        "latest_debt_ratio": 37.99,
-        "latest_current_ratio": 202.11,
-        "latest_account_receivable_turnover_ratio": 0.8,
-        "latest_inventory_turnover_ratio": 31.11,
-        "latest_reinvestment_rate": 10.53,
-        "latest_research_to_sale_ratio": 0.74
+        "latest_eps": 2.06,
+        "latest_price": 49.55,
+        "latest_roe": 9.99,
+        "latest_gross_margin": 12.84,
+        "latest_equity": 569631,
+        "latest_revenue": 332006,
+        "latest_gross_profit": 42621,
+        "latest_net_income": 17345,
+        "latest_debt_ratio": 41.63,
+        "latest_current_ratio": 187.95,
+        "latest_account_receivable_turnover_ratio": 0.87,
+        "latest_inventory_turnover_ratio": 34.95,
+        "latest_reinvestment_rate": 10.4,
+        "latest_research_to_sale_ratio": 0.35
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 1.6,
             "stock": 0,
-            "eps": 1.48
+            "eps": 2.11
         }
     },
     "dividends": {
@@ -484,7 +486,9 @@
         "202307": "64.16",
         "202308": "53.61",
         "202309": "50.98",
-        "202310": "50.86"
+        "202310": "50.72",
+        "202311": "49.50",
+        "202312": "49.95"
     },
     "quarters": {
         "20011": {
@@ -3366,6 +3370,38 @@
             "eps_avg_yearly": 2.58,
             "eps_latest_yearly": 2.92,
             "eps_growth_yearly": 23.41
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.63,
+            "eps_growth_year": -13.7,
+            "eps_4q": 2.06,
+            "eps_4q_growth_year": -18.99,
+            "roe": 3.1,
+            "roe_4q": 10.3,
+            "gross_profit": 42621,
+            "gross_margin": 12.84,
+            "gross_margin_4q_avg": 13.55,
+            "net_income": 17345,
+            "net_income_4q": null,
+            "revenue": 332006,
+            "revenue_4q": null,
+            "common_shares": 273234,
+            "book_valuer_per_share": 20.85,
+            "book_valuer_per_share_4q_avg": 20.16,
+            "equity": 569631,
+            "current_ratio": 187.95,
+            "debt_ratio": 41.63,
+            "inventory_turnover_ratio": 34.95,
+            "account_receivable_turnover_ratio": 0.87,
+            "reinvestment_rate": 10.4,
+            "research_to_sale_ratio": 0.35,
+            "price_fair": 71.63,
+            "eps_avg_yearly": 2.57,
+            "eps_latest_yearly": 2.52,
+            "eps_growth_yearly": 17.83
         }
     },
     "months": {
@@ -3673,6 +3709,16 @@
             "month": "2023-09",
             "price": "50.98",
             "revenue": 106527
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "50.72",
+            "revenue": 81094
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "49.50",
+            "revenue": 97598
         }
     }
 }

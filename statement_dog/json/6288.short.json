@@ -6,15 +6,15 @@
         "main_business": "LED車燈模組及元件<br>LED號誌燈、路燈、節能照明產品及模組<br>LED背光源元件及模組",
         "website_url": "http://www.eoi.com.tw",
         "ceo": "黃昉鈺",
-        "pe_ratio": 100,
+        "pe_ratio": -795,
         "report_year_from": 2002,
         "report_year_to": 2023,
-        "age": 21,
+        "age": 22,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 14.46,
-            "last_2y": -7.96,
-            "last_4y": 14.46,
+            "last_all": 10.38,
+            "last_2y": -1.37,
+            "last_4y": -0.75,
             "last_8y": null,
             "last_12y": null,
             "last_16y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": null,
             "at_2021_last_3y": -6.92,
             "at_2022_last_3y": 1.56,
-            "at_2023_last_3y": 1.56,
+            "at_2023_last_3y": -8.47,
+            "at_2024_last_3y": -8.47,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 22.14,
             "at_2021_last_all": -6.92,
             "at_2022_last_all": 14.46,
-            "at_2023_last_all": 14.46
+            "at_2023_last_all": 10.38,
+            "at_2024_last_all": 10.38
         },
-        "latest_eps": 0.08,
-        "latest_price": 30.45,
-        "latest_roe": 0.6,
-        "latest_gross_margin": 11.36,
-        "latest_equity": 2770074,
-        "latest_revenue": 1025110,
-        "latest_gross_profit": 116475,
-        "latest_net_income": 6789,
-        "latest_debt_ratio": 52.24,
-        "latest_current_ratio": 180.31,
-        "latest_account_receivable_turnover_ratio": 1.07,
-        "latest_inventory_turnover_ratio": 0.61,
-        "latest_reinvestment_rate": 313.96,
-        "latest_research_to_sale_ratio": 5.34
+        "latest_eps": -0.04,
+        "latest_price": 31.8,
+        "latest_roe": -0.29,
+        "latest_gross_margin": 13.65,
+        "latest_equity": 2894792,
+        "latest_revenue": 1117867,
+        "latest_gross_profit": 152642,
+        "latest_net_income": 4922,
+        "latest_debt_ratio": 52.32,
+        "latest_current_ratio": 138.55,
+        "latest_account_receivable_turnover_ratio": 1.12,
+        "latest_inventory_turnover_ratio": 0.6,
+        "latest_reinvestment_rate": 412.32,
+        "latest_research_to_sale_ratio": 5.64
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 0.1
         },
         "2023": {
-            "cash": 0.2,
+            "cash": 0.4,
             "stock": 0,
-            "eps": 0.06
+            "eps": 0.09
         }
     },
     "dividends": {
@@ -227,6 +229,10 @@
         },
         "2022-07-15": {
             "cash": 0.4,
+            "stock": 0
+        },
+        "2023-02-23": {
+            "cash": 0.2,
             "stock": 0
         },
         "2023-07-14": {
@@ -508,7 +514,9 @@
         "202307": "33.01",
         "202308": "29.65",
         "202309": "30.42",
-        "202310": "31.64"
+        "202310": "31.47",
+        "202311": "29.59",
+        "202312": "31.49"
     },
     "quarters": {
         "20011": {
@@ -3390,6 +3398,38 @@
             "eps_avg_yearly": 0.76,
             "eps_latest_yearly": 0.16,
             "eps_growth_yearly": 794.36
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.03,
+            "eps_growth_year": -81.25,
+            "eps_4q": -0.04,
+            "eps_4q_growth_year": -117.9,
+            "roe": 0.17,
+            "roe_4q": -0.3999999999999999,
+            "gross_profit": 152642,
+            "gross_margin": 13.65,
+            "gross_margin_4q_avg": 14.18,
+            "net_income": 4922,
+            "net_income_4q": null,
+            "revenue": 1117867,
+            "revenue_4q": null,
+            "common_shares": 2026748,
+            "book_valuer_per_share": 14.58,
+            "book_valuer_per_share_4q_avg": 14.14,
+            "equity": 2894792,
+            "current_ratio": 138.55,
+            "debt_ratio": 52.32,
+            "inventory_turnover_ratio": 0.6,
+            "account_receivable_turnover_ratio": 1.12,
+            "reinvestment_rate": 412.32,
+            "research_to_sale_ratio": 5.64,
+            "price_fair": 21.84,
+            "eps_avg_yearly": 0.62,
+            "eps_latest_yearly": 0.12,
+            "eps_growth_yearly": 775.03
         }
     },
     "months": {
@@ -4167,6 +4207,16 @@
             "month": "2023-09",
             "price": "30.42",
             "revenue": 410991
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "31.47",
+            "revenue": 388175
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "29.59",
+            "revenue": 380128
         }
     }
 }

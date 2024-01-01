@@ -6,16 +6,16 @@
         "main_business": "金融控股公司業",
         "website_url": "http://www.tcfhc.com.tw",
         "ceo": "陳美足",
-        "pe_ratio": 18,
+        "pe_ratio": 20,
         "report_year_from": 2011,
         "report_year_to": 2023,
-        "age": 12,
+        "age": 13,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 3.48,
-            "last_2y": 3.81,
-            "last_4y": 4.57,
-            "last_8y": 4.39,
+            "last_all": 0.36,
+            "last_2y": -4.71,
+            "last_4y": -2.6,
+            "last_8y": -0.35,
             "last_12y": null,
             "last_16y": null,
             "last_20y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 1.97,
             "at_2021_last_3y": 6.7,
             "at_2022_last_3y": 4.46,
-            "at_2023_last_3y": 4.46,
+            "at_2023_last_3y": -4.85,
+            "at_2024_last_3y": -4.85,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,21 +55,22 @@
             "at_2020_last_all": 2.26,
             "at_2021_last_all": 4.3,
             "at_2022_last_all": 3.48,
-            "at_2023_last_all": 3.48
+            "at_2023_last_all": 0.36,
+            "at_2024_last_all": 0.36
         },
-        "latest_eps": 1.41,
-        "latest_price": 25.3,
-        "latest_roe": 9.6,
+        "latest_eps": 1.36,
+        "latest_price": 26.7,
+        "latest_roe": 9.29,
         "latest_gross_margin": null,
-        "latest_equity": 232364968,
-        "latest_revenue": 15596269,
+        "latest_equity": 234624979,
+        "latest_revenue": 15696299,
         "latest_gross_profit": null,
-        "latest_net_income": 4799989,
-        "latest_debt_ratio": 94.99,
+        "latest_net_income": 5152993,
+        "latest_debt_ratio": 94.96,
         "latest_current_ratio": null,
         "latest_account_receivable_turnover_ratio": null,
         "latest_inventory_turnover_ratio": null,
-        "latest_reinvestment_rate": -1.19,
+        "latest_reinvestment_rate": -1.57,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -183,9 +185,9 @@
             "eps": 1.46
         },
         "2023": {
-            "cash": 0.5,
-            "stock": 0.5,
-            "eps": 0.67
+            "cash": 1,
+            "stock": 1,
+            "eps": 1.01
         }
     },
     "dividends": {
@@ -232,6 +234,10 @@
         "2022-09-13": {
             "cash": 1,
             "stock": 0.3
+        },
+        "2023-04-24": {
+            "cash": 0.5,
+            "stock": 0.5
         },
         "2023-09-12": {
             "cash": 0.5,
@@ -512,7 +518,9 @@
         "202307": "28.37",
         "202308": "27.37",
         "202309": "26.08",
-        "202310": "25.61"
+        "202310": "25.56",
+        "202311": "26.18",
+        "202312": "26.60"
     },
     "quarters": {
         "20011": {
@@ -3394,6 +3402,38 @@
             "eps_avg_yearly": 1.4,
             "eps_latest_yearly": 1.28,
             "eps_growth_yearly": 2.35
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.34,
+            "eps_growth_year": -19.05,
+            "eps_4q": 1.36,
+            "eps_4q_growth_year": -2.4,
+            "roe": 2.21,
+            "roe_4q": 9.08,
+            "gross_profit": null,
+            "gross_margin": null,
+            "gross_margin_4q_avg": 0,
+            "net_income": 5152993,
+            "net_income_4q": null,
+            "revenue": 15696299,
+            "revenue_4q": null,
+            "common_shares": 147093822,
+            "book_valuer_per_share": 15.58,
+            "book_valuer_per_share_4q_avg": 15.83,
+            "equity": 234624979,
+            "current_ratio": null,
+            "debt_ratio": 94.96,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": null,
+            "reinvestment_rate": -1.57,
+            "research_to_sale_ratio": null,
+            "price_fair": 16.23,
+            "eps_avg_yearly": 1.4,
+            "eps_latest_yearly": 1.36,
+            "eps_growth_yearly": 1.64
         }
     },
     "months": {
@@ -4106,6 +4146,16 @@
             "month": "2023-09",
             "price": "26.08",
             "revenue": 4738180
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "25.56",
+            "revenue": 4670175
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "26.18",
+            "revenue": 5779514
         }
     }
 }

@@ -5,11 +5,11 @@
         "category": "電子零組件",
         "main_business": "FPC軟性印刷線路板<br>WIRE Harness連接線組",
         "website_url": "http://www.cmi.com.tw",
-        "ceo": "潘慶豐",
-        "pe_ratio": 13,
+        "ceo": "張志昌(代理)",
+        "pe_ratio": 17,
         "report_year_from": 2020,
         "report_year_to": 2023,
-        "age": 3,
+        "age": 4,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
             "last_all": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": null,
-            "at_2023_last_all": null
+            "at_2023_last_all": null,
+            "at_2024_last_all": null
         },
-        "latest_eps": 3.01,
-        "latest_price": 37.95,
-        "latest_roe": 14.77,
-        "latest_gross_margin": 24,
-        "latest_equity": 1478493,
-        "latest_revenue": 497238,
-        "latest_gross_profit": 119346,
-        "latest_net_income": 50241,
-        "latest_debt_ratio": 44.86,
-        "latest_current_ratio": 200.26,
-        "latest_account_receivable_turnover_ratio": 0.61,
-        "latest_inventory_turnover_ratio": 1.06,
+        "latest_eps": 2.59,
+        "latest_price": 45.2,
+        "latest_roe": 11.78,
+        "latest_gross_margin": 28.41,
+        "latest_equity": 1576414,
+        "latest_revenue": 597126,
+        "latest_gross_profit": 169626,
+        "latest_net_income": 81319,
+        "latest_debt_ratio": 44.78,
+        "latest_current_ratio": 202.47,
+        "latest_account_receivable_turnover_ratio": 0.68,
+        "latest_inventory_turnover_ratio": 1.27,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 3.8
+        "latest_research_to_sale_ratio": 4.41
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 1.84
         },
         "2023": {
-            "cash": 2,
+            "cash": 4,
             "stock": 0,
-            "eps": 1.33
+            "eps": 2.56
         }
     },
     "dividends": {
@@ -194,6 +196,10 @@
             "stock": 0
         },
         "2022-07-29": {
+            "cash": 2,
+            "stock": 0
+        },
+        "2023-03-23": {
             "cash": 2,
             "stock": 0
         },
@@ -476,7 +482,9 @@
         "202307": "42.90",
         "202308": "40.28",
         "202309": "40.08",
-        "202310": "38.47"
+        "202310": "38.42",
+        "202311": "39.56",
+        "202312": "41.51"
     },
     "quarters": {
         "20011": {
@@ -3358,6 +3366,38 @@
             "eps_avg_yearly": 1.81,
             "eps_latest_yearly": 3.04,
             "eps_growth_yearly": 2313.32
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 1.23,
+            "eps_growth_year": -32.04,
+            "eps_4q": 2.59,
+            "eps_4q_growth_year": null,
+            "roe": 5.32,
+            "roe_4q": 11.430000000000001,
+            "gross_profit": 169626,
+            "gross_margin": 28.41,
+            "gross_margin_4q_avg": 24.14,
+            "net_income": 81319,
+            "net_income_4q": null,
+            "revenue": 597126,
+            "revenue_4q": null,
+            "common_shares": 661723,
+            "book_valuer_per_share": 23.82,
+            "book_valuer_per_share_4q_avg": 22.82,
+            "equity": 1576414,
+            "current_ratio": 202.47,
+            "debt_ratio": 44.78,
+            "inventory_turnover_ratio": 1.27,
+            "account_receivable_turnover_ratio": 0.68,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 4.41,
+            "price_fair": 90.65,
+            "eps_avg_yearly": 2.59,
+            "eps_latest_yearly": 4.92,
+            "eps_growth_yearly": 1796.83
         }
     },
     "months": {
@@ -3490,6 +3530,16 @@
             "month": "2023-09",
             "price": "40.08",
             "revenue": 190211
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "38.42",
+            "revenue": 184452
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "39.56",
+            "revenue": 208019
         }
     }
 }

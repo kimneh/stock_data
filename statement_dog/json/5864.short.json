@@ -6,15 +6,15 @@
         "main_business": "經紀<br>自營<br>承銷",
         "website_url": "http://www.wintan.com.tw",
         "ceo": "潘嬅蓁",
-        "pe_ratio": 3,
+        "pe_ratio": 7,
         "report_year_from": 2008,
         "report_year_to": 2023,
-        "age": 15,
+        "age": 16,
         "eps_negative_percentage": 14,
         "eps_growth_avg": {
             "last_all": 14.18,
-            "last_2y": 13.9,
-            "last_4y": 14.18,
+            "last_2y": -29.15,
+            "last_4y": -7.27,
             "last_8y": null,
             "last_12y": null,
             "last_16y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": null,
             "at_2021_last_3y": 42.73,
             "at_2022_last_3y": -7.27,
-            "at_2023_last_3y": -7.27,
+            "at_2023_last_3y": 13.9,
+            "at_2024_last_3y": 13.9,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,21 +55,22 @@
             "at_2020_last_all": 43.07,
             "at_2021_last_all": 42.73,
             "at_2022_last_all": 14.18,
-            "at_2023_last_all": 14.18
+            "at_2023_last_all": 14.18,
+            "at_2024_last_all": 14.18
         },
-        "latest_eps": 5.12,
-        "latest_price": 15.8,
-        "latest_roe": 28.74,
+        "latest_eps": 2.6,
+        "latest_price": 17.35,
+        "latest_roe": 15.62,
         "latest_gross_margin": null,
-        "latest_equity": 5605105,
-        "latest_revenue": 916183,
+        "latest_equity": 4890793,
+        "latest_revenue": -548007,
         "latest_gross_profit": null,
-        "latest_net_income": 862253,
-        "latest_debt_ratio": 29.51,
-        "latest_current_ratio": 269.56,
-        "latest_account_receivable_turnover_ratio": 0.87,
+        "latest_net_income": -620504,
+        "latest_debt_ratio": 30.43,
+        "latest_current_ratio": 256.91,
+        "latest_account_receivable_turnover_ratio": -0.48,
         "latest_inventory_turnover_ratio": null,
-        "latest_reinvestment_rate": -3.28,
+        "latest_reinvestment_rate": -4.43,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0.2,
             "stock": 0.2,
-            "eps": 4.72
+            "eps": 2.44
         }
     },
     "dividends": {
@@ -516,7 +518,9 @@
         "202307": "28.30",
         "202308": "22.98",
         "202309": "19.14",
-        "202310": "16.32"
+        "202310": "16.24",
+        "202311": "16.08",
+        "202312": "17.04"
     },
     "quarters": {
         "20011": {
@@ -3398,6 +3402,38 @@
             "eps_avg_yearly": 4,
             "eps_latest_yearly": 12.68,
             "eps_growth_yearly": 446.03
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -2.28,
+            "eps_growth_year": -1012,
+            "eps_4q": 2.6,
+            "eps_4q_growth_year": null,
+            "roe": -11.82,
+            "roe_4q": 14.999999999999998,
+            "gross_profit": null,
+            "gross_margin": null,
+            "gross_margin_4q_avg": 0,
+            "net_income": -620504,
+            "net_income_4q": null,
+            "revenue": -548007,
+            "revenue_4q": null,
+            "common_shares": 2721811,
+            "book_valuer_per_share": 17.97,
+            "book_valuer_per_share_4q_avg": 18.18,
+            "equity": 4890793,
+            "current_ratio": 256.91,
+            "debt_ratio": 30.43,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": -0.48,
+            "reinvestment_rate": -4.43,
+            "research_to_sale_ratio": null,
+            "price_fair": 153.48,
+            "eps_avg_yearly": 4.39,
+            "eps_latest_yearly": 12.68,
+            "eps_growth_yearly": 473.21
         }
     },
     "months": {
@@ -4270,6 +4306,16 @@
             "month": "2023-09",
             "price": "19.14",
             "revenue": -98692
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "16.24",
+            "revenue": -121709
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "16.08",
+            "revenue": 294209
         }
     }
 }

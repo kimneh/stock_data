@@ -6,10 +6,10 @@
         "main_business": "再生能源服務之開發、投資設置、維運管理之一站式整合服務",
         "website_url": "http://www.jv-holding.com/",
         "ceo": "趙書閔",
-        "pe_ratio": 11,
+        "pe_ratio": 10,
         "report_year_from": 2021,
         "report_year_to": 2023,
-        "age": 2,
+        "age": 3,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
             "last_all": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,20 +55,21 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": null,
-            "at_2023_last_all": null
+            "at_2023_last_all": null,
+            "at_2024_last_all": null
         },
-        "latest_eps": 7.39,
-        "latest_price": 81.1,
-        "latest_roe": 30.2,
-        "latest_gross_margin": 21.1,
-        "latest_equity": 3337287,
-        "latest_revenue": 2020123,
-        "latest_gross_profit": 426207,
-        "latest_net_income": 325554,
-        "latest_debt_ratio": 60.89,
-        "latest_current_ratio": 130.16,
-        "latest_account_receivable_turnover_ratio": 2.73,
-        "latest_inventory_turnover_ratio": 17.2,
+        "latest_eps": 9.26,
+        "latest_price": 94.6,
+        "latest_roe": 32.6,
+        "latest_gross_margin": 18.25,
+        "latest_equity": 4017940,
+        "latest_revenue": 2597190,
+        "latest_gross_profit": 474032,
+        "latest_net_income": 480653,
+        "latest_debt_ratio": 50.62,
+        "latest_current_ratio": 168.74,
+        "latest_account_receivable_turnover_ratio": 4.08,
+        "latest_inventory_turnover_ratio": 49.75,
         "latest_reinvestment_rate": null,
         "latest_research_to_sale_ratio": null
     },
@@ -183,14 +185,18 @@
             "eps": 4
         },
         "2023": {
-            "cash": 2.06,
+            "cash": 4.12,
             "stock": 0,
-            "eps": 3.53
+            "eps": 7.63
         }
     },
     "dividends": {
         "2022-08-04": {
             "cash": 0.2,
+            "stock": 0
+        },
+        "2023-03-09": {
+            "cash": 2.06,
             "stock": 0
         },
         "2023-08-22": {
@@ -472,7 +478,9 @@
         "202307": "94.18",
         "202308": "88.90",
         "202309": "82.92",
-        "202310": "82.87"
+        "202310": "82.72",
+        "202311": "87.36",
+        "202312": "90.38"
     },
     "quarters": {
         "20011": {
@@ -3354,6 +3362,38 @@
             "eps_avg_yearly": 6.97,
             "eps_latest_yearly": 11.24,
             "eps_growth_yearly": 275.39
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 4.1,
+            "eps_growth_year": 78.26,
+            "eps_4q": 9.26,
+            "eps_4q_growth_year": null,
+            "roe": 13.07,
+            "roe_4q": 32.83,
+            "gross_profit": 474032,
+            "gross_margin": 18.25,
+            "gross_margin_4q_avg": 21.45,
+            "net_income": 480653,
+            "net_income_4q": null,
+            "revenue": 2597190,
+            "revenue_4q": null,
+            "common_shares": 1162091,
+            "book_valuer_per_share": 32.15,
+            "book_valuer_per_share_4q_avg": 27.36,
+            "equity": 4017940,
+            "current_ratio": 168.74,
+            "debt_ratio": 50.62,
+            "inventory_turnover_ratio": 49.75,
+            "account_receivable_turnover_ratio": 4.08,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": null,
+            "price_fair": 326.55,
+            "eps_avg_yearly": 9.33,
+            "eps_latest_yearly": 16.4,
+            "eps_growth_yearly": 252.45
         }
     },
     "months": {
@@ -3446,6 +3486,16 @@
             "month": "2023-09",
             "price": "82.92",
             "revenue": 363257
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "82.72",
+            "revenue": 393064
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "87.36",
+            "revenue": 341355
         }
     }
 }

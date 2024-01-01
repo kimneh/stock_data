@@ -6,13 +6,13 @@
         "main_business": "自行車及零組件製造",
         "website_url": "http://www.axman.com.tw",
         "ceo": "黃慶忠",
-        "pe_ratio": 9,
+        "pe_ratio": 12,
         "report_year_from": 2020,
         "report_year_to": 2023,
-        "age": 3,
+        "age": 4,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": null,
+            "last_all": 32.79,
             "last_2y": null,
             "last_4y": null,
             "last_8y": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": null,
-            "at_2023_last_all": null
+            "at_2023_last_all": 32.79,
+            "at_2024_last_all": 32.79
         },
-        "latest_eps": 5.82,
-        "latest_price": 55.1,
-        "latest_roe": 17.07,
-        "latest_gross_margin": 9.42,
-        "latest_equity": 1084785,
-        "latest_revenue": 961004,
-        "latest_gross_profit": 90514,
-        "latest_net_income": 44496,
-        "latest_debt_ratio": 56.07,
-        "latest_current_ratio": 161.56,
-        "latest_account_receivable_turnover_ratio": 1.95,
-        "latest_inventory_turnover_ratio": 1.31,
+        "latest_eps": 4.75,
+        "latest_price": 54.8,
+        "latest_roe": 13.91,
+        "latest_gross_margin": 8.61,
+        "latest_equity": 1389619,
+        "latest_revenue": 804321,
+        "latest_gross_profit": 69221,
+        "latest_net_income": 33074,
+        "latest_debt_ratio": 46.38,
+        "latest_current_ratio": 213.07,
+        "latest_account_receivable_turnover_ratio": 1.43,
+        "latest_inventory_turnover_ratio": 1.24,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 0.18
+        "latest_research_to_sale_ratio": 0.23
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 2.6,
             "stock": 0,
-            "eps": 2.77
+            "eps": 3.81
         }
     },
     "dividends": {
@@ -476,7 +478,9 @@
         "202307": "72.79",
         "202308": "63.27",
         "202309": "62.21",
-        "202310": "57.74"
+        "202310": "57.48",
+        "202311": "55.47",
+        "202312": "56.29"
     },
     "quarters": {
         "20011": {
@@ -3358,6 +3362,38 @@
             "eps_avg_yearly": 5.57,
             "eps_latest_yearly": 5.92,
             "eps_growth_yearly": 1287.09
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 1.04,
+            "eps_growth_year": -24.64,
+            "eps_4q": 4.75,
+            "eps_4q_growth_year": -6.63,
+            "roe": 2.67,
+            "roe_4q": 15.21,
+            "gross_profit": 69221,
+            "gross_margin": 8.61,
+            "gross_margin_4q_avg": 9.7,
+            "net_income": 33074,
+            "net_income_4q": null,
+            "revenue": 804321,
+            "revenue_4q": null,
+            "common_shares": 350000,
+            "book_valuer_per_share": 39.7,
+            "book_valuer_per_share_4q_avg": 36.91,
+            "equity": 1389619,
+            "current_ratio": 213.07,
+            "debt_ratio": 46.38,
+            "inventory_turnover_ratio": 1.24,
+            "account_receivable_turnover_ratio": 1.43,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 0.23,
+            "price_fair": 188.65,
+            "eps_avg_yearly": 5.39,
+            "eps_latest_yearly": 4.16,
+            "eps_growth_yearly": 1111.34
         }
     },
     "months": {
@@ -3530,6 +3566,16 @@
             "month": "2023-09",
             "price": "62.21",
             "revenue": 234528
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "57.48",
+            "revenue": 196957
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "55.47",
+            "revenue": 240809
         }
     }
 }

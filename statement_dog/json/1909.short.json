@@ -5,20 +5,20 @@
         "category": "造紙",
         "main_business": "紙器及紙類之製造、印刷、加工、買賣、代理及進出口業務。<br>造紙原料之製造、加工、買賣、代理及進出口業務。<br>紙器及紙類加工設備之買賣。",
         "website_url": "http://www.longchenpaper.com",
-        "ceo": "鄭瑛彬",
-        "pe_ratio": -9,
+        "ceo": "松村浩",
+        "pe_ratio": -11,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 13,
         "eps_growth_avg": {
             "last_all": 4.86,
-            "last_2y": 23.48,
-            "last_4y": -10.6,
-            "last_8y": 8.53,
+            "last_2y": 0,
+            "last_4y": 5.87,
+            "last_8y": 10.64,
             "last_12y": 10.57,
-            "last_16y": -6.22,
-            "last_20y": 4.86,
+            "last_16y": -7.82,
+            "last_20y": -0.15,
             "at_2006_last_3y": 28.59,
             "at_2007_last_3y": -0.86,
             "at_2008_last_3y": -35.54,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": -4.18,
             "at_2021_last_3y": 11.74,
             "at_2022_last_3y": 5.87,
-            "at_2023_last_3y": 5.87,
+            "at_2023_last_3y": 23.48,
+            "at_2024_last_3y": 23.48,
             "at_2006_last_all": 42.87,
             "at_2007_last_all": 27.08,
             "at_2008_last_all": 10.05,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 5.4,
             "at_2021_last_all": 10.38,
             "at_2022_last_all": 4.86,
-            "at_2023_last_all": 4.86
+            "at_2023_last_all": 4.86,
+            "at_2024_last_all": 4.86
         },
-        "latest_eps": -1.64,
-        "latest_price": 13.95,
-        "latest_roe": -9.24,
-        "latest_gross_margin": 8.58,
-        "latest_equity": 22579701,
-        "latest_revenue": 11948639,
-        "latest_gross_profit": 1025428,
-        "latest_net_income": -328988,
-        "latest_debt_ratio": 67.83,
-        "latest_current_ratio": 63.74,
-        "latest_account_receivable_turnover_ratio": 1.33,
-        "latest_inventory_turnover_ratio": 2.9,
-        "latest_reinvestment_rate": 173.18,
-        "latest_research_to_sale_ratio": 3.13
+        "latest_eps": -1.36,
+        "latest_price": 14.8,
+        "latest_roe": -7.87,
+        "latest_gross_margin": 10.72,
+        "latest_equity": 22275465,
+        "latest_revenue": 11632885,
+        "latest_gross_profit": 1247251,
+        "latest_net_income": -116249,
+        "latest_debt_ratio": 70.42,
+        "latest_current_ratio": 72.98,
+        "latest_account_receivable_turnover_ratio": 1.29,
+        "latest_inventory_turnover_ratio": 3.03,
+        "latest_reinvestment_rate": 331.77,
+        "latest_research_to_sale_ratio": 3.08
     },
     "eps_dividends": {
         "1990": {
@@ -195,7 +197,7 @@
         "2023": {
             "cash": 0.25,
             "stock": 0,
-            "eps": -0.73
+            "eps": -0.82
         }
     },
     "dividends": {
@@ -558,7 +560,9 @@
         "202307": "16.53",
         "202308": "15.30",
         "202309": "14.84",
-        "202310": "14.30"
+        "202310": "14.26",
+        "202311": "14.45",
+        "202312": "14.87"
     },
     "quarters": {
         "20011": {
@@ -3440,6 +3444,38 @@
             "eps_avg_yearly": 1.3,
             "eps_latest_yearly": 0.92,
             "eps_growth_yearly": 1053.87
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.09,
+            "eps_growth_year": null,
+            "eps_4q": -1.36,
+            "eps_4q_growth_year": -755.11,
+            "roe": -0.52,
+            "roe_4q": -7.67,
+            "gross_profit": 1247251,
+            "gross_margin": 10.72,
+            "gross_margin_4q_avg": 8,
+            "net_income": -116249,
+            "net_income_4q": null,
+            "revenue": 11632885,
+            "revenue_4q": null,
+            "common_shares": 13276857,
+            "book_valuer_per_share": 16.77,
+            "book_valuer_per_share_4q_avg": 17.42,
+            "equity": 22275465,
+            "current_ratio": 72.98,
+            "debt_ratio": 70.42,
+            "inventory_turnover_ratio": 3.03,
+            "account_receivable_turnover_ratio": 1.29,
+            "reinvestment_rate": 331.77,
+            "research_to_sale_ratio": 3.08,
+            "price_fair": 45.5,
+            "eps_avg_yearly": 1.3,
+            "eps_latest_yearly": 0.92,
+            "eps_growth_yearly": 1053.87
         }
     },
     "months": {
@@ -4782,6 +4818,16 @@
             "month": "2023-09",
             "price": "14.84",
             "revenue": 4047348
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "14.26",
+            "revenue": 4025580
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "14.45",
+            "revenue": 3917114
         }
     }
 }

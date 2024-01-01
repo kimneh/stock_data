@@ -6,10 +6,10 @@
         "main_business": "複合性醫材",
         "website_url": "https://www.biogend.com.tw/",
         "ceo": "陳德禮",
-        "pe_ratio": -21,
+        "pe_ratio": -27,
         "report_year_from": 2018,
         "report_year_to": 2023,
-        "age": 5,
+        "age": 6,
         "eps_negative_percentage": 100,
         "eps_growth_avg": {
             "last_all": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": null,
-            "at_2023_last_all": null
+            "at_2023_last_all": null,
+            "at_2024_last_all": null
         },
-        "latest_eps": -1.52,
-        "latest_price": 32.5,
-        "latest_roe": -20.57,
-        "latest_gross_margin": 85.01,
-        "latest_equity": 1045240,
-        "latest_revenue": 38465,
-        "latest_gross_profit": 32701,
-        "latest_net_income": -22149,
-        "latest_debt_ratio": 7.16,
-        "latest_current_ratio": 3116.47,
-        "latest_account_receivable_turnover_ratio": 2.87,
-        "latest_inventory_turnover_ratio": 0.41,
+        "latest_eps": -1.44,
+        "latest_price": 38.25,
+        "latest_roe": -20.39,
+        "latest_gross_margin": 72.25,
+        "latest_equity": 992766,
+        "latest_revenue": 21057,
+        "latest_gross_profit": 15213,
+        "latest_net_income": -45777,
+        "latest_debt_ratio": 6.9,
+        "latest_current_ratio": 3492.49,
+        "latest_account_receivable_turnover_ratio": 1.21,
+        "latest_inventory_turnover_ratio": 0.37,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 89.79
+        "latest_research_to_sale_ratio": 211.86
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.72
+            "eps": -1.08
         }
     },
     "dividends": [],
@@ -463,7 +465,9 @@
         "202307": "42.58",
         "202308": "36.71",
         "202309": "36.20",
-        "202310": "34.44"
+        "202310": "34.30",
+        "202311": "34.42",
+        "202312": "37.90"
     },
     "quarters": {
         "20011": {
@@ -3345,6 +3349,38 @@
             "eps_avg_yearly": 0,
             "eps_latest_yearly": 0,
             "eps_growth_yearly": 0
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.36,
+            "eps_growth_year": null,
+            "eps_4q": -1.44,
+            "eps_4q_growth_year": null,
+            "roe": -4.49,
+            "roe_4q": -20.35,
+            "gross_profit": 15213,
+            "gross_margin": 72.25,
+            "gross_margin_4q_avg": 73.56,
+            "net_income": -45777,
+            "net_income_4q": null,
+            "revenue": 21057,
+            "revenue_4q": null,
+            "common_shares": 1230760,
+            "book_valuer_per_share": 7.91,
+            "book_valuer_per_share_4q_avg": 7.88,
+            "equity": 992766,
+            "current_ratio": 3492.49,
+            "debt_ratio": 6.9,
+            "inventory_turnover_ratio": 0.37,
+            "account_receivable_turnover_ratio": 1.21,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 211.86,
+            "price_fair": 0,
+            "eps_avg_yearly": 0,
+            "eps_latest_yearly": 0,
+            "eps_growth_yearly": 0
         }
     },
     "months": {
@@ -3607,6 +3643,16 @@
             "month": "2023-09",
             "price": "36.20",
             "revenue": 6810
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "34.30",
+            "revenue": 17903
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "34.42",
+            "revenue": 9233
         }
     }
 }

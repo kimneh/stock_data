@@ -6,15 +6,15 @@
         "main_business": "CC01090 電池製造業<br>F401010 國際貿易業",
         "website_url": "http://www.synst.com.tw",
         "ceo": "謝祥豪",
-        "pe_ratio": -28,
+        "pe_ratio": -85,
         "report_year_from": 2014,
         "report_year_to": 2023,
-        "age": 9,
+        "age": 10,
         "eps_negative_percentage": 33,
         "eps_growth_avg": {
             "last_all": -63.97,
-            "last_2y": -84.59,
-            "last_4y": null,
+            "last_2y": -95.77,
+            "last_4y": -63.97,
             "last_8y": null,
             "last_12y": null,
             "last_16y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": null,
             "at_2021_last_3y": null,
             "at_2022_last_3y": -63.97,
-            "at_2023_last_3y": -63.97,
+            "at_2023_last_3y": -84.59,
+            "at_2024_last_3y": -84.59,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -32.16,
             "at_2021_last_all": -51.96,
             "at_2022_last_all": -63.97,
-            "at_2023_last_all": -63.97
+            "at_2023_last_all": -63.97,
+            "at_2024_last_all": -63.97
         },
-        "latest_eps": -0.76,
-        "latest_price": 21.1,
-        "latest_roe": -4.74,
-        "latest_gross_margin": 13.75,
-        "latest_equity": 1456534,
-        "latest_revenue": 285156,
-        "latest_gross_profit": 39207,
-        "latest_net_income": -8227,
-        "latest_debt_ratio": 30.09,
-        "latest_current_ratio": 206.07,
-        "latest_account_receivable_turnover_ratio": 0.95,
-        "latest_inventory_turnover_ratio": 1.13,
-        "latest_reinvestment_rate": 1761.45,
-        "latest_research_to_sale_ratio": 4.85
+        "latest_eps": -0.32,
+        "latest_price": 27.05,
+        "latest_roe": -1.95,
+        "latest_gross_margin": 21.19,
+        "latest_equity": 1532130,
+        "latest_revenue": 335590,
+        "latest_gross_profit": 71123,
+        "latest_net_income": 42070,
+        "latest_debt_ratio": 31.28,
+        "latest_current_ratio": 204.6,
+        "latest_account_receivable_turnover_ratio": 0.98,
+        "latest_inventory_turnover_ratio": 1.34,
+        "latest_reinvestment_rate": 3547.66,
+        "latest_research_to_sale_ratio": 3.98
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.55
+            "eps": -0.1
         }
     },
     "dividends": {
@@ -488,7 +490,9 @@
         "202307": "26.24",
         "202308": "23.47",
         "202309": "23.02",
-        "202310": "22.19"
+        "202310": "22.04",
+        "202311": "26.59",
+        "202312": "27.79"
     },
     "quarters": {
         "20011": {
@@ -3370,6 +3374,38 @@
             "eps_avg_yearly": 1.53,
             "eps_latest_yearly": 1.16,
             "eps_growth_yearly": -43.26
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.45,
+            "eps_growth_year": 4400,
+            "eps_4q": -0.32,
+            "eps_4q_growth_year": null,
+            "roe": 2.82,
+            "roe_4q": -1.9600000000000004,
+            "gross_profit": 71123,
+            "gross_margin": 21.19,
+            "gross_margin_4q_avg": 13.96,
+            "net_income": 42070,
+            "net_income_4q": null,
+            "revenue": 335590,
+            "revenue_4q": null,
+            "common_shares": 937509,
+            "book_valuer_per_share": 16.34,
+            "book_valuer_per_share_4q_avg": 15.99,
+            "equity": 1532130,
+            "current_ratio": 204.6,
+            "debt_ratio": 31.28,
+            "inventory_turnover_ratio": 1.34,
+            "account_receivable_turnover_ratio": 0.98,
+            "reinvestment_rate": 3547.66,
+            "research_to_sale_ratio": 3.98,
+            "price_fair": 3.96,
+            "eps_avg_yearly": 1.32,
+            "eps_latest_yearly": 1.16,
+            "eps_growth_yearly": -31.71
         }
     },
     "months": {
@@ -3847,6 +3883,16 @@
             "month": "2023-09",
             "price": "23.02",
             "revenue": 106736
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "22.04",
+            "revenue": 100168
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "26.59",
+            "revenue": 94468
         }
     }
 }

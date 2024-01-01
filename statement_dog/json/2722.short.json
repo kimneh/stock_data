@@ -6,16 +6,16 @@
         "main_business": "一般旅館業<br>餐館業<br>商品銷售",
         "website_url": "http://www.chateau-hotels.com.tw",
         "ceo": "王慶祺",
-        "pe_ratio": 29,
+        "pe_ratio": 66,
         "report_year_from": 2008,
         "report_year_to": 2023,
-        "age": 15,
+        "age": 16,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 1.57,
-            "last_2y": 17.69,
-            "last_4y": 14.75,
-            "last_8y": 2.35,
+            "last_all": -1.94,
+            "last_2y": -5.83,
+            "last_4y": 22.5,
+            "last_8y": -3.88,
             "last_12y": null,
             "last_16y": null,
             "last_20y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 3.43,
             "at_2021_last_3y": -6.56,
             "at_2022_last_3y": 38.27,
-            "at_2023_last_3y": 38.27,
+            "at_2023_last_3y": 3.12,
+            "at_2024_last_3y": 3.12,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,21 +55,22 @@
             "at_2020_last_all": -0.64,
             "at_2021_last_all": -8.27,
             "at_2022_last_all": 1.57,
-            "at_2023_last_all": 1.57
+            "at_2023_last_all": -1.94,
+            "at_2024_last_all": -1.94
         },
-        "latest_eps": 1.51,
-        "latest_price": 43.1,
-        "latest_roe": 8.71,
-        "latest_gross_margin": 48.03,
-        "latest_equity": 2242091,
-        "latest_revenue": 197193,
-        "latest_gross_profit": 94707,
-        "latest_net_income": 22974,
-        "latest_debt_ratio": 23.77,
-        "latest_current_ratio": 119.26,
-        "latest_account_receivable_turnover_ratio": 24.94,
-        "latest_inventory_turnover_ratio": 8.4,
-        "latest_reinvestment_rate": 38.86,
+        "latest_eps": 0.95,
+        "latest_price": 63,
+        "latest_roe": 5.27,
+        "latest_gross_margin": 53.56,
+        "latest_equity": 2239823,
+        "latest_revenue": 236485,
+        "latest_gross_profit": 126673,
+        "latest_net_income": 45356,
+        "latest_debt_ratio": 22.64,
+        "latest_current_ratio": 121.44,
+        "latest_account_receivable_turnover_ratio": 23.77,
+        "latest_inventory_turnover_ratio": 9.33,
+        "latest_reinvestment_rate": 42.2,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -183,9 +185,9 @@
             "eps": 1.38
         },
         "2023": {
-            "cash": 0.6,
-            "stock": 0.6,
-            "eps": 0.41
+            "cash": 1.2,
+            "stock": 1.2,
+            "eps": 0.82
         }
     },
     "dividends": {
@@ -240,6 +242,10 @@
         "2022-07-20": {
             "cash": 0.2,
             "stock": 0
+        },
+        "2023-02-24": {
+            "cash": 0.6,
+            "stock": 0.6
         },
         "2023-08-16": {
             "cash": 0.6,
@@ -520,7 +526,9 @@
         "202307": "77.64",
         "202308": "59.42",
         "202309": "51.41",
-        "202310": "44.91"
+        "202310": "44.74",
+        "202311": "57.75",
+        "202312": "58.82"
     },
     "quarters": {
         "20011": {
@@ -3402,6 +3410,38 @@
             "eps_avg_yearly": 1.23,
             "eps_latest_yearly": 0.84,
             "eps_growth_yearly": 1875.12
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.41,
+            "eps_growth_year": -60.19,
+            "eps_4q": 0.95,
+            "eps_4q_growth_year": -38.46,
+            "roe": 2.02,
+            "roe_4q": 5.11,
+            "gross_profit": 126673,
+            "gross_margin": 53.56,
+            "gross_margin_4q_avg": 47.26,
+            "net_income": 45356,
+            "net_income_4q": null,
+            "revenue": 236485,
+            "revenue_4q": null,
+            "common_shares": 1182143,
+            "book_valuer_per_share": 16.58,
+            "book_valuer_per_share_4q_avg": 17.37,
+            "equity": 2239823,
+            "current_ratio": 121.44,
+            "debt_ratio": 22.64,
+            "inventory_turnover_ratio": 9.33,
+            "account_receivable_turnover_ratio": 23.77,
+            "reinvestment_rate": 42.2,
+            "research_to_sale_ratio": null,
+            "price_fair": 44.16,
+            "eps_avg_yearly": 1.26,
+            "eps_latest_yearly": 1.64,
+            "eps_growth_yearly": 1873.39
         }
     },
     "months": {
@@ -4249,6 +4289,16 @@
             "month": "2023-09",
             "price": "51.41",
             "revenue": 53683
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "44.74",
+            "revenue": 50522
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "57.75",
+            "revenue": 47958
         }
     }
 }

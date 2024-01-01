@@ -6,15 +6,15 @@
         "main_business": "成衣加工<br>成衣製造<br>成衣買賣",
         "website_url": "http://www.qve.com.tw",
         "ceo": "唐湘梅",
-        "pe_ratio": 11,
+        "pe_ratio": 15,
         "report_year_from": 2015,
         "report_year_to": 2023,
-        "age": 8,
+        "age": 9,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 16.94,
-            "last_2y": 19.1,
-            "last_4y": 26.96,
+            "last_all": 10.67,
+            "last_2y": 25.66,
+            "last_4y": 12.27,
             "last_8y": null,
             "last_12y": null,
             "last_16y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": -0.56,
             "at_2021_last_3y": 12.06,
             "at_2022_last_3y": 22.07,
-            "at_2023_last_3y": 22.07,
+            "at_2023_last_3y": 7.6,
+            "at_2024_last_3y": 7.6,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -0.56,
             "at_2021_last_all": 3.01,
             "at_2022_last_all": 16.94,
-            "at_2023_last_all": 16.94
+            "at_2023_last_all": 10.67,
+            "at_2024_last_all": 10.67
         },
-        "latest_eps": 10.07,
-        "latest_price": 110.5,
-        "latest_roe": 14.93,
-        "latest_gross_margin": 16.47,
-        "latest_equity": 9503165,
-        "latest_revenue": 4753159,
-        "latest_gross_profit": 783057,
-        "latest_net_income": 300390,
-        "latest_debt_ratio": 49.41,
-        "latest_current_ratio": 192.85,
-        "latest_account_receivable_turnover_ratio": 2,
-        "latest_inventory_turnover_ratio": 0.68,
-        "latest_reinvestment_rate": 39.28,
-        "latest_research_to_sale_ratio": 1.13
+        "latest_eps": 7.42,
+        "latest_price": 112.5,
+        "latest_roe": 10.25,
+        "latest_gross_margin": 16.11,
+        "latest_equity": 10336835,
+        "latest_revenue": 6513422,
+        "latest_gross_profit": 1049357,
+        "latest_net_income": 707685,
+        "latest_debt_ratio": 44.1,
+        "latest_current_ratio": 227.08,
+        "latest_account_receivable_turnover_ratio": 1.71,
+        "latest_inventory_turnover_ratio": 1.26,
+        "latest_reinvestment_rate": 39.73,
+        "latest_research_to_sale_ratio": 0.81
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 11.38
         },
         "2023": {
-            "cash": 6.8,
+            "cash": 13.6,
             "stock": 0,
-            "eps": 2.03
+            "eps": 8.32
         }
     },
     "dividends": {
@@ -223,6 +225,10 @@
         },
         "2022-09-28": {
             "cash": 4.2,
+            "stock": 0
+        },
+        "2023-03-02": {
+            "cash": 6.8,
             "stock": 0
         },
         "2023-09-27": {
@@ -504,7 +510,9 @@
         "202307": "124.93",
         "202308": "118.48",
         "202309": "113.25",
-        "202310": "113.25"
+        "202310": "113.00",
+        "202311": "114.36",
+        "202312": "113.12"
     },
     "quarters": {
         "20011": {
@@ -3386,6 +3394,38 @@
             "eps_avg_yearly": 11.71,
             "eps_latest_yearly": 35.76,
             "eps_growth_yearly": 1365.78
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 6.29,
+            "eps_growth_year": -29.64,
+            "eps_4q": 7.42,
+            "eps_4q_growth_year": -45.23,
+            "roe": 7.13,
+            "roe_4q": 10.489999999999998,
+            "gross_profit": 1049357,
+            "gross_margin": 16.11,
+            "gross_margin_4q_avg": 14.8,
+            "net_income": 707685,
+            "net_income_4q": null,
+            "revenue": 6513422,
+            "revenue_4q": null,
+            "common_shares": 1034255,
+            "book_valuer_per_share": 79.54,
+            "book_valuer_per_share_4q_avg": 76.2,
+            "equity": 10336835,
+            "current_ratio": 227.08,
+            "debt_ratio": 44.1,
+            "inventory_turnover_ratio": 1.26,
+            "account_receivable_turnover_ratio": 1.71,
+            "reinvestment_rate": 39.73,
+            "research_to_sale_ratio": 0.81,
+            "price_fair": 406.62,
+            "eps_avg_yearly": 11.62,
+            "eps_latest_yearly": 25.16,
+            "eps_growth_yearly": 1398.48
         }
     },
     "months": {
@@ -3883,6 +3923,16 @@
             "month": "2023-09",
             "price": "113.25",
             "revenue": 2232541
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "113.00",
+            "revenue": 1113161
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "114.36",
+            "revenue": 706570
         }
     }
 }

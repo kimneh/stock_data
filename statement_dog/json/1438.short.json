@@ -6,19 +6,19 @@
         "main_business": "委託營造廠商興建商業大樓、工業大樓及住宅出租出售業務。<br>紡織工業之產銷及其附屬事業暨投資金融與其他經濟事業。",
         "website_url": "http://www.sandirealestate.com.tw/",
         "ceo": "莊峻宇",
-        "pe_ratio": -64,
+        "pe_ratio": -70,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 61,
         "eps_growth_avg": {
-            "last_all": -18.63,
-            "last_2y": 0,
-            "last_4y": 0,
-            "last_8y": -17.24,
-            "last_12y": -18.63,
-            "last_16y": -18.63,
-            "last_20y": -18.63,
+            "last_all": -27.67,
+            "last_2y": -33.33,
+            "last_4y": -33.33,
+            "last_8y": -20,
+            "last_12y": -27.67,
+            "last_16y": -27.67,
+            "last_20y": -27.67,
             "at_2006_last_3y": null,
             "at_2007_last_3y": null,
             "at_2008_last_3y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": null,
             "at_2021_last_3y": -100,
             "at_2022_last_3y": 0,
-            "at_2023_last_3y": 0,
+            "at_2023_last_3y": -33.33,
+            "at_2024_last_3y": -33.33,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,21 +55,22 @@
             "at_2020_last_all": -24.84,
             "at_2021_last_all": -35.58,
             "at_2022_last_all": -18.63,
-            "at_2023_last_all": -18.63
+            "at_2023_last_all": -27.67,
+            "at_2024_last_all": -27.67
         },
-        "latest_eps": -0.46,
-        "latest_price": 29.25,
-        "latest_roe": -2.45,
-        "latest_gross_margin": null,
-        "latest_equity": 1907845,
-        "latest_revenue": 0,
-        "latest_gross_profit": 0,
-        "latest_net_income": -35938,
-        "latest_debt_ratio": 77.93,
-        "latest_current_ratio": 182.76,
+        "latest_eps": -0.47,
+        "latest_price": 32.9,
+        "latest_roe": -2.53,
+        "latest_gross_margin": 20.82,
+        "latest_equity": 1885027,
+        "latest_revenue": 27510,
+        "latest_gross_profit": 5727,
+        "latest_net_income": -22818,
+        "latest_debt_ratio": 80.02,
+        "latest_current_ratio": 161.39,
         "latest_account_receivable_turnover_ratio": null,
-        "latest_inventory_turnover_ratio": 0,
-        "latest_reinvestment_rate": -7.46,
+        "latest_inventory_turnover_ratio": 0.01,
+        "latest_reinvestment_rate": -7.68,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -193,9 +195,9 @@
             "eps": 5.27
         },
         "2023": {
-            "cash": 1,
+            "cash": 2,
             "stock": 0,
-            "eps": -0.16
+            "eps": -0.41
         }
     },
     "dividends": {
@@ -206,6 +208,10 @@
         "1999-06-24": {
             "cash": 0,
             "stock": 1
+        },
+        "2023-03-10": {
+            "cash": 1,
+            "stock": 0
         },
         "2023-09-28": {
             "cash": 1,
@@ -486,7 +492,9 @@
         "202307": "30.43",
         "202308": "30.12",
         "202309": "29.76",
-        "202310": "29.21"
+        "202310": "29.22",
+        "202311": "29.96",
+        "202312": "31.14"
     },
     "quarters": {
         "20011": {
@@ -3368,6 +3376,38 @@
             "eps_avg_yearly": 5.98,
             "eps_latest_yearly": 22.44,
             "eps_growth_yearly": 27764.31
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.25,
+            "eps_growth_year": null,
+            "eps_4q": -0.47,
+            "eps_4q_growth_year": -108.34,
+            "roe": -1.2,
+            "roe_4q": -2.26,
+            "gross_profit": 5727,
+            "gross_margin": 20.82,
+            "gross_margin_4q_avg": 12.8,
+            "net_income": -22818,
+            "net_income_4q": null,
+            "revenue": 27510,
+            "revenue_4q": null,
+            "common_shares": 912058,
+            "book_valuer_per_share": 20.67,
+            "book_valuer_per_share_4q_avg": 21.5,
+            "equity": 1885027,
+            "current_ratio": 161.39,
+            "debt_ratio": 80.02,
+            "inventory_turnover_ratio": 0.01,
+            "account_receivable_turnover_ratio": null,
+            "reinvestment_rate": -7.68,
+            "research_to_sale_ratio": null,
+            "price_fair": 209.3,
+            "eps_avg_yearly": 5.98,
+            "eps_latest_yearly": 22.44,
+            "eps_growth_yearly": 27764.31
         }
     },
     "months": {
@@ -4695,6 +4735,16 @@
             "month": "2023-09",
             "price": "29.76",
             "revenue": 0
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "29.22",
+            "revenue": 0
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "29.96",
+            "revenue": 16360
         }
     }
 }

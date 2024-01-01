@@ -6,13 +6,13 @@
         "main_business": "第三方支付業務",
         "website_url": "https://www.ecpay.com.tw/",
         "ceo": "梁維誠",
-        "pe_ratio": 18,
+        "pe_ratio": 21,
         "report_year_from": 2019,
         "report_year_to": 2023,
-        "age": 4,
+        "age": 5,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": null,
+            "last_all": -16.69,
             "last_2y": null,
             "last_4y": null,
             "last_8y": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": null,
-            "at_2023_last_all": null
+            "at_2023_last_all": -16.69,
+            "at_2024_last_all": -16.69
         },
-        "latest_eps": 21.14,
-        "latest_price": 385,
-        "latest_roe": 15.13,
-        "latest_gross_margin": 42.35,
-        "latest_equity": 2755400,
-        "latest_revenue": 375556,
-        "latest_gross_profit": 159060,
-        "latest_net_income": 94803,
-        "latest_debt_ratio": 54.77,
-        "latest_current_ratio": 164.66,
-        "latest_account_receivable_turnover_ratio": 495.13,
+        "latest_eps": 21.59,
+        "latest_price": 458.5,
+        "latest_roe": 14.83,
+        "latest_gross_margin": 41.73,
+        "latest_equity": 2876368,
+        "latest_revenue": 388156,
+        "latest_gross_profit": 161996,
+        "latest_net_income": 101792,
+        "latest_debt_ratio": 55.72,
+        "latest_current_ratio": 161.76,
+        "latest_account_receivable_turnover_ratio": 778.65,
         "latest_inventory_turnover_ratio": null,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 5.33
+        "latest_research_to_sale_ratio": 5.2
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,12 @@
         "2023": {
             "cash": 15.1,
             "stock": 0,
-            "eps": 10.24
+            "eps": 15.77
+        },
+        "2024": {
+            "cash": 9.1,
+            "stock": 0,
+            "eps": 0
         }
     },
     "dividends": {
@@ -215,6 +222,10 @@
         },
         "2023-08-04": {
             "cash": 10.1,
+            "stock": 0
+        },
+        "2024-02-07": {
+            "cash": 9.1,
             "stock": 0
         }
     },
@@ -492,7 +503,9 @@
         "202307": "487.71",
         "202308": "443.27",
         "202309": "429.62",
-        "202310": "403.24"
+        "202310": "401.79",
+        "202311": "432.80",
+        "202312": "465.81"
     },
     "quarters": {
         "20011": {
@@ -3374,6 +3387,38 @@
             "eps_avg_yearly": 21.78,
             "eps_latest_yearly": 20.6,
             "eps_growth_yearly": 2.12
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 5.53,
+            "eps_growth_year": 5.74,
+            "eps_4q": 21.59,
+            "eps_4q_growth_year": 16.29,
+            "roe": 3.61,
+            "roe_4q": 15.07,
+            "gross_profit": 161996,
+            "gross_margin": 41.73,
+            "gross_margin_4q_avg": 42.41,
+            "net_income": 101792,
+            "net_income_4q": null,
+            "revenue": 388156,
+            "revenue_4q": null,
+            "common_shares": 184039,
+            "book_valuer_per_share": 155.49,
+            "book_valuer_per_share_4q_avg": 147.03,
+            "equity": 2876368,
+            "current_ratio": 161.76,
+            "debt_ratio": 55.72,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": 778.65,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 5.2,
+            "price_fair": 324.08,
+            "eps_avg_yearly": 21.81,
+            "eps_latest_yearly": 22.12,
+            "eps_growth_yearly": 4.86
         }
     },
     "months": {
@@ -3586,6 +3631,16 @@
             "month": "2023-09",
             "price": "429.62",
             "revenue": 133610
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "401.79",
+            "revenue": 128759
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "432.80",
+            "revenue": 137831
         }
     }
 }

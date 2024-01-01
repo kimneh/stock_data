@@ -6,17 +6,17 @@
         "main_business": "財產保險",
         "website_url": "http://www.skinsurance.com.tw",
         "ceo": "何英蘭",
-        "pe_ratio": 9,
+        "pe_ratio": 8,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 7.47,
-            "last_2y": 10.52,
-            "last_4y": 9.89,
-            "last_8y": 10.05,
-            "last_12y": null,
+            "last_all": 7.53,
+            "last_2y": 11.77,
+            "last_4y": 5.56,
+            "last_8y": 10.24,
+            "last_12y": 7.53,
             "last_16y": null,
             "last_20y": null,
             "at_2006_last_3y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 12.83,
             "at_2021_last_3y": 15.14,
             "at_2022_last_3y": 4.9,
-            "at_2023_last_3y": 4.9,
+            "at_2023_last_3y": 9.94,
+            "at_2024_last_3y": 9.94,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,21 +55,22 @@
             "at_2020_last_all": 6.26,
             "at_2021_last_all": 9.16,
             "at_2022_last_all": 7.47,
-            "at_2023_last_all": 7.47
+            "at_2023_last_all": 7.53,
+            "at_2024_last_all": 7.53
         },
-        "latest_eps": 7.05,
-        "latest_price": 61.8,
-        "latest_roe": 14.83,
+        "latest_eps": 8.42,
+        "latest_price": 68.1,
+        "latest_roe": 17.15,
         "latest_gross_margin": null,
-        "latest_equity": 15886036,
-        "latest_revenue": 5059244,
+        "latest_equity": 16633692,
+        "latest_revenue": 5276900,
         "latest_gross_profit": null,
-        "latest_net_income": 717990,
-        "latest_debt_ratio": 66.82,
+        "latest_net_income": 995642,
+        "latest_debt_ratio": 64.16,
         "latest_current_ratio": null,
         "latest_account_receivable_turnover_ratio": null,
         "latest_inventory_turnover_ratio": null,
-        "latest_reinvestment_rate": 1.62,
+        "latest_reinvestment_rate": 1.69,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -183,9 +185,9 @@
             "eps": 6.34
         },
         "2023": {
-            "cash": 2.54,
+            "cash": 5.08,
             "stock": 0,
-            "eps": 3.71
+            "eps": 6.86
         }
     },
     "dividends": {
@@ -267,6 +269,10 @@
         },
         "2022-07-07": {
             "cash": 3.2,
+            "stock": 0
+        },
+        "2023-03-07": {
+            "cash": 2.54,
             "stock": 0
         },
         "2023-07-07": {
@@ -548,7 +554,9 @@
         "202307": "53.26",
         "202308": "55.50",
         "202309": "60.00",
-        "202310": "61.88"
+        "202310": "62.24",
+        "202311": "69.31",
+        "202312": "68.26"
     },
     "quarters": {
         "20011": {
@@ -3430,6 +3438,38 @@
             "eps_avg_yearly": 6.33,
             "eps_latest_yearly": 9.12,
             "eps_growth_yearly": 56.5
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 3.15,
+            "eps_growth_year": 76.97,
+            "eps_4q": 8.42,
+            "eps_4q_growth_year": 31.1,
+            "roe": 6.12,
+            "roe_4q": 16.92,
+            "gross_profit": null,
+            "gross_margin": null,
+            "gross_margin_4q_avg": 0,
+            "net_income": 995642,
+            "net_income_4q": null,
+            "revenue": 5276900,
+            "revenue_4q": null,
+            "common_shares": 3159633,
+            "book_valuer_per_share": 52.64,
+            "book_valuer_per_share_4q_avg": 50.17,
+            "equity": 16633692,
+            "current_ratio": null,
+            "debt_ratio": 64.16,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": null,
+            "reinvestment_rate": 1.69,
+            "research_to_sale_ratio": null,
+            "price_fair": 235.64,
+            "eps_avg_yearly": 6.73,
+            "eps_latest_yearly": 12.6,
+            "eps_growth_yearly": 47.98
         }
     },
     "months": {
@@ -4772,6 +4812,16 @@
             "month": "2023-09",
             "price": "60.00",
             "revenue": 1699357
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "62.24",
+            "revenue": 1660596
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "69.31",
+            "revenue": 1572020
         }
     }
 }

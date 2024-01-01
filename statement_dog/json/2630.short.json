@@ -6,15 +6,15 @@
         "main_business": "航空器與有關裝備之維修、租賃與買賣<br>航空配件裝備之製造與裝配、精密工業設備之修理<br>以及上述各項業務之代理與顧問",
         "website_url": "http://www.airasia.com.tw",
         "ceo": "盧天麟",
-        "pe_ratio": -362,
+        "pe_ratio": 100,
         "report_year_from": 2015,
         "report_year_to": 2023,
-        "age": 8,
-        "eps_negative_percentage": 14,
+        "age": 9,
+        "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 34.05,
-            "last_2y": -9.92,
-            "last_4y": 34.05,
+            "last_all": 32.08,
+            "last_2y": 1,
+            "last_4y": 18.49,
             "last_8y": null,
             "last_12y": null,
             "last_16y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": null,
             "at_2021_last_3y": 63.54,
             "at_2022_last_3y": 17.56,
-            "at_2023_last_3y": 17.56,
+            "at_2023_last_3y": -1.88,
+            "at_2024_last_3y": -1.88,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 63.16,
             "at_2021_last_all": 63.54,
             "at_2022_last_all": 34.05,
-            "at_2023_last_all": 34.05
+            "at_2023_last_all": 32.08,
+            "at_2024_last_all": 32.08
         },
-        "latest_eps": -0.09,
-        "latest_price": 32.6,
-        "latest_roe": -0.8,
-        "latest_gross_margin": 3.49,
-        "latest_equity": 2042948,
-        "latest_revenue": 1280393,
-        "latest_gross_profit": 44744,
-        "latest_net_income": -29239,
-        "latest_debt_ratio": 62.89,
-        "latest_current_ratio": 142.72,
-        "latest_account_receivable_turnover_ratio": 0.88,
-        "latest_inventory_turnover_ratio": 1.1,
-        "latest_reinvestment_rate": 5.08,
-        "latest_research_to_sale_ratio": null
+        "latest_eps": 0.14,
+        "latest_price": 37.5,
+        "latest_roe": 1.13,
+        "latest_gross_margin": 9.86,
+        "latest_equity": 3414016,
+        "latest_revenue": 1184417,
+        "latest_gross_profit": 116809,
+        "latest_net_income": 52080,
+        "latest_debt_ratio": 40.57,
+        "latest_current_ratio": 228.21,
+        "latest_account_receivable_turnover_ratio": 0.68,
+        "latest_inventory_turnover_ratio": 0.97,
+        "latest_reinvestment_rate": 9.12,
+        "latest_research_to_sale_ratio": 0.06
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 0.09
         },
         "2023": {
-            "cash": 0.36,
+            "cash": 0.72,
             "stock": 0,
-            "eps": -0.16
+            "eps": 0.11
         }
     },
     "dividends": {
@@ -244,6 +246,10 @@
         "2022-05-20": {
             "cash": 0.25,
             "stock": 0.75
+        },
+        "2023-02-22": {
+            "cash": 0.36,
+            "stock": 0
         },
         "2023-04-19": {
             "cash": 0.36,
@@ -524,7 +530,9 @@
         "202307": "49.28",
         "202308": "35.39",
         "202309": "38.98",
-        "202310": "35.06"
+        "202310": "34.74",
+        "202311": "34.46",
+        "202312": "37.18"
     },
     "quarters": {
         "20011": {
@@ -3406,6 +3414,38 @@
             "eps_avg_yearly": 0.47,
             "eps_latest_yearly": 0.08,
             "eps_growth_yearly": -1.79
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.27,
+            "eps_growth_year": 575,
+            "eps_4q": 0.14,
+            "eps_4q_growth_year": -10.29,
+            "roe": 1.91,
+            "roe_4q": 0.7999999999999999,
+            "gross_profit": 116809,
+            "gross_margin": 9.86,
+            "gross_margin_4q_avg": 6.75,
+            "net_income": 52080,
+            "net_income_4q": null,
+            "revenue": 1184417,
+            "revenue_4q": null,
+            "common_shares": 2094382,
+            "book_valuer_per_share": 16.3,
+            "book_valuer_per_share_4q_avg": 12.91,
+            "equity": 3414016,
+            "current_ratio": 228.21,
+            "debt_ratio": 40.57,
+            "inventory_turnover_ratio": 0.97,
+            "account_receivable_turnover_ratio": 0.68,
+            "reinvestment_rate": 9.12,
+            "research_to_sale_ratio": 0.06,
+            "price_fair": 1.4,
+            "eps_avg_yearly": 0.47,
+            "eps_latest_yearly": 0.08,
+            "eps_growth_yearly": -2.01
         }
     },
     "months": {
@@ -3808,6 +3848,16 @@
             "month": "2023-09",
             "price": "38.98",
             "revenue": 470699
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "34.74",
+            "revenue": 420778
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "34.46",
+            "revenue": 351953
         }
     }
 }

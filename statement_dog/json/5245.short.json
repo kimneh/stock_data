@@ -6,16 +6,16 @@
         "main_business": "被動式有機發光顯示器(PMOLED)",
         "website_url": "http://www.wisechip.com.tw/",
         "ceo": "葉文欽",
-        "pe_ratio": 35,
+        "pe_ratio": -29,
         "report_year_from": 2011,
         "report_year_to": 2023,
-        "age": 12,
+        "age": 13,
         "eps_negative_percentage": 10,
         "eps_growth_avg": {
-            "last_all": 24.64,
-            "last_2y": 63.76,
-            "last_4y": 10.49,
-            "last_8y": null,
+            "last_all": 10.8,
+            "last_2y": -2.9,
+            "last_4y": 0.54,
+            "last_8y": 10.8,
             "last_12y": null,
             "last_16y": null,
             "last_20y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": -9.83,
             "at_2021_last_3y": 15.29,
             "at_2022_last_3y": 25.67,
-            "at_2023_last_3y": 25.67,
+            "at_2023_last_3y": 22.82,
+            "at_2024_last_3y": 22.82,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 17.64,
             "at_2021_last_all": 29.41,
             "at_2022_last_all": 24.64,
-            "at_2023_last_all": 24.64
+            "at_2023_last_all": 10.8,
+            "at_2024_last_all": 10.8
         },
-        "latest_eps": 1.12,
-        "latest_price": 39,
-        "latest_roe": 4.37,
-        "latest_gross_margin": 18.12,
-        "latest_equity": 1091095,
-        "latest_revenue": 238753,
-        "latest_gross_profit": 43250,
-        "latest_net_income": -20188,
-        "latest_debt_ratio": 39.91,
-        "latest_current_ratio": 227.62,
-        "latest_account_receivable_turnover_ratio": 1.89,
-        "latest_inventory_turnover_ratio": 0.7,
-        "latest_reinvestment_rate": -63.37,
-        "latest_research_to_sale_ratio": 15.93
+        "latest_eps": -1.38,
+        "latest_price": 39.7,
+        "latest_roe": -5.35,
+        "latest_gross_margin": 2.12,
+        "latest_equity": 1074056,
+        "latest_revenue": 200721,
+        "latest_gross_profit": 4262,
+        "latest_net_income": -59538,
+        "latest_debt_ratio": 39.26,
+        "latest_current_ratio": 116.84,
+        "latest_account_receivable_turnover_ratio": 1.94,
+        "latest_inventory_turnover_ratio": 0.77,
+        "latest_reinvestment_rate": -82.95,
+        "latest_research_to_sale_ratio": 18.18
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 2.5,
             "stock": 0,
-            "eps": -0.38
+            "eps": -1.74
         }
     },
     "dividends": {
@@ -508,7 +510,9 @@
         "202307": "44.76",
         "202308": "40.50",
         "202309": "40.04",
-        "202310": "39.19"
+        "202310": "39.12",
+        "202311": "39.99",
+        "202312": "41.05"
     },
     "quarters": {
         "20011": {
@@ -3390,6 +3394,38 @@
             "eps_avg_yearly": 3.06,
             "eps_latest_yearly": 0.36,
             "eps_growth_yearly": 98.28
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -1.36,
+            "eps_growth_year": -219.3,
+            "eps_4q": -1.38,
+            "eps_4q_growth_year": -126.89,
+            "roe": -5.5,
+            "roe_4q": -5.68,
+            "gross_profit": 4262,
+            "gross_margin": 2.12,
+            "gross_margin_4q_avg": 17.59,
+            "net_income": -59538,
+            "net_income_4q": null,
+            "revenue": 200721,
+            "revenue_4q": null,
+            "common_shares": 449900,
+            "book_valuer_per_share": 23.97,
+            "book_valuer_per_share_4q_avg": 26.41,
+            "equity": 1074056,
+            "current_ratio": 116.84,
+            "debt_ratio": 39.26,
+            "inventory_turnover_ratio": 0.77,
+            "account_receivable_turnover_ratio": 1.94,
+            "reinvestment_rate": -82.95,
+            "research_to_sale_ratio": 18.18,
+            "price_fair": 107.1,
+            "eps_avg_yearly": 3.06,
+            "eps_latest_yearly": 0.36,
+            "eps_growth_yearly": 98.28
         }
     },
     "months": {
@@ -4122,6 +4158,16 @@
             "month": "2023-09",
             "price": "40.04",
             "revenue": 57887
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "39.12",
+            "revenue": 62353
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "39.99",
+            "revenue": 65484
         }
     }
 }

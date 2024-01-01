@@ -6,16 +6,16 @@
         "main_business": "水針不織布,水針木漿複合布,無塵擦拭布,家庭用擦拭布,地板拖布<br>熱風、熱壓不織布<br>嬰兒柔濕巾,美顏面膜,卸妝棉,乳劑,液劑保養品",
         "website_url": "http://www.e-nonwoven.com.tw",
         "ceo": "黃世鐘",
-        "pe_ratio": 51,
+        "pe_ratio": 58,
         "report_year_from": 2002,
         "report_year_to": 2023,
-        "age": 21,
+        "age": 22,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 9.37,
+            "last_all": 17.61,
             "last_2y": -14.3,
-            "last_4y": -8.96,
-            "last_8y": -0.7,
+            "last_4y": 9.17,
+            "last_8y": 9.63,
             "last_12y": null,
             "last_16y": null,
             "last_20y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 22.78,
             "at_2021_last_3y": 1.54,
             "at_2022_last_3y": -13.54,
-            "at_2023_last_3y": -13.54,
+            "at_2023_last_3y": 14.28,
+            "at_2024_last_3y": 14.28,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 29.58,
             "at_2021_last_all": 16.07,
             "at_2022_last_all": 9.37,
-            "at_2023_last_all": 9.37
+            "at_2023_last_all": 17.61,
+            "at_2024_last_all": 17.61
         },
-        "latest_eps": 1.39,
-        "latest_price": 70.6,
-        "latest_roe": 2.89,
-        "latest_gross_margin": 12.04,
-        "latest_equity": 3484431,
-        "latest_revenue": 1636407,
-        "latest_gross_profit": 197024,
-        "latest_net_income": 81780,
-        "latest_debt_ratio": 66.56,
-        "latest_current_ratio": 105.65,
-        "latest_account_receivable_turnover_ratio": 1.24,
-        "latest_inventory_turnover_ratio": 1.74,
-        "latest_reinvestment_rate": 111.86,
-        "latest_research_to_sale_ratio": 0.63
+        "latest_eps": 1.33,
+        "latest_price": 77.6,
+        "latest_roe": 2.68,
+        "latest_gross_margin": 10,
+        "latest_equity": 3601848,
+        "latest_revenue": 1470988,
+        "latest_gross_profit": 147110,
+        "latest_net_income": 31035,
+        "latest_debt_ratio": 66.19,
+        "latest_current_ratio": 106.36,
+        "latest_account_receivable_turnover_ratio": 1.08,
+        "latest_inventory_turnover_ratio": 1.68,
+        "latest_reinvestment_rate": 126.53,
+        "latest_research_to_sale_ratio": 1.58
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 0.79
         },
         "2023": {
-            "cash": 1,
+            "cash": 2,
             "stock": 0,
-            "eps": 1.27
+            "eps": 1.7
         }
     },
     "dividends": {
@@ -267,6 +269,10 @@
         },
         "2022-10-13": {
             "cash": 1.2,
+            "stock": 0
+        },
+        "2023-03-15": {
+            "cash": 1,
             "stock": 0
         },
         "2023-10-13": {
@@ -548,7 +554,9 @@
         "202307": "77.11",
         "202308": "76.44",
         "202309": "75.75",
-        "202310": "72.35"
+        "202310": "72.16",
+        "202311": "72.85",
+        "202312": "79.57"
     },
     "quarters": {
         "20011": {
@@ -3430,6 +3438,38 @@
             "eps_avg_yearly": 9.57,
             "eps_latest_yearly": 4.52,
             "eps_growth_yearly": 334.12
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.43,
+            "eps_growth_year": -12.24,
+            "eps_4q": 1.33,
+            "eps_4q_growth_year": 125.92,
+            "roe": 0.88,
+            "roe_4q": 2.75,
+            "gross_profit": 147110,
+            "gross_margin": 10,
+            "gross_margin_4q_avg": 11.34,
+            "net_income": 31035,
+            "net_income_4q": null,
+            "revenue": 1470988,
+            "revenue_4q": null,
+            "common_shares": 726000,
+            "book_valuer_per_share": 49.61,
+            "book_valuer_per_share_4q_avg": 48.6,
+            "equity": 3601848,
+            "current_ratio": 106.36,
+            "debt_ratio": 66.19,
+            "inventory_turnover_ratio": 1.68,
+            "account_receivable_turnover_ratio": 1.08,
+            "reinvestment_rate": 126.53,
+            "research_to_sale_ratio": 1.58,
+            "price_fair": 314.18,
+            "eps_avg_yearly": 8.98,
+            "eps_latest_yearly": 1.72,
+            "eps_growth_yearly": 288.54
         }
     },
     "months": {
@@ -4612,6 +4652,16 @@
             "month": "2023-09",
             "price": "75.75",
             "revenue": 543474
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "72.16",
+            "revenue": 601126
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "72.85",
+            "revenue": 525296
         }
     }
 }

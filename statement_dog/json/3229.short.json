@@ -6,18 +6,18 @@
         "main_business": "印刷電路板製造",
         "website_url": "http://www.cheer-time.com.tw/",
         "ceo": "劉文禎",
-        "pe_ratio": -23,
+        "pe_ratio": -30,
         "report_year_from": 2002,
         "report_year_to": 2023,
-        "age": 21,
+        "age": 22,
         "eps_negative_percentage": 48,
         "eps_growth_avg": {
             "last_all": -20.98,
             "last_2y": null,
             "last_4y": null,
-            "last_8y": -64.38,
-            "last_12y": -39.69,
-            "last_16y": -33.53,
+            "last_8y": -100,
+            "last_12y": -62.51,
+            "last_16y": -33.86,
             "last_20y": null,
             "at_2006_last_3y": null,
             "at_2007_last_3y": -6.79,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": 13.37,
             "at_2007_last_all": -6.79,
             "at_2008_last_all": 8.37,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -20.98,
             "at_2021_last_all": -20.98,
             "at_2022_last_all": -20.98,
-            "at_2023_last_all": -20.98
+            "at_2023_last_all": -20.98,
+            "at_2024_last_all": -20.98
         },
-        "latest_eps": -0.63,
-        "latest_price": 14.5,
-        "latest_roe": -6.25,
-        "latest_gross_margin": 1.79,
-        "latest_equity": 628318,
-        "latest_revenue": 226304,
-        "latest_gross_profit": 4057,
-        "latest_net_income": -15065,
-        "latest_debt_ratio": 32.73,
-        "latest_current_ratio": 219.54,
+        "latest_eps": -0.53,
+        "latest_price": 15.8,
+        "latest_roe": -5.3,
+        "latest_gross_margin": 5.58,
+        "latest_equity": 629056,
+        "latest_revenue": 223854,
+        "latest_gross_profit": 12499,
+        "latest_net_income": 316,
+        "latest_debt_ratio": 26.01,
+        "latest_current_ratio": 272.63,
         "latest_account_receivable_turnover_ratio": 0.96,
-        "latest_inventory_turnover_ratio": 1.83,
+        "latest_inventory_turnover_ratio": 1.4,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 0.21
+        "latest_research_to_sale_ratio": 0.2
     },
     "eps_dividends": {
         "2001": {
@@ -500,7 +502,9 @@
         "202307": "18.20",
         "202308": "15.05",
         "202309": "14.62",
-        "202310": "14.35"
+        "202310": "14.36",
+        "202311": "14.42",
+        "202312": "16.16"
     },
     "quarters": {
         "20011": {
@@ -3382,6 +3386,38 @@
             "eps_avg_yearly": 0,
             "eps_latest_yearly": 0,
             "eps_growth_yearly": 0
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0,
+            "eps_growth_year": null,
+            "eps_4q": -0.53,
+            "eps_4q_growth_year": null,
+            "roe": 0.05,
+            "roe_4q": -5.3100000000000005,
+            "gross_profit": 12499,
+            "gross_margin": 5.58,
+            "gross_margin_4q_avg": 5.48,
+            "net_income": 316,
+            "net_income_4q": null,
+            "revenue": 223854,
+            "revenue_4q": null,
+            "common_shares": 642630,
+            "book_valuer_per_share": 9.79,
+            "book_valuer_per_share_4q_avg": 9.87,
+            "equity": 629056,
+            "current_ratio": 272.63,
+            "debt_ratio": 26.01,
+            "inventory_turnover_ratio": 1.4,
+            "account_receivable_turnover_ratio": 0.96,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 0.2,
+            "price_fair": 0,
+            "eps_avg_yearly": 0,
+            "eps_latest_yearly": 0,
+            "eps_growth_yearly": 0
         }
     },
     "months": {
@@ -4564,6 +4600,16 @@
             "month": "2023-09",
             "price": "14.62",
             "revenue": 75885
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "14.36",
+            "revenue": 76333
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "14.42",
+            "revenue": 73629
         }
     }
 }

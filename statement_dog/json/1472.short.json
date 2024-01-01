@@ -6,19 +6,19 @@
         "main_business": "營建工程<br>營建工程",
         "website_url": "http://triocean.com.tw",
         "ceo": "徐正哲",
-        "pe_ratio": 52,
+        "pe_ratio": 28,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 74,
         "eps_growth_avg": {
-            "last_all": -97.81,
-            "last_2y": -100,
-            "last_4y": -100,
-            "last_8y": -100,
-            "last_12y": -100,
-            "last_16y": -100,
-            "last_20y": -97.81,
+            "last_all": -58.25,
+            "last_2y": 100,
+            "last_4y": 0,
+            "last_8y": -33.33,
+            "last_12y": -33.33,
+            "last_16y": -33.33,
+            "last_20y": -58.25,
             "at_2006_last_3y": -95.63,
             "at_2007_last_3y": -100,
             "at_2008_last_3y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": -100,
             "at_2021_last_3y": -100,
             "at_2022_last_3y": -100,
-            "at_2023_last_3y": -100,
+            "at_2023_last_3y": 0,
+            "at_2024_last_3y": 0,
             "at_2006_last_all": -95.63,
             "at_2007_last_all": -95.63,
             "at_2008_last_all": -95.63,
@@ -54,19 +55,20 @@
             "at_2020_last_all": -97.81,
             "at_2021_last_all": -97.81,
             "at_2022_last_all": -97.81,
-            "at_2023_last_all": -97.81
+            "at_2023_last_all": -58.25,
+            "at_2024_last_all": -58.25
         },
-        "latest_eps": 0.88,
-        "latest_price": 45.85,
-        "latest_roe": 4.3,
-        "latest_gross_margin": 9.85,
-        "latest_equity": 804095,
-        "latest_revenue": 536782,
-        "latest_gross_profit": 52854,
-        "latest_net_income": 21278,
-        "latest_debt_ratio": 72.57,
-        "latest_current_ratio": 114.66,
-        "latest_account_receivable_turnover_ratio": 7.89,
+        "latest_eps": 2.23,
+        "latest_price": 61.6,
+        "latest_roe": 12,
+        "latest_gross_margin": 14.34,
+        "latest_equity": 1372617,
+        "latest_revenue": 542975,
+        "latest_gross_profit": 77882,
+        "latest_net_income": 62297,
+        "latest_debt_ratio": 36.78,
+        "latest_current_ratio": 220.49,
+        "latest_account_receivable_turnover_ratio": 4.17,
         "latest_inventory_turnover_ratio": null,
         "latest_reinvestment_rate": null,
         "latest_research_to_sale_ratio": null
@@ -205,7 +207,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 1.21
+            "eps": 2.76
         }
     },
     "dividends": {
@@ -504,7 +506,9 @@
         "202307": "42.12",
         "202308": "43.00",
         "202309": "43.06",
-        "202310": "43.89"
+        "202310": "44.22",
+        "202311": "52.57",
+        "202312": "64.83"
     },
     "quarters": {
         "20011": {
@@ -3386,6 +3390,38 @@
             "eps_avg_yearly": 2.01,
             "eps_latest_yearly": 3.4,
             "eps_growth_yearly": 617.04
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 1.55,
+            "eps_growth_year": null,
+            "eps_4q": 2.23,
+            "eps_4q_growth_year": null,
+            "roe": 5.72,
+            "roe_4q": 10.030000000000001,
+            "gross_profit": 77882,
+            "gross_margin": 14.34,
+            "gross_margin_4q_avg": 11.33,
+            "net_income": 62297,
+            "net_income_4q": null,
+            "revenue": 542975,
+            "revenue_4q": null,
+            "common_shares": 424881,
+            "book_valuer_per_share": 32.31,
+            "book_valuer_per_share_4q_avg": 31.74,
+            "equity": 1372617,
+            "current_ratio": 220.49,
+            "debt_ratio": 36.78,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": 4.17,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": null,
+            "price_fair": 107.1,
+            "eps_avg_yearly": 3.06,
+            "eps_latest_yearly": 6.2,
+            "eps_growth_yearly": 545.13
         }
     },
     "months": {
@@ -4728,6 +4764,16 @@
             "month": "2023-09",
             "price": "43.06",
             "revenue": 173810
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "44.22",
+            "revenue": 177308
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "52.57",
+            "revenue": 176859
         }
     }
 }

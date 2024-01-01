@@ -6,14 +6,14 @@
         "main_business": "商用洗衣服務<br>家電空調銷售<br>其　　他",
         "website_url": "http://www.upyoung.com.tw",
         "ceo": "吳國華",
-        "pe_ratio": 14,
+        "pe_ratio": 15,
         "report_year_from": 2018,
         "report_year_to": 2023,
-        "age": 5,
+        "age": 6,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 57.92,
-            "last_2y": null,
+            "last_all": 21.63,
+            "last_2y": 21.63,
             "last_4y": null,
             "last_8y": null,
             "last_12y": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": 57.92,
-            "at_2023_last_all": 57.92
+            "at_2023_last_all": 21.63,
+            "at_2024_last_all": 21.63
         },
         "latest_eps": 8.99,
-        "latest_price": 129.5,
-        "latest_roe": 22.96,
-        "latest_gross_margin": 36.96,
-        "latest_equity": 889176,
-        "latest_revenue": 758527,
-        "latest_gross_profit": 280371,
-        "latest_net_income": 60214,
-        "latest_debt_ratio": 53.67,
-        "latest_current_ratio": 149.6,
-        "latest_account_receivable_turnover_ratio": 2.73,
-        "latest_inventory_turnover_ratio": 0.51,
+        "latest_price": 138,
+        "latest_roe": 21.9,
+        "latest_gross_margin": 34.32,
+        "latest_equity": 931948,
+        "latest_revenue": 650315,
+        "latest_gross_profit": 223168,
+        "latest_net_income": 42782,
+        "latest_debt_ratio": 56.73,
+        "latest_current_ratio": 154.78,
+        "latest_account_receivable_turnover_ratio": 2.31,
+        "latest_inventory_turnover_ratio": 0.49,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 0.36
+        "latest_research_to_sale_ratio": 0.42
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 10,
             "stock": 0,
-            "eps": 4.81
+            "eps": 6.67
         }
     },
     "dividends": {
@@ -484,7 +486,9 @@
         "202307": "148.40",
         "202308": "134.66",
         "202309": "128.08",
-        "202310": "128.06"
+        "202310": "128.05",
+        "202311": "130.02",
+        "202312": "135.76"
     },
     "quarters": {
         "20011": {
@@ -3366,6 +3370,38 @@
             "eps_avg_yearly": 10.77,
             "eps_latest_yearly": 10.48,
             "eps_growth_yearly": 630.17
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 1.86,
+            "eps_growth_year": -0.53,
+            "eps_4q": 8.99,
+            "eps_4q_growth_year": -40.37,
+            "roe": 4.7,
+            "roe_4q": 22.620000000000005,
+            "gross_profit": 223168,
+            "gross_margin": 34.32,
+            "gross_margin_4q_avg": 36.7,
+            "net_income": 42782,
+            "net_income_4q": null,
+            "revenue": 650315,
+            "revenue_4q": null,
+            "common_shares": 230000,
+            "book_valuer_per_share": 40.52,
+            "book_valuer_per_share_4q_avg": 39.77,
+            "equity": 931948,
+            "current_ratio": 154.78,
+            "debt_ratio": 56.73,
+            "inventory_turnover_ratio": 0.49,
+            "account_receivable_turnover_ratio": 2.31,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 0.42,
+            "price_fair": 368.5,
+            "eps_avg_yearly": 10.53,
+            "eps_latest_yearly": 7.44,
+            "eps_growth_yearly": 576.87
         }
     },
     "months": {
@@ -3633,6 +3669,16 @@
             "month": "2023-09",
             "price": "128.08",
             "revenue": 212631
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "128.05",
+            "revenue": 238602
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "130.02",
+            "revenue": 225393
         }
     }
 }

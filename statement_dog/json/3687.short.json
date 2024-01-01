@@ -6,17 +6,17 @@
         "main_business": "資訊軟體服務業、資訊處理服務業、<br>電子資訊供應服務業、<br>除許可業務外，得經營法令非禁止或限制之業務",
         "website_url": "http://www.macrowell.com.tw/",
         "ceo": "羅士博",
-        "pe_ratio": 53,
+        "pe_ratio": 61,
         "report_year_from": 2009,
         "report_year_to": 2023,
-        "age": 14,
+        "age": 15,
         "eps_negative_percentage": 40,
         "eps_growth_avg": {
-            "last_all": 6.82,
-            "last_2y": 58.27,
-            "last_4y": 58.27,
-            "last_8y": 58.27,
-            "last_12y": 6.82,
+            "last_all": -1.43,
+            "last_2y": 5.21,
+            "last_4y": 28.91,
+            "last_8y": 28.91,
+            "last_12y": 9.62,
             "last_16y": null,
             "last_20y": null,
             "at_2006_last_3y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 100,
             "at_2021_last_3y": 81.21,
             "at_2022_last_3y": 58.27,
-            "at_2023_last_3y": 58.27,
+            "at_2023_last_3y": 28.91,
+            "at_2024_last_3y": 28.91,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -5.41,
             "at_2021_last_all": 5.89,
             "at_2022_last_all": 6.82,
-            "at_2023_last_all": 6.82
+            "at_2023_last_all": -1.43,
+            "at_2024_last_all": -1.43
         },
-        "latest_eps": 1.52,
-        "latest_price": 80.7,
-        "latest_roe": 7.91,
-        "latest_gross_margin": 41.08,
-        "latest_equity": 3893614,
-        "latest_revenue": 388538,
-        "latest_gross_profit": 159594,
-        "latest_net_income": 70497,
-        "latest_debt_ratio": 52.46,
-        "latest_current_ratio": 202.68,
-        "latest_account_receivable_turnover_ratio": 151.83,
-        "latest_inventory_turnover_ratio": 15262.93,
-        "latest_reinvestment_rate": 126.69,
-        "latest_research_to_sale_ratio": 7.01
+        "latest_eps": 1.58,
+        "latest_price": 95.9,
+        "latest_roe": 7.96,
+        "latest_gross_margin": 40.73,
+        "latest_equity": 3993438,
+        "latest_revenue": 405298,
+        "latest_gross_profit": 165088,
+        "latest_net_income": 80181,
+        "latest_debt_ratio": 53.54,
+        "latest_current_ratio": 195.98,
+        "latest_account_receivable_turnover_ratio": 237.43,
+        "latest_inventory_turnover_ratio": 16014,
+        "latest_reinvestment_rate": 128.57,
+        "latest_research_to_sale_ratio": 6.81
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 1.5,
             "stock": 0,
-            "eps": 0.68
+            "eps": 1.11
         }
     },
     "dividends": {
@@ -496,7 +498,9 @@
         "202307": "107.41",
         "202308": "88.15",
         "202309": "83.66",
-        "202310": "81.41"
+        "202310": "81.40",
+        "202311": "86.45",
+        "202312": "100.38"
     },
     "quarters": {
         "20011": {
@@ -3378,6 +3382,38 @@
             "eps_avg_yearly": 2.02,
             "eps_latest_yearly": 1.28,
             "eps_growth_yearly": 59.04
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.43,
+            "eps_growth_year": 16.22,
+            "eps_4q": 1.58,
+            "eps_4q_growth_year": -43.92,
+            "roe": 2.03,
+            "roe_4q": 8.02,
+            "gross_profit": 165088,
+            "gross_margin": 40.73,
+            "gross_margin_4q_avg": 41.36,
+            "net_income": 80181,
+            "net_income_4q": null,
+            "revenue": 405298,
+            "revenue_4q": null,
+            "common_shares": 300596,
+            "book_valuer_per_share": 48.16,
+            "book_valuer_per_share_4q_avg": 47.47,
+            "equity": 3993438,
+            "current_ratio": 195.98,
+            "debt_ratio": 53.54,
+            "inventory_turnover_ratio": 16014,
+            "account_receivable_turnover_ratio": 237.43,
+            "reinvestment_rate": 128.57,
+            "research_to_sale_ratio": 6.81,
+            "price_fair": 70.09,
+            "eps_avg_yearly": 2,
+            "eps_latest_yearly": 1.72,
+            "eps_growth_yearly": 63.95
         }
     },
     "months": {
@@ -4205,6 +4241,16 @@
             "month": "2023-09",
             "price": "83.66",
             "revenue": 139426
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "81.40",
+            "revenue": 137079
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "86.45",
+            "revenue": 145681
         }
     }
 }

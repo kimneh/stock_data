@@ -9,7 +9,7 @@
         "pe_ratio": -2,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 78,
         "eps_growth_avg": {
             "last_all": -81.29,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": -100,
             "at_2021_last_3y": -100,
             "at_2022_last_3y": -100,
-            "at_2023_last_3y": -100,
+            "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": -100,
             "at_2008_last_all": -100,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -81.29,
             "at_2021_last_all": -81.29,
             "at_2022_last_all": -81.29,
-            "at_2023_last_all": -81.29
+            "at_2023_last_all": -81.29,
+            "at_2024_last_all": -81.29
         },
-        "latest_eps": -5.88,
-        "latest_price": 13.1,
-        "latest_roe": -63.37,
-        "latest_gross_margin": -19.01,
-        "latest_equity": 522720,
-        "latest_revenue": 267372,
-        "latest_gross_profit": -50835,
-        "latest_net_income": -108430,
-        "latest_debt_ratio": 74.84,
-        "latest_current_ratio": 60.71,
-        "latest_account_receivable_turnover_ratio": 3.58,
-        "latest_inventory_turnover_ratio": 0.75,
+        "latest_eps": -5.6,
+        "latest_price": 13.9,
+        "latest_roe": -61.65,
+        "latest_gross_margin": -11.29,
+        "latest_equity": 440099,
+        "latest_revenue": 301638,
+        "latest_gross_profit": -34056,
+        "latest_net_income": -84408,
+        "latest_debt_ratio": 77.19,
+        "latest_current_ratio": 52.49,
+        "latest_account_receivable_turnover_ratio": 4.53,
+        "latest_inventory_turnover_ratio": 0.86,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 0.56
+        "latest_research_to_sale_ratio": 0.51
     },
     "eps_dividends": {
         "1991": {
@@ -195,7 +197,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -1.29
+            "eps": -2.5
         }
     },
     "dividends": {
@@ -494,7 +496,9 @@
         "202307": "8.06",
         "202308": "8.70",
         "202309": "13.14",
-        "202310": "13.36"
+        "202310": "13.33",
+        "202311": "13.22",
+        "202312": "13.94"
     },
     "quarters": {
         "20011": {
@@ -3376,6 +3380,38 @@
             "eps_avg_yearly": 0,
             "eps_latest_yearly": 0,
             "eps_growth_yearly": 0
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -1.21,
+            "eps_growth_year": null,
+            "eps_4q": -5.6,
+            "eps_4q_growth_year": null,
+            "roe": -17.53,
+            "roe_4q": -64.18,
+            "gross_profit": -34056,
+            "gross_margin": -11.29,
+            "gross_margin_4q_avg": -19.68,
+            "net_income": -84408,
+            "net_income_4q": null,
+            "revenue": 301638,
+            "revenue_4q": null,
+            "common_shares": 632952,
+            "book_valuer_per_share": 6.59,
+            "book_valuer_per_share_4q_avg": 6.25,
+            "equity": 440099,
+            "current_ratio": 52.49,
+            "debt_ratio": 77.19,
+            "inventory_turnover_ratio": 0.86,
+            "account_receivable_turnover_ratio": 4.53,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 0.51,
+            "price_fair": 0,
+            "eps_avg_yearly": 0,
+            "eps_latest_yearly": 0,
+            "eps_growth_yearly": 0
         }
     },
     "months": {
@@ -4718,6 +4754,16 @@
             "month": "2023-09",
             "price": "13.14",
             "revenue": 74396
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "13.33",
+            "revenue": 133170
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "13.22",
+            "revenue": 76290
         }
     }
 }

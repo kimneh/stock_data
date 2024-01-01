@@ -6,19 +6,19 @@
         "main_business": "電腦週邊設備之製造及買賣",
         "website_url": "http://www.geniusnet.com.tw",
         "ceo": "李百祥",
-        "pe_ratio": 35,
+        "pe_ratio": 49,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 4,
         "eps_growth_avg": {
-            "last_all": -6.49,
-            "last_2y": -17.84,
-            "last_4y": 21.79,
-            "last_8y": 10.65,
-            "last_12y": -13.25,
-            "last_16y": -10.14,
-            "last_20y": -6.49,
+            "last_all": -4.27,
+            "last_2y": -4,
+            "last_4y": 9.79,
+            "last_8y": 3.15,
+            "last_12y": -6.54,
+            "last_16y": -8.71,
+            "last_20y": -5.14,
             "at_2006_last_3y": 9.14,
             "at_2007_last_3y": 8.96,
             "at_2008_last_3y": 5.5,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 53.65,
             "at_2021_last_3y": 23.83,
             "at_2022_last_3y": 2.24,
-            "at_2023_last_3y": 2.24,
+            "at_2023_last_3y": -3.38,
+            "at_2024_last_3y": -3.38,
             "at_2006_last_all": 9.93,
             "at_2007_last_all": 13.63,
             "at_2008_last_all": 6.77,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -4.32,
             "at_2021_last_all": -7.55,
             "at_2022_last_all": -6.49,
-            "at_2023_last_all": -6.49
+            "at_2023_last_all": -4.27,
+            "at_2024_last_all": -4.27
         },
-        "latest_eps": 0.34,
-        "latest_price": 12.05,
-        "latest_roe": 2.51,
-        "latest_gross_margin": 35.05,
-        "latest_equity": 2994298,
-        "latest_revenue": 174667,
-        "latest_gross_profit": 61223,
-        "latest_net_income": 27575,
-        "latest_debt_ratio": 16.88,
-        "latest_current_ratio": 686.64,
-        "latest_account_receivable_turnover_ratio": 2.84,
-        "latest_inventory_turnover_ratio": 0.6,
-        "latest_reinvestment_rate": 24.13,
-        "latest_research_to_sale_ratio": 1.02
+        "latest_eps": 0.31,
+        "latest_price": 15.1,
+        "latest_roe": 2.24,
+        "latest_gross_margin": 41.42,
+        "latest_equity": 3039289,
+        "latest_revenue": 222622,
+        "latest_gross_profit": 92204,
+        "latest_net_income": 30978,
+        "latest_debt_ratio": 15.71,
+        "latest_current_ratio": 614.26,
+        "latest_account_receivable_turnover_ratio": 3.47,
+        "latest_inventory_turnover_ratio": 0.72,
+        "latest_reinvestment_rate": 18.61,
+        "latest_research_to_sale_ratio": 0.81
     },
     "eps_dividends": {
         "1996": {
@@ -205,7 +207,7 @@
         "2023": {
             "cash": 0.2,
             "stock": 0,
-            "eps": 0.21
+            "eps": 0.35
         }
     },
     "dividends": {
@@ -584,7 +586,9 @@
         "202307": "11.80",
         "202308": "11.16",
         "202309": "11.12",
-        "202310": "11.89"
+        "202310": "11.88",
+        "202311": "11.81",
+        "202312": "13.72"
     },
     "quarters": {
         "20011": {
@@ -3466,6 +3470,38 @@
             "eps_avg_yearly": 0.64,
             "eps_latest_yearly": 0.52,
             "eps_growth_yearly": 445.68
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.14,
+            "eps_growth_year": -17.65,
+            "eps_4q": 0.31,
+            "eps_4q_growth_year": -11.48,
+            "roe": 1.03,
+            "roe_4q": 2.24,
+            "gross_profit": 92204,
+            "gross_margin": 41.42,
+            "gross_margin_4q_avg": 35.65,
+            "net_income": 30978,
+            "net_income_4q": null,
+            "revenue": 222622,
+            "revenue_4q": null,
+            "common_shares": 2215285,
+            "book_valuer_per_share": 13.58,
+            "book_valuer_per_share_4q_avg": 13.39,
+            "equity": 3039289,
+            "current_ratio": 614.26,
+            "debt_ratio": 15.71,
+            "inventory_turnover_ratio": 0.72,
+            "account_receivable_turnover_ratio": 3.47,
+            "reinvestment_rate": 18.61,
+            "research_to_sale_ratio": 0.81,
+            "price_fair": 23.33,
+            "eps_avg_yearly": 0.67,
+            "eps_latest_yearly": 0.56,
+            "eps_growth_yearly": 448.24
         }
     },
     "months": {
@@ -4808,6 +4844,16 @@
             "month": "2023-09",
             "price": "11.12",
             "revenue": 76467
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "11.88",
+            "revenue": 59858
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "11.81",
+            "revenue": 69565
         }
     }
 }

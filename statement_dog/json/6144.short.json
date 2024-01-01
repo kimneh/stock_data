@@ -6,10 +6,10 @@
         "main_business": "影音光碟產品及錄影帶",
         "website_url": "http://www.deltamac.com.tw",
         "ceo": "楊愛麗",
-        "pe_ratio": -33,
+        "pe_ratio": -27,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 74,
         "eps_growth_avg": {
             "last_all": -97.19,
@@ -18,7 +18,7 @@
             "last_8y": -100,
             "last_12y": -100,
             "last_16y": -100,
-            "last_20y": -97.19,
+            "last_20y": -100,
             "at_2006_last_3y": -100,
             "at_2007_last_3y": null,
             "at_2008_last_3y": -100,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": -100,
             "at_2022_last_3y": -100,
             "at_2023_last_3y": -100,
+            "at_2024_last_3y": -100,
             "at_2006_last_all": -91.56,
             "at_2007_last_all": -91.56,
             "at_2008_last_all": -94.37,
@@ -54,20 +55,21 @@
             "at_2020_last_all": -96.62,
             "at_2021_last_all": -97.19,
             "at_2022_last_all": -97.19,
-            "at_2023_last_all": -97.19
+            "at_2023_last_all": -97.19,
+            "at_2024_last_all": -97.19
         },
-        "latest_eps": -0.41,
+        "latest_eps": -0.51,
         "latest_price": 13.55,
-        "latest_roe": -4.53,
-        "latest_gross_margin": 40.26,
-        "latest_equity": 342620,
-        "latest_revenue": 40501,
-        "latest_gross_profit": 16306,
-        "latest_net_income": -4775,
-        "latest_debt_ratio": 12.73,
-        "latest_current_ratio": 730.28,
-        "latest_account_receivable_turnover_ratio": 2.69,
-        "latest_inventory_turnover_ratio": 0.58,
+        "latest_roe": -5.65,
+        "latest_gross_margin": 38.69,
+        "latest_equity": 339339,
+        "latest_revenue": 50059,
+        "latest_gross_profit": 19369,
+        "latest_net_income": -3819,
+        "latest_debt_ratio": 13.33,
+        "latest_current_ratio": 689,
+        "latest_account_receivable_turnover_ratio": 2.64,
+        "latest_inventory_turnover_ratio": 0.74,
         "latest_reinvestment_rate": null,
         "latest_research_to_sale_ratio": null
     },
@@ -195,7 +197,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.27
+            "eps": -0.37
         }
     },
     "dividends": {
@@ -490,7 +492,9 @@
         "202307": "14.84",
         "202308": "13.91",
         "202309": "13.66",
-        "202310": "13.13"
+        "202310": "13.11",
+        "202311": "12.94",
+        "202312": "13.39"
     },
     "quarters": {
         "20011": {
@@ -3372,6 +3376,38 @@
             "eps_avg_yearly": 0,
             "eps_latest_yearly": 0,
             "eps_growth_yearly": 0
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.1,
+            "eps_growth_year": null,
+            "eps_4q": -0.51,
+            "eps_4q_growth_year": null,
+            "roe": -1.12,
+            "roe_4q": -5.640000000000001,
+            "gross_profit": 19369,
+            "gross_margin": 38.69,
+            "gross_margin_4q_avg": 38.26,
+            "net_income": -3819,
+            "net_income_4q": null,
+            "revenue": 50059,
+            "revenue_4q": null,
+            "common_shares": 382737,
+            "book_valuer_per_share": 8.87,
+            "book_valuer_per_share_4q_avg": 9.03,
+            "equity": 339339,
+            "current_ratio": 689,
+            "debt_ratio": 13.33,
+            "inventory_turnover_ratio": 0.74,
+            "account_receivable_turnover_ratio": 2.64,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": null,
+            "price_fair": 0,
+            "eps_avg_yearly": 0,
+            "eps_latest_yearly": 0,
+            "eps_growth_yearly": 0
         }
     },
     "months": {
@@ -4679,6 +4715,16 @@
             "month": "2023-09",
             "price": "13.66",
             "revenue": 16704
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "13.11",
+            "revenue": 16115
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "12.94",
+            "revenue": 20264
         }
     }
 }

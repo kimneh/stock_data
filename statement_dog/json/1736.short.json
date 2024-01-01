@@ -6,19 +6,19 @@
         "main_business": "醫療器材設備製造業、批發業及零售業<br>心肺復甦健身機及重量訓練機系列產品製造、批發與零售業<br>其他電機及電子機械器材製造業(馬達)",
         "website_url": "http://www.johnsonfitness.com",
         "ceo": "羅光廷",
-        "pe_ratio": 46,
+        "pe_ratio": 35,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
-        "eps_negative_percentage": 9,
+        "age": 23,
+        "eps_negative_percentage": 4,
         "eps_growth_avg": {
-            "last_all": 3.69,
-            "last_2y": -13.8,
-            "last_4y": 31.72,
-            "last_8y": 13.77,
-            "last_12y": 19.46,
-            "last_16y": -1.53,
-            "last_20y": 3.69,
+            "last_all": -0.64,
+            "last_2y": -27.15,
+            "last_4y": -5.73,
+            "last_8y": -7.03,
+            "last_12y": 11.26,
+            "last_16y": -7.79,
+            "last_20y": -2.97,
             "at_2006_last_3y": 16.32,
             "at_2007_last_3y": -3.92,
             "at_2008_last_3y": -30.73,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 17.76,
             "at_2021_last_3y": 14.65,
             "at_2022_last_3y": 14.65,
-            "at_2023_last_3y": 14.65,
+            "at_2023_last_3y": -32.16,
+            "at_2024_last_3y": -32.16,
             "at_2006_last_all": 22.25,
             "at_2007_last_all": 6.6,
             "at_2008_last_all": -8.54,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 3.78,
             "at_2021_last_all": -1.38,
             "at_2022_last_all": 3.69,
-            "at_2023_last_all": 3.69
+            "at_2023_last_all": -0.64,
+            "at_2024_last_all": -0.64
         },
-        "latest_eps": 1.47,
-        "latest_price": 67.8,
-        "latest_roe": 2.57,
-        "latest_gross_margin": 47.38,
-        "latest_equity": 8915066,
-        "latest_revenue": 8636292,
-        "latest_gross_profit": 4091582,
-        "latest_net_income": 333187,
-        "latest_debt_ratio": 74.24,
-        "latest_current_ratio": 146.74,
-        "latest_account_receivable_turnover_ratio": 1.1,
-        "latest_inventory_turnover_ratio": 0.42,
-        "latest_reinvestment_rate": 63.74,
-        "latest_research_to_sale_ratio": 3.07
+        "latest_eps": 1.95,
+        "latest_price": 68.7,
+        "latest_roe": 6.27,
+        "latest_gross_margin": 48.79,
+        "latest_equity": 9482127,
+        "latest_revenue": 9675946,
+        "latest_gross_profit": 4721043,
+        "latest_net_income": 369419,
+        "latest_debt_ratio": 73.9,
+        "latest_current_ratio": 124.68,
+        "latest_account_receivable_turnover_ratio": 1.16,
+        "latest_inventory_turnover_ratio": 0.46,
+        "latest_reinvestment_rate": 62.88,
+        "latest_research_to_sale_ratio": 2.43
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 1.41
         },
         "2023": {
-            "cash": 0.6,
+            "cash": 1.2,
             "stock": 0,
-            "eps": -1.04
+            "eps": 0.18
         }
     },
     "dividends": {
@@ -267,6 +269,10 @@
         },
         "2022-10-07": {
             "cash": 0.5,
+            "stock": 0
+        },
+        "2023-05-11": {
+            "cash": 0.6,
             "stock": 0
         },
         "2023-08-25": {
@@ -548,7 +554,9 @@
         "202307": "77.40",
         "202308": "75.55",
         "202309": "76.38",
-        "202310": "73.05"
+        "202310": "72.44",
+        "202311": "70.16",
+        "202312": "69.00"
     },
     "quarters": {
         "20011": {
@@ -3430,6 +3438,38 @@
             "eps_avg_yearly": 4.18,
             "eps_latest_yearly": 7.04,
             "eps_growth_yearly": 24.26
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 1.22,
+            "eps_growth_year": 64.86,
+            "eps_4q": 1.95,
+            "eps_4q_growth_year": 59.59,
+            "roe": 4.02,
+            "roe_4q": 6.38,
+            "gross_profit": 4721043,
+            "gross_margin": 48.79,
+            "gross_margin_4q_avg": 47.27,
+            "net_income": 369419,
+            "net_income_4q": null,
+            "revenue": 9675946,
+            "revenue_4q": null,
+            "common_shares": 3036166,
+            "book_valuer_per_share": 31.28,
+            "book_valuer_per_share_4q_avg": 30.28,
+            "equity": 9482127,
+            "current_ratio": 124.68,
+            "debt_ratio": 73.9,
+            "inventory_turnover_ratio": 0.46,
+            "account_receivable_turnover_ratio": 1.16,
+            "reinvestment_rate": 62.88,
+            "research_to_sale_ratio": 2.43,
+            "price_fair": 12.72,
+            "eps_avg_yearly": 4.24,
+            "eps_latest_yearly": 4.88,
+            "eps_growth_yearly": -0.04
         }
     },
     "months": {
@@ -4677,6 +4717,16 @@
             "month": "2023-09",
             "price": "76.38",
             "revenue": 3587203
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "72.44",
+            "revenue": 3378169
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "70.16",
+            "revenue": 3750670
         }
     }
 }

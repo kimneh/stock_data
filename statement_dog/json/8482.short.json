@@ -6,15 +6,15 @@
         "main_business": "室內家具之研發、設計及生產",
         "website_url": "http://www.shaneglobal.com.tw",
         "ceo": "謝淑韞",
-        "pe_ratio": 13,
+        "pe_ratio": 17,
         "report_year_from": 2018,
         "report_year_to": 2023,
-        "age": 5,
+        "age": 6,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 13.05,
-            "last_2y": 2.74,
-            "last_4y": null,
+            "last_all": -1.68,
+            "last_2y": -10.46,
+            "last_4y": -1.68,
             "last_8y": null,
             "last_12y": null,
             "last_16y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": null,
             "at_2021_last_3y": null,
             "at_2022_last_3y": 13.05,
-            "at_2023_last_3y": 13.05,
+            "at_2023_last_3y": -13.1,
+            "at_2024_last_3y": -13.1,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 11.48,
             "at_2021_last_all": 18.23,
             "at_2022_last_all": 13.05,
-            "at_2023_last_all": 13.05
+            "at_2023_last_all": -1.68,
+            "at_2024_last_all": -1.68
         },
-        "latest_eps": 5.18,
-        "latest_price": 66.2,
-        "latest_roe": 16.93,
-        "latest_gross_margin": 41.26,
-        "latest_equity": 3247048,
-        "latest_revenue": 891685,
-        "latest_gross_profit": 367930,
-        "latest_net_income": 138774,
-        "latest_debt_ratio": 37.15,
-        "latest_current_ratio": 127.85,
-        "latest_account_receivable_turnover_ratio": 2.08,
-        "latest_inventory_turnover_ratio": 0.81,
-        "latest_reinvestment_rate": 53.24,
-        "latest_research_to_sale_ratio": 3.37
+        "latest_eps": 4.17,
+        "latest_price": 69,
+        "latest_roe": 12.17,
+        "latest_gross_margin": 38.73,
+        "latest_equity": 3521682,
+        "latest_revenue": 955004,
+        "latest_gross_profit": 369845,
+        "latest_net_income": 150539,
+        "latest_debt_ratio": 26.57,
+        "latest_current_ratio": 159.36,
+        "latest_account_receivable_turnover_ratio": 2.12,
+        "latest_inventory_turnover_ratio": 0.91,
+        "latest_reinvestment_rate": 56.39,
+        "latest_research_to_sale_ratio": 2.19
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 7.77
         },
         "2023": {
-            "cash": 6.22,
+            "cash": 12.44,
             "stock": 0,
-            "eps": 1.63
+            "eps": 3.06
         }
     },
     "dividends": {
@@ -211,6 +213,10 @@
         },
         "2022-07-29": {
             "cash": 5.87,
+            "stock": 0
+        },
+        "2023-03-27": {
+            "cash": 6.22,
             "stock": 0
         },
         "2023-07-28": {
@@ -492,7 +498,9 @@
         "202307": "69.64",
         "202308": "66.27",
         "202309": "66.18",
-        "202310": "65.95"
+        "202310": "65.96",
+        "202311": "67.46",
+        "202312": "67.93"
     },
     "quarters": {
         "20011": {
@@ -3374,6 +3382,38 @@
             "eps_avg_yearly": 6.7,
             "eps_latest_yearly": 5.28,
             "eps_growth_yearly": 271.17
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 1.43,
+            "eps_growth_year": -41.15,
+            "eps_4q": 4.17,
+            "eps_4q_growth_year": -53.56,
+            "roe": 4.45,
+            "roe_4q": 12.440000000000001,
+            "gross_profit": 369845,
+            "gross_margin": 38.73,
+            "gross_margin_4q_avg": 37.85,
+            "net_income": 150539,
+            "net_income_4q": null,
+            "revenue": 955004,
+            "revenue_4q": null,
+            "common_shares": 1104440,
+            "book_valuer_per_share": 31.97,
+            "book_valuer_per_share_4q_avg": 32.43,
+            "equity": 3521682,
+            "current_ratio": 159.36,
+            "debt_ratio": 26.57,
+            "inventory_turnover_ratio": 0.91,
+            "account_receivable_turnover_ratio": 2.12,
+            "reinvestment_rate": 56.39,
+            "research_to_sale_ratio": 2.19,
+            "price_fair": 232.14,
+            "eps_avg_yearly": 6.63,
+            "eps_latest_yearly": 5.72,
+            "eps_growth_yearly": 281.19
         }
     },
     "months": {
@@ -3686,6 +3726,16 @@
             "month": "2023-09",
             "price": "66.18",
             "revenue": 330632
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "65.96",
+            "revenue": 291927
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "67.46",
+            "revenue": 251311
         }
     }
 }

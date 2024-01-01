@@ -6,15 +6,15 @@
         "main_business": "醫療器材製造業<br>醫療器材設備業<br>醫療器材零售業",
         "website_url": "http://www.okbiotech.com",
         "ceo": "賴家德",
-        "pe_ratio": 42,
+        "pe_ratio": 100,
         "report_year_from": 2010,
         "report_year_to": 2023,
-        "age": 13,
+        "age": 14,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": -1.11,
-            "last_2y": 7.45,
-            "last_4y": 2.13,
+            "last_all": -12.25,
+            "last_2y": -16.53,
+            "last_4y": -15.94,
             "last_8y": null,
             "last_12y": null,
             "last_16y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": null,
             "at_2021_last_3y": -22.34,
             "at_2022_last_3y": -0.15,
-            "at_2023_last_3y": -0.15,
+            "at_2023_last_3y": -14.19,
+            "at_2024_last_3y": -14.19,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -9.04,
             "at_2021_last_all": -21.33,
             "at_2022_last_all": -1.11,
-            "at_2023_last_all": -1.11
+            "at_2023_last_all": -12.25,
+            "at_2024_last_all": -12.25
         },
-        "latest_eps": 0.57,
-        "latest_price": 24.2,
-        "latest_roe": 3.61,
-        "latest_gross_margin": 21.17,
-        "latest_equity": 2150526,
-        "latest_revenue": 319389,
-        "latest_gross_profit": 67620,
-        "latest_net_income": 12991,
-        "latest_debt_ratio": 27.55,
-        "latest_current_ratio": 180.76,
-        "latest_account_receivable_turnover_ratio": 0.8,
-        "latest_inventory_turnover_ratio": 0.65,
-        "latest_reinvestment_rate": 80.51,
-        "latest_research_to_sale_ratio": 4.33
+        "latest_eps": 0.19,
+        "latest_price": 25.1,
+        "latest_roe": 1.1,
+        "latest_gross_margin": 12.28,
+        "latest_equity": 2385733,
+        "latest_revenue": 275700,
+        "latest_gross_profit": 33844,
+        "latest_net_income": -920,
+        "latest_debt_ratio": 26.03,
+        "latest_current_ratio": 200.62,
+        "latest_account_receivable_turnover_ratio": 0.64,
+        "latest_inventory_turnover_ratio": 0.64,
+        "latest_reinvestment_rate": 88.76,
+        "latest_research_to_sale_ratio": 2.55
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 1.53
         },
         "2023": {
-            "cash": 1.26,
-            "stock": 1.04,
-            "eps": 0.31
+            "cash": 2.52,
+            "stock": 2.08,
+            "eps": 0.32
         }
     },
     "dividends": {
@@ -236,6 +238,10 @@
         "2022-07-28": {
             "cash": 1,
             "stock": 0
+        },
+        "2023-04-25": {
+            "cash": 1.26,
+            "stock": 1.04
         },
         "2023-10-20": {
             "cash": 1.26,
@@ -516,7 +522,9 @@
         "202307": "35.70",
         "202308": "32.57",
         "202309": "28.83",
-        "202310": "24.72"
+        "202310": "24.64",
+        "202311": "25.00",
+        "202312": "25.44"
     },
     "quarters": {
         "20011": {
@@ -3398,6 +3406,38 @@
             "eps_avg_yearly": 1.61,
             "eps_latest_yearly": 0.52,
             "eps_growth_yearly": 4.62
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.01,
+            "eps_growth_year": -97.96,
+            "eps_4q": 0.19,
+            "eps_4q_growth_year": -87.87,
+            "roe": -0.04,
+            "roe_4q": 1.0299999999999998,
+            "gross_profit": 33844,
+            "gross_margin": 12.28,
+            "gross_margin_4q_avg": 19.73,
+            "net_income": -920,
+            "net_income_4q": null,
+            "revenue": 275700,
+            "revenue_4q": null,
+            "common_shares": 1296687,
+            "book_valuer_per_share": 18.42,
+            "book_valuer_per_share_4q_avg": 18.71,
+            "equity": 2385733,
+            "current_ratio": 200.62,
+            "debt_ratio": 26.03,
+            "inventory_turnover_ratio": 0.64,
+            "account_receivable_turnover_ratio": 0.64,
+            "reinvestment_rate": 88.76,
+            "research_to_sale_ratio": 2.55,
+            "price_fair": 4.21,
+            "eps_avg_yearly": 1.4,
+            "eps_latest_yearly": 0.04,
+            "eps_growth_yearly": -53.48
         }
     },
     "months": {
@@ -4170,6 +4210,16 @@
             "month": "2023-09",
             "price": "28.83",
             "revenue": 87279
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "24.64",
+            "revenue": 86110
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "25.00",
+            "revenue": 94309
         }
     }
 }

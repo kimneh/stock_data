@@ -6,16 +6,16 @@
         "main_business": "IC設計",
         "website_url": "http://www.hycontek.com",
         "ceo": "趙伯寅",
-        "pe_ratio": -14,
+        "pe_ratio": -22,
         "report_year_from": 2013,
         "report_year_to": 2023,
-        "age": 10,
+        "age": 11,
         "eps_negative_percentage": 10,
         "eps_growth_avg": {
-            "last_all": 16.72,
-            "last_2y": 32.12,
-            "last_4y": 22.76,
-            "last_8y": null,
+            "last_all": 3.75,
+            "last_2y": -34.54,
+            "last_4y": 3.73,
+            "last_8y": 3.75,
             "last_12y": null,
             "last_16y": null,
             "last_20y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 26.9,
             "at_2021_last_3y": 49.55,
             "at_2022_last_3y": 29.67,
-            "at_2023_last_3y": 29.67,
+            "at_2023_last_3y": -0.91,
+            "at_2024_last_3y": -0.91,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 22.9,
             "at_2021_last_all": 31.16,
             "at_2022_last_all": 16.72,
-            "at_2023_last_all": 16.72
+            "at_2023_last_all": 3.75,
+            "at_2024_last_all": 3.75
         },
-        "latest_eps": -3.53,
-        "latest_price": 51,
-        "latest_roe": -13.02,
-        "latest_gross_margin": 18.66,
-        "latest_equity": 906375,
-        "latest_revenue": 173135,
-        "latest_gross_profit": 32303,
-        "latest_net_income": -34522,
-        "latest_debt_ratio": 19.64,
-        "latest_current_ratio": 429.6,
-        "latest_account_receivable_turnover_ratio": 1.36,
-        "latest_inventory_turnover_ratio": 0.27,
-        "latest_reinvestment_rate": 29.1,
-        "latest_research_to_sale_ratio": 17.47
+        "latest_eps": -3.17,
+        "latest_price": 68.2,
+        "latest_roe": -12.34,
+        "latest_gross_margin": 24.59,
+        "latest_equity": 901863,
+        "latest_revenue": 211325,
+        "latest_gross_profit": 51963,
+        "latest_net_income": -8034,
+        "latest_debt_ratio": 18.29,
+        "latest_current_ratio": 463.65,
+        "latest_account_receivable_turnover_ratio": 1.51,
+        "latest_inventory_turnover_ratio": 0.34,
+        "latest_reinvestment_rate": 29.86,
+        "latest_research_to_sale_ratio": 12.88
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 1,
             "stock": 0,
-            "eps": -2.13
+            "eps": -2.23
         }
     },
     "dividends": {
@@ -504,7 +506,9 @@
         "202307": "49.36",
         "202308": "45.65",
         "202309": "48.57",
-        "202310": "50.72"
+        "202310": "50.88",
+        "202311": "54.48",
+        "202312": "66.08"
     },
     "quarters": {
         "20011": {
@@ -3386,6 +3390,38 @@
             "eps_avg_yearly": 8.05,
             "eps_latest_yearly": 3.52,
             "eps_growth_yearly": 57.28
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.1,
+            "eps_growth_year": null,
+            "eps_4q": -3.17,
+            "eps_4q_growth_year": -155.82,
+            "roe": -0.89,
+            "roe_4q": -12.37,
+            "gross_profit": 51963,
+            "gross_margin": 24.59,
+            "gross_margin_4q_avg": 19.29,
+            "net_income": -8034,
+            "net_income_4q": null,
+            "revenue": 211325,
+            "revenue_4q": null,
+            "common_shares": 318548,
+            "book_valuer_per_share": 23.72,
+            "book_valuer_per_share_4q_avg": 24.68,
+            "equity": 901863,
+            "current_ratio": 463.65,
+            "debt_ratio": 18.29,
+            "inventory_turnover_ratio": 0.34,
+            "account_receivable_turnover_ratio": 1.51,
+            "reinvestment_rate": 29.86,
+            "research_to_sale_ratio": 12.88,
+            "price_fair": 302.02,
+            "eps_avg_yearly": 8.63,
+            "eps_latest_yearly": 3.52,
+            "eps_growth_yearly": 70.42
         }
     },
     "months": {
@@ -3948,6 +3984,16 @@
             "month": "2023-09",
             "price": "48.57",
             "revenue": 74126
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "50.88",
+            "revenue": 63080
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "54.48",
+            "revenue": 76833
         }
     }
 }

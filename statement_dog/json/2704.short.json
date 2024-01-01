@@ -5,20 +5,20 @@
         "category": "觀光餐旅",
         "main_business": "國際觀光大飯店附設餐飲等業務",
         "website_url": "http://www.ambassador-hotels.com",
-        "ceo": "謝漢章",
-        "pe_ratio": 10,
+        "ceo": "許家堯",
+        "pe_ratio": 11,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 13,
         "eps_growth_avg": {
-            "last_all": -8.87,
-            "last_2y": -99.52,
-            "last_4y": -53.18,
-            "last_8y": -23.82,
-            "last_12y": -7.49,
-            "last_16y": -9.98,
-            "last_20y": -8.87,
+            "last_all": -10.57,
+            "last_2y": -70.54,
+            "last_4y": -61.38,
+            "last_8y": -30.74,
+            "last_12y": -14.08,
+            "last_16y": -12.11,
+            "last_20y": -10.57,
             "at_2006_last_3y": -2.34,
             "at_2007_last_3y": 27.22,
             "at_2008_last_3y": 17.49,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": -27.1,
             "at_2021_last_3y": -53.18,
             "at_2022_last_3y": -68.15,
-            "at_2023_last_3y": -68.15,
+            "at_2023_last_3y": -80.04,
+            "at_2024_last_3y": -80.04,
             "at_2006_last_all": -2.34,
             "at_2007_last_all": -4.58,
             "at_2008_last_all": -6.01,
@@ -54,21 +55,22 @@
             "at_2020_last_all": -3.51,
             "at_2021_last_all": -8.87,
             "at_2022_last_all": -8.87,
-            "at_2023_last_all": -8.87
+            "at_2023_last_all": -10.57,
+            "at_2024_last_all": -10.57
         },
-        "latest_eps": 4.86,
-        "latest_price": 47.25,
-        "latest_roe": 10.13,
-        "latest_gross_margin": 27.23,
-        "latest_equity": 22616619,
-        "latest_revenue": 275157,
-        "latest_gross_profit": 74920,
-        "latest_net_income": 500397,
-        "latest_debt_ratio": 19.78,
-        "latest_current_ratio": 1075.06,
-        "latest_account_receivable_turnover_ratio": 9.52,
-        "latest_inventory_turnover_ratio": 2.58,
-        "latest_reinvestment_rate": -50.2,
+        "latest_eps": 4.48,
+        "latest_price": 49.45,
+        "latest_roe": 10.43,
+        "latest_gross_margin": 28.08,
+        "latest_equity": 19496565,
+        "latest_revenue": 311775,
+        "latest_gross_profit": 87559,
+        "latest_net_income": -56320,
+        "latest_debt_ratio": 21.73,
+        "latest_current_ratio": 931.9,
+        "latest_account_receivable_turnover_ratio": 6.43,
+        "latest_inventory_turnover_ratio": 2.84,
+        "latest_reinvestment_rate": -94.14,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -228,9 +230,9 @@
             "eps": 2.97
         },
         "2023": {
-            "cash": 0.5,
+            "cash": 1,
             "stock": 0,
-            "eps": 1.9
+            "eps": 1.75
         }
     },
     "dividends": {
@@ -328,6 +330,10 @@
         },
         "2019-09-06": {
             "cash": 0.4,
+            "stock": 0
+        },
+        "2023-03-07": {
+            "cash": 0.5,
             "stock": 0
         },
         "2023-08-15": {
@@ -609,7 +615,9 @@
         "202307": "51.64",
         "202308": "54.12",
         "202309": "51.53",
-        "202310": "49.81"
+        "202310": "49.58",
+        "202311": "48.46",
+        "202312": "48.88"
     },
     "quarters": {
         "20011": {
@@ -3491,6 +3499,38 @@
             "eps_avg_yearly": 3.61,
             "eps_latest_yearly": 5.44,
             "eps_growth_yearly": 1261.28
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.15,
+            "eps_growth_year": -165.22,
+            "eps_4q": 4.48,
+            "eps_4q_growth_year": 3156.96,
+            "roe": -0.27,
+            "roe_4q": 11.59,
+            "gross_profit": 87559,
+            "gross_margin": 28.08,
+            "gross_margin_4q_avg": 10.82,
+            "net_income": -56320,
+            "net_income_4q": null,
+            "revenue": 311775,
+            "revenue_4q": null,
+            "common_shares": 3669234,
+            "book_valuer_per_share": 53.12,
+            "book_valuer_per_share_4q_avg": 48.39,
+            "equity": 19496565,
+            "current_ratio": 931.9,
+            "debt_ratio": 21.73,
+            "inventory_turnover_ratio": 2.84,
+            "account_receivable_turnover_ratio": 6.43,
+            "reinvestment_rate": -94.14,
+            "research_to_sale_ratio": null,
+            "price_fair": 140,
+            "eps_avg_yearly": 4,
+            "eps_latest_yearly": 5.44,
+            "eps_growth_yearly": 1406.87
         }
     },
     "months": {
@@ -4833,6 +4873,16 @@
             "month": "2023-09",
             "price": "51.53",
             "revenue": 124400
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "49.58",
+            "revenue": 97484
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "48.46",
+            "revenue": 97951
         }
     }
 }

@@ -6,14 +6,14 @@
         "main_business": "提供國.內外旅客團體旅遊商品或居間勞務銷售與服務",
         "website_url": "http://www.lifetour.com.tw",
         "ceo": "許順富",
-        "pe_ratio": 26,
+        "pe_ratio": 16,
         "report_year_from": 2014,
         "report_year_to": 2023,
-        "age": 9,
+        "age": 10,
         "eps_negative_percentage": 57,
         "eps_growth_avg": {
             "last_all": -5.32,
-            "last_2y": -100,
+            "last_2y": null,
             "last_4y": -5.32,
             "last_8y": null,
             "last_12y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": null,
             "at_2021_last_3y": -5.32,
             "at_2022_last_3y": -5.32,
-            "at_2023_last_3y": -5.32,
+            "at_2023_last_3y": -100,
+            "at_2024_last_3y": -100,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,19 +55,20 @@
             "at_2020_last_all": -5.32,
             "at_2021_last_all": -5.32,
             "at_2022_last_all": -5.32,
-            "at_2023_last_all": -5.32
+            "at_2023_last_all": -5.32,
+            "at_2024_last_all": -5.32
         },
-        "latest_eps": 2.56,
-        "latest_price": 67.7,
-        "latest_roe": 22.16,
-        "latest_gross_margin": 10.92,
-        "latest_equity": 504914,
-        "latest_revenue": 1235922,
-        "latest_gross_profit": 134988,
-        "latest_net_income": 76253,
-        "latest_debt_ratio": 66.42,
-        "latest_current_ratio": 130.34,
-        "latest_account_receivable_turnover_ratio": 3.29,
+        "latest_eps": 5.53,
+        "latest_price": 88.7,
+        "latest_roe": 44.46,
+        "latest_gross_margin": 12.91,
+        "latest_equity": 584147,
+        "latest_revenue": 1500128,
+        "latest_gross_profit": 193627,
+        "latest_net_income": 79233,
+        "latest_debt_ratio": 65.5,
+        "latest_current_ratio": 135.41,
+        "latest_account_receivable_turnover_ratio": 3.54,
         "latest_inventory_turnover_ratio": null,
         "latest_reinvestment_rate": null,
         "latest_research_to_sale_ratio": null
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 3.16
+            "eps": 5.5
         }
     },
     "dividends": {
@@ -488,7 +490,9 @@
         "202307": "91.36",
         "202308": "81.79",
         "202309": "70.14",
-        "202310": "64.86"
+        "202310": "64.98",
+        "202311": "83.38",
+        "202312": "81.73"
     },
     "quarters": {
         "20011": {
@@ -3370,6 +3374,38 @@
             "eps_avg_yearly": 4.65,
             "eps_latest_yearly": 9.04,
             "eps_growth_yearly": 2409.39
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 2.34,
+            "eps_growth_year": null,
+            "eps_4q": 5.53,
+            "eps_4q_growth_year": null,
+            "roe": 14.55,
+            "roe_4q": 40.18,
+            "gross_profit": 193627,
+            "gross_margin": 12.91,
+            "gross_margin_4q_avg": 12.55,
+            "net_income": 79233,
+            "net_income_4q": null,
+            "revenue": 1500128,
+            "revenue_4q": null,
+            "common_shares": 338085,
+            "book_valuer_per_share": 17.28,
+            "book_valuer_per_share_4q_avg": 13.42,
+            "equity": 584147,
+            "current_ratio": 135.41,
+            "debt_ratio": 65.5,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": 3.54,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": null,
+            "price_fair": 256.67,
+            "eps_avg_yearly": 7.33,
+            "eps_latest_yearly": 9.36,
+            "eps_growth_yearly": 2472.87
         }
     },
     "months": {
@@ -3857,6 +3893,16 @@
             "month": "2023-09",
             "price": "70.14",
             "revenue": 476103
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "64.98",
+            "revenue": 664875
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "83.38",
+            "revenue": 533086
         }
     }
 }

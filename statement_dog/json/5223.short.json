@@ -6,15 +6,15 @@
         "main_business": "電腦、手持裝置之金屬機構件、精密金屬壓鑄件、<br>五金沖壓件等設計、生產與銷售",
         "website_url": "http://www.anli-group.com",
         "ceo": "許振焜",
-        "pe_ratio": 21,
+        "pe_ratio": -138,
         "report_year_from": 2016,
         "report_year_to": 2023,
-        "age": 7,
+        "age": 8,
         "eps_negative_percentage": 17,
         "eps_growth_avg": {
-            "last_all": 7.75,
-            "last_2y": 15.92,
-            "last_4y": null,
+            "last_all": -13.8,
+            "last_2y": -45.42,
+            "last_4y": -13.8,
             "last_8y": null,
             "last_12y": null,
             "last_16y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": null,
             "at_2021_last_3y": null,
             "at_2022_last_3y": 7.75,
-            "at_2023_last_3y": 7.75,
+            "at_2023_last_3y": -13.06,
+            "at_2024_last_3y": -13.06,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 33.63,
             "at_2021_last_all": 15.62,
             "at_2022_last_all": 7.75,
-            "at_2023_last_all": 7.75
+            "at_2023_last_all": -13.8,
+            "at_2024_last_all": -13.8
         },
-        "latest_eps": 1.83,
-        "latest_price": 37.6,
-        "latest_roe": 4.2,
-        "latest_gross_margin": 19.64,
-        "latest_equity": 1883648,
-        "latest_revenue": 342076,
-        "latest_gross_profit": 67183,
-        "latest_net_income": 13524,
-        "latest_debt_ratio": 41.45,
-        "latest_current_ratio": 164.01,
-        "latest_account_receivable_turnover_ratio": 0.52,
-        "latest_inventory_turnover_ratio": 2.01,
-        "latest_reinvestment_rate": 56.84,
-        "latest_research_to_sale_ratio": 5.33
+        "latest_eps": -0.31,
+        "latest_price": 42.7,
+        "latest_roe": -0.68,
+        "latest_gross_margin": 22.3,
+        "latest_equity": 1976331,
+        "latest_revenue": 431075,
+        "latest_gross_profit": 96135,
+        "latest_net_income": 77,
+        "latest_debt_ratio": 40.3,
+        "latest_current_ratio": 154.22,
+        "latest_account_receivable_turnover_ratio": 0.63,
+        "latest_inventory_turnover_ratio": 2.39,
+        "latest_reinvestment_rate": 79.52,
+        "latest_research_to_sale_ratio": 4.34
     },
     "eps_dividends": {
         "2001": {
@@ -496,7 +498,9 @@
         "202307": "40.68",
         "202308": "39.20",
         "202309": "38.13",
-        "202310": "37.84"
+        "202310": "37.82",
+        "202311": "37.78",
+        "202312": "38.15"
     },
     "quarters": {
         "20011": {
@@ -3378,6 +3382,38 @@
             "eps_avg_yearly": 5.82,
             "eps_latest_yearly": 8.56,
             "eps_growth_yearly": 436.29
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0,
+            "eps_growth_year": -100,
+            "eps_4q": -0.31,
+            "eps_4q_growth_year": -105.13,
+            "roe": 0,
+            "roe_4q": -0.6400000000000001,
+            "gross_profit": 96135,
+            "gross_margin": 22.3,
+            "gross_margin_4q_avg": 19.43,
+            "net_income": 77,
+            "net_income_4q": null,
+            "revenue": 431075,
+            "revenue_4q": null,
+            "common_shares": 445498,
+            "book_valuer_per_share": 44.36,
+            "book_valuer_per_share_4q_avg": 44.55,
+            "equity": 1976331,
+            "current_ratio": 154.22,
+            "debt_ratio": 40.3,
+            "inventory_turnover_ratio": 2.39,
+            "account_receivable_turnover_ratio": 0.63,
+            "reinvestment_rate": 79.52,
+            "research_to_sale_ratio": 4.34,
+            "price_fair": 203.93,
+            "eps_avg_yearly": 5.83,
+            "eps_latest_yearly": 8.56,
+            "eps_growth_yearly": 432.75
         }
     },
     "months": {
@@ -3695,6 +3731,16 @@
             "month": "2023-09",
             "price": "38.13",
             "revenue": 143611
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "37.82",
+            "revenue": 154321
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "37.78",
+            "revenue": 136070
         }
     }
 }

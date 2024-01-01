@@ -6,18 +6,18 @@
         "main_business": "中藥製造買賣<br>西藥進口批發零售<br>其他健康照護產品、保健食品製造、批發、零售",
         "website_url": "http://www.tlb.com.tw",
         "ceo": "紀元章",
-        "pe_ratio": 17,
+        "pe_ratio": 25,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 35,
         "eps_growth_avg": {
-            "last_all": -4.47,
-            "last_2y": 27.45,
-            "last_4y": 27.45,
-            "last_8y": -16.38,
-            "last_12y": -22.45,
-            "last_16y": -14.91,
+            "last_all": -10.95,
+            "last_2y": -27.43,
+            "last_4y": -27.43,
+            "last_8y": -43.56,
+            "last_12y": -19.5,
+            "last_16y": -17.44,
             "last_20y": null,
             "at_2006_last_3y": null,
             "at_2007_last_3y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": null,
             "at_2021_last_3y": null,
             "at_2022_last_3y": 27.45,
-            "at_2023_last_3y": 27.45,
+            "at_2023_last_3y": -27.43,
+            "at_2024_last_3y": -27.43,
             "at_2006_last_all": 21.49,
             "at_2007_last_all": -15.07,
             "at_2008_last_all": 9.29,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -7.66,
             "at_2021_last_all": -7.66,
             "at_2022_last_all": -4.47,
-            "at_2023_last_all": -4.47
+            "at_2023_last_all": -10.95,
+            "at_2024_last_all": -10.95
         },
-        "latest_eps": 0.8,
-        "latest_price": 13.95,
-        "latest_roe": 7.79,
-        "latest_gross_margin": 64.97,
-        "latest_equity": 487081,
-        "latest_revenue": 109981,
-        "latest_gross_profit": 71458,
-        "latest_net_income": 5465,
-        "latest_debt_ratio": 27.06,
-        "latest_current_ratio": 192.64,
-        "latest_account_receivable_turnover_ratio": 1.24,
-        "latest_inventory_turnover_ratio": 0.39,
-        "latest_reinvestment_rate": -74.62,
-        "latest_research_to_sale_ratio": 0.18
+        "latest_eps": 0.57,
+        "latest_price": 14.5,
+        "latest_roe": 5.51,
+        "latest_gross_margin": 59.4,
+        "latest_equity": 485645,
+        "latest_revenue": 108305,
+        "latest_gross_profit": 64331,
+        "latest_net_income": -1436,
+        "latest_debt_ratio": 27.47,
+        "latest_current_ratio": 191.19,
+        "latest_account_receivable_turnover_ratio": 1.38,
+        "latest_inventory_turnover_ratio": 0.49,
+        "latest_reinvestment_rate": -49.06,
+        "latest_research_to_sale_ratio": 0.16
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 0.26
+            "eps": 0.23
         }
     },
     "dividends": {
@@ -508,7 +510,9 @@
         "202307": "14.79",
         "202308": "13.97",
         "202309": "13.57",
-        "202310": "13.64"
+        "202310": "13.66",
+        "202311": "14.02",
+        "202312": "14.53"
     },
     "quarters": {
         "20011": {
@@ -3390,6 +3394,38 @@
             "eps_avg_yearly": 1.29,
             "eps_latest_yearly": 0.48,
             "eps_growth_yearly": 11.51
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.03,
+            "eps_growth_year": -115,
+            "eps_4q": 0.57,
+            "eps_4q_growth_year": -62.88,
+            "roe": -0.3,
+            "roe_4q": 5.5,
+            "gross_profit": 64331,
+            "gross_margin": 59.4,
+            "gross_margin_4q_avg": 62.05,
+            "net_income": -1436,
+            "net_income_4q": null,
+            "revenue": 108305,
+            "revenue_4q": null,
+            "common_shares": 457600,
+            "book_valuer_per_share": 10.61,
+            "book_valuer_per_share_4q_avg": 10.54,
+            "equity": 485645,
+            "current_ratio": 191.19,
+            "debt_ratio": 27.47,
+            "inventory_turnover_ratio": 0.49,
+            "account_receivable_turnover_ratio": 1.38,
+            "reinvestment_rate": -49.06,
+            "research_to_sale_ratio": 0.16,
+            "price_fair": 27.75,
+            "eps_avg_yearly": 1.29,
+            "eps_latest_yearly": 0.48,
+            "eps_growth_yearly": 11.51
         }
     },
     "months": {
@@ -4567,6 +4603,16 @@
             "month": "2023-09",
             "price": "13.57",
             "revenue": 35028
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "13.66",
+            "revenue": 45225
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "14.02",
+            "revenue": 36271
         }
     }
 }

@@ -6,17 +6,17 @@
         "main_business": "住宅及大樓開發租售",
         "website_url": "http://www.pleasanthotels.com.tw/zh-tw",
         "ceo": "楊題銓",
-        "pe_ratio": 8,
+        "pe_ratio": 7,
         "report_year_from": 2006,
         "report_year_to": 2023,
-        "age": 17,
+        "age": 18,
         "eps_negative_percentage": 27,
         "eps_growth_avg": {
             "last_all": -15.59,
-            "last_2y": -100,
+            "last_2y": null,
             "last_4y": -100,
-            "last_8y": -34.66,
-            "last_12y": -15.59,
+            "last_8y": -61.59,
+            "last_12y": -28.43,
             "last_16y": null,
             "last_20y": null,
             "at_2006_last_3y": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": -100,
             "at_2022_last_3y": -100,
             "at_2023_last_3y": -100,
+            "at_2024_last_3y": -100,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,21 +55,22 @@
             "at_2020_last_all": -15.59,
             "at_2021_last_all": -15.59,
             "at_2022_last_all": -15.59,
-            "at_2023_last_all": -15.59
+            "at_2023_last_all": -15.59,
+            "at_2024_last_all": -15.59
         },
-        "latest_eps": 5.89,
-        "latest_price": 45.35,
-        "latest_roe": 27.27,
-        "latest_gross_margin": 47.2,
-        "latest_equity": 2208850,
-        "latest_revenue": 905345,
-        "latest_gross_profit": 427321,
-        "latest_net_income": 289445,
-        "latest_debt_ratio": 40.85,
-        "latest_current_ratio": 232.83,
-        "latest_account_receivable_turnover_ratio": 73.1,
-        "latest_inventory_turnover_ratio": 0.21,
-        "latest_reinvestment_rate": -27.5,
+        "latest_eps": 7.09,
+        "latest_price": 52.8,
+        "latest_roe": 32.17,
+        "latest_gross_margin": 58.3,
+        "latest_equity": 2303049,
+        "latest_revenue": 237303,
+        "latest_gross_profit": 138351,
+        "latest_net_income": 91196,
+        "latest_debt_ratio": 48.84,
+        "latest_current_ratio": 192.91,
+        "latest_account_receivable_turnover_ratio": 24.28,
+        "latest_inventory_turnover_ratio": 0.05,
+        "latest_reinvestment_rate": -19.54,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 6.43
+            "eps": 7.47
         }
     },
     "dividends": {
@@ -508,7 +510,9 @@
         "202307": "46.59",
         "202308": "46.79",
         "202309": "46.15",
-        "202310": "45.20"
+        "202310": "45.19",
+        "202311": "49.35",
+        "202312": "52.54"
     },
     "quarters": {
         "20011": {
@@ -3390,6 +3394,38 @@
             "eps_avg_yearly": 13.6,
             "eps_latest_yearly": 13.6,
             "eps_growth_yearly": 48.84
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 1.04,
+            "eps_growth_year": null,
+            "eps_4q": 7.09,
+            "eps_4q_growth_year": null,
+            "roe": 4.04,
+            "roe_4q": 32.809999999999995,
+            "gross_profit": 138351,
+            "gross_margin": 58.3,
+            "gross_margin_4q_avg": 39.16,
+            "net_income": 91196,
+            "net_income_4q": null,
+            "revenue": 237303,
+            "revenue_4q": null,
+            "common_shares": 875760,
+            "book_valuer_per_share": 26.3,
+            "book_valuer_per_share_4q_avg": 22.75,
+            "equity": 2303049,
+            "current_ratio": 192.91,
+            "debt_ratio": 48.84,
+            "inventory_turnover_ratio": 0.05,
+            "account_receivable_turnover_ratio": 24.28,
+            "reinvestment_rate": -19.54,
+            "research_to_sale_ratio": null,
+            "price_fair": 26.64,
+            "eps_avg_yearly": 8.88,
+            "eps_latest_yearly": 4.16,
+            "eps_growth_yearly": -114.4
         }
     },
     "months": {
@@ -4322,6 +4358,16 @@
             "month": "2023-09",
             "price": "46.15",
             "revenue": 85014
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "45.19",
+            "revenue": 68706
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "49.35",
+            "revenue": 101360
         }
     }
 }

@@ -5,16 +5,16 @@
         "category": "光電",
         "main_business": "光學資訊相關產品",
         "website_url": "http://www.focl.com.tw",
-        "ceo": "陳碧華",
-        "pe_ratio": -15,
+        "ceo": "羅光偉",
+        "pe_ratio": 48,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 57,
         "eps_growth_avg": {
             "last_all": -68.8,
-            "last_2y": -76.65,
-            "last_4y": -82.49,
+            "last_2y": -78.67,
+            "last_4y": -76.65,
             "last_8y": -86.53,
             "last_12y": -88.45,
             "last_16y": -88.45,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": -76.65,
             "at_2022_last_3y": -76.65,
             "at_2023_last_3y": -76.65,
+            "at_2024_last_3y": -76.65,
             "at_2006_last_all": 0,
             "at_2007_last_all": 0,
             "at_2008_last_all": 0,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -65.98,
             "at_2021_last_all": -64.9,
             "at_2022_last_all": -68.8,
-            "at_2023_last_all": -68.8
+            "at_2023_last_all": -68.8,
+            "at_2024_last_all": -68.8
         },
-        "latest_eps": -0.93,
-        "latest_price": 13.8,
-        "latest_roe": -7.03,
-        "latest_gross_margin": 22.84,
-        "latest_equity": 1237083,
-        "latest_revenue": 46829,
-        "latest_gross_profit": 10695,
-        "latest_net_income": -25761,
-        "latest_debt_ratio": 11.16,
-        "latest_current_ratio": 904.09,
-        "latest_account_receivable_turnover_ratio": 1.41,
+        "latest_eps": 0.29,
+        "latest_price": 14,
+        "latest_roe": 5.89,
+        "latest_gross_margin": 30.45,
+        "latest_equity": 1218069,
+        "latest_revenue": 53086,
+        "latest_gross_profit": 16167,
+        "latest_net_income": -18369,
+        "latest_debt_ratio": 14.34,
+        "latest_current_ratio": 732.83,
+        "latest_account_receivable_turnover_ratio": 1.28,
         "latest_inventory_turnover_ratio": 0.1,
-        "latest_reinvestment_rate": 10.17,
-        "latest_research_to_sale_ratio": 34.8
+        "latest_reinvestment_rate": 23.49,
+        "latest_research_to_sale_ratio": 33.3
     },
     "eps_dividends": {
         "1998": {
@@ -200,7 +202,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 0.26
+            "eps": 0.13
         }
     },
     "dividends": {
@@ -503,7 +505,9 @@
         "202307": "15.23",
         "202308": "14.22",
         "202309": "14.17",
-        "202310": "14.24"
+        "202310": "14.19",
+        "202311": "13.66",
+        "202312": "13.96"
     },
     "quarters": {
         "20011": {
@@ -3385,6 +3389,38 @@
             "eps_avg_yearly": 4.11,
             "eps_latest_yearly": 1.72,
             "eps_growth_yearly": 233.47
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.13,
+            "eps_growth_year": null,
+            "eps_4q": 0.29,
+            "eps_4q_growth_year": null,
+            "roe": -1.5,
+            "roe_4q": 5.809999999999999,
+            "gross_profit": 16167,
+            "gross_margin": 30.45,
+            "gross_margin_4q_avg": 35.17,
+            "net_income": -18369,
+            "net_income_4q": null,
+            "revenue": 53086,
+            "revenue_4q": null,
+            "common_shares": 820080,
+            "book_valuer_per_share": 9.75,
+            "book_valuer_per_share_4q_avg": 9.82,
+            "equity": 1218069,
+            "current_ratio": 732.83,
+            "debt_ratio": 14.34,
+            "inventory_turnover_ratio": 0.1,
+            "account_receivable_turnover_ratio": 1.28,
+            "reinvestment_rate": 23.49,
+            "research_to_sale_ratio": 33.3,
+            "price_fair": 143.85,
+            "eps_avg_yearly": 4.11,
+            "eps_latest_yearly": 1.72,
+            "eps_growth_yearly": 233.47
         }
     },
     "months": {
@@ -4667,6 +4703,16 @@
             "month": "2023-09",
             "price": "14.17",
             "revenue": 17937
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "14.19",
+            "revenue": 18544
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "13.66",
+            "revenue": 18392
         }
     }
 }

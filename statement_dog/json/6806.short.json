@@ -6,13 +6,13 @@
         "main_business": "能源開發工程服務<br>電廠維運(設備維修)太陽能發電廠<br>節能、儲能服務工程等全方位專業能源服務",
         "website_url": "http://www.shinfox.com.tw",
         "ceo": "胡惠森",
-        "pe_ratio": 77,
+        "pe_ratio": 64,
         "report_year_from": 2020,
         "report_year_to": 2023,
-        "age": 3,
+        "age": 4,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": null,
+            "last_all": -35.64,
             "last_2y": null,
             "last_4y": null,
             "last_8y": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,20 +55,21 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": null,
-            "at_2023_last_all": null
+            "at_2023_last_all": -35.64,
+            "at_2024_last_all": -35.64
         },
-        "latest_eps": 1.27,
-        "latest_price": 98,
-        "latest_roe": 2.7,
-        "latest_gross_margin": 10.96,
-        "latest_equity": 10649501,
-        "latest_revenue": 1899412,
-        "latest_gross_profit": 208228,
-        "latest_net_income": 75543,
-        "latest_debt_ratio": 47.38,
-        "latest_current_ratio": 193.22,
-        "latest_account_receivable_turnover_ratio": 6.89,
-        "latest_inventory_turnover_ratio": 5117.05,
+        "latest_eps": 1.67,
+        "latest_price": 106.5,
+        "latest_roe": 3.4,
+        "latest_gross_margin": 10.54,
+        "latest_equity": 10805753,
+        "latest_revenue": 2693925,
+        "latest_gross_profit": 283818,
+        "latest_net_income": 119736,
+        "latest_debt_ratio": 51.42,
+        "latest_current_ratio": 176.49,
+        "latest_account_receivable_turnover_ratio": 9.06,
+        "latest_inventory_turnover_ratio": 5127.89,
         "latest_reinvestment_rate": null,
         "latest_research_to_sale_ratio": null
     },
@@ -183,9 +185,9 @@
             "eps": 1.18
         },
         "2023": {
-            "cash": 0.5,
+            "cash": 1,
             "stock": 0,
-            "eps": 0.61
+            "eps": 1.17
         }
     },
     "dividends": {
@@ -196,6 +198,10 @@
         "2022-09-16": {
             "cash": 1,
             "stock": 1
+        },
+        "2023-02-24": {
+            "cash": 0.5,
+            "stock": 0
         },
         "2023-09-18": {
             "cash": 0.5,
@@ -476,7 +482,9 @@
         "202307": "111.48",
         "202308": "97.45",
         "202309": "98.96",
-        "202310": "101.46"
+        "202310": "101.24",
+        "202311": "109.39",
+        "202312": "109.12"
     },
     "quarters": {
         "20011": {
@@ -3358,6 +3366,38 @@
             "eps_avg_yearly": 1.4,
             "eps_latest_yearly": 1.4,
             "eps_growth_yearly": 789.69
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.56,
+            "eps_growth_year": 250,
+            "eps_4q": 1.67,
+            "eps_4q_growth_year": 37.33,
+            "roe": 1.12,
+            "roe_4q": 3.43,
+            "gross_profit": 283818,
+            "gross_margin": 10.54,
+            "gross_margin_4q_avg": 11.45,
+            "net_income": 119736,
+            "net_income_4q": null,
+            "revenue": 2693925,
+            "revenue_4q": null,
+            "common_shares": 2161500,
+            "book_valuer_per_share": 48.8,
+            "book_valuer_per_share_4q_avg": 48.22,
+            "equity": 10805753,
+            "current_ratio": 176.49,
+            "debt_ratio": 51.42,
+            "inventory_turnover_ratio": 5127.89,
+            "account_receivable_turnover_ratio": 9.06,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": null,
+            "price_fair": 51.94,
+            "eps_avg_yearly": 1.48,
+            "eps_latest_yearly": 2.24,
+            "eps_growth_yearly": 734.73
         }
     },
     "months": {
@@ -3530,6 +3570,16 @@
             "month": "2023-09",
             "price": "98.96",
             "revenue": 1051286
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "101.24",
+            "revenue": 1349533
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "109.39",
+            "revenue": 1472365
         }
     }
 }

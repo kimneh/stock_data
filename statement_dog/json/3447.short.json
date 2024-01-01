@@ -6,10 +6,10 @@
         "main_business": "數位影音產品之製造及銷售<br>寬頻通訊產品之製造及銷售<br>人工智慧物聯網產品之製造及銷售",
         "website_url": "http://www.xavi.com.tw",
         "ceo": "陳秋龍",
-        "pe_ratio": 12,
+        "pe_ratio": 22,
         "report_year_from": 2020,
         "report_year_to": 2023,
-        "age": 3,
+        "age": 4,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
             "last_all": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": null,
-            "at_2023_last_all": null
+            "at_2023_last_all": null,
+            "at_2024_last_all": null
         },
-        "latest_eps": 3.44,
-        "latest_price": 41.05,
-        "latest_roe": 25.6,
-        "latest_gross_margin": 10.27,
-        "latest_equity": 1200284,
-        "latest_revenue": 761511,
-        "latest_gross_profit": 78174,
-        "latest_net_income": -3407,
-        "latest_debt_ratio": 59.68,
-        "latest_current_ratio": 151.62,
-        "latest_account_receivable_turnover_ratio": 1.18,
-        "latest_inventory_turnover_ratio": 0.59,
+        "latest_eps": 1.72,
+        "latest_price": 37.65,
+        "latest_roe": 12.02,
+        "latest_gross_margin": 5.23,
+        "latest_equity": 1205845,
+        "latest_revenue": 511207,
+        "latest_gross_profit": 26727,
+        "latest_net_income": -13420,
+        "latest_debt_ratio": 56.4,
+        "latest_current_ratio": 159.33,
+        "latest_account_receivable_turnover_ratio": 1.08,
+        "latest_inventory_turnover_ratio": 0.49,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 4.63
+        "latest_research_to_sale_ratio": 6.64
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 3.2
         },
         "2023": {
-            "cash": 2.3,
+            "cash": 4.6,
             "stock": 0,
-            "eps": 0.68
+            "eps": 0.51
         }
     },
     "dividends": {
@@ -195,6 +197,10 @@
         },
         "2022-10-14": {
             "cash": 1.5,
+            "stock": 0
+        },
+        "2023-03-07": {
+            "cash": 2.3,
             "stock": 0
         },
         "2023-08-25": {
@@ -476,7 +482,9 @@
         "202307": "52.97",
         "202308": "42.79",
         "202309": "41.73",
-        "202310": "41.89"
+        "202310": "41.77",
+        "202311": "39.77",
+        "202312": "38.94"
     },
     "quarters": {
         "20011": {
@@ -3358,6 +3366,38 @@
             "eps_avg_yearly": 4.87,
             "eps_latest_yearly": 2.88,
             "eps_growth_yearly": 614.03
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.17,
+            "eps_growth_year": -110,
+            "eps_4q": 1.72,
+            "eps_4q_growth_year": null,
+            "roe": -1.12,
+            "roe_4q": 11.059999999999999,
+            "gross_profit": 26727,
+            "gross_margin": 5.23,
+            "gross_margin_4q_avg": 10.5,
+            "net_income": -13420,
+            "net_income_4q": null,
+            "revenue": 511207,
+            "revenue_4q": null,
+            "common_shares": 768196,
+            "book_valuer_per_share": 15.66,
+            "book_valuer_per_share_4q_avg": 16.06,
+            "equity": 1205845,
+            "current_ratio": 159.33,
+            "debt_ratio": 56.4,
+            "inventory_turnover_ratio": 0.49,
+            "account_receivable_turnover_ratio": 1.08,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 6.64,
+            "price_fair": 170.33,
+            "eps_avg_yearly": 4.87,
+            "eps_latest_yearly": 2.88,
+            "eps_growth_yearly": 614.03
         }
     },
     "months": {
@@ -3485,6 +3525,16 @@
             "month": "2023-09",
             "price": "41.73",
             "revenue": 176898
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "41.77",
+            "revenue": 155780
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "39.77",
+            "revenue": 145428
         }
     }
 }

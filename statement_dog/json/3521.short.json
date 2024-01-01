@@ -6,18 +6,18 @@
         "main_business": "端點銷售系統 POS SYSTEM",
         "website_url": "http://www.datavan.com.tw/",
         "ceo": "許偉良",
-        "pe_ratio": -9,
+        "pe_ratio": -10,
         "report_year_from": 2006,
         "report_year_to": 2023,
-        "age": 17,
+        "age": 18,
         "eps_negative_percentage": 72,
         "eps_growth_avg": {
             "last_all": -86.14,
-            "last_2y": -100,
+            "last_2y": null,
             "last_4y": -100,
             "last_8y": -92.81,
             "last_12y": -92.81,
-            "last_16y": null,
+            "last_16y": -86.14,
             "last_20y": null,
             "at_2006_last_3y": null,
             "at_2007_last_3y": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": -100,
             "at_2022_last_3y": -100,
             "at_2023_last_3y": -100,
+            "at_2024_last_3y": -100,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": -76.14,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -86.14,
             "at_2021_last_all": -86.14,
             "at_2022_last_all": -86.14,
-            "at_2023_last_all": -86.14
+            "at_2023_last_all": -86.14,
+            "at_2024_last_all": -86.14
         },
-        "latest_eps": -1.75,
-        "latest_price": 15.9,
-        "latest_roe": -26.74,
-        "latest_gross_margin": 25.41,
-        "latest_equity": 448150,
-        "latest_revenue": 123015,
-        "latest_gross_profit": 31256,
-        "latest_net_income": -16370,
-        "latest_debt_ratio": 61.87,
-        "latest_current_ratio": 242.89,
-        "latest_account_receivable_turnover_ratio": 5.07,
-        "latest_inventory_turnover_ratio": 0.15,
+        "latest_eps": -1.85,
+        "latest_price": 19.3,
+        "latest_roe": -24.67,
+        "latest_gross_margin": 7.25,
+        "latest_equity": 717493,
+        "latest_revenue": 71749,
+        "latest_gross_profit": 5203,
+        "latest_net_income": -64760,
+        "latest_debt_ratio": 48.08,
+        "latest_current_ratio": 373.33,
+        "latest_account_receivable_turnover_ratio": 3,
+        "latest_inventory_turnover_ratio": 0.12,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 4.97
+        "latest_research_to_sale_ratio": 6.72
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.92
+            "eps": -1.73
         }
     },
     "dividends": {
@@ -472,7 +474,9 @@
         "202307": "25.18",
         "202308": "23.30",
         "202309": "22.94",
-        "202310": "17.46"
+        "202310": "17.28",
+        "202311": "16.69",
+        "202312": "19.25"
     },
     "quarters": {
         "20011": {
@@ -3354,6 +3358,38 @@
             "eps_avg_yearly": 3.24,
             "eps_latest_yearly": 3.24,
             "eps_growth_yearly": -239.6
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.81,
+            "eps_growth_year": null,
+            "eps_4q": -1.85,
+            "eps_4q_growth_year": null,
+            "roe": -11.11,
+            "roe_4q": -28.52,
+            "gross_profit": 5203,
+            "gross_margin": 7.25,
+            "gross_margin_4q_avg": 15.95,
+            "net_income": -64760,
+            "net_income_4q": null,
+            "revenue": 71749,
+            "revenue_4q": null,
+            "common_shares": 782165,
+            "book_valuer_per_share": 9.16,
+            "book_valuer_per_share_4q_avg": 8.1,
+            "equity": 717493,
+            "current_ratio": 373.33,
+            "debt_ratio": 48.08,
+            "inventory_turnover_ratio": 0.12,
+            "account_receivable_turnover_ratio": 3,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 6.72,
+            "price_fair": 0,
+            "eps_avg_yearly": 0,
+            "eps_latest_yearly": 0,
+            "eps_growth_yearly": 0
         }
     },
     "months": {
@@ -4381,6 +4417,16 @@
             "month": "2023-09",
             "price": "22.94",
             "revenue": 19024
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "17.28",
+            "revenue": 8366
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "16.69",
+            "revenue": 3185
         }
     }
 }

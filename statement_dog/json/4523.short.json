@@ -6,19 +6,19 @@
         "main_business": "汽車空調<br>機電產品",
         "website_url": "http://www.everbrite.com.tw",
         "ceo": "林柏青",
-        "pe_ratio": 100,
+        "pe_ratio": 75,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 35,
         "eps_growth_avg": {
             "last_all": -9.92,
             "last_2y": null,
             "last_4y": null,
-            "last_8y": -66.67,
-            "last_12y": -10.37,
-            "last_16y": -32.18,
-            "last_20y": -9.92,
+            "last_8y": -100,
+            "last_12y": -28.48,
+            "last_16y": -28.06,
+            "last_20y": -17.99,
             "at_2006_last_3y": 4.69,
             "at_2007_last_3y": -38.11,
             "at_2008_last_3y": -63.11,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": 22.74,
             "at_2007_last_all": 5.62,
             "at_2008_last_all": -9.47,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -9.92,
             "at_2021_last_all": -9.92,
             "at_2022_last_all": -9.92,
-            "at_2023_last_all": -9.92
+            "at_2023_last_all": -9.92,
+            "at_2024_last_all": -9.92
         },
-        "latest_eps": 0.29,
-        "latest_price": 41.45,
-        "latest_roe": 0.46,
-        "latest_gross_margin": 25.76,
-        "latest_equity": 1095135,
-        "latest_revenue": 150785,
-        "latest_gross_profit": 38837,
-        "latest_net_income": -63849,
-        "latest_debt_ratio": 49.26,
-        "latest_current_ratio": 149.55,
-        "latest_account_receivable_turnover_ratio": 1.36,
-        "latest_inventory_turnover_ratio": 0.21,
+        "latest_eps": 0.56,
+        "latest_price": 42.2,
+        "latest_roe": 0.64,
+        "latest_gross_margin": 24.17,
+        "latest_equity": 1130535,
+        "latest_revenue": 136544,
+        "latest_gross_profit": 33003,
+        "latest_net_income": -25450,
+        "latest_debt_ratio": 46.77,
+        "latest_current_ratio": 160.69,
+        "latest_account_receivable_turnover_ratio": 1.18,
+        "latest_inventory_turnover_ratio": 0.17,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 6.8
+        "latest_research_to_sale_ratio": 6.58
     },
     "eps_dividends": {
         "1997": {
@@ -205,7 +207,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 1.36
+            "eps": 1.21
         }
     },
     "dividends": {
@@ -568,7 +570,9 @@
         "202307": "54.34",
         "202308": "50.01",
         "202309": "46.08",
-        "202310": "41.90"
+        "202310": "41.87",
+        "202311": "45.29",
+        "202312": "44.89"
     },
     "quarters": {
         "20011": {
@@ -3450,6 +3454,38 @@
             "eps_avg_yearly": 2.52,
             "eps_latest_yearly": 2.52,
             "eps_growth_yearly": 1175
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.15,
+            "eps_growth_year": null,
+            "eps_4q": 0.56,
+            "eps_4q_growth_year": null,
+            "roe": -2.29,
+            "roe_4q": 0.8700000000000001,
+            "gross_profit": 33003,
+            "gross_margin": 24.17,
+            "gross_margin_4q_avg": 24.57,
+            "net_income": -25450,
+            "net_income_4q": null,
+            "revenue": 136544,
+            "revenue_4q": null,
+            "common_shares": 640000,
+            "book_valuer_per_share": 15.37,
+            "book_valuer_per_share_4q_avg": 14.96,
+            "equity": 1130535,
+            "current_ratio": 160.69,
+            "debt_ratio": 46.77,
+            "inventory_turnover_ratio": 0.17,
+            "account_receivable_turnover_ratio": 1.18,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 6.58,
+            "price_fair": 88.2,
+            "eps_avg_yearly": 2.52,
+            "eps_latest_yearly": 2.52,
+            "eps_growth_yearly": 1175
         }
     },
     "months": {
@@ -4792,6 +4828,16 @@
             "month": "2023-09",
             "price": "46.08",
             "revenue": 39371
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "41.87",
+            "revenue": 74827
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "45.29",
+            "revenue": 45439
         }
     }
 }

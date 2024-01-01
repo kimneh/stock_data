@@ -6,15 +6,15 @@
         "main_business": "氣動執行元件<br>氣動控制元件<br>氣源處理元件及氣動輔助元件之研發,生產及銷售",
         "website_url": "https://www.chelic.com/",
         "ceo": "游平政",
-        "pe_ratio": 49,
+        "pe_ratio": 100,
         "report_year_from": 2012,
         "report_year_to": 2023,
-        "age": 11,
-        "eps_negative_percentage": 0,
+        "age": 12,
+        "eps_negative_percentage": 11,
         "eps_growth_avg": {
-            "last_all": 6.09,
-            "last_2y": 47.77,
-            "last_4y": 14.71,
+            "last_all": -7.17,
+            "last_2y": -18.9,
+            "last_4y": -5.96,
             "last_8y": null,
             "last_12y": null,
             "last_16y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 11.66,
             "at_2021_last_3y": 25.12,
             "at_2022_last_3y": 17.55,
-            "at_2023_last_3y": 17.55,
+            "at_2023_last_3y": 10.83,
+            "at_2024_last_3y": 10.83,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -0.14,
             "at_2021_last_all": 11.59,
             "at_2022_last_all": 6.09,
-            "at_2023_last_all": 6.09
+            "at_2023_last_all": -7.17,
+            "at_2024_last_all": -7.17
         },
-        "latest_eps": 1.15,
-        "latest_price": 56.3,
-        "latest_roe": 2.94,
-        "latest_gross_margin": 28.2,
-        "latest_equity": 2910114,
-        "latest_revenue": 388097,
-        "latest_gross_profit": 109456,
-        "latest_net_income": 8605,
-        "latest_debt_ratio": 35.45,
-        "latest_current_ratio": 353.85,
-        "latest_account_receivable_turnover_ratio": 0.84,
-        "latest_inventory_turnover_ratio": 0.27,
-        "latest_reinvestment_rate": 42.84,
-        "latest_research_to_sale_ratio": 8.24
+        "latest_eps": 0.21,
+        "latest_price": 60.5,
+        "latest_roe": 0.54,
+        "latest_gross_margin": 24.95,
+        "latest_equity": 2957422,
+        "latest_revenue": 309875,
+        "latest_gross_profit": 77329,
+        "latest_net_income": -19273,
+        "latest_debt_ratio": 34.48,
+        "latest_current_ratio": 373.14,
+        "latest_account_receivable_turnover_ratio": 0.71,
+        "latest_inventory_turnover_ratio": 0.23,
+        "latest_reinvestment_rate": 46.8,
+        "latest_research_to_sale_ratio": 8.69
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 2.55
         },
         "2023": {
-            "cash": 1.55,
+            "cash": 3.1,
             "stock": 0,
-            "eps": 0.17
+            "eps": -0.1
         }
     },
     "dividends": {
@@ -219,6 +221,10 @@
         },
         "2022-09-30": {
             "cash": 1.8,
+            "stock": 0
+        },
+        "2023-03-15": {
+            "cash": 1.55,
             "stock": 0
         },
         "2023-08-11": {
@@ -500,7 +506,9 @@
         "202307": "54.26",
         "202308": "52.47",
         "202309": "52.81",
-        "202310": "56.49"
+        "202310": "56.48",
+        "202311": "56.19",
+        "202312": "58.47"
     },
     "quarters": {
         "20011": {
@@ -3382,6 +3390,38 @@
             "eps_avg_yearly": 2.14,
             "eps_latest_yearly": 0.52,
             "eps_growth_yearly": 176.5
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.27,
+            "eps_growth_year": -139.71,
+            "eps_4q": 0.21,
+            "eps_4q_growth_year": -92.22,
+            "roe": -0.66,
+            "roe_4q": 0.52,
+            "gross_profit": 77329,
+            "gross_margin": 24.95,
+            "gross_margin_4q_avg": 29.41,
+            "net_income": -19273,
+            "net_income_4q": null,
+            "revenue": 309875,
+            "revenue_4q": null,
+            "common_shares": 693132,
+            "book_valuer_per_share": 41.33,
+            "book_valuer_per_share_4q_avg": 41.56,
+            "equity": 2957422,
+            "current_ratio": 373.14,
+            "debt_ratio": 34.48,
+            "inventory_turnover_ratio": 0.23,
+            "account_receivable_turnover_ratio": 0.71,
+            "reinvestment_rate": 46.8,
+            "research_to_sale_ratio": 8.69,
+            "price_fair": 77.56,
+            "eps_avg_yearly": 2.22,
+            "eps_latest_yearly": 0.52,
+            "eps_growth_yearly": 174.93
         }
     },
     "months": {
@@ -3929,6 +3969,16 @@
             "month": "2023-09",
             "price": "52.81",
             "revenue": 102528
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "56.48",
+            "revenue": 91263
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "56.19",
+            "revenue": 117919
         }
     }
 }

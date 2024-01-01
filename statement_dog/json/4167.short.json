@@ -6,16 +6,16 @@
         "main_business": "西藥製造業(原料藥產品及註冊針劑)<br>原料藥之中間體物<br>生物製藥技術服務",
         "website_url": "http://www.saviorlifetec.com.tw/zh/",
         "ceo": "陳志芳",
-        "pe_ratio": 62,
+        "pe_ratio": -132,
         "report_year_from": 2011,
         "report_year_to": 2023,
-        "age": 12,
-        "eps_negative_percentage": 50,
+        "age": 13,
+        "eps_negative_percentage": 60,
         "eps_growth_avg": {
-            "last_all": -31.42,
-            "last_2y": 2.87,
+            "last_all": -48.56,
+            "last_2y": -31.42,
             "last_4y": -31.42,
-            "last_8y": null,
+            "last_8y": -48.56,
             "last_12y": null,
             "last_16y": null,
             "last_20y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": -100,
             "at_2021_last_3y": -97.13,
             "at_2022_last_3y": 2.87,
-            "at_2023_last_3y": 2.87,
+            "at_2023_last_3y": -31.42,
+            "at_2024_last_3y": -31.42,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -100,
             "at_2021_last_all": -97.13,
             "at_2022_last_all": -31.42,
-            "at_2023_last_all": -31.42
+            "at_2023_last_all": -48.56,
+            "at_2024_last_all": -48.56
         },
-        "latest_eps": 0.3,
-        "latest_price": 18.5,
-        "latest_roe": 2.82,
-        "latest_gross_margin": 12.91,
-        "latest_equity": 3335570,
-        "latest_revenue": 223178,
-        "latest_gross_profit": 28808,
-        "latest_net_income": 4676,
-        "latest_debt_ratio": 11.72,
-        "latest_current_ratio": 1388.95,
-        "latest_account_receivable_turnover_ratio": 0.93,
-        "latest_inventory_turnover_ratio": 0.19,
-        "latest_reinvestment_rate": -246.98,
-        "latest_research_to_sale_ratio": 13.93
+        "latest_eps": -0.17,
+        "latest_price": 22.45,
+        "latest_roe": -1.69,
+        "latest_gross_margin": 2.27,
+        "latest_equity": 3321184,
+        "latest_revenue": 287226,
+        "latest_gross_profit": 6521,
+        "latest_net_income": -16985,
+        "latest_debt_ratio": 11.08,
+        "latest_current_ratio": 1550.51,
+        "latest_account_receivable_turnover_ratio": 1.24,
+        "latest_inventory_turnover_ratio": 0.3,
+        "latest_reinvestment_rate": -243.72,
+        "latest_research_to_sale_ratio": 8.52
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0.1,
             "stock": 0,
-            "eps": 0.01
+            "eps": -0.04
         }
     },
     "dividends": {
@@ -472,7 +474,9 @@
         "202307": "17.55",
         "202308": "17.70",
         "202309": "17.78",
-        "202310": "17.99"
+        "202310": "18.03",
+        "202311": "19.67",
+        "202312": "22.89"
     },
     "quarters": {
         "20011": {
@@ -3354,6 +3358,38 @@
             "eps_avg_yearly": 0.77,
             "eps_latest_yearly": 0.2,
             "eps_growth_yearly": 883.55
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.05,
+            "eps_growth_year": -111.9,
+            "eps_4q": -0.17,
+            "eps_4q_growth_year": -214.84,
+            "roe": -0.51,
+            "roe_4q": -1.69,
+            "gross_profit": 6521,
+            "gross_margin": 2.27,
+            "gross_margin_4q_avg": 12.77,
+            "net_income": -16985,
+            "net_income_4q": null,
+            "revenue": 287226,
+            "revenue_4q": null,
+            "common_shares": 3173891,
+            "book_valuer_per_share": 10.42,
+            "book_valuer_per_share_4q_avg": 10.51,
+            "equity": 3321184,
+            "current_ratio": 1550.51,
+            "debt_ratio": 11.08,
+            "inventory_turnover_ratio": 0.3,
+            "account_receivable_turnover_ratio": 1.24,
+            "reinvestment_rate": -243.72,
+            "research_to_sale_ratio": 8.52,
+            "price_fair": 26.8,
+            "eps_avg_yearly": 0.77,
+            "eps_latest_yearly": 0.2,
+            "eps_growth_yearly": 883.55
         }
     },
     "months": {
@@ -4006,6 +4042,16 @@
             "month": "2023-09",
             "price": "17.78",
             "revenue": 111299
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "18.03",
+            "revenue": 107164
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "19.67",
+            "revenue": 103388
         }
     }
 }

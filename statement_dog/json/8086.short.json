@@ -6,17 +6,17 @@
         "main_business": "無線通信機械器材製造<br>砷化鎵晶片<br>數位行動電話功率放大器模組",
         "website_url": "http://www.awsc.com.tw",
         "ceo": "黃國鈞",
-        "pe_ratio": -74,
+        "pe_ratio": -179,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 18,
         "eps_growth_avg": {
-            "last_all": -15.94,
-            "last_2y": -11.97,
-            "last_4y": 3.6,
-            "last_8y": 1.28,
-            "last_12y": -11.23,
+            "last_all": -21.95,
+            "last_2y": -62.1,
+            "last_4y": -23.1,
+            "last_8y": -9.97,
+            "last_12y": -27.9,
             "last_16y": null,
             "last_20y": null,
             "at_2006_last_3y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 15.29,
             "at_2021_last_3y": 29.16,
             "at_2022_last_3y": -3.88,
-            "at_2023_last_3y": -3.88,
+            "at_2023_last_3y": -33.98,
+            "at_2024_last_3y": -33.98,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -11,
             "at_2021_last_all": -9.06,
             "at_2022_last_all": -15.94,
-            "at_2023_last_all": -15.94
+            "at_2023_last_all": -21.95,
+            "at_2024_last_all": -21.95
         },
-        "latest_eps": -1.29,
-        "latest_price": 95.8,
-        "latest_roe": -3.47,
-        "latest_gross_margin": 15.01,
-        "latest_equity": 7205741,
-        "latest_revenue": 527238,
-        "latest_gross_profit": 79114,
-        "latest_net_income": 1961,
-        "latest_debt_ratio": 10.39,
-        "latest_current_ratio": 514.48,
-        "latest_account_receivable_turnover_ratio": 2.39,
-        "latest_inventory_turnover_ratio": 1.14,
-        "latest_reinvestment_rate": 248.28,
-        "latest_research_to_sale_ratio": 11.59
+        "latest_eps": -0.73,
+        "latest_price": 131,
+        "latest_roe": -1.95,
+        "latest_gross_margin": 24.66,
+        "latest_equity": 7329785,
+        "latest_revenue": 784488,
+        "latest_gross_profit": 193435,
+        "latest_net_income": 124044,
+        "latest_debt_ratio": 12.63,
+        "latest_current_ratio": 479.36,
+        "latest_account_receivable_turnover_ratio": 2.5,
+        "latest_inventory_turnover_ratio": 1,
+        "latest_reinvestment_rate": 242.64,
+        "latest_research_to_sale_ratio": 6.63
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.99
+            "eps": -0.36
         }
     },
     "dividends": {
@@ -512,7 +514,9 @@
         "202307": "95.97",
         "202308": "92.86",
         "202309": "113.02",
-        "202310": "103.63"
+        "202310": "104.02",
+        "202311": "125.57",
+        "202312": "132.60"
     },
     "quarters": {
         "20011": {
@@ -3394,6 +3398,38 @@
             "eps_avg_yearly": 3.23,
             "eps_latest_yearly": 0.28,
             "eps_growth_yearly": -12.7
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.63,
+            "eps_growth_year": 800,
+            "eps_4q": -0.73,
+            "eps_4q_growth_year": -147.75,
+            "roe": 1.71,
+            "roe_4q": -1.9400000000000002,
+            "gross_profit": 193435,
+            "gross_margin": 24.66,
+            "gross_margin_4q_avg": 2.63,
+            "net_income": 124044,
+            "net_income_4q": null,
+            "revenue": 784488,
+            "revenue_4q": null,
+            "common_shares": 1965161,
+            "book_valuer_per_share": 37.3,
+            "book_valuer_per_share_4q_avg": 37.07,
+            "equity": 7329785,
+            "current_ratio": 479.36,
+            "debt_ratio": 12.63,
+            "inventory_turnover_ratio": 1,
+            "account_receivable_turnover_ratio": 2.5,
+            "reinvestment_rate": 242.64,
+            "research_to_sale_ratio": 6.63,
+            "price_fair": 109.95,
+            "eps_avg_yearly": 3.14,
+            "eps_latest_yearly": 2.52,
+            "eps_growth_yearly": 1864.89
         }
     },
     "months": {
@@ -4596,6 +4632,16 @@
             "month": "2023-09",
             "price": "113.02",
             "revenue": 286814
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "104.02",
+            "revenue": 325853
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "125.57",
+            "revenue": 355385
         }
     }
 }

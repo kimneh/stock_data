@@ -6,15 +6,15 @@
         "main_business": "各式窗簾、窗簾零件生產及銷售",
         "website_url": "http://www.nienmade.com.tw/",
         "ceo": "粘肇紘",
-        "pe_ratio": 16,
+        "pe_ratio": 19,
         "report_year_from": 2012,
         "report_year_to": 2023,
-        "age": 11,
+        "age": 12,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 16.01,
-            "last_2y": 11.16,
-            "last_4y": 11.71,
+            "last_all": 9.75,
+            "last_2y": -2.4,
+            "last_4y": 4.69,
             "last_8y": null,
             "last_12y": null,
             "last_16y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 7.27,
             "at_2021_last_3y": 10.62,
             "at_2022_last_3y": 14.39,
-            "at_2023_last_3y": 14.39,
+            "at_2023_last_3y": -0.15,
+            "at_2024_last_3y": -0.15,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,21 +55,22 @@
             "at_2020_last_all": 17.03,
             "at_2021_last_all": 16.01,
             "at_2022_last_all": 16.01,
-            "at_2023_last_all": 16.01
+            "at_2023_last_all": 9.75,
+            "at_2024_last_all": 9.75
         },
-        "latest_eps": 18.74,
-        "latest_price": 292,
-        "latest_roe": 27.81,
-        "latest_gross_margin": 55.92,
-        "latest_equity": 21373773,
-        "latest_revenue": 6709707,
-        "latest_gross_profit": 3752250,
-        "latest_net_income": 1401807,
-        "latest_debt_ratio": 34.48,
-        "latest_current_ratio": 237.85,
-        "latest_account_receivable_turnover_ratio": 3.01,
-        "latest_inventory_turnover_ratio": 0.6,
-        "latest_reinvestment_rate": 12.75,
+        "latest_eps": 18.91,
+        "latest_price": 353,
+        "latest_roe": 25.39,
+        "latest_gross_margin": 55.33,
+        "latest_equity": 23399724,
+        "latest_revenue": 6903631,
+        "latest_gross_profit": 3819799,
+        "latest_net_income": 1613030,
+        "latest_debt_ratio": 27.15,
+        "latest_current_ratio": 320.46,
+        "latest_account_receivable_turnover_ratio": 2.84,
+        "latest_inventory_turnover_ratio": 0.7,
+        "latest_reinvestment_rate": 12.68,
         "latest_research_to_sale_ratio": 0.65
     },
     "eps_dividends": {
@@ -183,9 +185,9 @@
             "eps": 21.06
         },
         "2023": {
-            "cash": 11,
+            "cash": 22,
             "stock": 0,
-            "eps": 8.47
+            "eps": 13.88
         }
     },
     "dividends": {
@@ -218,6 +220,10 @@
             "stock": 0
         },
         "2022-08-05": {
+            "cash": 11,
+            "stock": 0
+        },
+        "2023-03-14": {
             "cash": 11,
             "stock": 0
         },
@@ -500,7 +506,9 @@
         "202307": "330.40",
         "202308": "312.05",
         "202309": "313.72",
-        "202310": "302.17"
+        "202310": "301.10",
+        "202311": "325.39",
+        "202312": "351.43"
     },
     "quarters": {
         "20011": {
@@ -3382,6 +3390,38 @@
             "eps_avg_yearly": 18.2,
             "eps_latest_yearly": 18.48,
             "eps_growth_yearly": 10.01
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 5.41,
+            "eps_growth_year": 3.24,
+            "eps_4q": 18.91,
+            "eps_4q_growth_year": -9.68,
+            "roe": 7.21,
+            "roe_4q": 25.380000000000003,
+            "gross_profit": 3819799,
+            "gross_margin": 55.33,
+            "gross_margin_4q_avg": 55.83,
+            "net_income": 1613030,
+            "net_income_4q": null,
+            "revenue": 6903631,
+            "revenue_4q": null,
+            "common_shares": 2930202,
+            "book_valuer_per_share": 78.52,
+            "book_valuer_per_share_4q_avg": 75.25,
+            "equity": 23399724,
+            "current_ratio": 320.46,
+            "debt_ratio": 27.15,
+            "inventory_turnover_ratio": 0.7,
+            "account_receivable_turnover_ratio": 2.84,
+            "reinvestment_rate": 12.68,
+            "research_to_sale_ratio": 0.65,
+            "price_fair": 366.64,
+            "eps_avg_yearly": 18.36,
+            "eps_latest_yearly": 21.64,
+            "eps_growth_yearly": 9.97
         }
     },
     "months": {
@@ -3909,6 +3949,16 @@
             "month": "2023-09",
             "price": "313.72",
             "revenue": 2304128
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "301.10",
+            "revenue": 2362633
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "325.39",
+            "revenue": 2496696
         }
     }
 }

@@ -6,18 +6,18 @@
         "main_business": "設立與經營電視播送系統<br>製作播映並發行電視節目<br>製作及播映電視廣告",
         "website_url": "http://www.ctv.com.tw",
         "ceo": "胡雪珠",
-        "pe_ratio": -124,
+        "pe_ratio": -109,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 83,
         "eps_growth_avg": {
-            "last_all": -33.33,
-            "last_2y": null,
-            "last_4y": null,
-            "last_8y": null,
-            "last_12y": 0,
-            "last_16y": 0,
+            "last_all": -50,
+            "last_2y": -100,
+            "last_4y": -100,
+            "last_8y": -100,
+            "last_12y": -100,
+            "last_16y": -33.33,
             "last_20y": -33.33,
             "at_2006_last_3y": null,
             "at_2007_last_3y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": null,
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
-            "at_2023_last_3y": null,
+            "at_2023_last_3y": -100,
+            "at_2024_last_3y": -100,
             "at_2006_last_all": -100,
             "at_2007_last_all": -100,
             "at_2008_last_all": -100,
@@ -54,20 +55,21 @@
             "at_2020_last_all": -33.33,
             "at_2021_last_all": -33.33,
             "at_2022_last_all": -33.33,
-            "at_2023_last_all": -33.33
+            "at_2023_last_all": -50,
+            "at_2024_last_all": -50
         },
-        "latest_eps": -0.23,
-        "latest_price": 28.55,
+        "latest_eps": -0.22,
+        "latest_price": 23.9,
         "latest_roe": -3.39,
-        "latest_gross_margin": 7.92,
-        "latest_equity": 401638,
-        "latest_revenue": 221649,
-        "latest_gross_profit": 17554,
-        "latest_net_income": -12114,
-        "latest_debt_ratio": 88.76,
-        "latest_current_ratio": 20.3,
-        "latest_account_receivable_turnover_ratio": 2.69,
-        "latest_inventory_turnover_ratio": 1.69,
+        "latest_gross_margin": 8.88,
+        "latest_equity": 385566,
+        "latest_revenue": 230374,
+        "latest_gross_profit": 20450,
+        "latest_net_income": -9533,
+        "latest_debt_ratio": 89.17,
+        "latest_current_ratio": 20.36,
+        "latest_account_receivable_turnover_ratio": 2.49,
+        "latest_inventory_turnover_ratio": 1.76,
         "latest_reinvestment_rate": null,
         "latest_research_to_sale_ratio": null
     },
@@ -200,7 +202,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.49
+            "eps": -0.65
         }
     },
     "dividends": {
@@ -495,7 +497,9 @@
         "202307": "18.74",
         "202308": "17.98",
         "202309": "24.24",
-        "202310": "30.18"
+        "202310": "30.02",
+        "202311": "27.67",
+        "202312": "24.92"
     },
     "quarters": {
         "20011": {
@@ -3377,6 +3381,38 @@
             "eps_avg_yearly": 0,
             "eps_latest_yearly": 0,
             "eps_growth_yearly": 0
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.16,
+            "eps_growth_year": null,
+            "eps_4q": -0.22,
+            "eps_4q_growth_year": -538.74,
+            "roe": -2.42,
+            "roe_4q": -3.6099999999999994,
+            "gross_profit": 20450,
+            "gross_margin": 8.88,
+            "gross_margin_4q_avg": 11.66,
+            "net_income": -9533,
+            "net_income_4q": null,
+            "revenue": 230374,
+            "revenue_4q": null,
+            "common_shares": 607246,
+            "book_valuer_per_share": 6.35,
+            "book_valuer_per_share_4q_avg": 6.6,
+            "equity": 385566,
+            "current_ratio": 20.36,
+            "debt_ratio": 89.17,
+            "inventory_turnover_ratio": 1.76,
+            "account_receivable_turnover_ratio": 2.49,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": null,
+            "price_fair": 0,
+            "eps_avg_yearly": 0,
+            "eps_latest_yearly": 0,
+            "eps_growth_yearly": 0
         }
     },
     "months": {
@@ -4719,6 +4755,16 @@
             "month": "2023-09",
             "price": "24.24",
             "revenue": 85691
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "30.02",
+            "revenue": 89669
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "27.67",
+            "revenue": 103135
         }
     }
 }

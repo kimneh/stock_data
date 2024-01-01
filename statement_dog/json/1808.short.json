@@ -6,19 +6,19 @@
         "main_business": "委託營造廠商興建商業大樓及國民住宅出租、出售業務",
         "website_url": "http://www.runlong.com.tw",
         "ceo": "林暐鈞",
-        "pe_ratio": 18,
+        "pe_ratio": 7,
         "report_year_from": 2002,
         "report_year_to": 2023,
-        "age": 21,
+        "age": 22,
         "eps_negative_percentage": 13,
         "eps_growth_avg": {
-            "last_all": 8.5,
-            "last_2y": -26.44,
+            "last_all": 13.31,
+            "last_2y": 36.16,
             "last_4y": -10.88,
             "last_8y": 2.07,
-            "last_12y": 0.34,
-            "last_16y": 3.11,
-            "last_20y": 8.5,
+            "last_12y": 8.09,
+            "last_16y": 3.71,
+            "last_20y": 13.31,
             "at_2006_last_3y": 94.97,
             "at_2007_last_3y": 40.04,
             "at_2008_last_3y": 36.28,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": -27.22,
             "at_2021_last_3y": 9.28,
             "at_2022_last_3y": -38.6,
-            "at_2023_last_3y": -38.6,
+            "at_2023_last_3y": 5.17,
+            "at_2024_last_3y": 5.17,
             "at_2006_last_all": 94.97,
             "at_2007_last_all": 40.04,
             "at_2008_last_all": 36.28,
@@ -54,21 +55,22 @@
             "at_2020_last_all": 9.03,
             "at_2021_last_all": 14.38,
             "at_2022_last_all": 8.5,
-            "at_2023_last_all": 8.5
+            "at_2023_last_all": 13.31,
+            "at_2024_last_all": 13.31
         },
-        "latest_eps": 5.15,
-        "latest_price": 94.3,
-        "latest_roe": 33.4,
-        "latest_gross_margin": 48.16,
-        "latest_equity": 7997091,
-        "latest_revenue": 4458545,
-        "latest_gross_profit": 2147147,
-        "latest_net_income": 1354458,
-        "latest_debt_ratio": 84.64,
-        "latest_current_ratio": 130.25,
-        "latest_account_receivable_turnover_ratio": 3.5,
-        "latest_inventory_turnover_ratio": 0.06,
-        "latest_reinvestment_rate": -35.45,
+        "latest_eps": 14.58,
+        "latest_price": 100,
+        "latest_roe": 73.31,
+        "latest_gross_margin": 33.96,
+        "latest_equity": 12156027,
+        "latest_revenue": 16942498,
+        "latest_gross_profit": 5752925,
+        "latest_net_income": 4148162,
+        "latest_debt_ratio": 74.04,
+        "latest_current_ratio": 153.68,
+        "latest_account_receivable_turnover_ratio": 7.28,
+        "latest_inventory_turnover_ratio": 0.35,
+        "latest_reinvestment_rate": -15.09,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -198,9 +200,9 @@
             "eps": 0.37
         },
         "2023": {
-            "cash": 0.6,
+            "cash": 1.2,
             "stock": 0,
-            "eps": 4.89
+            "eps": 14.09
         }
     },
     "dividends": {
@@ -283,6 +285,10 @@
         "2022-10-31": {
             "cash": 2,
             "stock": 1.5
+        },
+        "2023-03-10": {
+            "cash": 0.6,
+            "stock": 0
         },
         "2023-10-31": {
             "cash": 0.6,
@@ -563,7 +569,9 @@
         "202307": "80.62",
         "202308": "82.51",
         "202309": "93.12",
-        "202310": "93.51"
+        "202310": "93.56",
+        "202311": "95.39",
+        "202312": "99.25"
     },
     "quarters": {
         "20011": {
@@ -3445,6 +3453,38 @@
             "eps_avg_yearly": 4.42,
             "eps_latest_yearly": 12,
             "eps_growth_yearly": 443.28
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 9.2,
+            "eps_growth_year": null,
+            "eps_4q": 14.58,
+            "eps_4q_growth_year": 1123.16,
+            "roe": 41.17,
+            "roe_4q": 76.94,
+            "gross_profit": 5752925,
+            "gross_margin": 33.96,
+            "gross_margin_4q_avg": 41.47,
+            "net_income": 4148162,
+            "net_income_4q": null,
+            "revenue": 16942498,
+            "revenue_4q": null,
+            "common_shares": 4510261,
+            "book_valuer_per_share": 26.95,
+            "book_valuer_per_share_4q_avg": 18.18,
+            "equity": 12156027,
+            "current_ratio": 153.68,
+            "debt_ratio": 74.04,
+            "inventory_turnover_ratio": 0.35,
+            "account_receivable_turnover_ratio": 7.28,
+            "reinvestment_rate": -15.09,
+            "research_to_sale_ratio": null,
+            "price_fair": 268.1,
+            "eps_avg_yearly": 7.66,
+            "eps_latest_yearly": 36.8,
+            "eps_growth_yearly": 481.62
         }
     },
     "months": {
@@ -4762,6 +4802,16 @@
             "month": "2023-09",
             "price": "93.12",
             "revenue": 7714736
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "93.56",
+            "revenue": 3706771
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "95.39",
+            "revenue": 1474431
         }
     }
 }

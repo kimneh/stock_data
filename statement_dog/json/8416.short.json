@@ -6,16 +6,16 @@
         "main_business": "3D 繪圖軟體 ( SOLIDWORKS)<br>3D CAD/CAM/CAE/CAID軟體銷售<br>PDM產品研發生產及銷售, 顧問輔導與客製化服務",
         "website_url": "http://www.swtc.com",
         "ceo": "許泰源",
-        "pe_ratio": 12,
+        "pe_ratio": 13,
         "report_year_from": 2009,
         "report_year_to": 2023,
-        "age": 14,
+        "age": 15,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 16.61,
-            "last_2y": 4.96,
-            "last_4y": 4.14,
-            "last_8y": 6.81,
+            "last_all": 11.78,
+            "last_2y": -10.58,
+            "last_4y": -6.22,
+            "last_8y": 0.32,
             "last_12y": null,
             "last_16y": null,
             "last_20y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 6.91,
             "at_2021_last_3y": 6.3,
             "at_2022_last_3y": 2.56,
-            "at_2023_last_3y": 2.56,
+            "at_2023_last_3y": -6.62,
+            "at_2024_last_3y": -6.62,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 19.24,
             "at_2021_last_all": 18.72,
             "at_2022_last_all": 16.61,
-            "at_2023_last_all": 16.61
+            "at_2023_last_all": 11.78,
+            "at_2024_last_all": 11.78
         },
-        "latest_eps": 11.1,
-        "latest_price": 136,
-        "latest_roe": 25.49,
-        "latest_gross_margin": 53.91,
-        "latest_equity": 1274212,
-        "latest_revenue": 357063,
-        "latest_gross_profit": 192500,
-        "latest_net_income": 79169,
-        "latest_debt_ratio": 28.68,
-        "latest_current_ratio": 315.91,
-        "latest_account_receivable_turnover_ratio": 1.09,
-        "latest_inventory_turnover_ratio": 2.23,
-        "latest_reinvestment_rate": -0.69,
-        "latest_research_to_sale_ratio": 7.03
+        "latest_eps": 10.57,
+        "latest_price": 140,
+        "latest_roe": 23.32,
+        "latest_gross_margin": 50.22,
+        "latest_equity": 1317922,
+        "latest_revenue": 302507,
+        "latest_gross_profit": 151909,
+        "latest_net_income": 40422,
+        "latest_debt_ratio": 16.14,
+        "latest_current_ratio": 589.13,
+        "latest_account_receivable_turnover_ratio": 0.99,
+        "latest_inventory_turnover_ratio": 1.96,
+        "latest_reinvestment_rate": -0.49,
+        "latest_research_to_sale_ratio": 9.17
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 8,
             "stock": 0,
-            "eps": 4.93
+            "eps": 6.36
         }
     },
     "dividends": {
@@ -520,7 +522,9 @@
         "202307": "132.05",
         "202308": "134.66",
         "202309": "136.11",
-        "202310": "135.74"
+        "202310": "135.79",
+        "202311": "139.02",
+        "202312": "140.75"
     },
     "quarters": {
         "20011": {
@@ -3402,6 +3406,38 @@
             "eps_avg_yearly": 10.78,
             "eps_latest_yearly": 11.24,
             "eps_growth_yearly": 53.84
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 1.43,
+            "eps_growth_year": -27.04,
+            "eps_4q": 10.57,
+            "eps_4q_growth_year": -4.69,
+            "roe": 3.12,
+            "roe_4q": 22.4,
+            "gross_profit": 151909,
+            "gross_margin": 50.22,
+            "gross_margin_4q_avg": 52.69,
+            "net_income": 40422,
+            "net_income_4q": null,
+            "revenue": 302507,
+            "revenue_4q": null,
+            "common_shares": 282107,
+            "book_valuer_per_share": 46.72,
+            "book_valuer_per_share_4q_avg": 47.68,
+            "equity": 1317922,
+            "current_ratio": 589.13,
+            "debt_ratio": 16.14,
+            "inventory_turnover_ratio": 1.96,
+            "account_receivable_turnover_ratio": 0.99,
+            "reinvestment_rate": -0.49,
+            "research_to_sale_ratio": 9.17,
+            "price_fair": 368.29,
+            "eps_avg_yearly": 10.52,
+            "eps_latest_yearly": 5.72,
+            "eps_growth_yearly": 35.91
         }
     },
     "months": {
@@ -4159,6 +4195,16 @@
             "month": "2023-09",
             "price": "136.11",
             "revenue": 101220
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "135.79",
+            "revenue": 100781
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "139.02",
+            "revenue": 138420
         }
     }
 }

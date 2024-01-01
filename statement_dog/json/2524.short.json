@@ -6,19 +6,19 @@
         "main_business": "H701010住宅及大樓開發租售業。<br>J901020一般旅館業。<br>F501060餐館業。",
         "website_url": "http://www.kingtown.com.tw/",
         "ceo": "蔡天贊",
-        "pe_ratio": 16,
+        "pe_ratio": 14,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 4,
         "eps_growth_avg": {
-            "last_all": 11.6,
-            "last_2y": -11.57,
-            "last_4y": 5.93,
-            "last_8y": 3.99,
-            "last_12y": 12.21,
-            "last_16y": 4.49,
-            "last_20y": 11.6,
+            "last_all": 7.51,
+            "last_2y": -37.79,
+            "last_4y": -1.79,
+            "last_8y": 0.03,
+            "last_12y": 0.94,
+            "last_16y": 2.48,
+            "last_20y": 7.51,
             "at_2006_last_3y": 28.89,
             "at_2007_last_3y": 2.32,
             "at_2008_last_3y": -28.49,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 22.43,
             "at_2021_last_3y": 17.47,
             "at_2022_last_3y": 16.32,
-            "at_2023_last_3y": 16.32,
+            "at_2023_last_3y": -27.24,
+            "at_2024_last_3y": -27.24,
             "at_2006_last_all": 28.89,
             "at_2007_last_all": 21.85,
             "at_2008_last_all": 14.34,
@@ -54,21 +55,22 @@
             "at_2020_last_all": 15.06,
             "at_2021_last_all": 14.33,
             "at_2022_last_all": 11.6,
-            "at_2023_last_all": 11.6
+            "at_2023_last_all": 7.51,
+            "at_2024_last_all": 7.51
         },
-        "latest_eps": 1.89,
-        "latest_price": 31,
-        "latest_roe": 4.1,
-        "latest_gross_margin": 47.34,
-        "latest_equity": 17335108,
-        "latest_revenue": 479633,
-        "latest_gross_profit": 227039,
-        "latest_net_income": -12681,
-        "latest_debt_ratio": 51.45,
-        "latest_current_ratio": 362.78,
-        "latest_account_receivable_turnover_ratio": 7.63,
+        "latest_eps": 2.23,
+        "latest_price": 31.65,
+        "latest_roe": 4.82,
+        "latest_gross_margin": 46.55,
+        "latest_equity": 17540385,
+        "latest_revenue": 899524,
+        "latest_gross_profit": 418715,
+        "latest_net_income": 205277,
+        "latest_debt_ratio": 51.69,
+        "latest_current_ratio": 372.26,
+        "latest_account_receivable_turnover_ratio": 13.64,
         "latest_inventory_turnover_ratio": 0.01,
-        "latest_reinvestment_rate": -4.47,
+        "latest_reinvestment_rate": -4.45,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -195,7 +197,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 0.14
+            "eps": 0.7
         }
     },
     "dividends": {
@@ -518,7 +520,9 @@
         "202307": "31.53",
         "202308": "30.97",
         "202309": "30.97",
-        "202310": "30.79"
+        "202310": "30.78",
+        "202311": "31.14",
+        "202312": "31.50"
     },
     "quarters": {
         "20011": {
@@ -3400,6 +3404,38 @@
             "eps_avg_yearly": 3.78,
             "eps_latest_yearly": 0.68,
             "eps_growth_yearly": 147.76
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.56,
+            "eps_growth_year": 166.67,
+            "eps_4q": 2.23,
+            "eps_4q_growth_year": -20.17,
+            "roe": 1.18,
+            "roe_4q": 4.82,
+            "gross_profit": 418715,
+            "gross_margin": 46.55,
+            "gross_margin_4q_avg": 55.69,
+            "net_income": 205277,
+            "net_income_4q": null,
+            "revenue": 899524,
+            "revenue_4q": null,
+            "common_shares": 3694196,
+            "book_valuer_per_share": 47.48,
+            "book_valuer_per_share_4q_avg": 47.06,
+            "equity": 17540385,
+            "current_ratio": 372.26,
+            "debt_ratio": 51.69,
+            "inventory_turnover_ratio": 0.01,
+            "account_receivable_turnover_ratio": 13.64,
+            "reinvestment_rate": -4.45,
+            "research_to_sale_ratio": null,
+            "price_fair": 131.7,
+            "eps_avg_yearly": 3.76,
+            "eps_latest_yearly": 0.68,
+            "eps_growth_yearly": 154
         }
     },
     "months": {
@@ -4742,6 +4778,16 @@
             "month": "2023-09",
             "price": "30.97",
             "revenue": 448000
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "30.78",
+            "revenue": 107491
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "31.14",
+            "revenue": 384154
         }
     }
 }

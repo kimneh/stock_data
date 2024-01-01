@@ -6,17 +6,17 @@
         "main_business": "在集中交易市場及營業處所受託買賣有價證券。<br>在集中交易市場及營業處所自行買賣有價證券。<br>承銷有價證券、期貨交易輔助人及有價證券買賣融資融券業務。",
         "website_url": "http://www.tachan.com.tw",
         "ceo": "李俊龍",
-        "pe_ratio": 27,
+        "pe_ratio": 15,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 21,
         "eps_growth_avg": {
             "last_all": 4.96,
-            "last_2y": 33.33,
-            "last_4y": 20.21,
-            "last_8y": 6.2,
-            "last_12y": null,
+            "last_2y": 0,
+            "last_4y": 50,
+            "last_8y": 14.44,
+            "last_12y": 4.96,
             "last_16y": null,
             "last_20y": null,
             "at_2006_last_3y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 50.26,
             "at_2021_last_3y": 50.26,
             "at_2022_last_3y": 50,
-            "at_2023_last_3y": 50,
+            "at_2023_last_3y": 33.33,
+            "at_2024_last_3y": 33.33,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,21 +55,22 @@
             "at_2020_last_all": 6.2,
             "at_2021_last_all": 16.62,
             "at_2022_last_all": 4.96,
-            "at_2023_last_all": 4.96
+            "at_2023_last_all": 4.96,
+            "at_2024_last_all": 4.96
         },
-        "latest_eps": 0.71,
+        "latest_eps": 1.25,
         "latest_price": 18.9,
-        "latest_roe": 4.2,
+        "latest_roe": 7.33,
         "latest_gross_margin": null,
-        "latest_equity": 4514584,
-        "latest_revenue": 155045,
+        "latest_equity": 4549841,
+        "latest_revenue": 168160,
         "latest_gross_profit": null,
-        "latest_net_income": 104086,
-        "latest_debt_ratio": 36.84,
-        "latest_current_ratio": 226.76,
-        "latest_account_receivable_turnover_ratio": 0.5,
+        "latest_net_income": 107953,
+        "latest_debt_ratio": 36.27,
+        "latest_current_ratio": 233.18,
+        "latest_account_receivable_turnover_ratio": 0.61,
         "latest_inventory_turnover_ratio": null,
-        "latest_reinvestment_rate": 0.27,
+        "latest_reinvestment_rate": 0.17,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -190,7 +192,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 0.77
+            "eps": 1.2
         }
     },
     "dividends": {
@@ -549,7 +551,9 @@
         "202307": "18.89",
         "202308": "18.84",
         "202309": "18.70",
-        "202310": "18.64"
+        "202310": "18.64",
+        "202311": "18.77",
+        "202312": "18.84"
     },
     "quarters": {
         "20011": {
@@ -3431,6 +3435,38 @@
             "eps_avg_yearly": 2.38,
             "eps_latest_yearly": 1.64,
             "eps_growth_yearly": 380.22
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.43,
+            "eps_growth_year": null,
+            "eps_4q": 1.25,
+            "eps_4q_growth_year": 26374.66,
+            "roe": 2.38,
+            "roe_4q": 7.22,
+            "gross_profit": null,
+            "gross_margin": null,
+            "gross_margin_4q_avg": 0,
+            "net_income": 107953,
+            "net_income_4q": null,
+            "revenue": 168160,
+            "revenue_4q": null,
+            "common_shares": 2523532,
+            "book_valuer_per_share": 18.03,
+            "book_valuer_per_share_4q_avg": 17.25,
+            "equity": 4549841,
+            "current_ratio": 233.18,
+            "debt_ratio": 36.27,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": 0.61,
+            "reinvestment_rate": 0.17,
+            "research_to_sale_ratio": null,
+            "price_fair": 81.06,
+            "eps_avg_yearly": 2.32,
+            "eps_latest_yearly": 1.72,
+            "eps_growth_yearly": 344.15
         }
     },
     "months": {
@@ -4678,6 +4714,16 @@
             "month": "2023-09",
             "price": "18.70",
             "revenue": 14357
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "18.64",
+            "revenue": -12391
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "18.77",
+            "revenue": 57183
         }
     }
 }

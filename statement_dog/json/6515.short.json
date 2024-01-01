@@ -6,14 +6,14 @@
         "main_business": "半導體測試介面、精密彈簧針、探針卡、溫控模組",
         "website_url": "https://www.winwayglobal.com/",
         "ceo": "王嘉煌",
-        "pe_ratio": 21,
+        "pe_ratio": 36,
         "report_year_from": 2019,
         "report_year_to": 2023,
-        "age": 4,
+        "age": 5,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 80.29,
-            "last_2y": null,
+            "last_all": 32.48,
+            "last_2y": 32.48,
             "last_4y": null,
             "last_8y": null,
             "last_12y": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": 80.29,
-            "at_2023_last_all": 80.29
+            "at_2023_last_all": 32.48,
+            "at_2024_last_all": 32.48
         },
-        "latest_eps": 30.46,
-        "latest_price": 643,
-        "latest_roe": 34.26,
-        "latest_gross_margin": 34.78,
-        "latest_equity": 3240583,
-        "latest_revenue": 1016608,
-        "latest_gross_profit": 353529,
-        "latest_net_income": 135694,
-        "latest_debt_ratio": 36.42,
-        "latest_current_ratio": 166.93,
-        "latest_account_receivable_turnover_ratio": 0.92,
-        "latest_inventory_turnover_ratio": 1.02,
+        "latest_eps": 23.28,
+        "latest_price": 839,
+        "latest_roe": 24.19,
+        "latest_gross_margin": 34.87,
+        "latest_equity": 3411449,
+        "latest_revenue": 984228,
+        "latest_gross_profit": 343225,
+        "latest_net_income": 126727,
+        "latest_debt_ratio": 26,
+        "latest_current_ratio": 247.14,
+        "latest_account_receivable_turnover_ratio": 0.79,
+        "latest_inventory_turnover_ratio": 1.15,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 5.67
+        "latest_research_to_sale_ratio": 5.89
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 32.12
         },
         "2023": {
-            "cash": 22,
+            "cash": 44,
             "stock": 0,
-            "eps": 8.14
+            "eps": 11.84
         }
     },
     "dividends": {
@@ -199,6 +201,10 @@
         },
         "2022-07-26": {
             "cash": 11,
+            "stock": 0
+        },
+        "2023-02-22": {
+            "cash": 22,
             "stock": 0
         },
         "2023-08-03": {
@@ -480,7 +486,9 @@
         "202307": "835.24",
         "202308": "622.77",
         "202309": "649.60",
-        "202310": "657.44"
+        "202310": "656.60",
+        "202311": "698.95",
+        "202312": "805.19"
     },
     "quarters": {
         "20011": {
@@ -3362,6 +3370,38 @@
             "eps_avg_yearly": 21.29,
             "eps_latest_yearly": 15.84,
             "eps_growth_yearly": 61.74
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 3.7,
+            "eps_growth_year": -65.71,
+            "eps_4q": 23.28,
+            "eps_4q_growth_year": -13.77,
+            "roe": 3.81,
+            "roe_4q": 23.88,
+            "gross_profit": 343225,
+            "gross_margin": 34.87,
+            "gross_margin_4q_avg": 39.03,
+            "net_income": 126727,
+            "net_income_4q": null,
+            "revenue": 984228,
+            "revenue_4q": null,
+            "common_shares": 347796,
+            "book_valuer_per_share": 98.09,
+            "book_valuer_per_share_4q_avg": 97.17,
+            "equity": 3411449,
+            "current_ratio": 247.14,
+            "debt_ratio": 26,
+            "inventory_turnover_ratio": 1.15,
+            "account_receivable_turnover_ratio": 0.79,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 5.89,
+            "price_fair": 726.13,
+            "eps_avg_yearly": 20.75,
+            "eps_latest_yearly": 14.8,
+            "eps_growth_yearly": 54.41
         }
     },
     "months": {
@@ -3599,6 +3639,16 @@
             "month": "2023-09",
             "price": "649.60",
             "revenue": 377045
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "656.60",
+            "revenue": 256178
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "698.95",
+            "revenue": 244877
         }
     }
 }

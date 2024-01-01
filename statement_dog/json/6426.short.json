@@ -6,16 +6,16 @@
         "main_business": "薄膜濾光片及光學鍍膜",
         "website_url": "http://www.nextapogee.com.tw",
         "ceo": "藍宏利",
-        "pe_ratio": -75,
+        "pe_ratio": -36,
         "report_year_from": 2011,
         "report_year_to": 2023,
-        "age": 12,
+        "age": 13,
         "eps_negative_percentage": 10,
         "eps_growth_avg": {
-            "last_all": 7.07,
-            "last_2y": 12.7,
-            "last_4y": 10.46,
-            "last_8y": null,
+            "last_all": -4.82,
+            "last_2y": -30.54,
+            "last_4y": 7.62,
+            "last_8y": -4.82,
             "last_12y": null,
             "last_16y": null,
             "last_20y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 8.11,
             "at_2021_last_3y": -11.92,
             "at_2022_last_3y": 34.52,
-            "at_2023_last_3y": 34.52,
+            "at_2023_last_3y": -15.48,
+            "at_2024_last_3y": -15.48,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 8.03,
             "at_2021_last_all": -6.2,
             "at_2022_last_all": 7.07,
-            "at_2023_last_all": 7.07
+            "at_2023_last_all": -4.82,
+            "at_2024_last_all": -4.82
         },
-        "latest_eps": -0.97,
-        "latest_price": 72.3,
-        "latest_roe": -3.11,
-        "latest_gross_margin": -12.87,
-        "latest_equity": 1146987,
-        "latest_revenue": 69244,
-        "latest_gross_profit": -8915,
-        "latest_net_income": -41127,
-        "latest_debt_ratio": 15.01,
-        "latest_current_ratio": 503.09,
-        "latest_account_receivable_turnover_ratio": 1.03,
-        "latest_inventory_turnover_ratio": 0.59,
-        "latest_reinvestment_rate": 59.91,
-        "latest_research_to_sale_ratio": 32.21
+        "latest_eps": -2.07,
+        "latest_price": 74.2,
+        "latest_roe": -6.54,
+        "latest_gross_margin": 12.67,
+        "latest_equity": 1139891,
+        "latest_revenue": 100690,
+        "latest_gross_profit": 12759,
+        "latest_net_income": -7096,
+        "latest_debt_ratio": 11.21,
+        "latest_current_ratio": 707.42,
+        "latest_account_receivable_turnover_ratio": 1.37,
+        "latest_inventory_turnover_ratio": 0.65,
+        "latest_reinvestment_rate": 12.59,
+        "latest_research_to_sale_ratio": 24.47
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 2.33
         },
         "2023": {
-            "cash": 2,
+            "cash": 4,
             "stock": 0,
-            "eps": -1.89
+            "eps": -2.07
         }
     },
     "dividends": {
@@ -230,6 +232,10 @@
             "stock": 0
         },
         "2022-08-26": {
+            "cash": 2,
+            "stock": 0
+        },
+        "2023-03-09": {
             "cash": 2,
             "stock": 0
         },
@@ -512,7 +518,9 @@
         "202307": "67.24",
         "202308": "66.96",
         "202309": "72.22",
-        "202310": "73.21"
+        "202310": "72.96",
+        "202311": "77.66",
+        "202312": "77.92"
     },
     "quarters": {
         "20011": {
@@ -3394,6 +3402,38 @@
             "eps_avg_yearly": 2.6,
             "eps_latest_yearly": 0.04,
             "eps_growth_yearly": 463.17
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.18,
+            "eps_growth_year": -119.78,
+            "eps_4q": -2.07,
+            "eps_4q_growth_year": -183.25,
+            "roe": -0.62,
+            "roe_4q": -6.49,
+            "gross_profit": 12759,
+            "gross_margin": 12.67,
+            "gross_margin_4q_avg": 12.25,
+            "net_income": -7096,
+            "net_income_4q": null,
+            "revenue": 100690,
+            "revenue_4q": null,
+            "common_shares": 385090,
+            "book_valuer_per_share": 29.6,
+            "book_valuer_per_share_4q_avg": 31.5,
+            "equity": 1139891,
+            "current_ratio": 707.42,
+            "debt_ratio": 11.21,
+            "inventory_turnover_ratio": 0.65,
+            "account_receivable_turnover_ratio": 1.37,
+            "reinvestment_rate": 12.59,
+            "research_to_sale_ratio": 24.47,
+            "price_fair": 84.38,
+            "eps_avg_yearly": 2.41,
+            "eps_latest_yearly": 0.04,
+            "eps_growth_yearly": 483.65
         }
     },
     "months": {
@@ -3996,6 +4036,16 @@
             "month": "2023-09",
             "price": "72.22",
             "revenue": 30110
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "72.96",
+            "revenue": 52826
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "77.66",
+            "revenue": 38524
         }
     }
 }

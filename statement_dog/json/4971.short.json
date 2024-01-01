@@ -6,16 +6,16 @@
         "main_business": "GaAs pHEMT epi wafers<br>InP HBT epi wafers<br>GaSb infrared material and epi wafers",
         "website_url": "http://www.intelliepi.com.tw",
         "ceo": "高永中",
-        "pe_ratio": 57,
+        "pe_ratio": 40,
         "report_year_from": 2010,
         "report_year_to": 2023,
-        "age": 13,
-        "eps_negative_percentage": 9,
+        "age": 14,
+        "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 10.68,
-            "last_2y": 35.73,
-            "last_4y": 16.21,
-            "last_8y": 10.68,
+            "last_all": 1.18,
+            "last_2y": 9.02,
+            "last_4y": 11.29,
+            "last_8y": -4.24,
             "last_12y": null,
             "last_16y": null,
             "last_20y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": -2.5,
             "at_2021_last_3y": 0.61,
             "at_2022_last_3y": 35.19,
-            "at_2023_last_3y": 35.19,
+            "at_2023_last_3y": 5.72,
+            "at_2024_last_3y": 5.72,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -2.19,
             "at_2021_last_all": 2.19,
             "at_2022_last_all": 10.68,
-            "at_2023_last_all": 10.68
+            "at_2023_last_all": 1.18,
+            "at_2024_last_all": 1.18
         },
-        "latest_eps": 0.97,
-        "latest_price": 55,
-        "latest_roe": 2.19,
-        "latest_gross_margin": 13.5,
-        "latest_equity": 1662190,
-        "latest_revenue": 137865,
-        "latest_gross_profit": 18618,
-        "latest_net_income": -20197,
-        "latest_debt_ratio": 9.01,
-        "latest_current_ratio": 366.27,
-        "latest_account_receivable_turnover_ratio": 1.26,
-        "latest_inventory_turnover_ratio": 0.47,
-        "latest_reinvestment_rate": 30.7,
-        "latest_research_to_sale_ratio": 7.65
+        "latest_eps": 1.58,
+        "latest_price": 63.7,
+        "latest_roe": 3.3,
+        "latest_gross_margin": 31.26,
+        "latest_equity": 1773310,
+        "latest_revenue": 203809,
+        "latest_gross_profit": 63707,
+        "latest_net_income": 44554,
+        "latest_debt_ratio": 7.6,
+        "latest_current_ratio": 437.25,
+        "latest_account_receivable_turnover_ratio": 1.55,
+        "latest_inventory_turnover_ratio": 0.56,
+        "latest_reinvestment_rate": 44.1,
+        "latest_research_to_sale_ratio": 5.56
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 2,
             "stock": 0,
-            "eps": -0.54
+            "eps": 0.68
         }
     },
     "dividends": {
@@ -512,7 +514,9 @@
         "202307": "59.18",
         "202308": "56.72",
         "202309": "58.84",
-        "202310": "56.36"
+        "202310": "56.24",
+        "202311": "58.69",
+        "202312": "62.64"
     },
     "quarters": {
         "20011": {
@@ -3394,6 +3398,38 @@
             "eps_avg_yearly": 2.83,
             "eps_latest_yearly": 0.04,
             "eps_growth_yearly": 387.59
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 1.22,
+            "eps_growth_year": 96.77,
+            "eps_4q": 1.58,
+            "eps_4q_growth_year": -61.79,
+            "roe": 2.59,
+            "roe_4q": 3.3099999999999996,
+            "gross_profit": 63707,
+            "gross_margin": 31.26,
+            "gross_margin_4q_avg": 25.33,
+            "net_income": 44554,
+            "net_income_4q": null,
+            "revenue": 203809,
+            "revenue_4q": null,
+            "common_shares": 367857,
+            "book_valuer_per_share": 48.19,
+            "book_valuer_per_share_4q_avg": 46.24,
+            "equity": 1773310,
+            "current_ratio": 437.25,
+            "debt_ratio": 7.6,
+            "inventory_turnover_ratio": 0.56,
+            "account_receivable_turnover_ratio": 1.55,
+            "reinvestment_rate": 44.1,
+            "research_to_sale_ratio": 5.56,
+            "price_fair": 100.68,
+            "eps_avg_yearly": 2.88,
+            "eps_latest_yearly": 0.04,
+            "eps_growth_yearly": 411.19
         }
     },
     "months": {
@@ -4011,6 +4047,16 @@
             "month": "2023-09",
             "price": "58.84",
             "revenue": 75620
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "56.24",
+            "revenue": 63810
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "58.69",
+            "revenue": 62732
         }
     }
 }

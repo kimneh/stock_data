@@ -6,19 +6,19 @@
         "main_business": "光電數位產品專業代理商<br>美妝生活商品代埋商",
         "website_url": "http://www.gish.com.tw",
         "ceo": "陳昱旭",
-        "pe_ratio": -31,
+        "pe_ratio": -22,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
-        "eps_negative_percentage": 68,
+        "age": 23,
+        "eps_negative_percentage": 73,
         "eps_growth_avg": {
             "last_all": -24.96,
             "last_2y": null,
             "last_4y": null,
             "last_8y": null,
-            "last_12y": -100,
+            "last_12y": null,
             "last_16y": -15.28,
-            "last_20y": null,
+            "last_20y": -24.96,
             "at_2006_last_3y": -44.34,
             "at_2007_last_3y": -1.56,
             "at_2008_last_3y": -32.87,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": -44.34,
             "at_2007_last_all": -1.56,
             "at_2008_last_all": -21.82,
@@ -54,20 +55,21 @@
             "at_2020_last_all": -24.96,
             "at_2021_last_all": -24.96,
             "at_2022_last_all": -24.96,
-            "at_2023_last_all": -24.96
+            "at_2023_last_all": -24.96,
+            "at_2024_last_all": -24.96
         },
-        "latest_eps": -0.44,
-        "latest_price": 13.8,
-        "latest_roe": -5.5,
-        "latest_gross_margin": 43.27,
-        "latest_equity": 184719,
-        "latest_revenue": 30793,
-        "latest_gross_profit": 13324,
-        "latest_net_income": 6356,
-        "latest_debt_ratio": 50.08,
-        "latest_current_ratio": 154.73,
-        "latest_account_receivable_turnover_ratio": 1.37,
-        "latest_inventory_turnover_ratio": 0.15,
+        "latest_eps": -0.63,
+        "latest_price": 13.7,
+        "latest_roe": -8.42,
+        "latest_gross_margin": 38.79,
+        "latest_equity": 174709,
+        "latest_revenue": 21787,
+        "latest_gross_profit": 8451,
+        "latest_net_income": -6702,
+        "latest_debt_ratio": 50.13,
+        "latest_current_ratio": 155.59,
+        "latest_account_receivable_turnover_ratio": 0.99,
+        "latest_inventory_turnover_ratio": 0.12,
         "latest_reinvestment_rate": null,
         "latest_research_to_sale_ratio": null
     },
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 0.07
+            "eps": -0.23
         }
     },
     "dividends": {
@@ -488,7 +490,9 @@
         "202307": "14.20",
         "202308": "13.80",
         "202309": "14.21",
-        "202310": "13.16"
+        "202310": "13.25",
+        "202311": "13.75",
+        "202312": "13.69"
     },
     "quarters": {
         "20011": {
@@ -3370,6 +3374,38 @@
             "eps_avg_yearly": 0,
             "eps_latest_yearly": 0,
             "eps_growth_yearly": 0
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.3,
+            "eps_growth_year": null,
+            "eps_4q": -0.63,
+            "eps_4q_growth_year": null,
+            "roe": -3.73,
+            "roe_4q": -8.86,
+            "gross_profit": 8451,
+            "gross_margin": 38.79,
+            "gross_margin_4q_avg": 39.62,
+            "net_income": -6702,
+            "net_income_4q": null,
+            "revenue": 21787,
+            "revenue_4q": null,
+            "common_shares": 207000,
+            "book_valuer_per_share": 8.43,
+            "book_valuer_per_share_4q_avg": 8.58,
+            "equity": 174709,
+            "current_ratio": 155.59,
+            "debt_ratio": 50.13,
+            "inventory_turnover_ratio": 0.12,
+            "account_receivable_turnover_ratio": 0.99,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": null,
+            "price_fair": 0,
+            "eps_avg_yearly": 0,
+            "eps_latest_yearly": 0,
+            "eps_growth_yearly": 0
         }
     },
     "months": {
@@ -4547,6 +4583,16 @@
             "month": "2023-09",
             "price": "14.21",
             "revenue": 6290
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "13.25",
+            "revenue": 6827
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "13.75",
+            "revenue": 7621
         }
     }
 }

@@ -6,10 +6,10 @@
         "main_business": "新藥研發",
         "website_url": "http://www.tmb.com.tw",
         "ceo": "張金明",
-        "pe_ratio": -109,
+        "pe_ratio": -121,
         "report_year_from": 2010,
         "report_year_to": 2023,
-        "age": 13,
+        "age": 14,
         "eps_negative_percentage": 100,
         "eps_growth_avg": {
             "last_all": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": null,
-            "at_2023_last_all": null
+            "at_2023_last_all": null,
+            "at_2024_last_all": null
         },
-        "latest_eps": -0.8,
-        "latest_price": 87.4,
-        "latest_roe": -7.48,
-        "latest_gross_margin": 32.5,
-        "latest_equity": 2646828,
-        "latest_revenue": 104243,
-        "latest_gross_profit": 33882,
-        "latest_net_income": -47841,
-        "latest_debt_ratio": 34.09,
-        "latest_current_ratio": 633.69,
-        "latest_account_receivable_turnover_ratio": 0.72,
-        "latest_inventory_turnover_ratio": 0.05,
+        "latest_eps": -0.68,
+        "latest_price": 82,
+        "latest_roe": -6.39,
+        "latest_gross_margin": 49.08,
+        "latest_equity": 2643932,
+        "latest_revenue": 157552,
+        "latest_gross_profit": 77333,
+        "latest_net_income": -5878,
+        "latest_debt_ratio": 33.93,
+        "latest_current_ratio": 604.93,
+        "latest_account_receivable_turnover_ratio": 1.08,
+        "latest_inventory_turnover_ratio": 0.06,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 77.86
+        "latest_research_to_sale_ratio": 37.94
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.51
+            "eps": -0.53
         }
     },
     "dividends": [],
@@ -463,7 +465,9 @@
         "202307": "97.88",
         "202308": "102.22",
         "202309": "94.16",
-        "202310": "85.43"
+        "202310": "85.59",
+        "202311": "83.79",
+        "202312": "82.51"
     },
     "quarters": {
         "20011": {
@@ -3345,6 +3349,38 @@
             "eps_avg_yearly": 0,
             "eps_latest_yearly": 0,
             "eps_growth_yearly": 0
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.02,
+            "eps_growth_year": null,
+            "eps_4q": -0.68,
+            "eps_4q_growth_year": null,
+            "roe": -0.22,
+            "roe_4q": -6.430000000000001,
+            "gross_profit": 77333,
+            "gross_margin": 49.08,
+            "gross_margin_4q_avg": 46.05,
+            "net_income": -5878,
+            "net_income_4q": null,
+            "revenue": 157552,
+            "revenue_4q": null,
+            "common_shares": 2529987,
+            "book_valuer_per_share": 10.45,
+            "book_valuer_per_share_4q_avg": 10.53,
+            "equity": 2643932,
+            "current_ratio": 604.93,
+            "debt_ratio": 33.93,
+            "inventory_turnover_ratio": 0.06,
+            "account_receivable_turnover_ratio": 1.08,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 37.94,
+            "price_fair": 0,
+            "eps_avg_yearly": 0,
+            "eps_latest_yearly": 0,
+            "eps_growth_yearly": 0
         }
     },
     "months": {
@@ -4147,6 +4183,16 @@
             "month": "2023-09",
             "price": "94.16",
             "revenue": 62030
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "85.59",
+            "revenue": 42922
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "83.79",
+            "revenue": 56465
         }
     }
 }

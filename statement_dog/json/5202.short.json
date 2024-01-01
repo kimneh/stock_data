@@ -6,19 +6,19 @@
         "main_business": "AI-OCR智慧內容辨識擷取服務<br>OA雲端辦公室協同管理",
         "website_url": "http://www.newsoft.com.tw",
         "ceo": "林育群",
-        "pe_ratio": -39,
+        "pe_ratio": 100,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 39,
         "eps_growth_avg": {
             "last_all": -17.51,
             "last_2y": null,
-            "last_4y": -78.57,
+            "last_4y": -100,
             "last_8y": -13.52,
-            "last_12y": -16.78,
-            "last_16y": -18.88,
-            "last_20y": -17.51,
+            "last_12y": -33.47,
+            "last_16y": -9.87,
+            "last_20y": -18.8,
             "at_2006_last_3y": -45.61,
             "at_2007_last_3y": -18.42,
             "at_2008_last_3y": -18.42,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": -55.01,
             "at_2021_last_3y": -78.57,
             "at_2022_last_3y": -100,
-            "at_2023_last_3y": -100,
+            "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": -34.7,
             "at_2007_last_all": -34.7,
             "at_2008_last_all": -34.7,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -17.51,
             "at_2021_last_all": -17.51,
             "at_2022_last_all": -17.51,
-            "at_2023_last_all": -17.51
+            "at_2023_last_all": -17.51,
+            "at_2024_last_all": -17.51
         },
-        "latest_eps": -0.36,
-        "latest_price": 14.05,
-        "latest_roe": -3.3,
-        "latest_gross_margin": 69.73,
-        "latest_equity": 976746,
-        "latest_revenue": 36205,
-        "latest_gross_profit": 25245,
-        "latest_net_income": 18802,
-        "latest_debt_ratio": 5.5,
-        "latest_current_ratio": 1733.54,
-        "latest_account_receivable_turnover_ratio": 2.24,
-        "latest_inventory_turnover_ratio": 0.62,
+        "latest_eps": 0.01,
+        "latest_price": 16.5,
+        "latest_roe": 0.05,
+        "latest_gross_margin": 76.54,
+        "latest_equity": 984012,
+        "latest_revenue": 38084,
+        "latest_gross_profit": 29150,
+        "latest_net_income": 10038,
+        "latest_debt_ratio": 5.72,
+        "latest_current_ratio": 1590.69,
+        "latest_account_receivable_turnover_ratio": 2.27,
+        "latest_inventory_turnover_ratio": 0.59,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 29.23
+        "latest_research_to_sale_ratio": 36.48
     },
     "eps_dividends": {
         "1999": {
@@ -195,7 +197,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 0.03
+            "eps": 0.14
         }
     },
     "dividends": {
@@ -510,7 +512,9 @@
         "202307": "15.77",
         "202308": "15.39",
         "202309": "15.22",
-        "202310": "14.39"
+        "202310": "14.33",
+        "202311": "13.97",
+        "202312": "16.53"
     },
     "quarters": {
         "20011": {
@@ -3392,6 +3396,38 @@
             "eps_avg_yearly": 0.68,
             "eps_latest_yearly": 1.08,
             "eps_growth_yearly": 445.11
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.11,
+            "eps_growth_year": null,
+            "eps_4q": 0.01,
+            "eps_4q_growth_year": null,
+            "roe": 1.02,
+            "roe_4q": 0.019999999999999796,
+            "gross_profit": 29150,
+            "gross_margin": 76.54,
+            "gross_margin_4q_avg": 68.93,
+            "net_income": 10038,
+            "net_income_4q": null,
+            "revenue": 38084,
+            "revenue_4q": null,
+            "common_shares": 890940,
+            "book_valuer_per_share": 11.04,
+            "book_valuer_per_share_4q_avg": 10.9,
+            "equity": 984012,
+            "current_ratio": 1590.69,
+            "debt_ratio": 5.72,
+            "inventory_turnover_ratio": 0.59,
+            "account_receivable_turnover_ratio": 2.27,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 36.48,
+            "price_fair": 21,
+            "eps_avg_yearly": 0.6,
+            "eps_latest_yearly": 0.44,
+            "eps_growth_yearly": 233.25
         }
     },
     "months": {
@@ -4734,6 +4770,16 @@
             "month": "2023-09",
             "price": "15.22",
             "revenue": 17484
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "14.33",
+            "revenue": 11193
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "13.97",
+            "revenue": 15081
         }
     }
 }

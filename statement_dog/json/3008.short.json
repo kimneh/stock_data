@@ -6,19 +6,19 @@
         "main_business": "各式光學鏡頭模組<br>觀景器模組與光電零組件<br>以上產品之研發設計生產銷售與技術服務等",
         "website_url": "http://www.largan.com.tw",
         "ceo": "黃有執",
-        "pe_ratio": 14,
+        "pe_ratio": 23,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 18.2,
-            "last_2y": -5.12,
-            "last_4y": -1.11,
-            "last_8y": 14.12,
-            "last_12y": 22.79,
-            "last_16y": 20.94,
-            "last_20y": 18.2,
+            "last_all": 15.42,
+            "last_2y": -15,
+            "last_4y": -8.44,
+            "last_8y": -1.75,
+            "last_12y": 14.8,
+            "last_16y": 12.54,
+            "last_20y": 17.18,
             "at_2006_last_3y": 36.91,
             "at_2007_last_3y": 19.45,
             "at_2008_last_3y": 30.8,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 2.72,
             "at_2021_last_3y": -6.8,
             "at_2022_last_3y": 0.15,
-            "at_2023_last_3y": 0.15,
+            "at_2023_last_3y": -14.55,
+            "at_2024_last_3y": -14.55,
             "at_2006_last_all": 25.23,
             "at_2007_last_all": 14.96,
             "at_2008_last_all": 15.89,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 20.23,
             "at_2021_last_all": 18.03,
             "at_2022_last_all": 18.2,
-            "at_2023_last_all": 18.2
+            "at_2023_last_all": 15.42,
+            "at_2024_last_all": 15.42
         },
-        "latest_eps": 143.49,
-        "latest_price": 2020,
-        "latest_roe": 12.6,
-        "latest_gross_margin": 48.86,
-        "latest_equity": 156523756,
-        "latest_revenue": 8194353,
-        "latest_gross_profit": 4003617,
-        "latest_net_income": 3695973,
-        "latest_debt_ratio": 15.05,
-        "latest_current_ratio": 460.86,
-        "latest_account_receivable_turnover_ratio": 1.44,
-        "latest_inventory_turnover_ratio": 0.69,
-        "latest_reinvestment_rate": 9.87,
-        "latest_research_to_sale_ratio": 11.82
+        "latest_eps": 127.08,
+        "latest_price": 2870,
+        "latest_roe": 10.9,
+        "latest_gross_margin": 42.5,
+        "latest_equity": 160284118,
+        "latest_revenue": 13628819,
+        "latest_gross_profit": 5792763,
+        "latest_net_income": 5952520,
+        "latest_debt_ratio": 15.67,
+        "latest_current_ratio": 443.09,
+        "latest_account_receivable_turnover_ratio": 1.77,
+        "latest_inventory_turnover_ratio": 1.25,
+        "latest_reinvestment_rate": 11.18,
+        "latest_research_to_sale_ratio": 8.83
     },
     "eps_dividends": {
         "2000": {
@@ -190,7 +192,7 @@
         "2023": {
             "cash": 72.5,
             "stock": 0,
-            "eps": 52.33
+            "eps": 96.93
         }
     },
     "dividends": {
@@ -577,7 +579,9 @@
         "202307": "2257.14",
         "202308": "2065.68",
         "202309": "2085.25",
-        "202310": "2080.00"
+        "202310": "2076.75",
+        "202311": "2185.45",
+        "202312": "2573.81"
     },
     "quarters": {
         "20011": {
@@ -3459,6 +3463,38 @@
             "eps_avg_yearly": 167.08,
             "eps_latest_yearly": 110.76,
             "eps_growth_yearly": 7.95
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 44.6,
+            "eps_growth_year": -26.9,
+            "eps_4q": 127.08,
+            "eps_4q_growth_year": -28.54,
+            "roe": 3.76,
+            "roe_4q": 10.920000000000002,
+            "gross_profit": 5792763,
+            "gross_margin": 42.5,
+            "gross_margin_4q_avg": 49.27,
+            "net_income": 5952520,
+            "net_income_4q": null,
+            "revenue": 13628819,
+            "revenue_4q": null,
+            "common_shares": 1334682,
+            "book_valuer_per_share": 1200.92,
+            "book_valuer_per_share_4q_avg": 1170.17,
+            "equity": 160284118,
+            "current_ratio": 443.09,
+            "debt_ratio": 15.67,
+            "inventory_turnover_ratio": 1.25,
+            "account_receivable_turnover_ratio": 1.77,
+            "reinvestment_rate": 11.18,
+            "research_to_sale_ratio": 8.83,
+            "price_fair": 4143.76,
+            "eps_avg_yearly": 162.27,
+            "eps_latest_yearly": 178.4,
+            "eps_growth_yearly": 15.54
         }
     },
     "months": {
@@ -4756,6 +4792,16 @@
             "month": "2023-09",
             "price": "2085.25",
             "revenue": 5572471
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "2076.75",
+            "revenue": 6326443
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "2185.45",
+            "revenue": 6790134
         }
     }
 }

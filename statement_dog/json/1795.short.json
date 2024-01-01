@@ -6,17 +6,17 @@
         "main_business": "西藥製造、零售",
         "website_url": "http://www.lotuspharm.com.tw",
         "ceo": "Petar Antonov Vazharov",
-        "pe_ratio": 14,
+        "pe_ratio": 19,
         "report_year_from": 2004,
         "report_year_to": 2023,
-        "age": 19,
+        "age": 20,
         "eps_negative_percentage": 25,
         "eps_growth_avg": {
-            "last_all": 8.6,
-            "last_2y": 61.5,
-            "last_4y": 76.9,
-            "last_8y": 26.36,
-            "last_12y": 20.5,
+            "last_all": 9.85,
+            "last_2y": 51.16,
+            "last_4y": 61.39,
+            "last_8y": 43.85,
+            "last_12y": 11.88,
             "last_16y": null,
             "last_20y": null,
             "at_2006_last_3y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 84.48,
             "at_2021_last_3y": 71.12,
             "at_2022_last_3y": 71.12,
-            "at_2023_last_3y": 71.12,
+            "at_2023_last_3y": 51.73,
+            "at_2024_last_3y": 51.73,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -5.63,
             "at_2021_last_all": -1.56,
             "at_2022_last_all": 8.6,
-            "at_2023_last_all": 8.6
+            "at_2023_last_all": 9.85,
+            "at_2024_last_all": 9.85
         },
-        "latest_eps": 17.97,
-        "latest_price": 254,
-        "latest_roe": 35.14,
-        "latest_gross_margin": 58.66,
-        "latest_equity": 15423749,
-        "latest_revenue": 4441843,
-        "latest_gross_profit": 2605705,
-        "latest_net_income": 1265840,
-        "latest_debt_ratio": 51.31,
-        "latest_current_ratio": 179.5,
-        "latest_account_receivable_turnover_ratio": 0.76,
+        "latest_eps": 14.65,
+        "latest_price": 272,
+        "latest_roe": 25.63,
+        "latest_gross_margin": 57.9,
+        "latest_equity": 16786059,
+        "latest_revenue": 4573170,
+        "latest_gross_profit": 2647682,
+        "latest_net_income": 1245905,
+        "latest_debt_ratio": 49.06,
+        "latest_current_ratio": 204.39,
+        "latest_account_receivable_turnover_ratio": 0.74,
         "latest_inventory_turnover_ratio": 0.49,
-        "latest_reinvestment_rate": 39.92,
-        "latest_research_to_sale_ratio": 2.9
+        "latest_reinvestment_rate": 37.2,
+        "latest_research_to_sale_ratio": 5.14
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 11.59
         },
         "2023": {
-            "cash": 3.46,
+            "cash": 6.92,
             "stock": 0,
-            "eps": 9.43
+            "eps": 14.19
         }
     },
     "dividends": {
@@ -223,6 +225,10 @@
         },
         "2022-08-31": {
             "cash": 1.93,
+            "stock": 0
+        },
+        "2023-03-09": {
+            "cash": 3.46,
             "stock": 0
         },
         "2023-08-01": {
@@ -504,7 +510,9 @@
         "202307": "289.52",
         "202308": "265.82",
         "202309": "244.05",
-        "202310": "228.83"
+        "202310": "231.15",
+        "202311": "248.34",
+        "202312": "270.12"
     },
     "quarters": {
         "20011": {
@@ -3386,6 +3394,38 @@
             "eps_avg_yearly": 8.04,
             "eps_latest_yearly": 19.4,
             "eps_growth_yearly": 377.18
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 4.76,
+            "eps_growth_year": -40.28,
+            "eps_4q": 14.65,
+            "eps_4q_growth_year": 23.61,
+            "roe": 7.74,
+            "roe_4q": 26.09,
+            "gross_profit": 2647682,
+            "gross_margin": 57.9,
+            "gross_margin_4q_avg": 55.13,
+            "net_income": 1245905,
+            "net_income_4q": null,
+            "revenue": 4573170,
+            "revenue_4q": null,
+            "common_shares": 2649583,
+            "book_valuer_per_share": 63.47,
+            "book_valuer_per_share_4q_avg": 57.26,
+            "equity": 16786059,
+            "current_ratio": 204.39,
+            "debt_ratio": 49.06,
+            "inventory_turnover_ratio": 0.49,
+            "account_receivable_turnover_ratio": 0.74,
+            "reinvestment_rate": 37.2,
+            "research_to_sale_ratio": 5.14,
+            "price_fair": 315.88,
+            "eps_avg_yearly": 9.03,
+            "eps_latest_yearly": 19.04,
+            "eps_growth_yearly": 299.22
         }
     },
     "months": {
@@ -4508,6 +4548,16 @@
             "month": "2023-09",
             "price": "244.05",
             "revenue": 1100388
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "231.15",
+            "revenue": 911653
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "248.34",
+            "revenue": 1135020
         }
     }
 }

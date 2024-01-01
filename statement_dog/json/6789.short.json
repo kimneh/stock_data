@@ -6,13 +6,13 @@
         "main_business": "彩色濾光膜產品相關之研究、設計、製造、銷售及封裝測試",
         "website_url": "http://www.viseratech.com",
         "ceo": "關欣",
-        "pe_ratio": 76,
+        "pe_ratio": 100,
         "report_year_from": 2020,
         "report_year_to": 2023,
-        "age": 3,
+        "age": 4,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": null,
+            "last_all": -26.9,
             "last_2y": null,
             "last_4y": null,
             "last_8y": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": null,
-            "at_2023_last_all": null
+            "at_2023_last_all": -26.9,
+            "at_2024_last_all": -26.9
         },
-        "latest_eps": 2.77,
-        "latest_price": 211,
-        "latest_roe": 5.34,
-        "latest_gross_margin": 18.95,
-        "latest_equity": 16521131,
-        "latest_revenue": 1936874,
-        "latest_gross_profit": 367066,
-        "latest_net_income": 179467,
-        "latest_debt_ratio": 37.65,
-        "latest_current_ratio": 358.29,
-        "latest_account_receivable_turnover_ratio": 2.32,
-        "latest_inventory_turnover_ratio": 18.23,
+        "latest_eps": 1.77,
+        "latest_price": 276.5,
+        "latest_roe": 3.37,
+        "latest_gross_margin": 13.93,
+        "latest_equity": 16597570,
+        "latest_revenue": 1828700,
+        "latest_gross_profit": 254775,
+        "latest_net_income": 67198,
+        "latest_debt_ratio": 34.58,
+        "latest_current_ratio": 394.88,
+        "latest_account_receivable_turnover_ratio": 1.97,
+        "latest_inventory_turnover_ratio": 18.91,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 9.16
+        "latest_research_to_sale_ratio": 9.87
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 5.86
         },
         "2023": {
-            "cash": 2,
+            "cash": 4,
             "stock": 0,
-            "eps": 0.81
+            "eps": 1.02
         }
     },
     "dividends": {
@@ -194,6 +196,10 @@
             "stock": 0
         },
         "2022-08-11": {
+            "cash": 2,
+            "stock": 0
+        },
+        "2023-02-22": {
             "cash": 2,
             "stock": 0
         },
@@ -476,7 +482,9 @@
         "202307": "246.48",
         "202308": "209.02",
         "202309": "211.32",
-        "202310": "209.97"
+        "202310": "209.92",
+        "202311": "233.89",
+        "202312": "289.52"
     },
     "quarters": {
         "20011": {
@@ -3358,6 +3366,38 @@
             "eps_avg_yearly": 4.82,
             "eps_latest_yearly": 2.28,
             "eps_growth_yearly": -16.06
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.21,
+            "eps_growth_year": -82.64,
+            "eps_4q": 1.77,
+            "eps_4q_growth_year": -72.71,
+            "roe": 0.41,
+            "roe_4q": 3.3499999999999996,
+            "gross_profit": 254775,
+            "gross_margin": 13.93,
+            "gross_margin_4q_avg": 21.13,
+            "net_income": 67198,
+            "net_income_4q": null,
+            "revenue": 1828700,
+            "revenue_4q": null,
+            "common_shares": 3164841,
+            "book_valuer_per_share": 52.44,
+            "book_valuer_per_share_4q_avg": 53.01,
+            "equity": 16597570,
+            "current_ratio": 394.88,
+            "debt_ratio": 34.58,
+            "inventory_turnover_ratio": 18.91,
+            "account_receivable_turnover_ratio": 1.97,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 9.87,
+            "price_fair": 12.98,
+            "eps_avg_yearly": 4.33,
+            "eps_latest_yearly": 0.84,
+            "eps_growth_yearly": -45.63
         }
     },
     "months": {
@@ -3510,6 +3550,16 @@
             "month": "2023-09",
             "price": "211.32",
             "revenue": 529410
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "209.92",
+            "revenue": 551110
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "233.89",
+            "revenue": 639208
         }
     }
 }

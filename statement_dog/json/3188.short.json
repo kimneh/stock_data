@@ -6,18 +6,18 @@
         "main_business": "住宅及大樓開發租售業<br>建材批發業<br>一般廣告服務業",
         "website_url": "http://www.gltd.com.tw",
         "ceo": "黃勁嘉",
-        "pe_ratio": 27,
+        "pe_ratio": 22,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 38,
         "eps_growth_avg": {
-            "last_all": -12.3,
-            "last_2y": -13.86,
-            "last_4y": 11.68,
-            "last_8y": 11.68,
-            "last_12y": 11.68,
-            "last_16y": -9.21,
+            "last_all": -16.31,
+            "last_2y": -12.1,
+            "last_4y": -20.41,
+            "last_8y": -0.34,
+            "last_12y": -0.34,
+            "last_16y": -20.74,
             "last_20y": null,
             "at_2006_last_3y": null,
             "at_2007_last_3y": -2.98,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 11.42,
             "at_2021_last_3y": 33.57,
             "at_2022_last_3y": -10.39,
-            "at_2023_last_3y": -10.39,
+            "at_2023_last_3y": -25.51,
+            "at_2024_last_3y": -25.51,
             "at_2006_last_all": -3.04,
             "at_2007_last_all": -2.98,
             "at_2008_last_all": -18.75,
@@ -54,21 +55,22 @@
             "at_2020_last_all": -17.72,
             "at_2021_last_all": -5.95,
             "at_2022_last_all": -12.3,
-            "at_2023_last_all": -12.3
+            "at_2023_last_all": -16.31,
+            "at_2024_last_all": -16.31
         },
-        "latest_eps": 0.59,
-        "latest_price": 16,
-        "latest_roe": 5.55,
-        "latest_gross_margin": 34.58,
-        "latest_equity": 2308303,
-        "latest_revenue": 52431,
-        "latest_gross_profit": 18129,
-        "latest_net_income": 806,
-        "latest_debt_ratio": 69.21,
-        "latest_current_ratio": 210.48,
-        "latest_account_receivable_turnover_ratio": 38.13,
+        "latest_eps": 0.74,
+        "latest_price": 16.55,
+        "latest_roe": 6.02,
+        "latest_gross_margin": 35.18,
+        "latest_equity": 2323520,
+        "latest_revenue": 125958,
+        "latest_gross_profit": 44307,
+        "latest_net_income": 15217,
+        "latest_debt_ratio": 70.36,
+        "latest_current_ratio": 189.4,
+        "latest_account_receivable_turnover_ratio": 104.96,
         "latest_inventory_turnover_ratio": 0.01,
-        "latest_reinvestment_rate": 0.01,
+        "latest_reinvestment_rate": -0.25,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0.3,
             "stock": 0,
-            "eps": 0.09
+            "eps": 0.17
         }
     },
     "dividends": {
@@ -508,7 +510,9 @@
         "202307": "14.73",
         "202308": "14.56",
         "202309": "15.18",
-        "202310": "15.95"
+        "202310": "15.94",
+        "202311": "16.09",
+        "202312": "16.21"
     },
     "quarters": {
         "20011": {
@@ -3390,6 +3394,38 @@
             "eps_avg_yearly": 0.91,
             "eps_latest_yearly": 0.36,
             "eps_growth_yearly": -12.71
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.08,
+            "eps_growth_year": null,
+            "eps_4q": 0.74,
+            "eps_4q_growth_year": null,
+            "roe": 0.66,
+            "roe_4q": 5.970000000000001,
+            "gross_profit": 44307,
+            "gross_margin": 35.18,
+            "gross_margin_4q_avg": 29.63,
+            "net_income": 15217,
+            "net_income_4q": null,
+            "revenue": 125958,
+            "revenue_4q": null,
+            "common_shares": 1863099,
+            "book_valuer_per_share": 12.47,
+            "book_valuer_per_share_4q_avg": 12.46,
+            "equity": 2323520,
+            "current_ratio": 189.4,
+            "debt_ratio": 70.36,
+            "inventory_turnover_ratio": 0.01,
+            "account_receivable_turnover_ratio": 104.96,
+            "reinvestment_rate": -0.25,
+            "research_to_sale_ratio": null,
+            "price_fair": 12.69,
+            "eps_avg_yearly": 0.92,
+            "eps_latest_yearly": 0.36,
+            "eps_growth_yearly": 3.85
         }
     },
     "months": {
@@ -4597,6 +4633,16 @@
             "month": "2023-09",
             "price": "15.18",
             "revenue": 62506
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "15.94",
+            "revenue": 709193
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "16.09",
+            "revenue": 446990
         }
     }
 }

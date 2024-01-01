@@ -6,18 +6,18 @@
         "main_business": "鈦合金棒材<br>特殊鋼棒材",
         "website_url": "http://www.s-tech.com.tw",
         "ceo": "林嘉洪",
-        "pe_ratio": 25,
+        "pe_ratio": 27,
         "report_year_from": 2006,
         "report_year_to": 2023,
-        "age": 17,
+        "age": 18,
         "eps_negative_percentage": 50,
         "eps_growth_avg": {
-            "last_all": -19.35,
-            "last_2y": 55,
-            "last_4y": 55,
-            "last_8y": 3.33,
-            "last_12y": -2.59,
-            "last_16y": null,
+            "last_all": -14.61,
+            "last_2y": 42.86,
+            "last_4y": 42.86,
+            "last_8y": 7.15,
+            "last_12y": 0.94,
+            "last_16y": -14.61,
             "last_20y": null,
             "at_2006_last_3y": null,
             "at_2007_last_3y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": -100,
             "at_2021_last_3y": 10,
             "at_2022_last_3y": 55,
-            "at_2023_last_3y": 55,
+            "at_2023_last_3y": 42.86,
+            "at_2024_last_3y": 42.86,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": -61.24,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -49.09,
             "at_2021_last_all": -39.24,
             "at_2022_last_all": -19.35,
-            "at_2023_last_all": -19.35
+            "at_2023_last_all": -14.61,
+            "at_2024_last_all": -14.61
         },
-        "latest_eps": 1.31,
-        "latest_price": 32.85,
-        "latest_roe": 10.89,
-        "latest_gross_margin": 13.75,
-        "latest_equity": 2198948,
-        "latest_revenue": 659151,
-        "latest_gross_profit": 90656,
-        "latest_net_income": 78502,
-        "latest_debt_ratio": 48.92,
-        "latest_current_ratio": 308.4,
-        "latest_account_receivable_turnover_ratio": 1.14,
+        "latest_eps": 1.3,
+        "latest_price": 35.7,
+        "latest_roe": 9,
+        "latest_gross_margin": 14.16,
+        "latest_equity": 3473897,
+        "latest_revenue": 679449,
+        "latest_gross_profit": 96208,
+        "latest_net_income": 84251,
+        "latest_debt_ratio": 34.77,
+        "latest_current_ratio": 416.2,
+        "latest_account_receivable_turnover_ratio": 1.03,
         "latest_inventory_turnover_ratio": 0.32,
-        "latest_reinvestment_rate": 17.82,
-        "latest_research_to_sale_ratio": 0.41
+        "latest_reinvestment_rate": 89.56,
+        "latest_research_to_sale_ratio": 0.32
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0.7,
             "stock": 0,
-            "eps": 0.85
+            "eps": 1.34
         }
     },
     "dividends": {
@@ -492,7 +494,9 @@
         "202307": "36.28",
         "202308": "33.06",
         "202309": "35.67",
-        "202310": "34.28"
+        "202310": "34.10",
+        "202311": "34.35",
+        "202312": "36.32"
     },
     "quarters": {
         "20011": {
@@ -3374,6 +3378,38 @@
             "eps_avg_yearly": 0.93,
             "eps_latest_yearly": 2.08,
             "eps_growth_yearly": 161.72
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.49,
+            "eps_growth_year": 81.48,
+            "eps_4q": 1.3,
+            "eps_4q_growth_year": 41.91,
+            "roe": 2.97,
+            "roe_4q": 10.540000000000001,
+            "gross_profit": 96208,
+            "gross_margin": 14.16,
+            "gross_margin_4q_avg": 12.07,
+            "net_income": 84251,
+            "net_income_4q": null,
+            "revenue": 679449,
+            "revenue_4q": null,
+            "common_shares": 1924705,
+            "book_valuer_per_share": 17.64,
+            "book_valuer_per_share_4q_avg": 14.79,
+            "equity": 3473897,
+            "current_ratio": 416.2,
+            "debt_ratio": 34.77,
+            "inventory_turnover_ratio": 0.32,
+            "account_receivable_turnover_ratio": 1.03,
+            "reinvestment_rate": 89.56,
+            "research_to_sale_ratio": 0.32,
+            "price_fair": 35.22,
+            "eps_avg_yearly": 1.01,
+            "eps_latest_yearly": 1.96,
+            "eps_growth_yearly": 147.51
         }
     },
     "months": {
@@ -4386,6 +4422,16 @@
             "month": "2023-09",
             "price": "35.67",
             "revenue": 210465
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "34.10",
+            "revenue": 273357
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "34.35",
+            "revenue": 267635
         }
     }
 }

@@ -6,17 +6,17 @@
         "main_business": "SR-T100新藥開發、藥品、功能性保養品、保健食品的研發與製造",
         "website_url": "http://www.geherbs.com.tw",
         "ceo": "郭國華",
-        "pe_ratio": 67,
+        "pe_ratio": 54,
         "report_year_from": 2007,
         "report_year_to": 2023,
-        "age": 16,
+        "age": 17,
         "eps_negative_percentage": 73,
         "eps_growth_avg": {
-            "last_all": -100,
-            "last_2y": null,
-            "last_4y": null,
-            "last_8y": -100,
-            "last_12y": -100,
+            "last_all": -33.33,
+            "last_2y": 100,
+            "last_4y": 100,
+            "last_8y": 0,
+            "last_12y": -33.33,
             "last_16y": null,
             "last_20y": null,
             "at_2006_last_3y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": null,
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
-            "at_2023_last_3y": null,
+            "at_2023_last_3y": 100,
+            "at_2024_last_3y": 100,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -100,
             "at_2021_last_all": -100,
             "at_2022_last_all": -100,
-            "at_2023_last_all": -100
+            "at_2023_last_all": -33.33,
+            "at_2024_last_all": -33.33
         },
-        "latest_eps": 0.85,
-        "latest_price": 57.3,
-        "latest_roe": 6.73,
-        "latest_gross_margin": 80.23,
-        "latest_equity": 722589,
-        "latest_revenue": 44487,
-        "latest_gross_profit": 35694,
-        "latest_net_income": 16690,
-        "latest_debt_ratio": 6.43,
-        "latest_current_ratio": 465.53,
-        "latest_account_receivable_turnover_ratio": 5.71,
-        "latest_inventory_turnover_ratio": 0.36,
-        "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 9.34
+        "latest_eps": 1.14,
+        "latest_price": 61.8,
+        "latest_roe": 8.91,
+        "latest_gross_margin": 79.75,
+        "latest_equity": 744819,
+        "latest_revenue": 47347,
+        "latest_gross_profit": 37760,
+        "latest_net_income": 22230,
+        "latest_debt_ratio": 4.79,
+        "latest_current_ratio": 662.45,
+        "latest_account_receivable_turnover_ratio": 5.67,
+        "latest_inventory_turnover_ratio": 0.4,
+        "latest_reinvestment_rate": -103.11,
+        "latest_research_to_sale_ratio": 16.37
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 0.57
+            "eps": 0.97
         }
     },
     "dividends": {
@@ -468,7 +470,9 @@
         "202307": "72.46",
         "202308": "63.83",
         "202309": "61.58",
-        "202310": "55.84"
+        "202310": "55.84",
+        "202311": "57.32",
+        "202312": "57.65"
     },
     "quarters": {
         "20011": {
@@ -3350,6 +3354,38 @@
             "eps_avg_yearly": 0.99,
             "eps_latest_yearly": 1.2,
             "eps_growth_yearly": 186.58
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.4,
+            "eps_growth_year": 300,
+            "eps_4q": 1.14,
+            "eps_4q_growth_year": null,
+            "roe": 3.03,
+            "roe_4q": 8.92,
+            "gross_profit": 37760,
+            "gross_margin": 79.75,
+            "gross_margin_4q_avg": 78.95,
+            "net_income": 22230,
+            "net_income_4q": null,
+            "revenue": 47347,
+            "revenue_4q": null,
+            "common_shares": 556600,
+            "book_valuer_per_share": 13.38,
+            "book_valuer_per_share_4q_avg": 12.86,
+            "equity": 744819,
+            "current_ratio": 662.45,
+            "debt_ratio": 4.79,
+            "inventory_turnover_ratio": 0.4,
+            "account_receivable_turnover_ratio": 5.67,
+            "reinvestment_rate": -103.11,
+            "research_to_sale_ratio": 16.37,
+            "price_fair": 39.9,
+            "eps_avg_yearly": 1.14,
+            "eps_latest_yearly": 1.6,
+            "eps_growth_yearly": 173.27
         }
     },
     "months": {
@@ -4282,6 +4318,16 @@
             "month": "2023-09",
             "price": "61.58",
             "revenue": 15136
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "55.84",
+            "revenue": 14993
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "57.32",
+            "revenue": 15674
         }
     }
 }

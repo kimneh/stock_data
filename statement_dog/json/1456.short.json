@@ -6,15 +6,15 @@
         "main_business": "住宅及大樓開發租售業務。<br>工業廠房開發租售業務。<br>纖維紡織品之加工及買賣。",
         "website_url": "http://www.ihwa.com.tw",
         "ceo": "黃士豪",
-        "pe_ratio": 25,
+        "pe_ratio": 20,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 65,
         "eps_growth_avg": {
             "last_all": 6.31,
-            "last_2y": 33.33,
-            "last_4y": 26.34,
+            "last_2y": 0,
+            "last_4y": 50,
             "last_8y": 6.31,
             "last_12y": 6.31,
             "last_16y": 6.31,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 28.02,
             "at_2021_last_3y": 57.93,
             "at_2022_last_3y": 50,
-            "at_2023_last_3y": 50,
+            "at_2023_last_3y": 33.33,
+            "at_2024_last_3y": 33.33,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,21 +55,22 @@
             "at_2020_last_all": 8.83,
             "at_2021_last_all": 24.03,
             "at_2022_last_all": 6.31,
-            "at_2023_last_all": 6.31
+            "at_2023_last_all": 6.31,
+            "at_2024_last_all": 6.31
         },
-        "latest_eps": 0.66,
-        "latest_price": 16.3,
-        "latest_roe": 3.99,
-        "latest_gross_margin": 31.92,
-        "latest_equity": 1591222,
-        "latest_revenue": 923458,
-        "latest_gross_profit": 294777,
-        "latest_net_income": 122867,
-        "latest_debt_ratio": 87.19,
-        "latest_current_ratio": 125.5,
-        "latest_account_receivable_turnover_ratio": 22.03,
-        "latest_inventory_turnover_ratio": 0.07,
-        "latest_reinvestment_rate": 13.12,
+        "latest_eps": 0.84,
+        "latest_price": 16.85,
+        "latest_roe": 5.13,
+        "latest_gross_margin": 34.14,
+        "latest_equity": 1580006,
+        "latest_revenue": 400312,
+        "latest_gross_profit": 136657,
+        "latest_net_income": -11216,
+        "latest_debt_ratio": 86.91,
+        "latest_current_ratio": 123.52,
+        "latest_account_receivable_turnover_ratio": 8.59,
+        "latest_inventory_turnover_ratio": 0.03,
+        "latest_reinvestment_rate": 14.28,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -205,7 +207,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 0.68
+            "eps": 0.56
         }
     },
     "dividends": {
@@ -504,7 +506,9 @@
         "202307": "16.53",
         "202308": "16.52",
         "202309": "16.32",
-        "202310": "16.31"
+        "202310": "16.32",
+        "202311": "16.32",
+        "202312": "16.67"
     },
     "quarters": {
         "20011": {
@@ -3386,6 +3390,38 @@
             "eps_avg_yearly": 4.85,
             "eps_latest_yearly": 5.16,
             "eps_growth_yearly": 12795.22
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.12,
+            "eps_growth_year": null,
+            "eps_4q": 0.84,
+            "eps_4q_growth_year": 311.74,
+            "roe": -0.71,
+            "roe_4q": 5.119999999999999,
+            "gross_profit": 136657,
+            "gross_margin": 34.14,
+            "gross_margin_4q_avg": 34.79,
+            "net_income": -11216,
+            "net_income_4q": null,
+            "revenue": 400312,
+            "revenue_4q": null,
+            "common_shares": 937200,
+            "book_valuer_per_share": 16.86,
+            "book_valuer_per_share_4q_avg": 16.45,
+            "equity": 1580006,
+            "current_ratio": 123.52,
+            "debt_ratio": 86.91,
+            "inventory_turnover_ratio": 0.03,
+            "account_receivable_turnover_ratio": 8.59,
+            "reinvestment_rate": 14.28,
+            "research_to_sale_ratio": null,
+            "price_fair": 169.75,
+            "eps_avg_yearly": 4.85,
+            "eps_latest_yearly": 5.16,
+            "eps_growth_yearly": 12795.22
         }
     },
     "months": {
@@ -4728,6 +4764,16 @@
             "month": "2023-09",
             "price": "16.32",
             "revenue": 216090
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "16.32",
+            "revenue": 101451
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "16.32",
+            "revenue": 67653
         }
     }
 }

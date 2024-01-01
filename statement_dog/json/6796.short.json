@@ -6,13 +6,13 @@
         "main_business": "醫療器材設計、製造及銷售",
         "website_url": "http://www.miis.com.tw",
         "ceo": "鄭竹明",
-        "pe_ratio": 45,
+        "pe_ratio": 50,
         "report_year_from": 2020,
         "report_year_to": 2023,
-        "age": 3,
+        "age": 4,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": null,
+            "last_all": 17.99,
             "last_2y": null,
             "last_4y": null,
             "last_8y": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": null,
-            "at_2023_last_all": null
+            "at_2023_last_all": 17.99,
+            "at_2024_last_all": 17.99
         },
-        "latest_eps": 2.43,
-        "latest_price": 109.5,
-        "latest_roe": 13.08,
-        "latest_gross_margin": 58.46,
-        "latest_equity": 630460,
-        "latest_revenue": 142352,
-        "latest_gross_profit": 83214,
-        "latest_net_income": 28535,
-        "latest_debt_ratio": 32.37,
-        "latest_current_ratio": 298.75,
-        "latest_account_receivable_turnover_ratio": 1.69,
-        "latest_inventory_turnover_ratio": 0.41,
+        "latest_eps": 2.16,
+        "latest_price": 109,
+        "latest_roe": 10.59,
+        "latest_gross_margin": 62.94,
+        "latest_equity": 777175,
+        "latest_revenue": 122402,
+        "latest_gross_profit": 77034,
+        "latest_net_income": 16670,
+        "latest_debt_ratio": 37.97,
+        "latest_current_ratio": 742.27,
+        "latest_account_receivable_turnover_ratio": 1.45,
+        "latest_inventory_turnover_ratio": 0.31,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 21.5
+        "latest_research_to_sale_ratio": 32.07
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 2.18
         },
         "2023": {
-            "cash": 1.8,
+            "cash": 3.6,
             "stock": 0,
-            "eps": 1.25
+            "eps": 1.75
         }
     },
     "dividends": {
@@ -195,6 +197,10 @@
         },
         "2022-07-27": {
             "cash": 1.77,
+            "stock": 0
+        },
+        "2023-03-17": {
+            "cash": 1.8,
             "stock": 0
         },
         "2023-07-28": {
@@ -476,7 +482,9 @@
         "202307": "115.50",
         "202308": "114.00",
         "202309": "109.95",
-        "202310": "110.42"
+        "202310": "110.22",
+        "202311": "106.34",
+        "202312": "108.60"
     },
     "quarters": {
         "20011": {
@@ -3358,6 +3366,38 @@
             "eps_avg_yearly": 2.45,
             "eps_latest_yearly": 3.44,
             "eps_growth_yearly": 73.13
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.5,
+            "eps_growth_year": -27.54,
+            "eps_4q": 2.16,
+            "eps_4q_growth_year": -9.85,
+            "roe": 2.37,
+            "roe_4q": 11.34,
+            "gross_profit": 77034,
+            "gross_margin": 62.94,
+            "gross_margin_4q_avg": 56.74,
+            "net_income": 16670,
+            "net_income_4q": null,
+            "revenue": 122402,
+            "revenue_4q": null,
+            "common_shares": 345842,
+            "book_valuer_per_share": 22.47,
+            "book_valuer_per_share_4q_avg": 20.21,
+            "equity": 777175,
+            "current_ratio": 742.27,
+            "debt_ratio": 37.97,
+            "inventory_turnover_ratio": 0.31,
+            "account_receivable_turnover_ratio": 1.45,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 32.07,
+            "price_fair": 83.83,
+            "eps_avg_yearly": 2.4,
+            "eps_latest_yearly": 2,
+            "eps_growth_yearly": 43.06
         }
     },
     "months": {
@@ -3510,6 +3550,16 @@
             "month": "2023-09",
             "price": "109.95",
             "revenue": 42974
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "110.22",
+            "revenue": 46182
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "106.34",
+            "revenue": 50659
         }
     }
 }

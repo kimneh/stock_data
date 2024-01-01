@@ -6,14 +6,14 @@
         "main_business": "射頻應用產品之天線研發製造及相關進出口貿易業務。<br>人體手持、穿戴與植入系統的安全性與電磁相容之評估服務。<br>代理精密量測儀器及國內外廠商產品之投標報價經銷業務。",
         "website_url": "http://www.auden.com.tw",
         "ceo": "張玉斌",
-        "pe_ratio": 20,
+        "pe_ratio": 22,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 57.91,
-            "last_2y": null,
+            "last_all": 22.52,
+            "last_2y": 22.52,
             "last_4y": null,
             "last_8y": null,
             "last_12y": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": 100,
             "at_2022_last_all": 57.91,
-            "at_2023_last_all": 57.91
+            "at_2023_last_all": 22.52,
+            "at_2024_last_all": 22.52
         },
-        "latest_eps": 7.45,
-        "latest_price": 148,
-        "latest_roe": 23.84,
-        "latest_gross_margin": 43.64,
-        "latest_equity": 1543731,
-        "latest_revenue": 381508,
-        "latest_gross_profit": 166479,
-        "latest_net_income": 42618,
-        "latest_debt_ratio": 47.6,
-        "latest_current_ratio": 281.11,
-        "latest_account_receivable_turnover_ratio": 1.1,
-        "latest_inventory_turnover_ratio": 0.64,
+        "latest_eps": 7.04,
+        "latest_price": 153,
+        "latest_roe": 21.1,
+        "latest_gross_margin": 42.78,
+        "latest_equity": 1643219,
+        "latest_revenue": 464146,
+        "latest_gross_profit": 198539,
+        "latest_net_income": 72438,
+        "latest_debt_ratio": 44.87,
+        "latest_current_ratio": 308.51,
+        "latest_account_receivable_turnover_ratio": 1.04,
+        "latest_inventory_turnover_ratio": 0.81,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 12.12
+        "latest_research_to_sale_ratio": 10.17
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 6.88
         },
         "2023": {
-            "cash": 3.5,
+            "cash": 7,
             "stock": 0,
-            "eps": 2.01
+            "eps": 3.56
         }
     },
     "dividends": {
@@ -223,6 +225,10 @@
         },
         "2022-09-05": {
             "cash": 3,
+            "stock": 0
+        },
+        "2023-03-14": {
+            "cash": 3.5,
             "stock": 0
         },
         "2023-05-19": {
@@ -504,7 +510,9 @@
         "202307": "145.86",
         "202308": "141.14",
         "202309": "148.95",
-        "202310": "150.61"
+        "202310": "150.22",
+        "202311": "151.39",
+        "202312": "157.88"
     },
     "quarters": {
         "20011": {
@@ -3386,6 +3394,38 @@
             "eps_avg_yearly": 5.3,
             "eps_latest_yearly": 3.64,
             "eps_growth_yearly": 237.72
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 1.55,
+            "eps_growth_year": -20.92,
+            "eps_4q": 7.04,
+            "eps_4q_growth_year": 35.69,
+            "roe": 4.55,
+            "roe_4q": 21.25,
+            "gross_profit": 198539,
+            "gross_margin": 42.78,
+            "gross_margin_4q_avg": 42.45,
+            "net_income": 72438,
+            "net_income_4q": null,
+            "revenue": 464146,
+            "revenue_4q": null,
+            "common_shares": 468004,
+            "book_valuer_per_share": 35,
+            "book_valuer_per_share_4q_avg": 33.63,
+            "equity": 1643219,
+            "current_ratio": 308.51,
+            "debt_ratio": 44.87,
+            "inventory_turnover_ratio": 0.81,
+            "account_receivable_turnover_ratio": 1.04,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 10.17,
+            "price_fair": 187.6,
+            "eps_avg_yearly": 5.36,
+            "eps_latest_yearly": 6.2,
+            "eps_growth_yearly": 240.83
         }
     },
     "months": {
@@ -4523,6 +4563,16 @@
             "month": "2023-09",
             "price": "148.95",
             "revenue": 137267
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "150.22",
+            "revenue": 168153
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "151.39",
+            "revenue": 163779
         }
     }
 }

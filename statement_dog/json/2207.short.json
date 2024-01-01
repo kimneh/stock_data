@@ -6,19 +6,19 @@
         "main_business": "各種車輛、車輛用冷暖氣機及其零件之裝配、買賣、修理、保養<br>進出口業務",
         "website_url": "http://www.hotaimotor.com.tw",
         "ceo": "蘇純興",
-        "pe_ratio": -32,
+        "pe_ratio": 42,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 4,
         "eps_growth_avg": {
             "last_all": 11.72,
-            "last_2y": -21.74,
-            "last_4y": -9.75,
-            "last_8y": -2.02,
-            "last_12y": 6.25,
-            "last_16y": 3.5,
-            "last_20y": 11.72,
+            "last_2y": -41.46,
+            "last_4y": -11.98,
+            "last_8y": -4.81,
+            "last_12y": 2.78,
+            "last_16y": 5.16,
+            "last_20y": 10.16,
             "at_2006_last_3y": 30.19,
             "at_2007_last_3y": 16.66,
             "at_2008_last_3y": -4.56,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 7.1,
             "at_2021_last_3y": 12.81,
             "at_2022_last_3y": -11.98,
-            "at_2023_last_3y": -11.98,
+            "at_2023_last_3y": -21.74,
+            "at_2024_last_3y": -21.74,
             "at_2006_last_all": 32.72,
             "at_2007_last_all": 26.78,
             "at_2008_last_all": 19.22,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 17.32,
             "at_2021_last_all": 17.31,
             "at_2022_last_all": 11.72,
-            "at_2023_last_all": 11.72
+            "at_2023_last_all": 11.72,
+            "at_2024_last_all": 11.72
         },
-        "latest_eps": -19.21,
-        "latest_price": 607,
-        "latest_roe": -8.63,
+        "latest_eps": 16.69,
+        "latest_price": 709,
+        "latest_roe": 14.59,
         "latest_gross_margin": null,
-        "latest_equity": 82321974,
-        "latest_revenue": 71623743,
+        "latest_equity": 96093069,
+        "latest_revenue": 70492597,
         "latest_gross_profit": null,
-        "latest_net_income": 7942607,
-        "latest_debt_ratio": 81.47,
-        "latest_current_ratio": 97.12,
-        "latest_account_receivable_turnover_ratio": 0.28,
+        "latest_net_income": 7183911,
+        "latest_debt_ratio": 79.36,
+        "latest_current_ratio": 99.81,
+        "latest_account_receivable_turnover_ratio": 0.26,
         "latest_inventory_turnover_ratio": null,
-        "latest_reinvestment_rate": 87.68,
-        "latest_research_to_sale_ratio": 0.05
+        "latest_reinvestment_rate": 83.3,
+        "latest_research_to_sale_ratio": 0.06
     },
     "eps_dividends": {
         "1992": {
@@ -228,9 +230,9 @@
             "eps": -35.39
         },
         "2023": {
-            "cash": 2,
-            "stock": 0.2,
-            "eps": 21.92
+            "cash": 4,
+            "stock": 0.4,
+            "eps": 33.31
         }
     },
     "dividends": {
@@ -353,6 +355,10 @@
         "2022-07-27": {
             "cash": 20,
             "stock": 0
+        },
+        "2023-03-14": {
+            "cash": 2,
+            "stock": 0.2
         },
         "2023-09-07": {
             "cash": 2,
@@ -633,7 +639,9 @@
         "202307": "781.57",
         "202308": "705.73",
         "202309": "672.00",
-        "202310": "630.50"
+        "202310": "627.80",
+        "202311": "667.91",
+        "202312": "699.67"
     },
     "quarters": {
         "20011": {
@@ -3515,6 +3523,38 @@
             "eps_avg_yearly": 28.97,
             "eps_latest_yearly": 50.6,
             "eps_growth_yearly": 28.72
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 11.39,
+            "eps_growth_year": null,
+            "eps_4q": 16.69,
+            "eps_4q_growth_year": null,
+            "roe": 8.05,
+            "roe_4q": 15.139999999999997,
+            "gross_profit": null,
+            "gross_margin": null,
+            "gross_margin_4q_avg": 0,
+            "net_income": 7183911,
+            "net_income_4q": null,
+            "revenue": 70492597,
+            "revenue_4q": null,
+            "common_shares": 5571028,
+            "book_valuer_per_share": 112.31,
+            "book_valuer_per_share_4q_avg": 93.28,
+            "equity": 96093069,
+            "current_ratio": 99.81,
+            "debt_ratio": 79.36,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": 0.26,
+            "reinvestment_rate": 83.3,
+            "research_to_sale_ratio": 0.06,
+            "price_fair": 1004.22,
+            "eps_avg_yearly": 30.76,
+            "eps_latest_yearly": 45.56,
+            "eps_growth_yearly": 22.65
         }
     },
     "months": {
@@ -4857,6 +4897,16 @@
             "month": "2023-09",
             "price": "672.00",
             "revenue": 19953086
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "627.80",
+            "revenue": 21711762
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "667.91",
+            "revenue": 22986125
         }
     }
 }

@@ -6,18 +6,18 @@
         "main_business": "電子產品及其零件、電源供應器之進出口買賣業務<br>電腦外殼、電腦週邊設備之研究開發、組裝加工及進出口買賣業務<br>電腦外殼沖壓機械及其零組件之進出口買賣業務",
         "website_url": "http://www.casing.com.tw",
         "ceo": "洪廷宏",
-        "pe_ratio": -291,
+        "pe_ratio": -141,
         "report_year_from": 2003,
         "report_year_to": 2023,
-        "age": 20,
+        "age": 21,
         "eps_negative_percentage": 40,
         "eps_growth_avg": {
             "last_all": -5.3,
-            "last_2y": 0,
+            "last_2y": -100,
             "last_4y": 0,
             "last_8y": 20,
-            "last_12y": 0,
-            "last_16y": -6.76,
+            "last_12y": 20,
+            "last_16y": -5,
             "last_20y": null,
             "at_2006_last_3y": null,
             "at_2007_last_3y": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": 0,
             "at_2022_last_3y": 0,
             "at_2023_last_3y": 0,
+            "at_2024_last_3y": 0,
             "at_2006_last_all": -6.64,
             "at_2007_last_all": 0.9,
             "at_2008_last_all": -13.92,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 4.17,
             "at_2021_last_all": -5.3,
             "at_2022_last_all": -5.3,
-            "at_2023_last_all": -5.3
+            "at_2023_last_all": -5.3,
+            "at_2024_last_all": -5.3
         },
-        "latest_eps": -0.11,
-        "latest_price": 32.05,
-        "latest_roe": -2.64,
-        "latest_gross_margin": 15.07,
-        "latest_equity": 1023048,
-        "latest_revenue": 529998,
-        "latest_gross_profit": 79885,
-        "latest_net_income": 53562,
-        "latest_debt_ratio": 55.8,
-        "latest_current_ratio": 170.81,
-        "latest_account_receivable_turnover_ratio": 0.88,
-        "latest_inventory_turnover_ratio": 1.48,
-        "latest_reinvestment_rate": 130.91,
-        "latest_research_to_sale_ratio": 1.06
+        "latest_eps": -0.27,
+        "latest_price": 38.2,
+        "latest_roe": -4.16,
+        "latest_gross_margin": 3.69,
+        "latest_equity": 1016532,
+        "latest_revenue": 418527,
+        "latest_gross_profit": 15424,
+        "latest_net_income": -31568,
+        "latest_debt_ratio": 51.92,
+        "latest_current_ratio": 185.55,
+        "latest_account_receivable_turnover_ratio": 0.6,
+        "latest_inventory_turnover_ratio": 1.45,
+        "latest_reinvestment_rate": 294.09,
+        "latest_research_to_sale_ratio": 2.28
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 0.35
+            "eps": 0.05
         }
     },
     "dividends": {
@@ -508,7 +510,9 @@
         "202307": "30.08",
         "202308": "32.85",
         "202309": "32.80",
-        "202310": "35.70"
+        "202310": "35.20",
+        "202311": "32.83",
+        "202312": "37.29"
     },
     "quarters": {
         "20011": {
@@ -3390,6 +3394,38 @@
             "eps_avg_yearly": 2.27,
             "eps_latest_yearly": 4.2,
             "eps_growth_yearly": 437.52
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.3,
+            "eps_growth_year": null,
+            "eps_4q": -0.27,
+            "eps_4q_growth_year": null,
+            "roe": -3.1,
+            "roe_4q": -4.26,
+            "gross_profit": 15424,
+            "gross_margin": 3.69,
+            "gross_margin_4q_avg": 8.68,
+            "net_income": -31568,
+            "net_income_4q": null,
+            "revenue": 418527,
+            "revenue_4q": null,
+            "common_shares": 846512,
+            "book_valuer_per_share": 11.34,
+            "book_valuer_per_share_4q_avg": 10.84,
+            "equity": 1016532,
+            "current_ratio": 185.55,
+            "debt_ratio": 51.92,
+            "inventory_turnover_ratio": 1.45,
+            "account_receivable_turnover_ratio": 0.6,
+            "reinvestment_rate": 294.09,
+            "research_to_sale_ratio": 2.28,
+            "price_fair": 82.6,
+            "eps_avg_yearly": 2.36,
+            "eps_latest_yearly": 4.2,
+            "eps_growth_yearly": 246.9
         }
     },
     "months": {
@@ -4547,6 +4583,16 @@
             "month": "2023-09",
             "price": "32.80",
             "revenue": 120764
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "35.20",
+            "revenue": 137405
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "32.83",
+            "revenue": 130643
         }
     }
 }

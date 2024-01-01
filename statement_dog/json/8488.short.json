@@ -6,15 +6,15 @@
         "main_business": "馬口鐵罐、鋁罐等金屬包裝材料之製造及銷售",
         "website_url": "http://www.jypkg.com",
         "ceo": "陳金龍",
-        "pe_ratio": -11,
+        "pe_ratio": -17,
         "report_year_from": 2016,
         "report_year_to": 2023,
-        "age": 7,
+        "age": 8,
         "eps_negative_percentage": 43,
         "eps_growth_avg": {
             "last_all": -62.06,
-            "last_2y": -49.42,
-            "last_4y": -62.06,
+            "last_2y": -50,
+            "last_4y": -49.42,
             "last_8y": null,
             "last_12y": null,
             "last_16y": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": -49.42,
             "at_2022_last_3y": -49.42,
             "at_2023_last_3y": -49.42,
+            "at_2024_last_3y": -49.42,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -74.13,
             "at_2021_last_all": -49.42,
             "at_2022_last_all": -62.06,
-            "at_2023_last_all": -62.06
+            "at_2023_last_all": -62.06,
+            "at_2024_last_all": -62.06
         },
-        "latest_eps": -1.64,
-        "latest_price": 17.7,
-        "latest_roe": -4.5,
-        "latest_gross_margin": 5.7,
-        "latest_equity": 2372752,
-        "latest_revenue": 909864,
-        "latest_gross_profit": 51825,
-        "latest_net_income": -36734,
-        "latest_debt_ratio": 54.53,
-        "latest_current_ratio": 84.83,
-        "latest_account_receivable_turnover_ratio": 0.82,
-        "latest_inventory_turnover_ratio": 2.28,
-        "latest_reinvestment_rate": -1133.63,
-        "latest_research_to_sale_ratio": 0.54
+        "latest_eps": -1.01,
+        "latest_price": 17.45,
+        "latest_roe": -2.75,
+        "latest_gross_margin": 7.28,
+        "latest_equity": 2459821,
+        "latest_revenue": 1056391,
+        "latest_gross_profit": 76858,
+        "latest_net_income": -15013,
+        "latest_debt_ratio": 54.07,
+        "latest_current_ratio": 83.82,
+        "latest_account_receivable_turnover_ratio": 0.99,
+        "latest_inventory_turnover_ratio": 2.87,
+        "latest_reinvestment_rate": -815.39,
+        "latest_research_to_sale_ratio": 0.43
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.95
+            "eps": -1.17
         }
     },
     "dividends": {
@@ -492,7 +494,9 @@
         "202307": "17.73",
         "202308": "17.66",
         "202309": "17.18",
-        "202310": "17.76"
+        "202310": "17.79",
+        "202311": "17.88",
+        "202312": "17.81"
     },
     "quarters": {
         "20011": {
@@ -3374,6 +3378,38 @@
             "eps_avg_yearly": 2.6,
             "eps_latest_yearly": 0.12,
             "eps_growth_yearly": 2094.73
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.22,
+            "eps_growth_year": null,
+            "eps_4q": -1.01,
+            "eps_4q_growth_year": null,
+            "roe": -0.62,
+            "roe_4q": -2.81,
+            "gross_profit": 76858,
+            "gross_margin": 7.28,
+            "gross_margin_4q_avg": 6.19,
+            "net_income": -15013,
+            "net_income_4q": null,
+            "revenue": 1056391,
+            "revenue_4q": null,
+            "common_shares": 675000,
+            "book_valuer_per_share": 36.44,
+            "book_valuer_per_share_4q_avg": 36.31,
+            "equity": 2459821,
+            "current_ratio": 83.82,
+            "debt_ratio": 54.07,
+            "inventory_turnover_ratio": 2.87,
+            "account_receivable_turnover_ratio": 0.99,
+            "reinvestment_rate": -815.39,
+            "research_to_sale_ratio": 0.43,
+            "price_fair": 111.65,
+            "eps_avg_yearly": 3.19,
+            "eps_latest_yearly": 0.12,
+            "eps_growth_yearly": 2651.74
         }
     },
     "months": {
@@ -3786,6 +3822,16 @@
             "month": "2023-09",
             "price": "17.18",
             "revenue": 379705
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "17.79",
+            "revenue": 305423
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "17.88",
+            "revenue": 330537
         }
     }
 }

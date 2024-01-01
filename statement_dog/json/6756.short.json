@@ -6,14 +6,14 @@
         "main_business": "USB及USB Type–C系列相關控制晶片",
         "website_url": "https://www.via-labs.com",
         "ceo": "林志峰",
-        "pe_ratio": 52,
+        "pe_ratio": 89,
         "report_year_from": 2019,
         "report_year_to": 2023,
-        "age": 4,
+        "age": 5,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 40.72,
-            "last_2y": null,
+            "last_all": 1.66,
+            "last_2y": 1.66,
             "last_4y": null,
             "last_8y": null,
             "last_12y": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": 40.72,
-            "at_2023_last_all": 40.72
+            "at_2023_last_all": 1.66,
+            "at_2024_last_all": 1.66
         },
-        "latest_eps": 3.97,
-        "latest_price": 205,
-        "latest_roe": 9.5,
-        "latest_gross_margin": 47.01,
-        "latest_equity": 2773257,
-        "latest_revenue": 591791,
-        "latest_gross_profit": 278186,
-        "latest_net_income": 79377,
-        "latest_debt_ratio": 18.1,
-        "latest_current_ratio": 360.88,
-        "latest_account_receivable_turnover_ratio": 3.16,
-        "latest_inventory_turnover_ratio": 0.45,
+        "latest_eps": 3.09,
+        "latest_price": 275,
+        "latest_roe": 7.13,
+        "latest_gross_margin": 44.54,
+        "latest_equity": 2862768,
+        "latest_revenue": 557621,
+        "latest_gross_profit": 248360,
+        "latest_net_income": 77364,
+        "latest_debt_ratio": 17.97,
+        "latest_current_ratio": 365.22,
+        "latest_account_receivable_turnover_ratio": 2.36,
+        "latest_inventory_turnover_ratio": 0.6,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 30.24
+        "latest_research_to_sale_ratio": 27.45
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 10.57
         },
         "2023": {
-            "cash": 7.5,
+            "cash": 15,
             "stock": 0,
-            "eps": 1.37
+            "eps": 2.49
         }
     },
     "dividends": {
@@ -199,6 +201,10 @@
         },
         "2022-05-06": {
             "cash": 11,
+            "stock": 0
+        },
+        "2023-03-09": {
+            "cash": 7.5,
             "stock": 0
         },
         "2023-05-17": {
@@ -480,7 +486,9 @@
         "202307": "225.17",
         "202308": "206.66",
         "202309": "217.80",
-        "202310": "207.25"
+        "202310": "206.98",
+        "202311": "220.89",
+        "202312": "239.86"
     },
     "quarters": {
         "20011": {
@@ -3362,6 +3370,38 @@
             "eps_avg_yearly": 8.87,
             "eps_latest_yearly": 4.6,
             "eps_growth_yearly": 122.91
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 1.12,
+            "eps_growth_year": -44.28,
+            "eps_4q": 3.09,
+            "eps_4q_growth_year": -77.19,
+            "roe": 2.75,
+            "roe_4q": 7.5,
+            "gross_profit": 248360,
+            "gross_margin": 44.54,
+            "gross_margin_4q_avg": 47.28,
+            "net_income": 77364,
+            "net_income_4q": null,
+            "revenue": 557621,
+            "revenue_4q": null,
+            "common_shares": 690090,
+            "book_valuer_per_share": 41.44,
+            "book_valuer_per_share_4q_avg": 41.69,
+            "equity": 2862768,
+            "current_ratio": 365.22,
+            "debt_ratio": 17.97,
+            "inventory_turnover_ratio": 0.6,
+            "account_receivable_turnover_ratio": 2.36,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 27.45,
+            "price_fair": 299.5,
+            "eps_avg_yearly": 8.56,
+            "eps_latest_yearly": 4.48,
+            "eps_growth_yearly": 113.39
         }
     },
     "months": {
@@ -3594,6 +3634,16 @@
             "month": "2023-09",
             "price": "217.80",
             "revenue": 186446
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "206.98",
+            "revenue": 169502
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "220.89",
+            "revenue": 195476
         }
     }
 }

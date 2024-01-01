@@ -6,10 +6,10 @@
         "main_business": "光碟片、影碟片、組裝機器、光電產品",
         "website_url": "http://www.ritek.com.tw",
         "ceo": "王鼎章",
-        "pe_ratio": -31,
+        "pe_ratio": -19,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 87,
         "eps_growth_avg": {
             "last_all": -100,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": -100,
             "at_2007_last_all": -100,
             "at_2008_last_all": -100,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -100,
             "at_2021_last_all": -100,
             "at_2022_last_all": -100,
-            "at_2023_last_all": -100
+            "at_2023_last_all": -100,
+            "at_2024_last_all": -100
         },
-        "latest_eps": -0.26,
-        "latest_price": 7.96,
-        "latest_roe": -0.71,
-        "latest_gross_margin": 16.76,
-        "latest_equity": 10528962,
-        "latest_revenue": 1877251,
-        "latest_gross_profit": 314711,
-        "latest_net_income": 1379,
-        "latest_debt_ratio": 45.93,
-        "latest_current_ratio": 212.02,
-        "latest_account_receivable_turnover_ratio": 1.23,
-        "latest_inventory_turnover_ratio": 0.91,
+        "latest_eps": -0.44,
+        "latest_price": 8.2,
+        "latest_roe": -2.81,
+        "latest_gross_margin": 16,
+        "latest_equity": 10425174,
+        "latest_revenue": 2005313,
+        "latest_gross_profit": 320836,
+        "latest_net_income": -171490,
+        "latest_debt_ratio": 46.06,
+        "latest_current_ratio": 224.61,
+        "latest_account_receivable_turnover_ratio": 1.31,
+        "latest_inventory_turnover_ratio": 1.09,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 2.65
+        "latest_research_to_sale_ratio": 2.66
     },
     "eps_dividends": {
         "1994": {
@@ -220,7 +222,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.15
+            "eps": -0.32
         }
     },
     "dividends": {
@@ -539,7 +541,9 @@
         "202307": "9.43",
         "202308": "8.60",
         "202309": "8.41",
-        "202310": "8.01"
+        "202310": "8.01",
+        "202311": "8.11",
+        "202312": "8.27"
     },
     "quarters": {
         "20011": {
@@ -3421,6 +3425,38 @@
             "eps_avg_yearly": 0.04,
             "eps_latest_yearly": 0.04,
             "eps_growth_yearly": -300
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.17,
+            "eps_growth_year": -1800,
+            "eps_4q": -0.44,
+            "eps_4q_growth_year": null,
+            "roe": -1.64,
+            "roe_4q": -2.84,
+            "gross_profit": 320836,
+            "gross_margin": 16,
+            "gross_margin_4q_avg": 16.5,
+            "net_income": -171490,
+            "net_income_4q": null,
+            "revenue": 2005313,
+            "revenue_4q": null,
+            "common_shares": 6936797,
+            "book_valuer_per_share": 8.05,
+            "book_valuer_per_share_4q_avg": 8.23,
+            "equity": 10425174,
+            "current_ratio": 224.61,
+            "debt_ratio": 46.06,
+            "inventory_turnover_ratio": 1.09,
+            "account_receivable_turnover_ratio": 1.31,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 2.66,
+            "price_fair": 0.12,
+            "eps_avg_yearly": 0.04,
+            "eps_latest_yearly": 0.04,
+            "eps_growth_yearly": -300
         }
     },
     "months": {
@@ -4763,6 +4799,16 @@
             "month": "2023-09",
             "price": "8.41",
             "revenue": 705003
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "8.01",
+            "revenue": 713874
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "8.11",
+            "revenue": 606142
         }
     }
 }

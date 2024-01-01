@@ -6,13 +6,13 @@
         "main_business": "民生消費品之零售<br>超級市場之經營<br>其他",
         "website_url": "https://www.simplemartretail.com/",
         "ceo": "邱光隆",
-        "pe_ratio": 36,
+        "pe_ratio": 32,
         "report_year_from": 2018,
         "report_year_to": 2023,
-        "age": 5,
+        "age": 6,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": null,
+            "last_all": -26.66,
             "last_2y": null,
             "last_4y": null,
             "last_8y": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,20 +55,21 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": null,
-            "at_2023_last_all": null
+            "at_2023_last_all": -26.66,
+            "at_2024_last_all": -26.66
         },
-        "latest_eps": 1.08,
-        "latest_price": 39.3,
-        "latest_roe": 3.13,
-        "latest_gross_margin": 25.35,
-        "latest_equity": 1826843,
-        "latest_revenue": 3448955,
-        "latest_gross_profit": 874381,
-        "latest_net_income": 10360,
-        "latest_debt_ratio": 66.73,
-        "latest_current_ratio": 106.98,
-        "latest_account_receivable_turnover_ratio": 54.31,
-        "latest_inventory_turnover_ratio": 1.5,
+        "latest_eps": 1.44,
+        "latest_price": 46.45,
+        "latest_roe": 4.26,
+        "latest_gross_margin": 25.64,
+        "latest_equity": 1860904,
+        "latest_revenue": 3761572,
+        "latest_gross_profit": 964414,
+        "latest_net_income": 34061,
+        "latest_debt_ratio": 68.59,
+        "latest_current_ratio": 108.17,
+        "latest_account_receivable_turnover_ratio": 50.34,
+        "latest_inventory_turnover_ratio": 1.67,
         "latest_reinvestment_rate": null,
         "latest_research_to_sale_ratio": null
     },
@@ -183,9 +185,9 @@
             "eps": 0.82
         },
         "2023": {
-            "cash": 0.73,
+            "cash": 1.46,
             "stock": 0,
-            "eps": 0.41
+            "eps": 0.99
         }
     },
     "dividends": {
@@ -203,6 +205,10 @@
         },
         "2022-08-17": {
             "cash": 2.59,
+            "stock": 0
+        },
+        "2023-03-03": {
+            "cash": 0.73,
             "stock": 0
         },
         "2023-08-16": {
@@ -484,7 +490,9 @@
         "202307": "41.55",
         "202308": "40.65",
         "202309": "40.33",
-        "202310": "39.64"
+        "202310": "39.59",
+        "202311": "41.41",
+        "202312": "46.03"
     },
     "quarters": {
         "20011": {
@@ -3366,6 +3374,38 @@
             "eps_avg_yearly": 1.79,
             "eps_latest_yearly": 1.04,
             "eps_growth_yearly": 186.6
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.58,
+            "eps_growth_year": 152.17,
+            "eps_4q": 1.44,
+            "eps_4q_growth_year": 27.67,
+            "roe": 1.85,
+            "roe_4q": 4.26,
+            "gross_profit": 964414,
+            "gross_margin": 25.64,
+            "gross_margin_4q_avg": 25.63,
+            "net_income": 34061,
+            "net_income_4q": null,
+            "revenue": 3761572,
+            "revenue_4q": null,
+            "common_shares": 675000,
+            "book_valuer_per_share": 26.86,
+            "book_valuer_per_share_4q_avg": 26.62,
+            "equity": 1860904,
+            "current_ratio": 108.17,
+            "debt_ratio": 68.59,
+            "inventory_turnover_ratio": 1.67,
+            "account_receivable_turnover_ratio": 50.34,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": null,
+            "price_fair": 64.4,
+            "eps_avg_yearly": 1.84,
+            "eps_latest_yearly": 2.32,
+            "eps_growth_yearly": 217.17
         }
     },
     "months": {
@@ -3658,6 +3698,16 @@
             "month": "2023-09",
             "price": "40.33",
             "revenue": 1209033
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "39.59",
+            "revenue": 1198860
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "41.41",
+            "revenue": 1128567
         }
     }
 }

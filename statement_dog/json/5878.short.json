@@ -6,16 +6,16 @@
         "main_business": "人身保險經紀人<br>財產保險經紀人",
         "website_url": "http://www.tabc.com.tw",
         "ceo": "陳養國",
-        "pe_ratio": 24,
+        "pe_ratio": 22,
         "report_year_from": 2011,
         "report_year_to": 2023,
-        "age": 12,
+        "age": 13,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 0.09,
-            "last_2y": -3.78,
-            "last_4y": -6.45,
-            "last_8y": null,
+            "last_all": -4.82,
+            "last_2y": -23.33,
+            "last_4y": -12.15,
+            "last_8y": -4.82,
             "last_12y": null,
             "last_16y": null,
             "last_20y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": -0.42,
             "at_2021_last_3y": -5.05,
             "at_2022_last_3y": -4.17,
-            "at_2023_last_3y": -4.17,
+            "at_2023_last_3y": -13.86,
+            "at_2024_last_3y": -13.86,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,21 +55,22 @@
             "at_2020_last_all": 4.43,
             "at_2021_last_all": 1.82,
             "at_2022_last_all": 0.09,
-            "at_2023_last_all": 0.09
+            "at_2023_last_all": -4.82,
+            "at_2024_last_all": -4.82
         },
-        "latest_eps": 2.01,
-        "latest_price": 48.3,
-        "latest_roe": 9.85,
-        "latest_gross_margin": 19.74,
-        "latest_equity": 510662,
-        "latest_revenue": 194443,
-        "latest_gross_profit": 38385,
-        "latest_net_income": 16081,
-        "latest_debt_ratio": 29.76,
-        "latest_current_ratio": 254.94,
-        "latest_account_receivable_turnover_ratio": 2.83,
+        "latest_eps": 2.2,
+        "latest_price": 47.6,
+        "latest_roe": 10.63,
+        "latest_gross_margin": 17.87,
+        "latest_equity": 522920,
+        "latest_revenue": 190441,
+        "latest_gross_profit": 34031,
+        "latest_net_income": 13110,
+        "latest_debt_ratio": 29.77,
+        "latest_current_ratio": 263.06,
+        "latest_account_receivable_turnover_ratio": 2.6,
         "latest_inventory_turnover_ratio": null,
-        "latest_reinvestment_rate": -4.88,
+        "latest_reinvestment_rate": -4.49,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 2.7,
             "stock": 0,
-            "eps": 0.95
+            "eps": 1.47
         }
     },
     "dividends": {
@@ -504,7 +506,9 @@
         "202307": "48.31",
         "202308": "48.42",
         "202309": "48.52",
-        "202310": "48.46"
+        "202310": "48.44",
+        "202311": "47.73",
+        "202312": "47.82"
     },
     "quarters": {
         "20011": {
@@ -3386,6 +3390,38 @@
             "eps_avg_yearly": 2.93,
             "eps_latest_yearly": 2.56,
             "eps_growth_yearly": 68.91
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.52,
+            "eps_growth_year": 57.58,
+            "eps_4q": 2.2,
+            "eps_4q_growth_year": -24.76,
+            "roe": 2.54,
+            "roe_4q": 10.72,
+            "gross_profit": 34031,
+            "gross_margin": 17.87,
+            "gross_margin_4q_avg": 19.5,
+            "net_income": 13110,
+            "net_income_4q": null,
+            "revenue": 190441,
+            "revenue_4q": null,
+            "common_shares": 250243,
+            "book_valuer_per_share": 20.9,
+            "book_valuer_per_share_4q_avg": 20.59,
+            "equity": 522920,
+            "current_ratio": 263.06,
+            "debt_ratio": 29.77,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": 2.6,
+            "reinvestment_rate": -4.49,
+            "research_to_sale_ratio": null,
+            "price_fair": 99.58,
+            "eps_avg_yearly": 2.85,
+            "eps_latest_yearly": 2.08,
+            "eps_growth_yearly": 63.62
         }
     },
     "months": {
@@ -3983,6 +4019,16 @@
             "month": "2023-09",
             "price": "48.52",
             "revenue": 65804
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "48.44",
+            "revenue": 75498
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "47.73",
+            "revenue": 60711
         }
     }
 }

@@ -6,16 +6,16 @@
         "main_business": "導線架<br>模具及其它",
         "website_url": "http://www.jihlin.com.tw",
         "ceo": "蔡上民",
-        "pe_ratio": 31,
+        "pe_ratio": 40,
         "report_year_from": 2011,
         "report_year_to": 2023,
-        "age": 12,
+        "age": 13,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 18.25,
-            "last_2y": 12.78,
-            "last_4y": 0.67,
-            "last_8y": 18.25,
+            "last_all": 10.16,
+            "last_2y": 7.13,
+            "last_4y": -13.77,
+            "last_8y": 0.18,
             "last_12y": null,
             "last_16y": null,
             "last_20y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 4.85,
             "at_2021_last_3y": 4.85,
             "at_2022_last_3y": -1.57,
-            "at_2023_last_3y": -1.57,
+            "at_2023_last_3y": -6.06,
+            "at_2024_last_3y": -6.06,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 11.46,
             "at_2021_last_all": 22.53,
             "at_2022_last_all": 18.25,
-            "at_2023_last_all": 18.25
+            "at_2023_last_all": 10.16,
+            "at_2024_last_all": 10.16
         },
-        "latest_eps": 2.35,
-        "latest_price": 72.6,
-        "latest_roe": 8.32,
-        "latest_gross_margin": 14.14,
-        "latest_equity": 2784046,
-        "latest_revenue": 1257068,
-        "latest_gross_profit": 177717,
-        "latest_net_income": 94765,
-        "latest_debt_ratio": 46.38,
-        "latest_current_ratio": 306.7,
-        "latest_account_receivable_turnover_ratio": 1.4,
-        "latest_inventory_turnover_ratio": 0.73,
-        "latest_reinvestment_rate": -10.16,
-        "latest_research_to_sale_ratio": 1.95
+        "latest_eps": 1.79,
+        "latest_price": 72,
+        "latest_roe": 6.1,
+        "latest_gross_margin": 14.63,
+        "latest_equity": 2885845,
+        "latest_revenue": 1325246,
+        "latest_gross_profit": 193818,
+        "latest_net_income": 46684,
+        "latest_debt_ratio": 45.74,
+        "latest_current_ratio": 341.73,
+        "latest_account_receivable_turnover_ratio": 1.42,
+        "latest_inventory_turnover_ratio": 0.82,
+        "latest_reinvestment_rate": -9.32,
+        "latest_research_to_sale_ratio": 2.3
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 4.09
         },
         "2023": {
-            "cash": 3.5,
+            "cash": 7,
             "stock": 0,
-            "eps": 1.07
+            "eps": 1.53
         }
     },
     "dividends": {
@@ -227,6 +229,10 @@
         },
         "2022-08-05": {
             "cash": 4,
+            "stock": 0
+        },
+        "2023-03-21": {
+            "cash": 3.5,
             "stock": 0
         },
         "2023-07-28": {
@@ -508,7 +514,9 @@
         "202307": "78.60",
         "202308": "79.92",
         "202309": "82.10",
-        "202310": "76.36"
+        "202310": "75.88",
+        "202311": "73.05",
+        "202312": "72.32"
     },
     "quarters": {
         "20011": {
@@ -3390,6 +3398,38 @@
             "eps_avg_yearly": 3.06,
             "eps_latest_yearly": 3.72,
             "eps_growth_yearly": 176.45
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.46,
+            "eps_growth_year": -54.9,
+            "eps_4q": 1.79,
+            "eps_4q_growth_year": -62.89,
+            "roe": 1.65,
+            "roe_4q": 6.4,
+            "gross_profit": 193818,
+            "gross_margin": 14.63,
+            "gross_margin_4q_avg": 13.47,
+            "net_income": 46684,
+            "net_income_4q": null,
+            "revenue": 1325246,
+            "revenue_4q": null,
+            "common_shares": 1020409,
+            "book_valuer_per_share": 28.28,
+            "book_valuer_per_share_4q_avg": 28.31,
+            "equity": 2885845,
+            "current_ratio": 341.73,
+            "debt_ratio": 45.74,
+            "inventory_turnover_ratio": 0.82,
+            "account_receivable_turnover_ratio": 1.42,
+            "reinvestment_rate": -9.32,
+            "research_to_sale_ratio": 2.3,
+            "price_fair": 105.53,
+            "eps_avg_yearly": 3.02,
+            "eps_latest_yearly": 1.84,
+            "eps_growth_yearly": 173.32
         }
     },
     "months": {
@@ -4057,6 +4097,16 @@
             "month": "2023-09",
             "price": "82.10",
             "revenue": 413306
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "75.88",
+            "revenue": 398246
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "73.05",
+            "revenue": 447201
         }
     }
 }

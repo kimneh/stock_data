@@ -6,10 +6,10 @@
         "main_business": "專業晶片電阻之製造與銷售業務",
         "website_url": "http://www.everohms.com",
         "ceo": "詹清輝",
-        "pe_ratio": -32,
+        "pe_ratio": -26,
         "report_year_from": 2020,
         "report_year_to": 2023,
-        "age": 3,
+        "age": 4,
         "eps_negative_percentage": 50,
         "eps_growth_avg": {
             "last_all": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": null,
-            "at_2023_last_all": null
+            "at_2023_last_all": null,
+            "at_2024_last_all": null
         },
-        "latest_eps": -0.75,
-        "latest_price": 23.7,
-        "latest_roe": -4.67,
-        "latest_gross_margin": 5.27,
-        "latest_equity": 1448602,
-        "latest_revenue": 232045,
-        "latest_gross_profit": 12232,
-        "latest_net_income": -30274,
-        "latest_debt_ratio": 36.53,
-        "latest_current_ratio": 151.63,
-        "latest_account_receivable_turnover_ratio": 0.85,
-        "latest_inventory_turnover_ratio": 0.64,
+        "latest_eps": -0.93,
+        "latest_price": 24.6,
+        "latest_roe": -5.34,
+        "latest_gross_margin": 10.15,
+        "latest_equity": 1455249,
+        "latest_revenue": 269517,
+        "latest_gross_profit": 27352,
+        "latest_net_income": 9368,
+        "latest_debt_ratio": 31.1,
+        "latest_current_ratio": 170.25,
+        "latest_account_receivable_turnover_ratio": 0.86,
+        "latest_inventory_turnover_ratio": 0.71,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 3.44
+        "latest_research_to_sale_ratio": 3.15
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 1.33
         },
         "2023": {
-            "cash": 1.1,
+            "cash": 2.2,
             "stock": 0,
-            "eps": -0.74
+            "eps": -0.63
         }
     },
     "dividends": {
@@ -195,6 +197,10 @@
         },
         "2022-07-06": {
             "cash": 1.6,
+            "stock": 0
+        },
+        "2023-03-08": {
+            "cash": 1.1,
             "stock": 0
         },
         "2023-07-07": {
@@ -476,7 +482,9 @@
         "202307": "26.48",
         "202308": "26.38",
         "202309": "26.14",
-        "202310": "24.74"
+        "202310": "24.61",
+        "202311": "24.15",
+        "202312": "24.88"
     },
     "quarters": {
         "20011": {
@@ -3358,6 +3366,38 @@
             "eps_avg_yearly": 1.82,
             "eps_latest_yearly": 1.24,
             "eps_growth_yearly": -127.65
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.11,
+            "eps_growth_year": -64.52,
+            "eps_4q": -0.93,
+            "eps_4q_growth_year": null,
+            "roe": 0.65,
+            "roe_4q": -5.19,
+            "gross_profit": 27352,
+            "gross_margin": 10.15,
+            "gross_margin_4q_avg": 6.98,
+            "net_income": 9368,
+            "net_income_4q": null,
+            "revenue": 269517,
+            "revenue_4q": null,
+            "common_shares": 884711,
+            "book_valuer_per_share": 16.45,
+            "book_valuer_per_share_4q_avg": 17.21,
+            "equity": 1455249,
+            "current_ratio": 170.25,
+            "debt_ratio": 31.1,
+            "inventory_turnover_ratio": 0.71,
+            "account_receivable_turnover_ratio": 0.86,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 3.15,
+            "price_fair": 5.46,
+            "eps_avg_yearly": 1.82,
+            "eps_latest_yearly": 1.24,
+            "eps_growth_yearly": -127.65
         }
     },
     "months": {
@@ -3490,6 +3530,16 @@
             "month": "2023-09",
             "price": "26.14",
             "revenue": 82046
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "24.61",
+            "revenue": 72745
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "24.15",
+            "revenue": 77680
         }
     }
 }

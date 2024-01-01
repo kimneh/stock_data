@@ -6,16 +6,16 @@
         "main_business": "電源管理IC 之研發設計及銷售",
         "website_url": "http://www.silergy.com",
         "ceo": "游步東及Michael Grimm",
-        "pe_ratio": 42,
+        "pe_ratio": 100,
         "report_year_from": 2011,
         "report_year_to": 2023,
-        "age": 12,
+        "age": 13,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 30.37,
-            "last_2y": 25.74,
-            "last_4y": 19.05,
-            "last_8y": 30.37,
+            "last_all": 17.89,
+            "last_2y": -16.88,
+            "last_4y": -0.44,
+            "last_8y": 8.77,
             "last_12y": null,
             "last_16y": null,
             "last_20y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 18.31,
             "at_2021_last_3y": 34.67,
             "at_2022_last_3y": 23.05,
-            "at_2023_last_3y": 23.05,
+            "at_2023_last_3y": -4.3,
+            "at_2024_last_3y": -4.3,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 32.8,
             "at_2021_last_all": 39.59,
             "at_2022_last_all": 30.37,
-            "at_2023_last_all": 30.37
+            "at_2023_last_all": 17.89,
+            "at_2024_last_all": 17.89
         },
-        "latest_eps": 6.49,
-        "latest_price": 271.5,
-        "latest_roe": 8.13,
-        "latest_gross_margin": 40.69,
-        "latest_equity": 30488594,
-        "latest_revenue": 3597738,
-        "latest_gross_profit": 1463830,
-        "latest_net_income": -134765,
-        "latest_debt_ratio": 8.81,
-        "latest_current_ratio": 1415.49,
-        "latest_account_receivable_turnover_ratio": 2.62,
-        "latest_inventory_turnover_ratio": 0.5,
-        "latest_reinvestment_rate": 22.12,
-        "latest_research_to_sale_ratio": 34.48
+        "latest_eps": 3.94,
+        "latest_price": 500,
+        "latest_roe": 4.26,
+        "latest_gross_margin": 43.14,
+        "latest_equity": 32481438,
+        "latest_revenue": 4111329,
+        "latest_gross_profit": 1773780,
+        "latest_net_income": 459837,
+        "latest_debt_ratio": 8.7,
+        "latest_current_ratio": 1397.77,
+        "latest_account_receivable_turnover_ratio": 2.76,
+        "latest_inventory_turnover_ratio": 0.68,
+        "latest_reinvestment_rate": 25.74,
+        "latest_research_to_sale_ratio": 29.92
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 28.5
         },
         "2023": {
-            "cash": 4.5,
+            "cash": 9,
             "stock": 0,
-            "eps": 0.3
+            "eps": 1.59
         }
     },
     "dividends": {
@@ -223,6 +225,10 @@
         },
         "2022-04-22": {
             "cash": 18,
+            "stock": 0
+        },
+        "2023-03-09": {
+            "cash": 4.5,
             "stock": 0
         },
         "2023-04-21": {
@@ -504,7 +510,9 @@
         "202307": "343.81",
         "202308": "288.93",
         "202309": "314.25",
-        "202310": "297.67"
+        "202310": "296.88",
+        "202311": "371.11",
+        "202312": "423.50"
     },
     "quarters": {
         "20011": {
@@ -3386,6 +3394,38 @@
             "eps_avg_yearly": 30.59,
             "eps_latest_yearly": 2.28,
             "eps_growth_yearly": 152.73
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 1.29,
+            "eps_growth_year": -66.67,
+            "eps_4q": 3.94,
+            "eps_4q_growth_year": -76.98,
+            "roe": 1.46,
+            "roe_4q": 4.3100000000000005,
+            "gross_profit": 1773780,
+            "gross_margin": 43.14,
+            "gross_margin_4q_avg": 44.81,
+            "net_income": 459837,
+            "net_income_4q": null,
+            "revenue": 4111329,
+            "revenue_4q": null,
+            "common_shares": 958754,
+            "book_valuer_per_share": 83.03,
+            "book_valuer_per_share_4q_avg": 79.86,
+            "equity": 32481438,
+            "current_ratio": 1397.77,
+            "debt_ratio": 8.7,
+            "inventory_turnover_ratio": 0.68,
+            "account_receivable_turnover_ratio": 2.76,
+            "reinvestment_rate": 25.74,
+            "research_to_sale_ratio": 29.92,
+            "price_fair": 1081.9,
+            "eps_avg_yearly": 30.91,
+            "eps_latest_yearly": 2.28,
+            "eps_growth_yearly": 167.88
         }
     },
     "months": {
@@ -3978,6 +4018,16 @@
             "month": "2023-09",
             "price": "314.25",
             "revenue": 1503640
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "296.88",
+            "revenue": 1393139
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "371.11",
+            "revenue": 1480483
         }
     }
 }

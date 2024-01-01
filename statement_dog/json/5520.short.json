@@ -6,19 +6,19 @@
         "main_business": "預拌混凝土",
         "website_url": "https://www.lihtai.com",
         "ceo": "吳良材",
-        "pe_ratio": 10,
+        "pe_ratio": 11,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 4,
         "eps_growth_avg": {
-            "last_all": 5.26,
-            "last_2y": 41.79,
-            "last_4y": 39.38,
-            "last_8y": 17.43,
-            "last_12y": 11.7,
-            "last_16y": 11.96,
-            "last_20y": 5.26,
+            "last_all": 4.94,
+            "last_2y": 7.96,
+            "last_4y": 44.77,
+            "last_8y": 20.46,
+            "last_12y": 16.14,
+            "last_16y": 11.16,
+            "last_20y": 9.8,
             "at_2006_last_3y": 2.07,
             "at_2007_last_3y": 10.98,
             "at_2008_last_3y": -28.47,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 34.64,
             "at_2021_last_3y": 47.52,
             "at_2022_last_3y": 56.35,
-            "at_2023_last_3y": 56.35,
+            "at_2023_last_3y": 30.97,
+            "at_2024_last_3y": 30.97,
             "at_2006_last_all": -21.53,
             "at_2007_last_all": -9.12,
             "at_2008_last_all": -11.92,
@@ -54,21 +55,22 @@
             "at_2020_last_all": 4.43,
             "at_2021_last_all": 5.18,
             "at_2022_last_all": 5.26,
-            "at_2023_last_all": 5.26
+            "at_2023_last_all": 4.94,
+            "at_2024_last_all": 4.94
         },
-        "latest_eps": 6.43,
-        "latest_price": 61.9,
-        "latest_roe": 18.83,
-        "latest_gross_margin": 18.8,
-        "latest_equity": 2237432,
-        "latest_revenue": 981794,
-        "latest_gross_profit": 184555,
-        "latest_net_income": 117282,
-        "latest_debt_ratio": 32.55,
-        "latest_current_ratio": 211.6,
-        "latest_account_receivable_turnover_ratio": 0.9,
-        "latest_inventory_turnover_ratio": 3.26,
-        "latest_reinvestment_rate": 5.47,
+        "latest_eps": 7.08,
+        "latest_price": 76.8,
+        "latest_roe": 19.44,
+        "latest_gross_margin": 21.97,
+        "latest_equity": 2401625,
+        "latest_revenue": 960948,
+        "latest_gross_profit": 211140,
+        "latest_net_income": 145667,
+        "latest_debt_ratio": 29.58,
+        "latest_current_ratio": 237.3,
+        "latest_account_receivable_turnover_ratio": 0.85,
+        "latest_inventory_turnover_ratio": 3.09,
+        "latest_reinvestment_rate": 4.63,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -195,7 +197,7 @@
         "2023": {
             "cash": 3.95,
             "stock": 0,
-            "eps": 3.56
+            "eps": 5.85
         }
     },
     "dividends": {
@@ -574,7 +576,9 @@
         "202307": "60.89",
         "202308": "63.40",
         "202309": "62.88",
-        "202310": "62.42"
+        "202310": "62.32",
+        "202311": "67.76",
+        "202312": "75.59"
     },
     "quarters": {
         "20011": {
@@ -3456,6 +3460,38 @@
             "eps_avg_yearly": 5.29,
             "eps_latest_yearly": 7.4,
             "eps_growth_yearly": 41.37
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 2.29,
+            "eps_growth_year": 40.49,
+            "eps_4q": 7.08,
+            "eps_4q_growth_year": 16.81,
+            "roe": 6.28,
+            "roe_4q": 19.970000000000002,
+            "gross_profit": 211140,
+            "gross_margin": 21.97,
+            "gross_margin_4q_avg": 18.71,
+            "net_income": 145667,
+            "net_income_4q": null,
+            "revenue": 960948,
+            "revenue_4q": null,
+            "common_shares": 599752,
+            "book_valuer_per_share": 38.05,
+            "book_valuer_per_share_4q_avg": 36,
+            "equity": 2401625,
+            "current_ratio": 237.3,
+            "debt_ratio": 29.58,
+            "inventory_turnover_ratio": 3.09,
+            "account_receivable_turnover_ratio": 0.85,
+            "reinvestment_rate": 4.63,
+            "research_to_sale_ratio": null,
+            "price_fair": 200.29,
+            "eps_avg_yearly": 5.72,
+            "eps_latest_yearly": 9.16,
+            "eps_growth_yearly": 45.32
         }
     },
     "months": {
@@ -4798,6 +4834,16 @@
             "month": "2023-09",
             "price": "62.88",
             "revenue": 320173
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "62.32",
+            "revenue": 324668
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "67.76",
+            "revenue": 346953
         }
     }
 }

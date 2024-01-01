@@ -6,10 +6,10 @@
         "main_business": "全方位綠電解決方案包含工程、管理、智慧電力服務與儲能充電產品<br>案場維運服務、養殖管理服務",
         "website_url": "https://www.hdrenewables.com/",
         "ceo": "周仕昌",
-        "pe_ratio": 14,
+        "pe_ratio": 17,
         "report_year_from": 2021,
         "report_year_to": 2023,
-        "age": 2,
+        "age": 3,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
             "last_all": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": null,
-            "at_2023_last_all": null
+            "at_2023_last_all": null,
+            "at_2024_last_all": null
         },
-        "latest_eps": 7.22,
-        "latest_price": 104.5,
-        "latest_roe": 18.62,
-        "latest_gross_margin": 19.66,
-        "latest_equity": 4857118,
-        "latest_revenue": 1446759,
-        "latest_gross_profit": 284389,
-        "latest_net_income": 144609,
-        "latest_debt_ratio": 39.68,
-        "latest_current_ratio": 216.11,
-        "latest_account_receivable_turnover_ratio": 5.72,
-        "latest_inventory_turnover_ratio": 5.95,
+        "latest_eps": 7.53,
+        "latest_price": 130.5,
+        "latest_roe": 18.11,
+        "latest_gross_margin": 24.61,
+        "latest_equity": 5340113,
+        "latest_revenue": 975529,
+        "latest_gross_profit": 240071,
+        "latest_net_income": 90746,
+        "latest_debt_ratio": 46.68,
+        "latest_current_ratio": 330.19,
+        "latest_account_receivable_turnover_ratio": 7.14,
+        "latest_inventory_turnover_ratio": 9.41,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 0.91
+        "latest_research_to_sale_ratio": 1.58
     },
     "eps_dividends": {
         "2001": {
@@ -183,14 +185,18 @@
             "eps": 5.9
         },
         "2023": {
-            "cash": 2,
+            "cash": 6,
             "stock": 0,
-            "eps": 2.29
+            "eps": 3.22
         }
     },
     "dividends": {
         "2022-08-02": {
             "cash": 2,
+            "stock": 0
+        },
+        "2023-05-10": {
+            "cash": 4,
             "stock": 0
         },
         "2023-08-10": {
@@ -472,7 +478,9 @@
         "202307": "117.33",
         "202308": "110.07",
         "202309": "109.20",
-        "202310": "107.53"
+        "202310": "107.52",
+        "202311": "109.84",
+        "202312": "120.12"
     },
     "quarters": {
         "20011": {
@@ -3354,6 +3362,38 @@
             "eps_avg_yearly": 9.96,
             "eps_latest_yearly": 5.88,
             "eps_growth_yearly": 819.39
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.93,
+            "eps_growth_year": 29.17,
+            "eps_4q": 7.53,
+            "eps_4q_growth_year": null,
+            "roe": 1.78,
+            "roe_4q": 20.34,
+            "gross_profit": 240071,
+            "gross_margin": 24.61,
+            "gross_margin_4q_avg": 25.83,
+            "net_income": 90746,
+            "net_income_4q": null,
+            "revenue": 975529,
+            "revenue_4q": null,
+            "common_shares": 1000000,
+            "book_valuer_per_share": 50.27,
+            "book_valuer_per_share_4q_avg": 47.09,
+            "equity": 5340113,
+            "current_ratio": 330.19,
+            "debt_ratio": 46.68,
+            "inventory_turnover_ratio": 9.41,
+            "account_receivable_turnover_ratio": 7.14,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 1.58,
+            "price_fair": 294,
+            "eps_avg_yearly": 8.4,
+            "eps_latest_yearly": 3.72,
+            "eps_growth_yearly": 577.81
         }
     },
     "months": {
@@ -3466,6 +3506,16 @@
             "month": "2023-09",
             "price": "109.20",
             "revenue": 577134
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "107.52",
+            "revenue": 216810
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "109.84",
+            "revenue": 926657
         }
     }
 }

@@ -6,15 +6,15 @@
         "main_business": "經營服務業電子商務",
         "website_url": "http://www.gomaji.com/",
         "ceo": "劉吉仁",
-        "pe_ratio": -10,
+        "pe_ratio": -12,
         "report_year_from": 2013,
         "report_year_to": 2023,
-        "age": 10,
+        "age": 11,
         "eps_negative_percentage": 22,
         "eps_growth_avg": {
             "last_all": -24.46,
-            "last_2y": -44.73,
-            "last_4y": -24.75,
+            "last_2y": -88.45,
+            "last_4y": -8.55,
             "last_8y": null,
             "last_12y": null,
             "last_16y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 6.09,
             "at_2021_last_3y": -5.93,
             "at_2022_last_3y": -8.55,
-            "at_2023_last_3y": -8.55,
+            "at_2023_last_3y": -44.73,
+            "at_2024_last_3y": -44.73,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 1.13,
             "at_2021_last_all": -11.87,
             "at_2022_last_all": -24.46,
-            "at_2023_last_all": -24.46
+            "at_2023_last_all": -24.46,
+            "at_2024_last_all": -24.46
         },
-        "latest_eps": -3,
-        "latest_price": 28.8,
-        "latest_roe": -12.81,
-        "latest_gross_margin": 76.06,
-        "latest_equity": 388494,
-        "latest_revenue": 88888,
-        "latest_gross_profit": 67606,
-        "latest_net_income": -22631,
-        "latest_debt_ratio": 66.41,
-        "latest_current_ratio": 65.77,
-        "latest_account_receivable_turnover_ratio": 3.76,
-        "latest_inventory_turnover_ratio": 1.05,
+        "latest_eps": -3.18,
+        "latest_price": 37.75,
+        "latest_roe": -14.47,
+        "latest_gross_margin": 65.46,
+        "latest_equity": 361679,
+        "latest_revenue": 97843,
+        "latest_gross_profit": 64050,
+        "latest_net_income": -26815,
+        "latest_debt_ratio": 65.92,
+        "latest_current_ratio": 54.15,
+        "latest_account_receivable_turnover_ratio": 3.78,
+        "latest_inventory_turnover_ratio": 1.6,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 6.87
+        "latest_research_to_sale_ratio": 5.77
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -1.51
+            "eps": -3.03
         }
     },
     "dividends": {
@@ -496,7 +498,9 @@
         "202307": "38.36",
         "202308": "34.18",
         "202309": "31.98",
-        "202310": "28.93"
+        "202310": "28.92",
+        "202311": "29.32",
+        "202312": "35.25"
     },
     "quarters": {
         "20011": {
@@ -3378,6 +3382,38 @@
             "eps_avg_yearly": 2.35,
             "eps_latest_yearly": 1.52,
             "eps_growth_yearly": 328.64
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -1.52,
+            "eps_growth_year": null,
+            "eps_4q": -3.18,
+            "eps_4q_growth_year": null,
+            "roe": -7.15,
+            "roe_4q": -14.48,
+            "gross_profit": 64050,
+            "gross_margin": 65.46,
+            "gross_margin_4q_avg": 75.03,
+            "net_income": -26815,
+            "net_income_4q": null,
+            "revenue": 97843,
+            "revenue_4q": null,
+            "common_shares": 177358,
+            "book_valuer_per_share": 20.39,
+            "book_valuer_per_share_4q_avg": 22.22,
+            "equity": 361679,
+            "current_ratio": 54.15,
+            "debt_ratio": 65.92,
+            "inventory_turnover_ratio": 1.6,
+            "account_receivable_turnover_ratio": 3.78,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 5.77,
+            "price_fair": 84.2,
+            "eps_avg_yearly": 2.41,
+            "eps_latest_yearly": 1.52,
+            "eps_growth_yearly": 370.51
         }
     },
     "months": {
@@ -3905,6 +3941,16 @@
             "month": "2023-09",
             "price": "31.98",
             "revenue": 34109
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "28.92",
+            "revenue": 33061
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "29.32",
+            "revenue": 43660
         }
     }
 }

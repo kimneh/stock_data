@@ -6,16 +6,16 @@
         "main_business": "委託營造廠商興建國民住宅及商業大樓出租出售業務。",
         "website_url": "https://blgroup.com.tw/",
         "ceo": "林瑞山",
-        "pe_ratio": -13,
+        "pe_ratio": -10,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 74,
         "eps_growth_avg": {
             "last_all": -14.58,
             "last_2y": null,
             "last_4y": null,
-            "last_8y": -31.9,
+            "last_8y": 0,
             "last_12y": 2.51,
             "last_16y": -14.58,
             "last_20y": -14.58,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": -100,
@@ -54,20 +55,21 @@
             "at_2020_last_all": -14.58,
             "at_2021_last_all": -14.58,
             "at_2022_last_all": -14.58,
-            "at_2023_last_all": -14.58
+            "at_2023_last_all": -14.58,
+            "at_2024_last_all": -14.58
         },
-        "latest_eps": -1.03,
-        "latest_price": 13.4,
-        "latest_roe": -19.35,
-        "latest_gross_margin": 0.03,
-        "latest_equity": 509157,
-        "latest_revenue": 78972,
-        "latest_gross_profit": 25,
-        "latest_net_income": -14220,
-        "latest_debt_ratio": 65.01,
-        "latest_current_ratio": 204.77,
-        "latest_account_receivable_turnover_ratio": 335.34,
-        "latest_inventory_turnover_ratio": 0.13,
+        "latest_eps": -1.31,
+        "latest_price": 13.35,
+        "latest_roe": -17.38,
+        "latest_gross_margin": 1.62,
+        "latest_equity": 507901,
+        "latest_revenue": 63347,
+        "latest_gross_profit": 1027,
+        "latest_net_income": -1525,
+        "latest_debt_ratio": 64.33,
+        "latest_current_ratio": 136.53,
+        "latest_account_receivable_turnover_ratio": 387.44,
+        "latest_inventory_turnover_ratio": 0.11,
         "latest_reinvestment_rate": null,
         "latest_research_to_sale_ratio": null
     },
@@ -210,7 +212,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.45
+            "eps": -0.47
         }
     },
     "dividends": {
@@ -513,7 +515,9 @@
         "202307": "9.70",
         "202308": "10.09",
         "202309": "11.29",
-        "202310": "13.15"
+        "202310": "13.21",
+        "202311": "13.47",
+        "202312": "13.48"
     },
     "quarters": {
         "20011": {
@@ -3395,6 +3399,38 @@
             "eps_avg_yearly": 0,
             "eps_latest_yearly": 0,
             "eps_growth_yearly": 0
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.02,
+            "eps_growth_year": null,
+            "eps_4q": -1.31,
+            "eps_4q_growth_year": null,
+            "roe": -0.3,
+            "roe_4q": -17.65,
+            "gross_profit": 1027,
+            "gross_margin": 1.62,
+            "gross_margin_4q_avg": -164.26,
+            "net_income": -1525,
+            "net_income_4q": null,
+            "revenue": 63347,
+            "revenue_4q": null,
+            "common_shares": 701858,
+            "book_valuer_per_share": 7.24,
+            "book_valuer_per_share_4q_avg": 5.64,
+            "equity": 507901,
+            "current_ratio": 136.53,
+            "debt_ratio": 64.33,
+            "inventory_turnover_ratio": 0.11,
+            "account_receivable_turnover_ratio": 387.44,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": null,
+            "price_fair": 0,
+            "eps_avg_yearly": 0,
+            "eps_latest_yearly": 0,
+            "eps_growth_yearly": 0
         }
     },
     "months": {
@@ -4737,6 +4773,16 @@
             "month": "2023-09",
             "price": "11.29",
             "revenue": 631
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "13.21",
+            "revenue": 539
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "13.47",
+            "revenue": 458
         }
     }
 }

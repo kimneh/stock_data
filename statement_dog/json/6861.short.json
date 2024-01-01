@@ -6,10 +6,10 @@
         "main_business": "醫療器材製造<br>電子零組件製造",
         "website_url": "http://www.innocare-x.com",
         "ceo": "李志聖",
-        "pe_ratio": 20,
+        "pe_ratio": 25,
         "report_year_from": 2021,
         "report_year_to": 2023,
-        "age": 2,
+        "age": 3,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
             "last_all": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": null,
-            "at_2023_last_all": null
+            "at_2023_last_all": null,
+            "at_2024_last_all": null
         },
-        "latest_eps": 4.26,
-        "latest_price": 85.5,
-        "latest_roe": 17.3,
-        "latest_gross_margin": 25.41,
-        "latest_equity": 1231698,
-        "latest_revenue": 450547,
-        "latest_gross_profit": 114479,
-        "latest_net_income": 49356,
-        "latest_debt_ratio": 50.73,
-        "latest_current_ratio": 187.14,
-        "latest_account_receivable_turnover_ratio": 0.72,
-        "latest_inventory_turnover_ratio": 0.69,
+        "latest_eps": 3.38,
+        "latest_price": 85.3,
+        "latest_roe": 13.29,
+        "latest_gross_margin": 31.52,
+        "latest_equity": 1282974,
+        "latest_revenue": 405547,
+        "latest_gross_profit": 127828,
+        "latest_net_income": 31289,
+        "latest_debt_ratio": 48.07,
+        "latest_current_ratio": 200.29,
+        "latest_account_receivable_turnover_ratio": 0.66,
+        "latest_inventory_turnover_ratio": 0.51,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 11.58
+        "latest_research_to_sale_ratio": 14.6
     },
     "eps_dividends": {
         "2001": {
@@ -183,14 +185,18 @@
             "eps": 5.62
         },
         "2023": {
-            "cash": 1.3,
+            "cash": 2.6,
             "stock": 0,
-            "eps": 2.13
+            "eps": 2.91
         }
     },
     "dividends": {
         "2022-07-14": {
             "cash": 1.1,
+            "stock": 0
+        },
+        "2023-04-12": {
+            "cash": 1.3,
             "stock": 0
         },
         "2023-07-14": {
@@ -472,7 +478,9 @@
         "202307": "112.68",
         "202308": "102.29",
         "202309": "95.30",
-        "202310": "84.06"
+        "202310": "83.99",
+        "202311": "85.82",
+        "202312": "86.26"
     },
     "quarters": {
         "20011": {
@@ -3354,6 +3362,38 @@
             "eps_avg_yearly": 5.37,
             "eps_latest_yearly": 5.24,
             "eps_growth_yearly": 77.68
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.78,
+            "eps_growth_year": -54.65,
+            "eps_4q": 3.38,
+            "eps_4q_growth_year": null,
+            "roe": 2.49,
+            "roe_4q": 12.740000000000002,
+            "gross_profit": 127828,
+            "gross_margin": 31.52,
+            "gross_margin_4q_avg": 30.14,
+            "net_income": 31289,
+            "net_income_4q": null,
+            "revenue": 405547,
+            "revenue_4q": null,
+            "common_shares": 393874,
+            "book_valuer_per_share": 31.89,
+            "book_valuer_per_share_4q_avg": 29.38,
+            "equity": 1282974,
+            "current_ratio": 200.29,
+            "debt_ratio": 48.07,
+            "inventory_turnover_ratio": 0.51,
+            "account_receivable_turnover_ratio": 0.66,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 14.6,
+            "price_fair": 174.77,
+            "eps_avg_yearly": 4.99,
+            "eps_latest_yearly": 3.12,
+            "eps_growth_yearly": 37.76
         }
     },
     "months": {
@@ -3471,6 +3511,16 @@
             "month": "2023-09",
             "price": "95.30",
             "revenue": 138357
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "83.99",
+            "revenue": 169148
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "85.82",
+            "revenue": 163063
         }
     }
 }

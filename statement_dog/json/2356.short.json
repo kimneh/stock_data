@@ -6,19 +6,19 @@
         "main_business": "筆記型電腦<br>伺服器",
         "website_url": "https://www.inventec.com/",
         "ceo": "蔡枝安",
-        "pe_ratio": 28,
+        "pe_ratio": 34,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 2.66,
-            "last_2y": 5.73,
-            "last_4y": -0.39,
-            "last_8y": -0.24,
-            "last_12y": 3.82,
-            "last_16y": 4.74,
-            "last_20y": 2.66,
+            "last_all": 1.08,
+            "last_2y": -17.33,
+            "last_4y": -5.98,
+            "last_8y": -3.81,
+            "last_12y": 3.55,
+            "last_16y": -1.1,
+            "last_20y": 2.03,
             "at_2006_last_3y": 15.35,
             "at_2007_last_3y": 10.79,
             "at_2008_last_3y": 19.56,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 9.37,
             "at_2021_last_3y": 1.15,
             "at_2022_last_3y": 0.57,
-            "at_2023_last_3y": 0.57,
+            "at_2023_last_3y": -3.74,
+            "at_2024_last_3y": -3.74,
             "at_2006_last_all": 8.48,
             "at_2007_last_all": 6.2,
             "at_2008_last_all": 3.74,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 3.98,
             "at_2021_last_all": 3.12,
             "at_2022_last_all": 2.66,
-            "at_2023_last_all": 2.66
+            "at_2023_last_all": 1.08,
+            "at_2024_last_all": 1.08
         },
-        "latest_eps": 1.51,
-        "latest_price": 42.95,
-        "latest_roe": 9.6,
-        "latest_gross_margin": 4.61,
-        "latest_equity": 56318259,
-        "latest_revenue": 130651347,
-        "latest_gross_profit": 6018215,
-        "latest_net_income": 1377013,
-        "latest_debt_ratio": 75.78,
-        "latest_current_ratio": 112.08,
-        "latest_account_receivable_turnover_ratio": 1.42,
-        "latest_inventory_turnover_ratio": 2.48,
-        "latest_reinvestment_rate": -4.5,
-        "latest_research_to_sale_ratio": 2.13
+        "latest_eps": 1.54,
+        "latest_price": 52.8,
+        "latest_roe": 9.25,
+        "latest_gross_margin": 5.21,
+        "latest_equity": 59852453,
+        "latest_revenue": 135840675,
+        "latest_gross_profit": 7083255,
+        "latest_net_income": 1841088,
+        "latest_debt_ratio": 76.37,
+        "latest_current_ratio": 112.42,
+        "latest_account_receivable_turnover_ratio": 1.34,
+        "latest_inventory_turnover_ratio": 2.5,
+        "latest_reinvestment_rate": 0.87,
+        "latest_research_to_sale_ratio": 2.19
     },
     "eps_dividends": {
         "1997": {
@@ -203,9 +205,9 @@
             "eps": 1.71
         },
         "2023": {
-            "cash": 1.5,
+            "cash": 3,
             "stock": 0,
-            "eps": 0.64
+            "eps": 1.16
         }
     },
     "dividends": {
@@ -307,6 +309,10 @@
         },
         "2022-08-11": {
             "cash": 1.4,
+            "stock": 0
+        },
+        "2023-03-14": {
+            "cash": 1.5,
             "stock": 0
         },
         "2023-08-11": {
@@ -588,7 +594,9 @@
         "202307": "57.39",
         "202308": "57.83",
         "202309": "51.42",
-        "202310": "46.62"
+        "202310": "46.06",
+        "202311": "42.31",
+        "202312": "46.84"
     },
     "quarters": {
         "20011": {
@@ -3470,6 +3478,38 @@
             "eps_avg_yearly": 1.75,
             "eps_latest_yearly": 1.56,
             "eps_growth_yearly": 46.19
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.52,
+            "eps_growth_year": 6.12,
+            "eps_4q": 1.54,
+            "eps_4q_growth_year": -10.65,
+            "roe": 3.17,
+            "roe_4q": 9.52,
+            "gross_profit": 7083255,
+            "gross_margin": 5.21,
+            "gross_margin_4q_avg": 4.99,
+            "net_income": 1841088,
+            "net_income_4q": null,
+            "revenue": 135840675,
+            "revenue_4q": null,
+            "common_shares": 35874751,
+            "book_valuer_per_share": 16.91,
+            "book_valuer_per_share_4q_avg": 16.23,
+            "equity": 59852453,
+            "current_ratio": 112.42,
+            "debt_ratio": 76.37,
+            "inventory_turnover_ratio": 2.5,
+            "account_receivable_turnover_ratio": 1.34,
+            "reinvestment_rate": 0.87,
+            "research_to_sale_ratio": 2.19,
+            "price_fair": 63,
+            "eps_avg_yearly": 1.8,
+            "eps_latest_yearly": 2.08,
+            "eps_growth_yearly": 59.78
         }
     },
     "months": {
@@ -4812,6 +4852,16 @@
             "month": "2023-09",
             "price": "51.42",
             "revenue": 47528852
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "46.06",
+            "revenue": 40401753
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "42.31",
+            "revenue": 44140199
         }
     }
 }

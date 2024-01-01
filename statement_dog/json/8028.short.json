@@ -6,15 +6,15 @@
         "main_business": "晶圓再生及晶圓薄化代工服務",
         "website_url": "http://www.psi.com.tw",
         "ceo": "蔡幸川",
-        "pe_ratio": 21,
+        "pe_ratio": 23,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 17.92,
-            "last_2y": 12.24,
-            "last_4y": null,
+            "last_all": 12.79,
+            "last_2y": 29.45,
+            "last_4y": 12.79,
             "last_8y": null,
             "last_12y": null,
             "last_16y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": null,
             "at_2021_last_3y": null,
             "at_2022_last_3y": 17.92,
-            "at_2023_last_3y": 17.92,
+            "at_2023_last_3y": 7.25,
+            "at_2024_last_3y": 7.25,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -12.21,
             "at_2021_last_all": 14.08,
             "at_2022_last_all": 17.92,
-            "at_2023_last_all": 17.92
+            "at_2023_last_all": 12.79,
+            "at_2024_last_all": 12.79
         },
-        "latest_eps": 2.36,
-        "latest_price": 49.95,
-        "latest_roe": 13.15,
-        "latest_gross_margin": 27.2,
-        "latest_equity": 2901404,
-        "latest_revenue": 934082,
-        "latest_gross_profit": 254093,
-        "latest_net_income": 132706,
-        "latest_debt_ratio": 66.73,
-        "latest_current_ratio": 120.2,
-        "latest_account_receivable_turnover_ratio": 2.08,
-        "latest_inventory_turnover_ratio": 2.71,
-        "latest_reinvestment_rate": 352.41,
-        "latest_research_to_sale_ratio": 4
+        "latest_eps": 2.31,
+        "latest_price": 52.1,
+        "latest_roe": 11.85,
+        "latest_gross_margin": 19.38,
+        "latest_equity": 3017342,
+        "latest_revenue": 787661,
+        "latest_gross_profit": 152617,
+        "latest_net_income": 115938,
+        "latest_debt_ratio": 65.18,
+        "latest_current_ratio": 155.37,
+        "latest_account_receivable_turnover_ratio": 1.9,
+        "latest_inventory_turnover_ratio": 2.62,
+        "latest_reinvestment_rate": 335.27,
+        "latest_research_to_sale_ratio": 4.57
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 2.2
         },
         "2023": {
-            "cash": 1.8,
+            "cash": 3.6,
             "stock": 0,
-            "eps": 1.27
+            "eps": 2.03
         }
     },
     "dividends": {
@@ -220,6 +222,10 @@
         "2022-08-26": {
             "cash": 0.8,
             "stock": 0.6
+        },
+        "2023-04-13": {
+            "cash": 1.8,
+            "stock": 0
         },
         "2023-07-10": {
             "cash": 1.8,
@@ -500,7 +506,9 @@
         "202307": "61.81",
         "202308": "56.50",
         "202309": "54.64",
-        "202310": "51.36"
+        "202310": "51.16",
+        "202311": "51.58",
+        "202312": "51.80"
     },
     "quarters": {
         "20011": {
@@ -3382,6 +3390,38 @@
             "eps_avg_yearly": 1.87,
             "eps_latest_yearly": 3.48,
             "eps_growth_yearly": 89.63
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.76,
+            "eps_growth_year": -7.32,
+            "eps_4q": 2.31,
+            "eps_4q_growth_year": -11.67,
+            "roe": 3.92,
+            "roe_4q": 11.849999999999998,
+            "gross_profit": 152617,
+            "gross_margin": 19.38,
+            "gross_margin_4q_avg": 23.86,
+            "net_income": 115938,
+            "net_income_4q": null,
+            "revenue": 787661,
+            "revenue_4q": null,
+            "common_shares": 1526280,
+            "book_valuer_per_share": 19.77,
+            "book_valuer_per_share_4q_avg": 19.6,
+            "equity": 3017342,
+            "current_ratio": 155.37,
+            "debt_ratio": 65.18,
+            "inventory_turnover_ratio": 2.62,
+            "account_receivable_turnover_ratio": 1.9,
+            "reinvestment_rate": 335.27,
+            "research_to_sale_ratio": 4.57,
+            "price_fair": 64.66,
+            "eps_avg_yearly": 1.85,
+            "eps_latest_yearly": 3.04,
+            "eps_growth_yearly": 82.24
         }
     },
     "months": {
@@ -3914,6 +3954,16 @@
             "month": "2023-09",
             "price": "54.64",
             "revenue": 253599
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "51.16",
+            "revenue": 272314
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "51.58",
+            "revenue": 241463
         }
     }
 }

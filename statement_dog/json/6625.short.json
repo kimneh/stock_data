@@ -6,15 +6,15 @@
         "main_business": "演唱會製作<br>硬體設備租賃",
         "website_url": "http://www.bin-live.com/",
         "ceo": "周佑洋",
-        "pe_ratio": 23,
+        "pe_ratio": 17,
         "report_year_from": 2014,
         "report_year_to": 2023,
-        "age": 9,
+        "age": 10,
         "eps_negative_percentage": 43,
         "eps_growth_avg": {
             "last_all": -58.03,
-            "last_2y": -100,
-            "last_4y": -58.03,
+            "last_2y": null,
+            "last_4y": -99.15,
             "last_8y": null,
             "last_12y": null,
             "last_16y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": null,
             "at_2021_last_3y": -58.03,
             "at_2022_last_3y": -99.15,
-            "at_2023_last_3y": -99.15,
+            "at_2023_last_3y": -100,
+            "at_2024_last_3y": -100,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -58.03,
             "at_2021_last_all": -58.03,
             "at_2022_last_all": -58.03,
-            "at_2023_last_all": -58.03
+            "at_2023_last_all": -58.03,
+            "at_2024_last_all": -58.03
         },
-        "latest_eps": 3.42,
-        "latest_price": 79.2,
-        "latest_roe": 25.02,
-        "latest_gross_margin": 20.76,
-        "latest_equity": 649503,
-        "latest_revenue": 560501,
-        "latest_gross_profit": 116352,
-        "latest_net_income": 71012,
-        "latest_debt_ratio": 42.43,
-        "latest_current_ratio": 164.39,
-        "latest_account_receivable_turnover_ratio": 1.97,
+        "latest_eps": 6.01,
+        "latest_price": 99.5,
+        "latest_roe": 40.9,
+        "latest_gross_margin": 18.07,
+        "latest_equity": 770641,
+        "latest_revenue": 954988,
+        "latest_gross_profit": 172552,
+        "latest_net_income": 112743,
+        "latest_debt_ratio": 50.98,
+        "latest_current_ratio": 152.87,
+        "latest_account_receivable_turnover_ratio": 2.32,
         "latest_inventory_turnover_ratio": null,
-        "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 0.44
+        "latest_reinvestment_rate": 276.91,
+        "latest_research_to_sale_ratio": 0.19
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 2.01
+            "eps": 4.56
         }
     },
     "dividends": {
@@ -480,7 +482,9 @@
         "202307": "109.86",
         "202308": "97.30",
         "202309": "105.44",
-        "202310": "87.86"
+        "202310": "87.21",
+        "202311": "95.51",
+        "202312": "101.80"
     },
     "quarters": {
         "20011": {
@@ -3362,6 +3366,38 @@
             "eps_avg_yearly": 4.02,
             "eps_latest_yearly": 6.64,
             "eps_growth_yearly": 596.52
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 2.55,
+            "eps_growth_year": null,
+            "eps_4q": 6.01,
+            "eps_4q_growth_year": null,
+            "roe": 15.88,
+            "roe_4q": 41.61,
+            "gross_profit": 172552,
+            "gross_margin": 18.07,
+            "gross_margin_4q_avg": 19.21,
+            "net_income": 112743,
+            "net_income_4q": null,
+            "revenue": 954988,
+            "revenue_4q": null,
+            "common_shares": 443404,
+            "book_valuer_per_share": 17.49,
+            "book_valuer_per_share_4q_avg": 14.54,
+            "equity": 770641,
+            "current_ratio": 152.87,
+            "debt_ratio": 50.98,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": 2.32,
+            "reinvestment_rate": 276.91,
+            "research_to_sale_ratio": 0.19,
+            "price_fair": 212.8,
+            "eps_avg_yearly": 6.08,
+            "eps_latest_yearly": 10.2,
+            "eps_growth_yearly": 469.16
         }
     },
     "months": {
@@ -3759,6 +3795,16 @@
             "month": "2023-09",
             "price": "105.44",
             "revenue": 319083
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "87.21",
+            "revenue": 295851
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "95.51",
+            "revenue": 286605
         }
     }
 }

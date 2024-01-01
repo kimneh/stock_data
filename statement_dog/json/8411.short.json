@@ -6,17 +6,17 @@
         "main_business": "馬口鐵、鋁罐及相關產品製造與銷售，充填代工生產",
         "website_url": "http://www.kingcanholdings.com",
         "ceo": "莊素貞",
-        "pe_ratio": -17,
+        "pe_ratio": 46,
         "report_year_from": 2008,
         "report_year_to": 2023,
-        "age": 15,
-        "eps_negative_percentage": 29,
+        "age": 16,
+        "eps_negative_percentage": 21,
         "eps_growth_avg": {
             "last_all": 0.77,
             "last_2y": 0,
-            "last_4y": -33.33,
-            "last_8y": -19.73,
-            "last_12y": null,
+            "last_4y": 0,
+            "last_8y": -10.13,
+            "last_12y": 0.77,
             "last_16y": null,
             "last_20y": null,
             "at_2006_last_3y": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": 0,
             "at_2022_last_3y": 0,
             "at_2023_last_3y": 0,
+            "at_2024_last_3y": 0,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 0.97,
             "at_2021_last_all": 11.97,
             "at_2022_last_all": 0.77,
-            "at_2023_last_all": 0.77
+            "at_2023_last_all": 0.77,
+            "at_2024_last_all": 0.77
         },
-        "latest_eps": -0.81,
-        "latest_price": 13.75,
-        "latest_roe": -3.06,
-        "latest_gross_margin": 9.29,
-        "latest_equity": 5754095,
-        "latest_revenue": 2130030,
-        "latest_gross_profit": 197864,
-        "latest_net_income": 8168,
-        "latest_debt_ratio": 54.59,
-        "latest_current_ratio": 136.28,
-        "latest_account_receivable_turnover_ratio": 1.51,
-        "latest_inventory_turnover_ratio": 1.74,
-        "latest_reinvestment_rate": 1670.14,
-        "latest_research_to_sale_ratio": 1.22
+        "latest_eps": 0.33,
+        "latest_price": 15.2,
+        "latest_roe": 1.31,
+        "latest_gross_margin": 11.79,
+        "latest_equity": 5967279,
+        "latest_revenue": 2317808,
+        "latest_gross_profit": 273158,
+        "latest_net_income": 43812,
+        "latest_debt_ratio": 54.39,
+        "latest_current_ratio": 131.41,
+        "latest_account_receivable_turnover_ratio": 1.46,
+        "latest_inventory_turnover_ratio": 1.84,
+        "latest_reinvestment_rate": 1344.15,
+        "latest_research_to_sale_ratio": 1.21
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.11
+            "eps": 0.08
         }
     },
     "dividends": {
@@ -512,7 +514,9 @@
         "202307": "15.45",
         "202308": "14.38",
         "202309": "14.17",
-        "202310": "14.06"
+        "202310": "14.03",
+        "202311": "14.20",
+        "202312": "14.94"
     },
     "quarters": {
         "20011": {
@@ -3394,6 +3398,38 @@
             "eps_avg_yearly": 3.24,
             "eps_latest_yearly": 6.48,
             "eps_growth_yearly": 793.25
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.19,
+            "eps_growth_year": null,
+            "eps_4q": 0.33,
+            "eps_4q_growth_year": null,
+            "roe": 0.75,
+            "roe_4q": 1.31,
+            "gross_profit": 273158,
+            "gross_margin": 11.79,
+            "gross_margin_4q_avg": 9.17,
+            "net_income": 43812,
+            "net_income_4q": null,
+            "revenue": 2317808,
+            "revenue_4q": null,
+            "common_shares": 2184043,
+            "book_valuer_per_share": 26.63,
+            "book_valuer_per_share_4q_avg": 26.47,
+            "equity": 5967279,
+            "current_ratio": 131.41,
+            "debt_ratio": 54.39,
+            "inventory_turnover_ratio": 1.84,
+            "account_receivable_turnover_ratio": 1.46,
+            "reinvestment_rate": 1344.15,
+            "research_to_sale_ratio": 1.21,
+            "price_fair": 91.7,
+            "eps_avg_yearly": 2.62,
+            "eps_latest_yearly": 0.76,
+            "eps_growth_yearly": 969.94
         }
     },
     "months": {
@@ -4136,6 +4172,16 @@
             "month": "2023-09",
             "price": "14.17",
             "revenue": 675094
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "14.03",
+            "revenue": 567639
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "14.20",
+            "revenue": 700437
         }
     }
 }

@@ -6,15 +6,15 @@
         "main_business": "飯店旅館業",
         "website_url": "http://www.greenworldhotels.com/",
         "ceo": "謝憲治",
-        "pe_ratio": -8,
+        "pe_ratio": -34,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
-        "eps_negative_percentage": 75,
+        "age": 23,
+        "eps_negative_percentage": 70,
         "eps_growth_avg": {
             "last_all": -54.88,
-            "last_2y": -100,
-            "last_4y": -24.8,
+            "last_2y": null,
+            "last_4y": -27.63,
             "last_8y": -43.6,
             "last_12y": -43.6,
             "last_16y": -43.6,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": -24.8,
             "at_2021_last_3y": -24.8,
             "at_2022_last_3y": -27.63,
-            "at_2023_last_3y": -27.63,
+            "at_2023_last_3y": -100,
+            "at_2024_last_3y": -100,
             "at_2006_last_all": -100,
             "at_2007_last_all": -100,
             "at_2008_last_all": -100,
@@ -54,19 +55,20 @@
             "at_2020_last_all": -54.88,
             "at_2021_last_all": -54.88,
             "at_2022_last_all": -54.88,
-            "at_2023_last_all": -54.88
+            "at_2023_last_all": -54.88,
+            "at_2024_last_all": -54.88
         },
-        "latest_eps": -4.71,
-        "latest_price": 38.5,
-        "latest_roe": -33.67,
-        "latest_gross_margin": 25.86,
-        "latest_equity": 255474,
-        "latest_revenue": 238223,
-        "latest_gross_profit": 61608,
-        "latest_net_income": 10138,
-        "latest_debt_ratio": 91.68,
-        "latest_current_ratio": 35.59,
-        "latest_account_receivable_turnover_ratio": 13.16,
+        "latest_eps": -1.42,
+        "latest_price": 48.5,
+        "latest_roe": -10.95,
+        "latest_gross_margin": 23.7,
+        "latest_equity": 269342,
+        "latest_revenue": 242556,
+        "latest_gross_profit": 57481,
+        "latest_net_income": 13868,
+        "latest_debt_ratio": 91.29,
+        "latest_current_ratio": 37.74,
+        "latest_account_receivable_turnover_ratio": 8.78,
         "latest_inventory_turnover_ratio": null,
         "latest_reinvestment_rate": null,
         "latest_research_to_sale_ratio": null
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.43
+            "eps": 0.2
         }
     },
     "dividends": [],
@@ -463,7 +465,9 @@
         "202307": "36.51",
         "202308": "36.12",
         "202309": "37.09",
-        "202310": "37.73"
+        "202310": "37.85",
+        "202311": "46.77",
+        "202312": "48.55"
     },
     "quarters": {
         "20011": {
@@ -3345,6 +3349,38 @@
             "eps_avg_yearly": 0,
             "eps_latest_yearly": 0,
             "eps_growth_yearly": 0
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.63,
+            "eps_growth_year": null,
+            "eps_4q": -1.42,
+            "eps_4q_growth_year": null,
+            "roe": 5.28,
+            "roe_4q": -10.940000000000001,
+            "gross_profit": 57481,
+            "gross_margin": 23.7,
+            "gross_margin_4q_avg": 16.51,
+            "net_income": 13868,
+            "net_income_4q": null,
+            "revenue": 242556,
+            "revenue_4q": null,
+            "common_shares": 219457,
+            "book_valuer_per_share": 12.27,
+            "book_valuer_per_share_4q_avg": 11.79,
+            "equity": 269342,
+            "current_ratio": 37.74,
+            "debt_ratio": 91.29,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": 8.78,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": null,
+            "price_fair": 88.2,
+            "eps_avg_yearly": 2.52,
+            "eps_latest_yearly": 2.52,
+            "eps_growth_yearly": 147.83
         }
     },
     "months": {
@@ -4507,6 +4543,16 @@
             "month": "2023-09",
             "price": "37.09",
             "revenue": 78681
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "37.85",
+            "revenue": 88131
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "46.77",
+            "revenue": 92599
         }
     }
 }

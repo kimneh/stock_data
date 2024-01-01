@@ -6,19 +6,19 @@
         "main_business": "PHONIC 專業音響之製造及全球行銷",
         "website_url": "http://www.twphonic.com",
         "ceo": "鄒景文",
-        "pe_ratio": 100,
+        "pe_ratio": 39,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 45,
         "eps_growth_avg": {
             "last_all": -39.53,
             "last_2y": -100,
             "last_4y": -100,
             "last_8y": -100,
-            "last_12y": -54.56,
-            "last_16y": -48.25,
-            "last_20y": null,
+            "last_12y": -93.2,
+            "last_16y": -51.94,
+            "last_20y": -39.53,
             "at_2006_last_3y": -17.81,
             "at_2007_last_3y": -13.05,
             "at_2008_last_3y": -35.85,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": -100,
             "at_2023_last_3y": -100,
+            "at_2024_last_3y": -100,
             "at_2006_last_all": -17.81,
             "at_2007_last_all": -12.41,
             "at_2008_last_all": -27.01,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -33.48,
             "at_2021_last_all": -33.48,
             "at_2022_last_all": -39.53,
-            "at_2023_last_all": -39.53
+            "at_2023_last_all": -39.53,
+            "at_2024_last_all": -39.53
         },
-        "latest_eps": 0.36,
-        "latest_price": 36.8,
-        "latest_roe": 2.89,
-        "latest_gross_margin": 33.82,
-        "latest_equity": 251578,
-        "latest_revenue": 40544,
-        "latest_gross_profit": 13713,
-        "latest_net_income": 5524,
-        "latest_debt_ratio": 28.66,
-        "latest_current_ratio": 429.74,
-        "latest_account_receivable_turnover_ratio": 16.07,
-        "latest_inventory_turnover_ratio": 1,
-        "latest_reinvestment_rate": -27.01,
-        "latest_research_to_sale_ratio": 1.26
+        "latest_eps": 0.95,
+        "latest_price": 37.25,
+        "latest_roe": 7.48,
+        "latest_gross_margin": 40.33,
+        "latest_equity": 263797,
+        "latest_revenue": 49525,
+        "latest_gross_profit": 19971,
+        "latest_net_income": 11686,
+        "latest_debt_ratio": 24.12,
+        "latest_current_ratio": 372.09,
+        "latest_account_receivable_turnover_ratio": 14.29,
+        "latest_inventory_turnover_ratio": 1.31,
+        "latest_reinvestment_rate": -23.84,
+        "latest_research_to_sale_ratio": 0.74
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 0.34
+            "eps": 0.92
         }
     },
     "dividends": {
@@ -500,7 +502,9 @@
         "202307": "38.46",
         "202308": "40.17",
         "202309": "38.29",
-        "202310": "38.46"
+        "202310": "38.42",
+        "202311": "37.99",
+        "202312": "37.36"
     },
     "quarters": {
         "20011": {
@@ -3382,6 +3386,38 @@
             "eps_avg_yearly": 0.68,
             "eps_latest_yearly": 1.12,
             "eps_growth_yearly": 933.33
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.58,
+            "eps_growth_year": null,
+            "eps_4q": 0.95,
+            "eps_4q_growth_year": -80.47,
+            "roe": 4.54,
+            "roe_4q": 7.499999999999999,
+            "gross_profit": 19971,
+            "gross_margin": 40.33,
+            "gross_margin_4q_avg": 33.09,
+            "net_income": 11686,
+            "net_income_4q": null,
+            "revenue": 49525,
+            "revenue_4q": null,
+            "common_shares": 200000,
+            "book_valuer_per_share": 13.19,
+            "book_valuer_per_share_4q_avg": 12.59,
+            "equity": 263797,
+            "current_ratio": 372.09,
+            "debt_ratio": 24.12,
+            "inventory_turnover_ratio": 1.31,
+            "account_receivable_turnover_ratio": 14.29,
+            "reinvestment_rate": -23.84,
+            "research_to_sale_ratio": 0.74,
+            "price_fair": 42.93,
+            "eps_avg_yearly": 1.23,
+            "eps_latest_yearly": 2.32,
+            "eps_growth_yearly": 765.08
         }
     },
     "months": {
@@ -4589,6 +4625,16 @@
             "month": "2023-09",
             "price": "38.29",
             "revenue": 11528
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "38.42",
+            "revenue": 12112
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "37.99",
+            "revenue": 25126
         }
     }
 }

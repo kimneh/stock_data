@@ -6,17 +6,17 @@
         "main_business": "塗佈貼合、高分子化學品、TPU、成品鞋",
         "website_url": "http://www.shuang-bang.com",
         "ceo": "許瑜娟",
-        "pe_ratio": 100,
+        "pe_ratio": -56,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
-        "eps_negative_percentage": 0,
+        "age": 23,
+        "eps_negative_percentage": 7,
         "eps_growth_avg": {
-            "last_all": 22.46,
-            "last_2y": 23.01,
-            "last_4y": 11.85,
-            "last_8y": 19.72,
-            "last_12y": 22.46,
+            "last_all": 13.71,
+            "last_2y": 6.1,
+            "last_4y": -5.45,
+            "last_8y": 3.35,
+            "last_12y": 7.07,
             "last_16y": null,
             "last_20y": null,
             "at_2006_last_3y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": -25.04,
             "at_2021_last_3y": -10.18,
             "at_2022_last_3y": 18.18,
-            "at_2023_last_3y": 18.18,
+            "at_2023_last_3y": -7.74,
+            "at_2024_last_3y": -7.74,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 15.78,
             "at_2021_last_all": 15.99,
             "at_2022_last_all": 22.46,
-            "at_2023_last_all": 22.46
+            "at_2023_last_all": 13.71,
+            "at_2024_last_all": 13.71
         },
-        "latest_eps": 0.1,
-        "latest_price": 17,
-        "latest_roe": -0.97,
-        "latest_gross_margin": 3.42,
-        "latest_equity": 1267662,
-        "latest_revenue": 338451,
-        "latest_gross_profit": 11589,
-        "latest_net_income": -18551,
-        "latest_debt_ratio": 49.72,
-        "latest_current_ratio": 152.34,
-        "latest_account_receivable_turnover_ratio": 0.85,
-        "latest_inventory_turnover_ratio": 1.05,
-        "latest_reinvestment_rate": -34.66,
-        "latest_research_to_sale_ratio": 2.36
+        "latest_eps": -0.31,
+        "latest_price": 17.25,
+        "latest_roe": -3.53,
+        "latest_gross_margin": 6.69,
+        "latest_equity": 1251959,
+        "latest_revenue": 369604,
+        "latest_gross_profit": 24730,
+        "latest_net_income": -15703,
+        "latest_debt_ratio": 48.91,
+        "latest_current_ratio": 167.25,
+        "latest_account_receivable_turnover_ratio": 1.08,
+        "latest_inventory_turnover_ratio": 1.18,
+        "latest_reinvestment_rate": -24.06,
+        "latest_research_to_sale_ratio": 2.22
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 1.2,
             "stock": 0,
-            "eps": 0.02
+            "eps": -0.12
         }
     },
     "dividends": {
@@ -540,7 +542,9 @@
         "202307": "18.40",
         "202308": "17.90",
         "202309": "17.58",
-        "202310": "17.24"
+        "202310": "17.20",
+        "202311": "17.10",
+        "202312": "17.35"
     },
     "quarters": {
         "20011": {
@@ -3422,6 +3426,38 @@
             "eps_avg_yearly": 1.26,
             "eps_latest_yearly": 1.04,
             "eps_growth_yearly": -102.68
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.14,
+            "eps_growth_year": -153.85,
+            "eps_4q": -0.31,
+            "eps_4q_growth_year": -109.09,
+            "roe": -1.25,
+            "roe_4q": -3.5700000000000003,
+            "gross_profit": 24730,
+            "gross_margin": 6.69,
+            "gross_margin_4q_avg": 8,
+            "net_income": -15703,
+            "net_income_4q": null,
+            "revenue": 369604,
+            "revenue_4q": null,
+            "common_shares": 823608,
+            "book_valuer_per_share": 14.74,
+            "book_valuer_per_share_4q_avg": 15.19,
+            "equity": 1251959,
+            "current_ratio": 167.25,
+            "debt_ratio": 48.91,
+            "inventory_turnover_ratio": 1.18,
+            "account_receivable_turnover_ratio": 1.08,
+            "reinvestment_rate": -24.06,
+            "research_to_sale_ratio": 2.22,
+            "price_fair": 3.81,
+            "eps_avg_yearly": 1.27,
+            "eps_latest_yearly": 1.04,
+            "eps_growth_yearly": -92.7
         }
     },
     "months": {
@@ -4509,6 +4545,16 @@
             "month": "2023-09",
             "price": "17.58",
             "revenue": 115161
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "17.20",
+            "revenue": 121403
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "17.10",
+            "revenue": 143300
         }
     }
 }

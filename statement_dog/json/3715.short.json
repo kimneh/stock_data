@@ -6,10 +6,10 @@
         "main_business": "一般投資業",
         "website_url": "https://www.dynaholding.com",
         "ceo": "劉國瑾",
-        "pe_ratio": 42,
+        "pe_ratio": 29,
         "report_year_from": 2022,
         "report_year_to": 2023,
-        "age": 1,
+        "age": 2,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
             "last_all": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": null,
-            "at_2023_last_all": null
+            "at_2023_last_all": null,
+            "at_2024_last_all": null
         },
-        "latest_eps": 1.95,
-        "latest_price": 81.9,
-        "latest_roe": 0,
-        "latest_gross_margin": 19.96,
-        "latest_equity": 6159728,
-        "latest_revenue": 3653996,
-        "latest_gross_profit": 729343,
-        "latest_net_income": 243822,
-        "latest_debt_ratio": 69.76,
-        "latest_current_ratio": 114.11,
-        "latest_account_receivable_turnover_ratio": 0.92,
-        "latest_inventory_turnover_ratio": 1.26,
+        "latest_eps": 3.02,
+        "latest_price": 86.5,
+        "latest_roe": 13.29,
+        "latest_gross_margin": 26.83,
+        "latest_equity": 6829232,
+        "latest_revenue": 4209042,
+        "latest_gross_profit": 1129263,
+        "latest_net_income": 428609,
+        "latest_debt_ratio": 68.15,
+        "latest_current_ratio": 120.06,
+        "latest_account_receivable_turnover_ratio": 0.98,
+        "latest_inventory_turnover_ratio": 1.42,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 4.76
+        "latest_research_to_sale_ratio": 4.14
     },
     "eps_dividends": {
         "2001": {
@@ -183,12 +185,16 @@
             "eps": 0.75
         },
         "2023": {
-            "cash": 0.8,
+            "cash": 1.6,
             "stock": 0,
-            "eps": 1.19
+            "eps": 2.7
         }
     },
     "dividends": {
+        "2023-03-15": {
+            "cash": 0.8,
+            "stock": 0
+        },
         "2023-08-10": {
             "cash": 0.8,
             "stock": 0
@@ -468,7 +474,9 @@
         "202307": "31.92",
         "202308": "40.29",
         "202309": "66.55",
-        "202310": "90.07"
+        "202310": "89.08",
+        "202311": "92.06",
+        "202312": "91.15"
     },
     "quarters": {
         "20011": {
@@ -3350,6 +3358,38 @@
             "eps_avg_yearly": 2,
             "eps_latest_yearly": 3.4,
             "eps_growth_yearly": 173.51
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 1.51,
+            "eps_growth_year": 243.18,
+            "eps_4q": 3.02,
+            "eps_4q_growth_year": null,
+            "roe": 6.6,
+            "roe_4q": 13.700000000000001,
+            "gross_profit": 1129263,
+            "gross_margin": 26.83,
+            "gross_margin_4q_avg": 21.57,
+            "net_income": 428609,
+            "net_income_4q": null,
+            "revenue": 4209042,
+            "revenue_4q": null,
+            "common_shares": 2776170,
+            "book_valuer_per_share": 24.04,
+            "book_valuer_per_share_4q_avg": 22.19,
+            "equity": 6829232,
+            "current_ratio": 120.06,
+            "debt_ratio": 68.15,
+            "inventory_turnover_ratio": 1.42,
+            "account_receivable_turnover_ratio": 0.98,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 4.14,
+            "price_fair": 105.35,
+            "eps_avg_yearly": 3.01,
+            "eps_latest_yearly": 6.04,
+            "eps_growth_yearly": 207.78
         }
     },
     "months": {
@@ -3412,6 +3452,16 @@
             "month": "2023-09",
             "price": "66.55",
             "revenue": 1502664
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "89.08",
+            "revenue": 1389986
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "92.06",
+            "revenue": 1427677
         }
     }
 }

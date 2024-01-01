@@ -9,16 +9,16 @@
         "pe_ratio": 29,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 17.97,
-            "last_2y": 10.41,
-            "last_4y": 39.41,
-            "last_8y": 21.23,
-            "last_12y": 27.41,
-            "last_16y": 25.56,
-            "last_20y": 17.97,
+            "last_all": 15.92,
+            "last_2y": -8.59,
+            "last_4y": 20.5,
+            "last_8y": 18.77,
+            "last_12y": 19.92,
+            "last_16y": 25.69,
+            "last_20y": 18.51,
             "at_2006_last_3y": -12.02,
             "at_2007_last_3y": 3.53,
             "at_2008_last_3y": -8.68,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 65.27,
             "at_2021_last_3y": 63.55,
             "at_2022_last_3y": 32.4,
-            "at_2023_last_3y": 32.4,
+            "at_2023_last_3y": 1.03,
+            "at_2024_last_3y": 1.03,
             "at_2006_last_all": -17.29,
             "at_2007_last_all": 2.26,
             "at_2008_last_all": -7.45,
@@ -54,22 +55,23 @@
             "at_2020_last_all": 19.8,
             "at_2021_last_all": 21.73,
             "at_2022_last_all": 17.97,
-            "at_2023_last_all": 17.97
+            "at_2023_last_all": 15.92,
+            "at_2024_last_all": 15.92
         },
-        "latest_eps": 4.82,
-        "latest_price": 140,
-        "latest_roe": 14.14,
-        "latest_gross_margin": 44.11,
-        "latest_equity": 8410779,
-        "latest_revenue": 3041422,
-        "latest_gross_profit": 1341609,
-        "latest_net_income": 451852,
-        "latest_debt_ratio": 38.74,
-        "latest_current_ratio": 215.88,
-        "latest_account_receivable_turnover_ratio": 2.94,
-        "latest_inventory_turnover_ratio": 0.55,
-        "latest_reinvestment_rate": 12.34,
-        "latest_research_to_sale_ratio": 17.97
+        "latest_eps": 5.67,
+        "latest_price": 162.5,
+        "latest_roe": 16.59,
+        "latest_gross_margin": 47.15,
+        "latest_equity": 8562196,
+        "latest_revenue": 3501909,
+        "latest_gross_profit": 1651118,
+        "latest_net_income": 758956,
+        "latest_debt_ratio": 38.36,
+        "latest_current_ratio": 223.07,
+        "latest_account_receivable_turnover_ratio": 2.76,
+        "latest_inventory_turnover_ratio": 0.71,
+        "latest_reinvestment_rate": 10.84,
+        "latest_research_to_sale_ratio": 15.16
     },
     "eps_dividends": {
         "1999": {
@@ -195,7 +197,7 @@
         "2023": {
             "cash": 8,
             "stock": 0,
-            "eps": 2.82
+            "eps": 5.51
         }
     },
     "dividends": {
@@ -578,7 +580,9 @@
         "202307": "110.67",
         "202308": "116.64",
         "202309": "136.45",
-        "202310": "139.53"
+        "202310": "140.10",
+        "202311": "145.57",
+        "202312": "157.55"
     },
     "quarters": {
         "20011": {
@@ -3460,6 +3464,38 @@
             "eps_avg_yearly": 11.22,
             "eps_latest_yearly": 6.96,
             "eps_growth_yearly": 532.5
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 2.69,
+            "eps_growth_year": 46.99,
+            "eps_4q": 5.67,
+            "eps_4q_growth_year": -52.85,
+            "roe": 8.94,
+            "roe_4q": 17.26,
+            "gross_profit": 1651118,
+            "gross_margin": 47.15,
+            "gross_margin_4q_avg": 42.76,
+            "net_income": 758956,
+            "net_income_4q": null,
+            "revenue": 3501909,
+            "revenue_4q": null,
+            "common_shares": 3038804,
+            "book_valuer_per_share": 28.5,
+            "book_valuer_per_share_4q_avg": 28.48,
+            "equity": 8562196,
+            "current_ratio": 223.07,
+            "debt_ratio": 38.36,
+            "inventory_turnover_ratio": 0.71,
+            "account_receivable_turnover_ratio": 2.76,
+            "reinvestment_rate": 10.84,
+            "research_to_sale_ratio": 15.16,
+            "price_fair": 395.59,
+            "eps_avg_yearly": 11.3,
+            "eps_latest_yearly": 10.76,
+            "eps_growth_yearly": 531.72
         }
     },
     "months": {
@@ -4787,6 +4823,16 @@
             "month": "2023-09",
             "price": "136.45",
             "revenue": 1207207
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "140.10",
+            "revenue": 1075830
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "145.57",
+            "revenue": 1076944
         }
     }
 }

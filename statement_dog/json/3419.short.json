@@ -6,18 +6,18 @@
         "main_business": "工業用塑膠製品製造業。<br>電線及電纜製造業。<br>電子零組件製造、批發、零售業。",
         "website_url": "http://www.whayu.com",
         "ceo": "彭兆椿",
-        "pe_ratio": 62,
+        "pe_ratio": -32,
         "report_year_from": 2004,
         "report_year_to": 2023,
-        "age": 19,
+        "age": 20,
         "eps_negative_percentage": 53,
         "eps_growth_avg": {
-            "last_all": -70.21,
+            "last_all": -73.52,
             "last_2y": -100,
             "last_4y": -100,
             "last_8y": -100,
             "last_12y": -100,
-            "last_16y": -70.21,
+            "last_16y": -89.3,
             "last_20y": null,
             "at_2006_last_3y": null,
             "at_2007_last_3y": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": -100,
             "at_2022_last_3y": -100,
             "at_2023_last_3y": -100,
+            "at_2024_last_3y": -100,
             "at_2006_last_all": null,
             "at_2007_last_all": 19.18,
             "at_2008_last_all": -20.55,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -65.95,
             "at_2021_last_all": -70.21,
             "at_2022_last_all": -70.21,
-            "at_2023_last_all": -70.21
+            "at_2023_last_all": -73.52,
+            "at_2024_last_all": -73.52
         },
-        "latest_eps": 0.3,
-        "latest_price": 18.65,
-        "latest_roe": 2.11,
-        "latest_gross_margin": 16.34,
-        "latest_equity": 1452070,
-        "latest_revenue": 343918,
-        "latest_gross_profit": 56195,
-        "latest_net_income": 24460,
-        "latest_debt_ratio": 35.12,
-        "latest_current_ratio": 287.4,
-        "latest_account_receivable_turnover_ratio": 0.65,
-        "latest_inventory_turnover_ratio": 0.92,
-        "latest_reinvestment_rate": 1006.58,
-        "latest_research_to_sale_ratio": 9.51
+        "latest_eps": -0.57,
+        "latest_price": 18.2,
+        "latest_roe": -5,
+        "latest_gross_margin": 13.1,
+        "latest_equity": 1434722,
+        "latest_revenue": 365509,
+        "latest_gross_profit": 47888,
+        "latest_net_income": -33430,
+        "latest_debt_ratio": 34.32,
+        "latest_current_ratio": 287.05,
+        "latest_account_receivable_turnover_ratio": 0.76,
+        "latest_inventory_turnover_ratio": 1.27,
+        "latest_reinvestment_rate": null,
+        "latest_research_to_sale_ratio": 8.63
     },
     "eps_dividends": {
         "2001": {
@@ -183,9 +185,9 @@
             "eps": 0.28
         },
         "2023": {
-            "cash": 0.2,
+            "cash": 0.4,
             "stock": 0,
-            "eps": -0.04
+            "eps": -0.31
         }
     },
     "dividends": {
@@ -219,6 +221,10 @@
         },
         "2021-09-22": {
             "cash": 0.5,
+            "stock": 0
+        },
+        "2023-03-27": {
+            "cash": 0.2,
             "stock": 0
         },
         "2023-09-22": {
@@ -500,7 +506,9 @@
         "202307": "19.60",
         "202308": "19.01",
         "202309": "19.16",
-        "202310": "18.50"
+        "202310": "18.50",
+        "202311": "18.57",
+        "202312": "18.40"
     },
     "quarters": {
         "20011": {
@@ -3382,6 +3390,38 @@
             "eps_avg_yearly": 2.13,
             "eps_latest_yearly": 2.4,
             "eps_growth_yearly": 1269.19
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.27,
+            "eps_growth_year": -145,
+            "eps_4q": -0.57,
+            "eps_4q_growth_year": -272.18,
+            "roe": -2.32,
+            "roe_4q": -5.01,
+            "gross_profit": 47888,
+            "gross_margin": 13.1,
+            "gross_margin_4q_avg": 17.38,
+            "net_income": -33430,
+            "net_income_4q": null,
+            "revenue": 365509,
+            "revenue_4q": null,
+            "common_shares": 1204804,
+            "book_valuer_per_share": 11.76,
+            "book_valuer_per_share_4q_avg": 12,
+            "equity": 1434722,
+            "current_ratio": 287.05,
+            "debt_ratio": 34.32,
+            "inventory_turnover_ratio": 1.27,
+            "account_receivable_turnover_ratio": 0.76,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 8.63,
+            "price_fair": 74.67,
+            "eps_avg_yearly": 2.13,
+            "eps_latest_yearly": 2.4,
+            "eps_growth_yearly": 1269.19
         }
     },
     "months": {
@@ -4504,6 +4544,16 @@
             "month": "2023-09",
             "price": "19.16",
             "revenue": 164964
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "18.50",
+            "revenue": 113287
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "18.57",
+            "revenue": 105273
         }
     }
 }

@@ -6,17 +6,17 @@
         "main_business": "金融控股公司業",
         "website_url": "http://www.yuanta.com",
         "ceo": "翁健",
-        "pe_ratio": 12,
+        "pe_ratio": 14,
         "report_year_from": 2002,
         "report_year_to": 2023,
-        "age": 21,
+        "age": 22,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 13.33,
-            "last_2y": 5.97,
-            "last_4y": 8.93,
-            "last_8y": 15.39,
-            "last_12y": null,
+            "last_all": 12.79,
+            "last_2y": 3.72,
+            "last_4y": 6.99,
+            "last_8y": 4.98,
+            "last_12y": 12.79,
             "last_16y": null,
             "last_20y": null,
             "at_2006_last_3y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 14.48,
             "at_2021_last_3y": 21.01,
             "at_2022_last_3y": 7.15,
-            "at_2023_last_3y": 7.15,
+            "at_2023_last_3y": 6.06,
+            "at_2024_last_3y": 6.06,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,21 +55,22 @@
             "at_2020_last_all": 15.51,
             "at_2021_last_all": 18.12,
             "at_2022_last_all": 13.33,
-            "at_2023_last_all": 13.33
+            "at_2023_last_all": 12.79,
+            "at_2024_last_all": 12.79
         },
-        "latest_eps": 1.96,
-        "latest_price": 24.4,
-        "latest_roe": 9.61,
+        "latest_eps": 2,
+        "latest_price": 27.6,
+        "latest_roe": 9.54,
         "latest_gross_margin": null,
-        "latest_equity": 287266377,
-        "latest_revenue": 26541737,
+        "latest_equity": 299285596,
+        "latest_revenue": 27689863,
         "latest_gross_profit": null,
-        "latest_net_income": 9434551,
-        "latest_debt_ratio": 91.08,
+        "latest_net_income": 9149188,
+        "latest_debt_ratio": 90.61,
         "latest_current_ratio": null,
         "latest_account_receivable_turnover_ratio": null,
         "latest_inventory_turnover_ratio": null,
-        "latest_reinvestment_rate": 5,
+        "latest_reinvestment_rate": 5.2,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -183,9 +185,9 @@
             "eps": 1.74
         },
         "2023": {
-            "cash": 0.8,
-            "stock": 0.15,
-            "eps": 1.18
+            "cash": 1.6,
+            "stock": 0.3,
+            "eps": 1.85
         }
     },
     "dividends": {
@@ -260,6 +262,10 @@
         "2022-07-22": {
             "cash": 1.5,
             "stock": 0.3
+        },
+        "2023-03-15": {
+            "cash": 0.8,
+            "stock": 0.15
         },
         "2023-07-26": {
             "cash": 0.8,
@@ -540,7 +546,9 @@
         "202307": "23.76",
         "202308": "24.45",
         "202309": "24.96",
-        "202310": "24.90"
+        "202310": "24.83",
+        "202311": "25.32",
+        "202312": "26.74"
     },
     "quarters": {
         "20011": {
@@ -3422,6 +3430,38 @@
             "eps_avg_yearly": 2.15,
             "eps_latest_yearly": 2.88,
             "eps_growth_yearly": 80.51
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.67,
+            "eps_growth_year": 3.08,
+            "eps_4q": 2,
+            "eps_4q_growth_year": -4.39,
+            "roe": 3.12,
+            "roe_4q": 9.42,
+            "gross_profit": null,
+            "gross_margin": null,
+            "gross_margin_4q_avg": 0,
+            "net_income": 9149188,
+            "net_income_4q": null,
+            "revenue": 27689863,
+            "revenue_4q": null,
+            "common_shares": 126890824,
+            "book_valuer_per_share": 21.93,
+            "book_valuer_per_share_4q_avg": 21.32,
+            "equity": 299285596,
+            "current_ratio": null,
+            "debt_ratio": 90.61,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": null,
+            "reinvestment_rate": 5.2,
+            "research_to_sale_ratio": null,
+            "price_fair": 76.39,
+            "eps_avg_yearly": 2.18,
+            "eps_latest_yearly": 2.68,
+            "eps_growth_yearly": 76.17
         }
     },
     "months": {
@@ -4724,6 +4764,16 @@
             "month": "2023-09",
             "price": "24.96",
             "revenue": 7048278
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "24.83",
+            "revenue": 6299530
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "25.32",
+            "revenue": 6890434
         }
     }
 }

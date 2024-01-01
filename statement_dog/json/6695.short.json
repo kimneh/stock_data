@@ -6,10 +6,10 @@
         "main_business": "產品設計業<br>電子零組件製造業<br>國際貿易業",
         "website_url": "http://www.icatchtek.com/",
         "ceo": "許英偉",
-        "pe_ratio": -215,
+        "pe_ratio": -404,
         "report_year_from": 2018,
         "report_year_to": 2023,
-        "age": 5,
+        "age": 6,
         "eps_negative_percentage": 50,
         "eps_growth_avg": {
             "last_all": null,
@@ -37,6 +37,7 @@
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
             "at_2023_last_3y": null,
+            "at_2024_last_3y": null,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": null,
             "at_2022_last_all": null,
-            "at_2023_last_all": null
+            "at_2023_last_all": null,
+            "at_2024_last_all": null
         },
-        "latest_eps": -0.21,
-        "latest_price": 45.1,
-        "latest_roe": -1.29,
-        "latest_gross_margin": 40.15,
-        "latest_equity": 1719627,
-        "latest_revenue": 286291,
-        "latest_gross_profit": 114941,
-        "latest_net_income": 4345,
-        "latest_debt_ratio": 6.98,
-        "latest_current_ratio": 1685.91,
-        "latest_account_receivable_turnover_ratio": 1.65,
-        "latest_inventory_turnover_ratio": 0.32,
+        "latest_eps": -0.18,
+        "latest_price": 72.7,
+        "latest_roe": -1.09,
+        "latest_gross_margin": 41.54,
+        "latest_equity": 1748342,
+        "latest_revenue": 304409,
+        "latest_gross_profit": 126439,
+        "latest_net_income": 27355,
+        "latest_debt_ratio": 10.6,
+        "latest_current_ratio": 979.12,
+        "latest_account_receivable_turnover_ratio": 1.6,
+        "latest_inventory_turnover_ratio": 0.42,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 31.31
+        "latest_research_to_sale_ratio": 30.19
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.32
+            "eps": -0.03
         }
     },
     "dividends": [],
@@ -463,7 +465,9 @@
         "202307": "43.19",
         "202308": "39.40",
         "202309": "40.36",
-        "202310": "44.06"
+        "202310": "44.13",
+        "202311": "52.78",
+        "202312": "62.92"
     },
     "quarters": {
         "20011": {
@@ -3345,6 +3349,38 @@
             "eps_avg_yearly": 1.64,
             "eps_latest_yearly": 1.16,
             "eps_growth_yearly": 416.1
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 0.29,
+            "eps_growth_year": 0,
+            "eps_4q": -0.18,
+            "eps_4q_growth_year": null,
+            "roe": 1.58,
+            "roe_4q": -1.0799999999999996,
+            "gross_profit": 126439,
+            "gross_margin": 41.54,
+            "gross_margin_4q_avg": 43.22,
+            "net_income": 27355,
+            "net_income_4q": null,
+            "revenue": 304409,
+            "revenue_4q": null,
+            "common_shares": 952093,
+            "book_valuer_per_share": 18.36,
+            "book_valuer_per_share_4q_avg": 18.18,
+            "equity": 1748342,
+            "current_ratio": 979.12,
+            "debt_ratio": 10.6,
+            "inventory_turnover_ratio": 0.42,
+            "account_receivable_turnover_ratio": 1.6,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 30.19,
+            "price_fair": 51.8,
+            "eps_avg_yearly": 1.48,
+            "eps_latest_yearly": 1.16,
+            "eps_growth_yearly": 917.4
         }
     },
     "months": {
@@ -3637,6 +3673,16 @@
             "month": "2023-09",
             "price": "40.36",
             "revenue": 110305
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "44.13",
+            "revenue": 90165
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "52.78",
+            "revenue": 91016
         }
     }
 }

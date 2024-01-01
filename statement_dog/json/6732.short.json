@@ -6,14 +6,14 @@
         "main_business": "感測器積體電路產品之研發、設計、製造及銷售",
         "website_url": "http://www.sensortek.com.tw",
         "ceo": "楊祝原",
-        "pe_ratio": 38,
+        "pe_ratio": 37,
         "report_year_from": 2019,
         "report_year_to": 2023,
-        "age": 4,
+        "age": 5,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 3.28,
-            "last_2y": 3.28,
+            "last_all": -8.52,
+            "last_2y": -27.19,
             "last_4y": null,
             "last_8y": null,
             "last_12y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": null,
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
-            "at_2023_last_3y": null,
+            "at_2023_last_3y": -8.52,
+            "at_2024_last_3y": -8.52,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": null,
             "at_2021_last_all": 29.57,
             "at_2022_last_all": 3.28,
-            "at_2023_last_all": 3.28
+            "at_2023_last_all": -8.52,
+            "at_2024_last_all": -8.52
         },
-        "latest_eps": 10.55,
-        "latest_price": 406,
-        "latest_roe": 12.47,
-        "latest_gross_margin": 28.6,
-        "latest_equity": 4046990,
-        "latest_revenue": 1109146,
-        "latest_gross_profit": 317182,
-        "latest_net_income": 156936,
-        "latest_debt_ratio": 23.45,
-        "latest_current_ratio": 356.96,
-        "latest_account_receivable_turnover_ratio": 2.17,
-        "latest_inventory_turnover_ratio": 1.03,
-        "latest_reinvestment_rate": 12.21,
-        "latest_research_to_sale_ratio": 10.33
+        "latest_eps": 11.83,
+        "latest_price": 433.5,
+        "latest_roe": 13.4,
+        "latest_gross_margin": 29.56,
+        "latest_equity": 4279430,
+        "latest_revenue": 1211006,
+        "latest_gross_profit": 358021,
+        "latest_net_income": 209940,
+        "latest_debt_ratio": 24.4,
+        "latest_current_ratio": 342.7,
+        "latest_account_receivable_turnover_ratio": 2,
+        "latest_inventory_turnover_ratio": 1.37,
+        "latest_reinvestment_rate": 11.77,
+        "latest_research_to_sale_ratio": 10.15
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 15,
             "stock": 0,
-            "eps": 5.37
+            "eps": 9.66
         }
     },
     "dividends": {
@@ -480,7 +482,9 @@
         "202307": "311.33",
         "202308": "310.89",
         "202309": "375.88",
-        "202310": "407.81"
+        "202310": "409.48",
+        "202311": "481.09",
+        "202312": "436.57"
     },
     "quarters": {
         "20011": {
@@ -3362,6 +3366,38 @@
             "eps_avg_yearly": 25.78,
             "eps_latest_yearly": 12.84,
             "eps_growth_yearly": -12.03
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": 4.29,
+            "eps_growth_year": 43,
+            "eps_4q": 11.83,
+            "eps_4q_growth_year": -45.48,
+            "roe": 5.04,
+            "roe_4q": 13.94,
+            "gross_profit": 358021,
+            "gross_margin": 29.56,
+            "gross_margin_4q_avg": 29.36,
+            "net_income": 209940,
+            "net_income_4q": null,
+            "revenue": 1211006,
+            "revenue_4q": null,
+            "common_shares": 489126,
+            "book_valuer_per_share": 87.49,
+            "book_valuer_per_share_4q_avg": 85.26,
+            "equity": 4279430,
+            "current_ratio": 342.7,
+            "debt_ratio": 24.4,
+            "inventory_turnover_ratio": 1.37,
+            "account_receivable_turnover_ratio": 2,
+            "reinvestment_rate": 11.77,
+            "research_to_sale_ratio": 10.15,
+            "price_fair": 75.72,
+            "eps_avg_yearly": 25.24,
+            "eps_latest_yearly": 17.16,
+            "eps_growth_yearly": -2.87
         }
     },
     "months": {
@@ -3624,6 +3660,16 @@
             "month": "2023-09",
             "price": "375.88",
             "revenue": 435525
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "409.48",
+            "revenue": 451237
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "481.09",
+            "revenue": 468312
         }
     }
 }

@@ -6,19 +6,19 @@
         "main_business": "住宅設備之製造及銷售",
         "website_url": "http://www.hcg.com.tw",
         "ceo": "陳世傑",
-        "pe_ratio": 100,
+        "pe_ratio": -454,
         "report_year_from": 2001,
         "report_year_to": 2023,
-        "age": 22,
+        "age": 23,
         "eps_negative_percentage": 35,
         "eps_growth_avg": {
-            "last_all": -3.44,
-            "last_2y": -5.8,
+            "last_all": -9.88,
+            "last_2y": -29.03,
             "last_4y": -29.35,
-            "last_8y": -11.22,
-            "last_12y": 4.72,
-            "last_16y": 3.99,
-            "last_20y": -3.44,
+            "last_8y": -23.98,
+            "last_12y": -4.01,
+            "last_16y": -11.39,
+            "last_20y": -9.88,
             "at_2006_last_3y": 0,
             "at_2007_last_3y": -33.33,
             "at_2008_last_3y": 0,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": -58.25,
             "at_2021_last_3y": -10.1,
             "at_2022_last_3y": -5.8,
-            "at_2023_last_3y": -5.8,
+            "at_2023_last_3y": -29.35,
+            "at_2024_last_3y": -29.35,
             "at_2006_last_all": 0,
             "at_2007_last_all": -33.33,
             "at_2008_last_all": -33.33,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -5.09,
             "at_2021_last_all": 3,
             "at_2022_last_all": -3.44,
-            "at_2023_last_all": -3.44
+            "at_2023_last_all": -9.88,
+            "at_2024_last_all": -9.88
         },
-        "latest_eps": 0.02,
-        "latest_price": 18.1,
-        "latest_roe": 0.11,
-        "latest_gross_margin": 24.93,
-        "latest_equity": 6591343,
-        "latest_revenue": 1302563,
-        "latest_gross_profit": 324739,
-        "latest_net_income": 9283,
-        "latest_debt_ratio": 35.86,
-        "latest_current_ratio": 159.93,
-        "latest_account_receivable_turnover_ratio": 1.15,
-        "latest_inventory_turnover_ratio": 0.51,
-        "latest_reinvestment_rate": -52.4,
-        "latest_research_to_sale_ratio": 2.03
+        "latest_eps": -0.04,
+        "latest_price": 18.15,
+        "latest_roe": -0.16,
+        "latest_gross_margin": 22.88,
+        "latest_equity": 6652960,
+        "latest_revenue": 1208483,
+        "latest_gross_profit": 276502,
+        "latest_net_income": -12766,
+        "latest_debt_ratio": 37.63,
+        "latest_current_ratio": 159.15,
+        "latest_account_receivable_turnover_ratio": 1.03,
+        "latest_inventory_turnover_ratio": 0.5,
+        "latest_reinvestment_rate": -54.34,
+        "latest_research_to_sale_ratio": 2.58
     },
     "eps_dividends": {
         "1990": {
@@ -223,9 +225,9 @@
             "eps": 0.43
         },
         "2023": {
-            "cash": 0.2,
+            "cash": 0.4,
             "stock": 0,
-            "eps": -0.01
+            "eps": -0.05
         }
     },
     "dividends": {
@@ -290,6 +292,10 @@
             "stock": 0
         },
         "2022-08-23": {
+            "cash": 0.2,
+            "stock": 0
+        },
+        "2023-05-09": {
             "cash": 0.2,
             "stock": 0
         },
@@ -572,7 +578,9 @@
         "202307": "22.30",
         "202308": "20.34",
         "202309": "20.56",
-        "202310": "18.49"
+        "202310": "18.44",
+        "202311": "18.50",
+        "202312": "18.26"
     },
     "quarters": {
         "20011": {
@@ -3454,6 +3462,38 @@
             "eps_avg_yearly": 1.68,
             "eps_latest_yearly": 0.04,
             "eps_growth_yearly": 871.64
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.04,
+            "eps_growth_year": -300,
+            "eps_4q": -0.04,
+            "eps_4q_growth_year": -105.06,
+            "roe": -0.19,
+            "roe_4q": -0.15999999999999998,
+            "gross_profit": 276502,
+            "gross_margin": 22.88,
+            "gross_margin_4q_avg": 24.65,
+            "net_income": -12766,
+            "net_income_4q": null,
+            "revenue": 1208483,
+            "revenue_4q": null,
+            "common_shares": 3023037,
+            "book_valuer_per_share": 21.85,
+            "book_valuer_per_share_4q_avg": 21.61,
+            "equity": 6652960,
+            "current_ratio": 159.15,
+            "debt_ratio": 37.63,
+            "inventory_turnover_ratio": 0.5,
+            "account_receivable_turnover_ratio": 1.03,
+            "reinvestment_rate": -54.34,
+            "research_to_sale_ratio": 2.58,
+            "price_fair": 58.64,
+            "eps_avg_yearly": 1.68,
+            "eps_latest_yearly": 0.04,
+            "eps_growth_yearly": 871.64
         }
     },
     "months": {
@@ -4796,6 +4836,16 @@
             "month": "2023-09",
             "price": "20.56",
             "revenue": 394617
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "18.44",
+            "revenue": 381718
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "18.50",
+            "revenue": 448380
         }
     }
 }

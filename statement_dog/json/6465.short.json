@@ -6,15 +6,15 @@
         "main_business": "衛星定位監控器之研發、製造及銷售",
         "website_url": "http://www.atrack.com.tw",
         "ceo": "吳佳蓉",
-        "pe_ratio": -8,
+        "pe_ratio": -9,
         "report_year_from": 2012,
         "report_year_to": 2023,
-        "age": 11,
+        "age": 12,
         "eps_negative_percentage": 44,
         "eps_growth_avg": {
             "last_all": -61.12,
-            "last_2y": -100,
-            "last_4y": -85.69,
+            "last_2y": null,
+            "last_4y": -81.25,
             "last_8y": null,
             "last_12y": null,
             "last_16y": null,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": -74.45,
             "at_2021_last_3y": -85.69,
             "at_2022_last_3y": -81.25,
-            "at_2023_last_3y": -81.25,
+            "at_2023_last_3y": -100,
+            "at_2024_last_3y": -100,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -54,22 +55,23 @@
             "at_2020_last_all": -61.12,
             "at_2021_last_all": -61.12,
             "at_2022_last_all": -61.12,
-            "at_2023_last_all": -61.12
+            "at_2023_last_all": -61.12,
+            "at_2024_last_all": -61.12
         },
-        "latest_eps": -2.25,
-        "latest_price": 18.65,
-        "latest_roe": -27.82,
-        "latest_gross_margin": 25.59,
-        "latest_equity": 222491,
-        "latest_revenue": 42982,
-        "latest_gross_profit": 11001,
-        "latest_net_income": -19091,
-        "latest_debt_ratio": 56.88,
-        "latest_current_ratio": 243.66,
-        "latest_account_receivable_turnover_ratio": 0.99,
-        "latest_inventory_turnover_ratio": 0.22,
+        "latest_eps": -2.09,
+        "latest_price": 19.6,
+        "latest_roe": -27.6,
+        "latest_gross_margin": 31.22,
+        "latest_equity": 208155,
+        "latest_revenue": 59969,
+        "latest_gross_profit": 18721,
+        "latest_net_income": -14001,
+        "latest_debt_ratio": 59.52,
+        "latest_current_ratio": 212.29,
+        "latest_account_receivable_turnover_ratio": 1.45,
+        "latest_inventory_turnover_ratio": 0.32,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 30.56
+        "latest_research_to_sale_ratio": 21.02
     },
     "eps_dividends": {
         "2001": {
@@ -185,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.83
+            "eps": -1.27
         }
     },
     "dividends": {
@@ -484,7 +486,9 @@
         "202307": "20.07",
         "202308": "18.70",
         "202309": "19.00",
-        "202310": "18.97"
+        "202310": "18.90",
+        "202311": "18.35",
+        "202312": "19.70"
     },
     "quarters": {
         "20011": {
@@ -3366,6 +3370,38 @@
             "eps_avg_yearly": 0,
             "eps_latest_yearly": 0,
             "eps_growth_yearly": 0
+        },
+        "20233": {
+            "year_quarter": 20233,
+            "year": 2023,
+            "quarter": 3,
+            "eps": -0.44,
+            "eps_growth_year": null,
+            "eps_4q": -2.09,
+            "eps_4q_growth_year": null,
+            "roe": -6.5,
+            "roe_4q": -27.759999999999998,
+            "gross_profit": 18721,
+            "gross_margin": 31.22,
+            "gross_margin_4q_avg": 30.03,
+            "net_income": -14001,
+            "net_income_4q": null,
+            "revenue": 59969,
+            "revenue_4q": null,
+            "common_shares": 322817,
+            "book_valuer_per_share": 6.53,
+            "book_valuer_per_share_4q_avg": 7.22,
+            "equity": 208155,
+            "current_ratio": 212.29,
+            "debt_ratio": 59.52,
+            "inventory_turnover_ratio": 0.32,
+            "account_receivable_turnover_ratio": 1.45,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 21.02,
+            "price_fair": 0,
+            "eps_avg_yearly": 0,
+            "eps_latest_yearly": 0,
+            "eps_growth_yearly": 0
         }
     },
     "months": {
@@ -3923,6 +3959,16 @@
             "month": "2023-09",
             "price": "19.00",
             "revenue": 19629
+        },
+        "2023-10": {
+            "month": "2023-10",
+            "price": "18.90",
+            "revenue": 16874
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "18.35",
+            "revenue": 18305
         }
     }
 }
