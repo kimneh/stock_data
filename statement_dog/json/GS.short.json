@@ -6,19 +6,19 @@
         "main_business": "高盛集團是一家全球領先的投資銀行，證券和投資管理公司，為包括公司，金融機構，政府和個人在內的眾多多元化客戶群提供廣泛的金融服務。",
         "website_url": "https://www.goldmansachs.com/",
         "ceo": "David M. Solomon",
-        "pe_ratio": 11,
+        "pe_ratio": 0,
         "report_year_from": 1999,
         "report_year_to": 2022,
-        "age": 24,
+        "age": 25,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 17.2,
-            "last_2y": 24.09,
-            "last_4y": 18.19,
-            "last_8y": 12.81,
-            "last_12y": 10.08,
-            "last_16y": 14.83,
-            "last_20y": 17.2,
+            "last_all": 14.85,
+            "last_2y": -6.94,
+            "last_4y": 6.06,
+            "last_8y": 7.43,
+            "last_12y": 9.68,
+            "last_16y": 8.38,
+            "last_20y": 16.27,
             "at_2006_last_3y": 49.82,
             "at_2007_last_3y": 43.2,
             "at_2008_last_3y": 11.84,
@@ -36,7 +36,8 @@
             "at_2020_last_3y": 24.23,
             "at_2021_last_3y": 34.49,
             "at_2022_last_3y": 16.2,
-            "at_2023_last_3y": 16.2,
+            "at_2023_last_3y": 9.44,
+            "at_2024_last_3y": 9.44,
             "at_2006_last_all": 36.85,
             "at_2007_last_all": 34.96,
             "at_2008_last_all": 18.59,
@@ -54,17 +55,18 @@
             "at_2020_last_all": 18.29,
             "at_2021_last_all": 20.41,
             "at_2022_last_all": 17.2,
-            "at_2023_last_all": 17.2
+            "at_2023_last_all": 14.85,
+            "at_2024_last_all": 14.85
         },
-        "latest_eps": 26.1,
-        "latest_price": 289.91,
-        "latest_roe": 6.69,
+        "latest_eps": 1411.97,
+        "latest_price": 390.47,
+        "latest_roe": 7.27,
         "latest_gross_margin": null,
-        "latest_equity": 117000000,
+        "latest_equity": 117277000,
         "latest_revenue": 28527000,
         "latest_gross_profit": null,
         "latest_net_income": 2058000,
-        "latest_debt_ratio": 92.58,
+        "latest_debt_ratio": 92.56,
         "latest_current_ratio": null,
         "latest_account_receivable_turnover_ratio": null,
         "latest_inventory_turnover_ratio": null,
@@ -195,7 +197,12 @@
         "2023": {
             "cash": 10,
             "stock": 0,
-            "eps": 21.92
+            "eps": 21.03
+        },
+        "2024": {
+            "cash": 2.5,
+            "stock": 0,
+            "eps": 0
         }
     },
     "dividends": {
@@ -566,6 +573,10 @@
         "2023-12-29": {
             "cash": 2.5,
             "stock": 0
+        },
+        "2024-03-29": {
+            "cash": 2.5,
+            "stock": 0
         }
     },
     "prices": {
@@ -842,8 +853,9 @@
         "202307": "336.80",
         "202308": "335.32",
         "202309": "330.04",
-        "202310": "306.14",
-        "202311": "無"
+        "202310": "305.78",
+        "202311": "331.22",
+        "202312": "367.20"
     },
     "quarters": {
         "20011": {
@@ -3730,10 +3742,10 @@
             "year_quarter": 20233,
             "year": 2023,
             "quarter": 3,
-            "eps": 7.38,
-            "eps_growth_year": -17.27,
-            "eps_4q": 26.1,
-            "eps_4q_growth_year": -33.32,
+            "eps": 6.49,
+            "eps_growth_year": -27.27,
+            "eps_4q": 25.21,
+            "eps_4q_growth_year": -35.6,
             "roe": 1.76,
             "roe_4q": 6.68,
             "gross_profit": null,
@@ -3743,20 +3755,20 @@
             "net_income_4q": null,
             "revenue": 28527000,
             "revenue_4q": null,
-            "common_shares": null,
-            "book_valuer_per_share": 354.9,
-            "book_valuer_per_share_4q_avg": 309.86,
-            "equity": 117000000,
+            "common_shares": 9000,
+            "book_valuer_per_share": 302.57,
+            "book_valuer_per_share_4q_avg": 296.78,
+            "equity": 117277000,
             "current_ratio": null,
-            "debt_ratio": 92.58,
+            "debt_ratio": 92.56,
             "inventory_turnover_ratio": null,
             "account_receivable_turnover_ratio": null,
             "reinvestment_rate": null,
             "research_to_sale_ratio": null,
-            "price_fair": 1395.01,
-            "eps_avg_yearly": 39.86,
-            "eps_latest_yearly": 29.52,
-            "eps_growth_yearly": 53.66
+            "price_fair": 1387.23,
+            "eps_avg_yearly": 39.64,
+            "eps_latest_yearly": 25.96,
+            "eps_growth_yearly": 48.34
         }
     },
     "months": {
@@ -5127,7 +5139,17 @@
         },
         "2023-10": {
             "month": "2023-10",
-            "price": "306.14",
+            "price": "305.78",
+            "revenue": 0
+        },
+        "2023-11": {
+            "month": "2023-11",
+            "price": "331.22",
+            "revenue": 0
+        },
+        "2023-12": {
+            "month": "2023-12",
+            "price": "367.20",
             "revenue": 0
         }
     }
