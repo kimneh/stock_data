@@ -1,0 +1,602 @@
+{
+    "PCF": {
+        "fundid": "1199",
+        "fundname": "元大全球未來通訊ETF基金",
+        "fullname": "元大全球未來通訊ETF證券投資信託基金",
+        "ename": "Yuanta Global NextGen Communications ETF",
+        "markcd": "00861",
+        "trandate": "20240305",
+        "totalav": 4439411508,
+        "osunit": 115412000,
+        "nav": 38.47,
+        "baseunit": 500000,
+        "estcvalue": 19232885,
+        "estdvalue": -1932882,
+        "issuesdiff": 0,
+        "cashdiff": 0,
+        "preallot": 21170000,
+        "allot": 19257118,
+        "anndate": "20240307",
+        "upddate": "2024-03-06 12:06:58",
+        "preunit": 115412000,
+        "predate": "20240306",
+        "allot_charge_fee": 0,
+        "redem_charge_fee": 0,
+        "Beneficiary": {
+            "doc_ym": "20240229",
+            "bf_cnt_a": 17414,
+            "upd_date": "2024-03-01T08:47:15"
+        }
+    },
+    "InKind": {
+        "FundComposition": null
+    },
+    "Cash": {
+        "TranDate": "20240305",
+        "CashPosition": [
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": 2.8411,
+                "amt": 126128220,
+                "trandate": "20240305"
+            },
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.0258,
+                "amt": 1143606.99,
+                "trandate": "20240305"
+            },
+            {
+                "code": "1210",
+                "name": "應收股利",
+                "ename": "DIVIDENDS RECEIVABLES",
+                "crncy": "KRW",
+                "exrate": 0,
+                "rto": 1.0473,
+                "amt": 46495897,
+                "trandate": "20240305"
+            },
+            {
+                "code": "1210",
+                "name": "應收股利",
+                "ename": "DIVIDENDS RECEIVABLES",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.0014,
+                "amt": 63082.31,
+                "trandate": "20240305"
+            }
+        ],
+        "MMF": [],
+        "Margin": [
+            {
+                "code": null,
+                "name": "保證金",
+                "ename": "Margin",
+                "crncy": "NTD",
+                "exrate": 1,
+                "rto": 0,
+                "amt": 3015574,
+                "trandate": "20240305"
+            },
+            {
+                "code": null,
+                "name": "保證金",
+                "ename": "Margin",
+                "crncy": "USD",
+                "exrate": 31.578,
+                "rto": 0,
+                "amt": 1720897.86,
+                "trandate": "20240305"
+            }
+        ],
+        "RP": [],
+        "ForwardExchange": [],
+        "Currency": [
+            {
+                "fundId": "1199",
+                "cDate": "20240305",
+                "crncy": "NTD",
+                "endRate": 31.578
+            },
+            {
+                "fundId": "1199",
+                "cDate": "20240305",
+                "crncy": "KRW",
+                "endRate": 1335.36
+            },
+            {
+                "fundId": "1199",
+                "cDate": "20240305",
+                "crncy": "JPY",
+                "endRate": 150.42
+            },
+            {
+                "fundId": "1199",
+                "cDate": "20240305",
+                "crncy": "HKD",
+                "endRate": 7.824
+            },
+            {
+                "fundId": "1199",
+                "cDate": "20240305",
+                "crncy": "EUR",
+                "endRate": 0.922
+            },
+            {
+                "fundId": "1199",
+                "cDate": "20240305",
+                "crncy": "CNY",
+                "endRate": 7.199
+            },
+            {
+                "fundId": "1199",
+                "cDate": "20240305",
+                "crncy": "CNH",
+                "endRate": 7.2119
+            }
+        ],
+        "CouponRate": [],
+        "InvestArea": [
+            {
+                "TRAN_DATE": "20240305",
+                "FUND_ID": "1199",
+                "name": "美國",
+                "ename": "USA",
+                "HOLD_RTO": 61.7,
+                "CNT": 21
+            },
+            {
+                "TRAN_DATE": "20240305",
+                "FUND_ID": "1199",
+                "name": "台灣",
+                "ename": "TAIWAN",
+                "HOLD_RTO": 14.38,
+                "CNT": 12
+            },
+            {
+                "TRAN_DATE": "20240305",
+                "FUND_ID": "1199",
+                "name": "日本",
+                "ename": "JAPAN",
+                "HOLD_RTO": 8.59,
+                "CNT": 6
+            },
+            {
+                "TRAN_DATE": "20240305",
+                "FUND_ID": "1199",
+                "name": "韓國",
+                "ename": "KOREA",
+                "HOLD_RTO": 6.96,
+                "CNT": 2
+            },
+            {
+                "TRAN_DATE": "20240305",
+                "FUND_ID": "1199",
+                "name": "德國",
+                "ename": "GERMANY",
+                "HOLD_RTO": 1.77,
+                "CNT": 1
+            },
+            {
+                "TRAN_DATE": "20240305",
+                "FUND_ID": "1199",
+                "name": "芬蘭",
+                "ename": "FINLAND",
+                "HOLD_RTO": 0.65,
+                "CNT": 1
+            },
+            {
+                "TRAN_DATE": "20240305",
+                "FUND_ID": "1199",
+                "name": "其他",
+                "ename": "other",
+                "HOLD_RTO": 0.97,
+                "CNT": 2
+            },
+            {
+                "TRAN_DATE": "20240305",
+                "FUND_ID": "1199",
+                "name": "現金",
+                "ename": "Cash",
+                "HOLD_RTO": 4.98,
+                "CNT": 0
+            }
+        ],
+        "CreditRating": []
+    },
+    "FundWeights": {
+        "Summary": {
+            "code": "1199",
+            "name": null,
+            "stkvalues": 4218454405,
+            "futvalues": 215156545.11,
+            "etfvalues": 0,
+            "bndvalues": 0,
+            "fundsize": 4439411508
+        },
+        "StockWeights": [
+            {
+                "code": "AVGO UQ",
+                "ym": null,
+                "name": "BROADCOM INC",
+                "ename": "Broadcom Inc",
+                "weights": 9.69,
+                "qty": 10148
+            },
+            {
+                "code": "2330",
+                "ym": null,
+                "name": "台積電",
+                "ename": "Taiwan Semiconductor Manufacturing Co. Ltd.",
+                "weights": 8.73,
+                "qty": 531000
+            },
+            {
+                "code": "005930 KS",
+                "ym": null,
+                "name": "SAMSUNG ELECTRONICS CO LTD",
+                "ename": "Samsung Electronics Co Ltd",
+                "weights": 6.65,
+                "qty": 169297
+            },
+            {
+                "code": "QCOM UQ",
+                "ym": null,
+                "name": "QUALCOMM INC",
+                "ename": "QUALCOMM Inc",
+                "weights": 6.32,
+                "qty": 55044
+            },
+            {
+                "code": "AMAT UQ",
+                "ym": null,
+                "name": "APPLIED MATERIALS INC",
+                "ename": "Applied Materials Inc",
+                "weights": 6.07,
+                "qty": 41150
+            },
+            {
+                "code": "AAPL UQ",
+                "ym": null,
+                "name": "APPLE INC",
+                "ename": "Apple Inc",
+                "weights": 6.06,
+                "qty": 50097
+            },
+            {
+                "code": "CSCO UQ",
+                "ym": null,
+                "name": "CISCO SYSTEMS INC",
+                "ename": "Cisco Systems Inc",
+                "weights": 5.48,
+                "qty": 157516
+            },
+            {
+                "code": "LRCX UQ",
+                "ym": null,
+                "name": "LAM RESEARCH CORP",
+                "ename": "Lam Research Corp",
+                "weights": 4.45,
+                "qty": 6495
+            },
+            {
+                "code": "8035 JT",
+                "ym": null,
+                "name": "TOKYO ELECTRON LTD",
+                "ename": "Tokyo Electron Ltd",
+                "weights": 4.1,
+                "qty": 22000
+            },
+            {
+                "code": "VZ UN",
+                "ym": null,
+                "name": "VERIZON COMMUNICATIONS INC",
+                "ename": "Verizon Communications Inc",
+                "weights": 3.86,
+                "qty": 134404
+            },
+            {
+                "code": "AMT UN",
+                "ym": null,
+                "name": "AMERICAN TOWER CORP",
+                "ename": "American Tower Corp",
+                "weights": 3.34,
+                "qty": 22871
+            },
+            {
+                "code": "EQIX UQ",
+                "ym": null,
+                "name": "EQUINIX INC",
+                "ename": "Equinix Inc",
+                "weights": 2.93,
+                "qty": 4604
+            },
+            {
+                "code": "T UN",
+                "ym": null,
+                "name": "AT&T INC",
+                "ename": "AT&T Inc",
+                "weights": 2.79,
+                "qty": 228428
+            },
+            {
+                "code": "MRVL UQ",
+                "ym": null,
+                "name": "MARVELL TECHNOLOGY INC",
+                "ename": "Marvell Technology Inc",
+                "weights": 2.37,
+                "qty": 42252
+            },
+            {
+                "code": "2454",
+                "ym": null,
+                "name": "聯發科",
+                "ename": "MediaTek Inc.",
+                "weights": 1.9,
+                "qty": 73000
+            },
+            {
+                "code": "TMUS UQ",
+                "ym": null,
+                "name": "T-MOBILE US INC",
+                "ename": "T-Mobile US Inc",
+                "weights": 1.79,
+                "qty": 15165
+            },
+            {
+                "code": "DTE GY",
+                "ym": null,
+                "name": "DEUTSCHE TELEKOM AG-REG",
+                "ename": "Deutsche Telekom AG",
+                "weights": 1.77,
+                "qty": 103259
+            },
+            {
+                "code": "CCI UN",
+                "ym": null,
+                "name": "CROWN CASTLE INC",
+                "ename": "Crown Castle Inc",
+                "weights": 1.69,
+                "qty": 21321
+            },
+            {
+                "code": "DLR UN",
+                "ym": null,
+                "name": "DIGITAL REALTY TRUST INC",
+                "ename": "Digital Realty Trust Inc",
+                "weights": 1.59,
+                "qty": 14913
+            },
+            {
+                "code": "6146 JT",
+                "ym": null,
+                "name": "DISCO CORP",
+                "ename": "Disco Corp",
+                "weights": 1.11,
+                "qty": 4400
+            },
+            {
+                "code": "6981 JT",
+                "ym": null,
+                "name": "MURATA MANUFACTURING CO LTD",
+                "ename": "Murata Manufacturing Co Ltd",
+                "weights": 1.11,
+                "qty": 77800
+            },
+            {
+                "code": "9433 JT",
+                "ym": null,
+                "name": "KDDI CORP",
+                "ename": "KDDI Corp",
+                "weights": 0.99,
+                "qty": 46300
+            },
+            {
+                "code": "KEYS UN",
+                "ym": null,
+                "name": "KEYSIGHT TECHNOLOGIES IN",
+                "ename": "Keysight Technologies Inc",
+                "weights": 0.96,
+                "qty": 8703
+            },
+            {
+                "code": "9434 JT",
+                "ym": null,
+                "name": "SOFTBANK CORP",
+                "ename": "SoftBank Corp",
+                "weights": 0.83,
+                "qty": 89600
+            },
+            {
+                "code": "SBAC UQ",
+                "ym": null,
+                "name": "SBA COMMUNICATIONS CORP",
+                "ename": "SBA Communications Corp",
+                "weights": 0.81,
+                "qty": 5284
+            },
+            {
+                "code": "2382",
+                "ym": null,
+                "name": "廣達",
+                "ename": "QUANTA COMPUTER INC.",
+                "weights": 0.76,
+                "qty": 137000
+            },
+            {
+                "code": "NOKIA FH",
+                "ym": null,
+                "name": "NOKIA OYJ",
+                "ename": "Nokia Oyj",
+                "weights": 0.65,
+                "qty": 258226
+            },
+            {
+                "code": "2303",
+                "ym": null,
+                "name": "聯電",
+                "ename": "UNITED MICROELECTRONICS CORP.",
+                "weights": 0.64,
+                "qty": 582000
+            },
+            {
+                "code": "ERICB SS",
+                "ym": null,
+                "name": "ERICSSON LM-B SHS",
+                "ename": "Telefonaktiebolaget LM Ericsson",
+                "weights": 0.55,
+                "qty": 143598
+            },
+            {
+                "code": "3711",
+                "ym": null,
+                "name": "日月光投控",
+                "ename": "ASE Technology Holding Co. Ltd.",
+                "weights": 0.5,
+                "qty": 155000
+            },
+            {
+                "code": "6988 JT",
+                "ym": null,
+                "name": "NITTO DENKO CORP",
+                "ename": "Nitto Denko Corp",
+                "weights": 0.45,
+                "qty": 6800
+            },
+            {
+                "code": "JNPR UN",
+                "ym": null,
+                "name": "JUNIPER NETWORKS INC",
+                "ename": "Juniper Networks Inc",
+                "weights": 0.42,
+                "qty": 15655
+            },
+            {
+                "code": "VOD LN",
+                "ym": null,
+                "name": "VODAFONE GROUP PLC",
+                "ename": "Vodafone Group PLC",
+                "weights": 0.42,
+                "qty": 666238
+            },
+            {
+                "code": "3034",
+                "ym": null,
+                "name": "聯詠",
+                "ename": "Novatek Microelectronics Corporation",
+                "weights": 0.37,
+                "qty": 28000
+            },
+            {
+                "code": "LSCC UQ",
+                "ym": null,
+                "name": "LATTICE SEMICONDUCTOR CORP",
+                "ename": "Lattice Semiconductor Corp",
+                "weights": 0.37,
+                "qty": 6722
+            },
+            {
+                "code": "247540 KS",
+                "ym": null,
+                "name": "ECOPRO BM CO LTD",
+                "ename": "Ecopro BM Co Ltd",
+                "weights": 0.31,
+                "qty": 2278
+            },
+            {
+                "code": "CIEN UN",
+                "ym": null,
+                "name": "CIENA CORP",
+                "ename": "Ciena Corp",
+                "weights": 0.31,
+                "qty": 7199
+            },
+            {
+                "code": "2379",
+                "ym": null,
+                "name": "瑞昱",
+                "ename": "Realtek Semiconductor Corporation",
+                "weights": 0.29,
+                "qty": 22000
+            },
+            {
+                "code": "3008",
+                "ym": null,
+                "name": "大立光",
+                "ename": "LARGAN Precision Co.Ltd",
+                "weights": 0.29,
+                "qty": 5000
+            },
+            {
+                "code": "2345",
+                "ym": null,
+                "name": "智邦",
+                "ename": "Accton Technology Corp.",
+                "weights": 0.28,
+                "qty": 24000
+            },
+            {
+                "code": "3037",
+                "ym": null,
+                "name": "欣興",
+                "ename": "Unimicron Technology Corp.",
+                "weights": 0.24,
+                "qty": 59000
+            },
+            {
+                "code": "2327",
+                "ym": null,
+                "name": "國巨",
+                "ename": "YAGEO CORPORATION",
+                "weights": 0.23,
+                "qty": 19000
+            },
+            {
+                "code": "ARW UN",
+                "ym": null,
+                "name": "ARROW ELECTRONICS INC",
+                "ename": "Arrow Electronics Inc",
+                "weights": 0.23,
+                "qty": 2726
+            },
+            {
+                "code": "6415",
+                "ym": null,
+                "name": "矽力*-KY",
+                "ename": "Silergy Corp.",
+                "weights": 0.15,
+                "qty": 16000
+            },
+            {
+                "code": "GFS UQ",
+                "ym": null,
+                "name": "GLOBALFOUNDRIES INC",
+                "ename": "GLOBALFOUNDRIES Inc",
+                "weights": 0.14,
+                "qty": 3864
+            }
+        ],
+        "FutureWeights": [
+            {
+                "code": "NQ",
+                "ym": "202403",
+                "name": "小那斯達克指數期貨",
+                "ename": "E-Mini Nasdaq 100 Index futures",
+                "weights": 4.85,
+                "qty": 19
+            }
+        ],
+        "ETFWeights": [],
+        "BondWeights": []
+    },
+    "Memo": null
+}

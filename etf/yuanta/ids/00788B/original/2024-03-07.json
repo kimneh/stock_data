@@ -1,0 +1,1837 @@
+{
+    "PCF": {
+        "fundid": "1189",
+        "fundname": "元大10年期以上美元投資級公共事業電能債券ETF基金",
+        "fullname": "元大產業債券ETF傘型證券投資信託基金之元大10年期以上美元投資級公共事業電能債券ETF證券投資信託基金",
+        "ename": "Yuanta US 10plus Investment Grade Utility Electric Power Bond ETF",
+        "markcd": "00788B",
+        "trandate": "20240305",
+        "totalav": 958717524,
+        "osunit": 30206000,
+        "nav": 31.7393,
+        "baseunit": 500000,
+        "estcvalue": 15869654,
+        "estdvalue": -1137576,
+        "issuesdiff": 500000,
+        "cashdiff": 0,
+        "preallot": 17150000,
+        "allot": 15912424,
+        "anndate": "20240307",
+        "upddate": "2024-03-06 16:53:13",
+        "preunit": 30206000,
+        "predate": "20240306",
+        "allot_charge_fee": 0,
+        "redem_charge_fee": 0,
+        "Beneficiary": {
+            "doc_ym": "20240229",
+            "bf_cnt_a": 2250,
+            "upd_date": "2024-03-01T08:47:15"
+        }
+    },
+    "InKind": {
+        "FundComposition": null
+    },
+    "Cash": {
+        "TranDate": "20240305",
+        "CashPosition": [
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": 2.4913,
+                "amt": 23884687,
+                "trandate": "20240305"
+            },
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.0333,
+                "amt": 318786.45,
+                "trandate": "20240305"
+            },
+            {
+                "code": "1220",
+                "name": "應收利息",
+                "ename": "INTEREST RECEIVEABLES",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.0454,
+                "amt": 435458.76,
+                "trandate": "20240305"
+            },
+            {
+                "code": "3301",
+                "name": "應付申購預收款",
+                "ename": "PAYABLES",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": -0.1192,
+                "amt": -1142576,
+                "trandate": "20240305"
+            }
+        ],
+        "MMF": [],
+        "Margin": [],
+        "RP": [],
+        "ForwardExchange": [],
+        "Currency": [
+            {
+                "fundId": "1189",
+                "cDate": "20240305",
+                "crncy": "NTD",
+                "endRate": 31.578
+            },
+            {
+                "fundId": "1189",
+                "cDate": "20240305",
+                "crncy": "KRW",
+                "endRate": 1335.36
+            },
+            {
+                "fundId": "1189",
+                "cDate": "20240305",
+                "crncy": "JPY",
+                "endRate": 150.42
+            },
+            {
+                "fundId": "1189",
+                "cDate": "20240305",
+                "crncy": "HKD",
+                "endRate": 7.824
+            },
+            {
+                "fundId": "1189",
+                "cDate": "20240305",
+                "crncy": "EUR",
+                "endRate": 0.922
+            },
+            {
+                "fundId": "1189",
+                "cDate": "20240305",
+                "crncy": "CNY",
+                "endRate": 7.199
+            },
+            {
+                "fundId": "1189",
+                "cDate": "20240305",
+                "crncy": "CNH",
+                "endRate": 7.2119
+            }
+        ],
+        "CouponRate": [
+            {
+                "ConstituentCount": 298,
+                "CurrentWeight": 100,
+                "YieldtoMaturity": 5.56,
+                "avgCouponRate": 4.52,
+                "EffectiveDuration": 13.12,
+                "YearstoMaturity": 23.83,
+                "avgOASWorst": 1.23
+            },
+            {
+                "ConstituentCount": 204,
+                "CurrentWeight": 99.16,
+                "YieldtoMaturity": 5.45,
+                "avgCouponRate": 4.38,
+                "EffectiveDuration": 13.3,
+                "YearstoMaturity": 23.5,
+                "avgOASWorst": 1.14
+            }
+        ],
+        "InvestArea": [
+            {
+                "TRAN_DATE": "20240305",
+                "FUND_ID": "1189",
+                "name": "美國",
+                "ename": "USA",
+                "HOLD_RTO": 97.73,
+                "CNT": 204
+            },
+            {
+                "TRAN_DATE": "20240305",
+                "FUND_ID": "1189",
+                "name": "現金",
+                "ename": "Cash",
+                "HOLD_RTO": 2.27,
+                "CNT": 0
+            }
+        ],
+        "CreditRating": [
+            {
+                "FUND_ID": "1189",
+                "NAV_DATE": "20240305",
+                "CREDIT_NAME": "AA",
+                "CREDIT_RATIO": 22.59,
+                "CREDIT_COUNT": 49
+            },
+            {
+                "FUND_ID": "1189",
+                "NAV_DATE": "20240305",
+                "CREDIT_NAME": "A",
+                "CREDIT_RATIO": 64.12,
+                "CREDIT_COUNT": 131
+            },
+            {
+                "FUND_ID": "1189",
+                "NAV_DATE": "20240305",
+                "CREDIT_NAME": "BBB",
+                "CREDIT_RATIO": 11.02,
+                "CREDIT_COUNT": 24
+            }
+        ]
+    },
+    "FundWeights": {
+        "Summary": {
+            "code": "1189",
+            "name": null,
+            "stkvalues": 0,
+            "futvalues": 0,
+            "etfvalues": 0,
+            "bndvalues": 950671087.43,
+            "fundsize": 958717524
+        },
+        "StockWeights": [],
+        "FutureWeights": [],
+        "ETFWeights": [],
+        "BondWeights": [
+            {
+                "code": "AL2065905",
+                "name": "VIRGINIA ELEC & POWER CO 4% 11/15/2046",
+                "ename": "VIRGINIA ELEC & POWER CO 4% 11/15/2046",
+                "weights": 1.8,
+                "FACE_AMT": 670000,
+                "qty": 547360.74
+            },
+            {
+                "code": "QJ7753297",
+                "name": "CON EDISON CO OF NY INC 4.5% 12/01/2045",
+                "ename": "CON EDISON CO OF NY INC 4.5% 12/01/2045",
+                "weights": 1.66,
+                "FACE_AMT": 570000,
+                "qty": 504457.98
+            },
+            {
+                "code": "EG8834970",
+                "name": "PACIFICORP 6.25% 10/15/2037",
+                "ename": "PACIFICORP 6.25% 10/15/2037",
+                "weights": 1.51,
+                "FACE_AMT": 430000,
+                "qty": 459878.62
+            },
+            {
+                "code": "BW2760930",
+                "name": "GEORGIA POWER CO 5.125% 05/15/2052",
+                "ename": "GEORGIA POWER CO 5.125% 05/15/2052",
+                "weights": 1.38,
+                "FACE_AMT": 430000,
+                "qty": 419078.04
+            },
+            {
+                "code": "AN5825772",
+                "name": "NISOURCE INC 4.375% 05/15/2047",
+                "ename": "NISOURCE INC 4.375% 05/15/2047",
+                "weights": 1.38,
+                "FACE_AMT": 490000,
+                "qty": 418055.55
+            },
+            {
+                "code": "ZI7602678",
+                "name": "MIDAMERICAN ENERGY CO 5.85% 09/15/2054",
+                "ename": "MIDAMERICAN ENERGY CO 5.85% 09/15/2054",
+                "weights": 1.33,
+                "FACE_AMT": 370000,
+                "qty": 403978.77
+            },
+            {
+                "code": "AR4879417",
+                "name": "DUKE ENERGY CAROLINAS 3.95% 03/15/2048",
+                "ename": "DUKE ENERGY CAROLINAS 3.95% 03/15/2048",
+                "weights": 1.31,
+                "FACE_AMT": 490000,
+                "qty": 397641.62
+            },
+            {
+                "code": "BG6925096",
+                "name": "DUKE ENERGY INDIANA LLC 2.75% 04/01/2050",
+                "ename": "DUKE ENERGY INDIANA LLC 2.75% 04/01/2050",
+                "weights": 1.22,
+                "FACE_AMT": 580000,
+                "qty": 371567.3
+            },
+            {
+                "code": "ZS1689992",
+                "name": "OGLETHORPE POWER CORP 5.05% 10/01/2048",
+                "ename": "OGLETHORPE POWER CORP 5.05% 10/01/2048",
+                "weights": 1.2,
+                "FACE_AMT": 400000,
+                "qty": 364065.62
+            },
+            {
+                "code": "AX3988737",
+                "name": "PACIFICORP 4.15% 02/15/2050",
+                "ename": "PACIFICORP 4.15% 02/15/2050",
+                "weights": 1.14,
+                "FACE_AMT": 440000,
+                "qty": 344727.17
+            },
+            {
+                "code": "AX6466574",
+                "name": "SOUTHERN CAL EDISON 4.875% 03/01/2049",
+                "ename": "SOUTHERN CAL EDISON 4.875% 03/01/2049",
+                "weights": 1.1,
+                "FACE_AMT": 370000,
+                "qty": 333287.15
+            },
+            {
+                "code": "AM9458358",
+                "name": "SOUTHERN CAL EDISON 4% 04/01/2047",
+                "ename": "SOUTHERN CAL EDISON 4% 04/01/2047",
+                "weights": 1.09,
+                "FACE_AMT": 410000,
+                "qty": 330964.8
+            },
+            {
+                "code": "EF6963310",
+                "name": "BERKSHIRE HATHAWAY ENERG 6.125% 04/01/2036",
+                "ename": "BERKSHIRE HATHAWAY ENERG 6.125% 04/01/2036",
+                "weights": 1.08,
+                "FACE_AMT": 300000,
+                "qty": 327349.66
+            },
+            {
+                "code": "EK5326930",
+                "name": "ATMOS ENERGY CORP 4.125% 10/15/2044",
+                "ename": "ATMOS ENERGY CORP 4.125% 10/15/2044",
+                "weights": 1.07,
+                "FACE_AMT": 370000,
+                "qty": 326290.88
+            },
+            {
+                "code": "AV9074692",
+                "name": "CON EDISON CO OF NY INC 4.65% 12/01/2048",
+                "ename": "CON EDISON CO OF NY INC 4.65% 12/01/2048",
+                "weights": 1.06,
+                "FACE_AMT": 360000,
+                "qty": 322224.42
+            },
+            {
+                "code": "AS5401839",
+                "name": "CON EDISON CO OF NY INC 4.5% 05/15/2058",
+                "ename": "CON EDISON CO OF NY INC 4.5% 05/15/2058",
+                "weights": 1.05,
+                "FACE_AMT": 370000,
+                "qty": 319338.7
+            },
+            {
+                "code": "EJ0483333",
+                "name": "GEORGIA POWER CO 4.3% 03/15/2042",
+                "ename": "GEORGIA POWER CO 4.3% 03/15/2042",
+                "weights": 1.02,
+                "FACE_AMT": 350000,
+                "qty": 310462.25
+            },
+            {
+                "code": "AL2042383",
+                "name": "CON EDISON CO OF NY INC 4.3% 12/01/2056",
+                "ename": "CON EDISON CO OF NY INC 4.3% 12/01/2056",
+                "weights": 1.02,
+                "FACE_AMT": 370000,
+                "qty": 308788.02
+            },
+            {
+                "code": "EJ3130568",
+                "name": "NORTHERN STATES PWR-MINN 3.4% 08/15/2042",
+                "ename": "NORTHERN STATES PWR-MINN 3.4% 08/15/2042",
+                "weights": 0.98,
+                "FACE_AMT": 390000,
+                "qty": 298797.85
+            },
+            {
+                "code": "AO8041748",
+                "name": "COMMONWEALTH EDISON CO 3.75% 08/15/2047",
+                "ename": "COMMONWEALTH EDISON CO 3.75% 08/15/2047",
+                "weights": 0.97,
+                "FACE_AMT": 380000,
+                "qty": 295702.13
+            },
+            {
+                "code": "JK8301075",
+                "name": "EXELON CORP 5.1% 06/15/2045",
+                "ename": "EXELON CORP 5.1% 06/15/2045",
+                "weights": 0.96,
+                "FACE_AMT": 310000,
+                "qty": 290022.98
+            },
+            {
+                "code": "EG4535316",
+                "name": "VIRGINIA ELEC & POWER CO 6% 05/15/2037",
+                "ename": "VIRGINIA ELEC & POWER CO 6% 05/15/2037",
+                "weights": 0.95,
+                "FACE_AMT": 270000,
+                "qty": 288705.87
+            },
+            {
+                "code": "AT9394491",
+                "name": "AMERICAN WATER CAPITAL C 4.2% 09/01/2048",
+                "ename": "AMERICAN WATER CAPITAL C 4.2% 09/01/2048",
+                "weights": 0.93,
+                "FACE_AMT": 335000,
+                "qty": 281906.64
+            },
+            {
+                "code": "ZL4504292",
+                "name": "SAN DIEGO G & E 5.35% 04/01/2053",
+                "ename": "SAN DIEGO G & E 5.35% 04/01/2053",
+                "weights": 0.93,
+                "FACE_AMT": 280000,
+                "qty": 281488.21
+            },
+            {
+                "code": "ZI7594743",
+                "name": "DUKE ENERGY CORP 6.1% 09/15/2053",
+                "ename": "DUKE ENERGY CORP 6.1% 09/15/2053",
+                "weights": 0.89,
+                "FACE_AMT": 250000,
+                "qty": 268735.53
+            },
+            {
+                "code": "EH1518172",
+                "name": "DOMINION ENERGY SOUTH 6.05% 01/15/2038",
+                "ename": "DOMINION ENERGY SOUTH 6.05% 01/15/2038",
+                "weights": 0.88,
+                "FACE_AMT": 250000,
+                "qty": 268370.71
+            },
+            {
+                "code": "ZM8980579",
+                "name": "NEXTERA ENERGY CAPITAL 5.25% 02/28/2053",
+                "ename": "NEXTERA ENERGY CAPITAL 5.25% 02/28/2053",
+                "weights": 0.87,
+                "FACE_AMT": 280000,
+                "qty": 263309.11
+            },
+            {
+                "code": "EJ6760312",
+                "name": "SOUTHERN CO GAS CAPITAL 4.4% 06/01/2043",
+                "ename": "SOUTHERN CO GAS CAPITAL 4.4% 06/01/2043",
+                "weights": 0.86,
+                "FACE_AMT": 310000,
+                "qty": 260216.82
+            },
+            {
+                "code": "EH1588696",
+                "name": "FLORIDA POWER & LIGHT CO 5.95% 02/01/2038",
+                "ename": "FLORIDA POWER & LIGHT CO 5.95% 02/01/2038",
+                "weights": 0.85,
+                "FACE_AMT": 240000,
+                "qty": 258108.41
+            },
+            {
+                "code": "AW6455355",
+                "name": "CENTERPOINT ENER HOUSTON 4.25% 02/01/2049",
+                "ename": "CENTERPOINT ENER HOUSTON 4.25% 02/01/2049",
+                "weights": 0.82,
+                "FACE_AMT": 290000,
+                "qty": 249405.2
+            },
+            {
+                "code": "AR5419932",
+                "name": "SOUTHERN CAL EDISON 4.125% 03/01/2048",
+                "ename": "SOUTHERN CAL EDISON 4.125% 03/01/2048",
+                "weights": 0.82,
+                "FACE_AMT": 310000,
+                "qty": 249270.35
+            },
+            {
+                "code": "ZN2901546",
+                "name": "CON EDISON CO OF NY INC 6.15% 11/15/2052",
+                "ename": "CON EDISON CO OF NY INC 6.15% 11/15/2052",
+                "weights": 0.81,
+                "FACE_AMT": 220000,
+                "qty": 244926.77
+            },
+            {
+                "code": "UV9309880",
+                "name": "KENTUCKY UTILITIES CO 4.375% 10/01/2045",
+                "ename": "KENTUCKY UTILITIES CO 4.375% 10/01/2045",
+                "weights": 0.8,
+                "FACE_AMT": 280000,
+                "qty": 243185.55
+            },
+            {
+                "code": "BV4155537",
+                "name": "UNION ELECTRIC CO 3.9% 04/01/2052",
+                "ename": "UNION ELECTRIC CO 3.9% 04/01/2052",
+                "weights": 0.79,
+                "FACE_AMT": 300000,
+                "qty": 241332.8
+            },
+            {
+                "code": "AP0428692",
+                "name": "DUKE ENERGY PROGRESS LLC 3.6% 09/15/2047",
+                "ename": "DUKE ENERGY PROGRESS LLC 3.6% 09/15/2047",
+                "weights": 0.78,
+                "FACE_AMT": 310000,
+                "qty": 238230.04
+            },
+            {
+                "code": "AR8139800",
+                "name": "CONNECTICUT LIGHT & PWR 4% 04/01/2048",
+                "ename": "CONNECTICUT LIGHT & PWR 4% 04/01/2048",
+                "weights": 0.77,
+                "FACE_AMT": 280000,
+                "qty": 234844.74
+            },
+            {
+                "code": "ZH3335812",
+                "name": "ATMOS ENERGY CORP 6.2% 11/15/2053",
+                "ename": "ATMOS ENERGY CORP 6.2% 11/15/2053",
+                "weights": 0.76,
+                "FACE_AMT": 200000,
+                "qty": 229513.49
+            },
+            {
+                "code": "ZH3000689",
+                "name": "DOMINION ENERGY SOUTH 6.25% 10/15/2053",
+                "ename": "DOMINION ENERGY SOUTH 6.25% 10/15/2053",
+                "weights": 0.75,
+                "FACE_AMT": 200000,
+                "qty": 228324.93
+            },
+            {
+                "code": "ZL3243900",
+                "name": "DTE ELECTRIC CO 5.4% 04/01/2053",
+                "ename": "DTE ELECTRIC CO 5.4% 04/01/2053",
+                "weights": 0.74,
+                "FACE_AMT": 220000,
+                "qty": 225458.86
+            },
+            {
+                "code": "AR4929998",
+                "name": "FLORIDA POWER & LIGHT CO 3.95% 03/01/2048",
+                "ename": "FLORIDA POWER & LIGHT CO 3.95% 03/01/2048",
+                "weights": 0.73,
+                "FACE_AMT": 270000,
+                "qty": 221646.41
+            },
+            {
+                "code": "EK1247494",
+                "name": "CENTERPOINT ENER HOUSTON 4.5% 04/01/2044",
+                "ename": "CENTERPOINT ENER HOUSTON 4.5% 04/01/2044",
+                "weights": 0.72,
+                "FACE_AMT": 240000,
+                "qty": 218507.76
+            },
+            {
+                "code": "ZS5014791",
+                "name": "AMERICAN WATER CAPITAL C 4.15% 06/01/2049",
+                "ename": "AMERICAN WATER CAPITAL C 4.15% 06/01/2049",
+                "weights": 0.71,
+                "FACE_AMT": 255000,
+                "qty": 215984.59
+            },
+            {
+                "code": "AS0903334",
+                "name": "BERKSHIRE HATHAWAY ENERG 3.8% 07/15/2048",
+                "ename": "BERKSHIRE HATHAWAY ENERG 3.8% 07/15/2048",
+                "weights": 0.71,
+                "FACE_AMT": 280000,
+                "qty": 215879.81
+            },
+            {
+                "code": "EJ5852029",
+                "name": "DUKE ENERGY PROGRESS LLC 4.1% 03/15/2043",
+                "ename": "DUKE ENERGY PROGRESS LLC 4.1% 03/15/2043",
+                "weights": 0.7,
+                "FACE_AMT": 250000,
+                "qty": 212117.5
+            },
+            {
+                "code": "ZP3669352",
+                "name": "GEORGIA POWER CO 3.7% 01/30/2050",
+                "ename": "GEORGIA POWER CO 3.7% 01/30/2050",
+                "weights": 0.68,
+                "FACE_AMT": 270000,
+                "qty": 207621.9
+            },
+            {
+                "code": "AW5448112",
+                "name": "MIDAMERICAN ENERGY CO 4.25% 07/15/2049",
+                "ename": "MIDAMERICAN ENERGY CO 4.25% 07/15/2049",
+                "weights": 0.68,
+                "FACE_AMT": 240000,
+                "qty": 205344.2
+            },
+            {
+                "code": "ZR4466622",
+                "name": "NORTHERN STATES PWR-MINN 2.9% 03/01/2050",
+                "ename": "NORTHERN STATES PWR-MINN 2.9% 03/01/2050",
+                "weights": 0.67,
+                "FACE_AMT": 310000,
+                "qty": 203805.09
+            },
+            {
+                "code": "AX6675497",
+                "name": "ENTERGY ARKANSAS LLC 4.2% 04/01/2049",
+                "ename": "ENTERGY ARKANSAS LLC 4.2% 04/01/2049",
+                "weights": 0.67,
+                "FACE_AMT": 240000,
+                "qty": 203408.72
+            },
+            {
+                "code": "EI0506093",
+                "name": "DUKE ENERGY CAROLINAS 5.3% 02/15/2040",
+                "ename": "DUKE ENERGY CAROLINAS 5.3% 02/15/2040",
+                "weights": 0.65,
+                "FACE_AMT": 200000,
+                "qty": 198810.53
+            },
+            {
+                "code": "ZK7193111",
+                "name": "SOUTHERN CALIF GAS CO 5.75% 06/01/2053",
+                "ename": "SOUTHERN CALIF GAS CO 5.75% 06/01/2053",
+                "weights": 0.65,
+                "FACE_AMT": 190000,
+                "qty": 197206.63
+            },
+            {
+                "code": "ZF6679632",
+                "name": "NEXTERA ENERGY CAPITAL 5.55% 03/15/2054",
+                "ename": "NEXTERA ENERGY CAPITAL 5.55% 03/15/2054",
+                "weights": 0.65,
+                "FACE_AMT": 200000,
+                "qty": 196921.67
+            },
+            {
+                "code": "LW5196016",
+                "name": "COMMONWEALTH EDISON CO 3.65% 06/15/2046",
+                "ename": "COMMONWEALTH EDISON CO 3.65% 06/15/2046",
+                "weights": 0.64,
+                "FACE_AMT": 250000,
+                "qty": 194745.13
+            },
+            {
+                "code": "ZQ1955090",
+                "name": "ONCOR ELECTRIC DELIVERY 3.1% 09/15/2049",
+                "ename": "ONCOR ELECTRIC DELIVERY 3.1% 09/15/2049",
+                "weights": 0.63,
+                "FACE_AMT": 270000,
+                "qty": 191271.78
+            },
+            {
+                "code": "ZL3253578",
+                "name": "PPL ELECTRIC UTILITIES 5.25% 05/15/2053",
+                "ename": "PPL ELECTRIC UTILITIES 5.25% 05/15/2053",
+                "weights": 0.63,
+                "FACE_AMT": 190000,
+                "qty": 189948.42
+            },
+            {
+                "code": "BQ9457236",
+                "name": "SAN DIEGO G & E 2.95% 08/15/2051",
+                "ename": "SAN DIEGO G & E 2.95% 08/15/2051",
+                "weights": 0.62,
+                "FACE_AMT": 280000,
+                "qty": 189725.15
+            },
+            {
+                "code": "EI3842727",
+                "name": "SAN DIEGO G & E 4.5% 08/15/2040",
+                "ename": "SAN DIEGO G & E 4.5% 08/15/2040",
+                "weights": 0.62,
+                "FACE_AMT": 210000,
+                "qty": 188900.04
+            },
+            {
+                "code": "BG5051894",
+                "name": "ENTERGY LOUISIANA LLC 2.9% 03/15/2051",
+                "ename": "ENTERGY LOUISIANA LLC 2.9% 03/15/2051",
+                "weights": 0.62,
+                "FACE_AMT": 290000,
+                "qty": 188314.98
+            },
+            {
+                "code": "BH4559655",
+                "name": "EXELON CORP 4.7% 04/15/2050",
+                "ename": "EXELON CORP 4.7% 04/15/2050",
+                "weights": 0.62,
+                "FACE_AMT": 210000,
+                "qty": 187523.14
+            },
+            {
+                "code": "AP0495923",
+                "name": "NORTHERN STATES PWR-MINN 3.6% 09/15/2047",
+                "ename": "NORTHERN STATES PWR-MINN 3.6% 09/15/2047",
+                "weights": 0.61,
+                "FACE_AMT": 240000,
+                "qty": 186001.76
+            },
+            {
+                "code": "EI8996288",
+                "name": "DUKE ENERGY CAROLINAS 4.25% 12/15/2041",
+                "ename": "DUKE ENERGY CAROLINAS 4.25% 12/15/2041",
+                "weights": 0.6,
+                "FACE_AMT": 210000,
+                "qty": 182437.82
+            },
+            {
+                "code": "BW6770620",
+                "name": "ESSENTIAL UTILITIES INC 5.3% 05/01/2052",
+                "ename": "ESSENTIAL UTILITIES INC 5.3% 05/01/2052",
+                "weights": 0.6,
+                "FACE_AMT": 190000,
+                "qty": 181943.58
+            },
+            {
+                "code": "AT9763232",
+                "name": "ENTERGY LOUISIANA LLC 4.2% 09/01/2048",
+                "ename": "ENTERGY LOUISIANA LLC 4.2% 09/01/2048",
+                "weights": 0.6,
+                "FACE_AMT": 220000,
+                "qty": 181236.07
+            },
+            {
+                "code": "ZL4492969",
+                "name": "DUKE ENERGY PROGRESS LLC 5.35% 03/15/2053",
+                "ename": "DUKE ENERGY PROGRESS LLC 5.35% 03/15/2053",
+                "weights": 0.59,
+                "FACE_AMT": 180000,
+                "qty": 179992.17
+            },
+            {
+                "code": "ZR8051719",
+                "name": "DUKE ENERGY INDIANA LLC 3.25% 10/01/2049",
+                "ename": "DUKE ENERGY INDIANA LLC 3.25% 10/01/2049",
+                "weights": 0.59,
+                "FACE_AMT": 250000,
+                "qty": 178353.26
+            },
+            {
+                "code": "EJ3704750",
+                "name": "DUKE ENERGY CAROLINAS 4% 09/30/2042",
+                "ename": "DUKE ENERGY CAROLINAS 4% 09/30/2042",
+                "weights": 0.58,
+                "FACE_AMT": 210000,
+                "qty": 177128.14
+            },
+            {
+                "code": "BJ4266026",
+                "name": "SOUTHWESTERN PUBLIC SERV 3.15% 05/01/2050",
+                "ename": "SOUTHWESTERN PUBLIC SERV 3.15% 05/01/2050",
+                "weights": 0.58,
+                "FACE_AMT": 270000,
+                "qty": 177008.09
+            },
+            {
+                "code": "AP8414884",
+                "name": "ALABAMA POWER CO 3.7% 12/01/2047",
+                "ename": "ALABAMA POWER CO 3.7% 12/01/2047",
+                "weights": 0.56,
+                "FACE_AMT": 220000,
+                "qty": 171455.88
+            },
+            {
+                "code": "ZL7452143",
+                "name": "DUKE ENERGY INDIANA LLC 5.4% 04/01/2053",
+                "ename": "DUKE ENERGY INDIANA LLC 5.4% 04/01/2053",
+                "weights": 0.56,
+                "FACE_AMT": 170000,
+                "qty": 169679.72
+            },
+            {
+                "code": "EH9999127",
+                "name": "SEMPRA 6% 10/15/2039",
+                "ename": "SEMPRA 6% 10/15/2039",
+                "weights": 0.55,
+                "FACE_AMT": 160000,
+                "qty": 166853.44
+            },
+            {
+                "code": "EK1057950",
+                "name": "CON EDISON CO OF NY INC 4.45% 03/15/2044",
+                "ename": "CON EDISON CO OF NY INC 4.45% 03/15/2044",
+                "weights": 0.53,
+                "FACE_AMT": 180000,
+                "qty": 161396.37
+            },
+            {
+                "code": "ZM2156440",
+                "name": "DUKE ENERGY CAROLINAS 5.35% 01/15/2053",
+                "ename": "DUKE ENERGY CAROLINAS 5.35% 01/15/2053",
+                "weights": 0.53,
+                "FACE_AMT": 160000,
+                "qty": 159625.15
+            },
+            {
+                "code": "ZM2164451",
+                "name": "CONNECTICUT LIGHT & PWR 5.25% 01/15/2053",
+                "ename": "CONNECTICUT LIGHT & PWR 5.25% 01/15/2053",
+                "weights": 0.52,
+                "FACE_AMT": 160000,
+                "qty": 158417.68
+            },
+            {
+                "code": "ZM3736034",
+                "name": "BERKSHIRE HATHAWAY ENERG 4.6% 05/01/2053",
+                "ename": "BERKSHIRE HATHAWAY ENERG 4.6% 05/01/2053",
+                "weights": 0.52,
+                "FACE_AMT": 180000,
+                "qty": 158062
+            },
+            {
+                "code": "AS9403260",
+                "name": "PUGET SOUND ENERGY INC 4.223% 06/15/2048",
+                "ename": "PUGET SOUND ENERGY INC 4.223% 06/15/2048",
+                "weights": 0.52,
+                "FACE_AMT": 190000,
+                "qty": 157449.15
+            },
+            {
+                "code": "ZR8050398",
+                "name": "ATMOS ENERGY CORP 3.375% 09/15/2049",
+                "ename": "ATMOS ENERGY CORP 3.375% 09/15/2049",
+                "weights": 0.52,
+                "FACE_AMT": 210000,
+                "qty": 156849.54
+            },
+            {
+                "code": "ZK7200668",
+                "name": "SOUTHERN CAL EDISON 5.875% 12/01/2053",
+                "ename": "SOUTHERN CAL EDISON 5.875% 12/01/2053",
+                "weights": 0.51,
+                "FACE_AMT": 150000,
+                "qty": 155865.82
+            },
+            {
+                "code": "AW2328283",
+                "name": "BERKSHIRE HATHAWAY ENERG 4.45% 01/15/2049",
+                "ename": "BERKSHIRE HATHAWAY ENERG 4.45% 01/15/2049",
+                "weights": 0.51,
+                "FACE_AMT": 180000,
+                "qty": 154347.51
+            },
+            {
+                "code": "BM8599201",
+                "name": "VIRGINIA ELEC & POWER CO 2.45% 12/15/2050",
+                "ename": "VIRGINIA ELEC & POWER CO 2.45% 12/15/2050",
+                "weights": 0.5,
+                "FACE_AMT": 260000,
+                "qty": 152909.51
+            },
+            {
+                "code": "ZS3174357",
+                "name": "ESSENTIAL UTILITIES INC 4.276% 05/01/2049",
+                "ename": "ESSENTIAL UTILITIES INC 4.276% 05/01/2049",
+                "weights": 0.49,
+                "FACE_AMT": 180000,
+                "qty": 149563.48
+            },
+            {
+                "code": "EH7401373",
+                "name": "ALABAMA POWER CO 6% 03/01/2039",
+                "ename": "ALABAMA POWER CO 6% 03/01/2039",
+                "weights": 0.49,
+                "FACE_AMT": 140000,
+                "qty": 148844.97
+            },
+            {
+                "code": "ZP3020317",
+                "name": "SOUTHERN CAL EDISON 3.65% 02/01/2050",
+                "ename": "SOUTHERN CAL EDISON 3.65% 02/01/2050",
+                "weights": 0.49,
+                "FACE_AMT": 200000,
+                "qty": 148551.8
+            },
+            {
+                "code": "ZR9000665",
+                "name": "MIDAMERICAN ENERGY CO 3.15% 04/15/2050",
+                "ename": "MIDAMERICAN ENERGY CO 3.15% 04/15/2050",
+                "weights": 0.49,
+                "FACE_AMT": 210000,
+                "qty": 147372.65
+            },
+            {
+                "code": "BG1422453",
+                "name": "COMMONWEALTH EDISON CO 3% 03/01/2050",
+                "ename": "COMMONWEALTH EDISON CO 3% 03/01/2050",
+                "weights": 0.48,
+                "FACE_AMT": 220000,
+                "qty": 147209.19
+            },
+            {
+                "code": "EK4834678",
+                "name": "ONE GAS INC 4.658% 02/01/2044",
+                "ename": "ONE GAS INC 4.658% 02/01/2044",
+                "weights": 0.48,
+                "FACE_AMT": 160000,
+                "qty": 145534.98
+            },
+            {
+                "code": "AS4487425",
+                "name": "DTE ELECTRIC CO 4.05% 05/15/2048",
+                "ename": "DTE ELECTRIC CO 4.05% 05/15/2048",
+                "weights": 0.47,
+                "FACE_AMT": 170000,
+                "qty": 142079.12
+            },
+            {
+                "code": "ZO7552243",
+                "name": "UNION ELECTRIC CO 2.625% 03/15/2051",
+                "ename": "UNION ELECTRIC CO 2.625% 03/15/2051",
+                "weights": 0.46,
+                "FACE_AMT": 225000,
+                "qty": 140225.12
+            },
+            {
+                "code": "EH2769121",
+                "name": "APPALACHIAN POWER CO 7% 04/01/2038",
+                "ename": "APPALACHIAN POWER CO 7% 04/01/2038",
+                "weights": 0.46,
+                "FACE_AMT": 120000,
+                "qty": 139259.63
+            },
+            {
+                "code": "EJ8679528",
+                "name": "NISOURCE INC 5.65% 02/01/2045",
+                "ename": "NISOURCE INC 5.65% 02/01/2045",
+                "weights": 0.46,
+                "FACE_AMT": 140000,
+                "qty": 138947.35
+            },
+            {
+                "code": "ZK4624647",
+                "name": "NORTHERN STATES PWR-MINN 5.1% 05/15/2053",
+                "ename": "NORTHERN STATES PWR-MINN 5.1% 05/15/2053",
+                "weights": 0.45,
+                "FACE_AMT": 140000,
+                "qty": 136121.16
+            },
+            {
+                "code": "JK2909428",
+                "name": "PUBLIC SERVICE ELECTRIC 3.8% 03/01/2046",
+                "ename": "PUBLIC SERVICE ELECTRIC 3.8% 03/01/2046",
+                "weights": 0.45,
+                "FACE_AMT": 170000,
+                "qty": 136025.29
+            },
+            {
+                "code": "BH5941290",
+                "name": "PACIFICORP 3.3% 03/15/2051",
+                "ename": "PACIFICORP 3.3% 03/15/2051",
+                "weights": 0.45,
+                "FACE_AMT": 200000,
+                "qty": 135609
+            },
+            {
+                "code": "EJ8554747",
+                "name": "SOUTHERN CAL EDISON 4.65% 10/01/2043",
+                "ename": "SOUTHERN CAL EDISON 4.65% 10/01/2043",
+                "weights": 0.44,
+                "FACE_AMT": 150000,
+                "qty": 134557.78
+            },
+            {
+                "code": "BW9604925",
+                "name": "BALTIMORE GAS & ELECTRIC 4.55% 06/01/2052",
+                "ename": "BALTIMORE GAS & ELECTRIC 4.55% 06/01/2052",
+                "weights": 0.44,
+                "FACE_AMT": 150000,
+                "qty": 133942.04
+            },
+            {
+                "code": "ZL5139650",
+                "name": "AEP TRANSMISSION CO LLC 5.4% 03/15/2053",
+                "ename": "AEP TRANSMISSION CO LLC 5.4% 03/15/2053",
+                "weights": 0.44,
+                "FACE_AMT": 130000,
+                "qty": 133260.66
+            },
+            {
+                "code": "EH4157960",
+                "name": "DUKE ENERGY FLORIDA LLC 6.4% 06/15/2038",
+                "ename": "DUKE ENERGY FLORIDA LLC 6.4% 06/15/2038",
+                "weights": 0.44,
+                "FACE_AMT": 120000,
+                "qty": 132599.52
+            },
+            {
+                "code": "EJ5885805",
+                "name": "POTOMAC ELECTRIC POWER 4.15% 03/15/2043",
+                "ename": "POTOMAC ELECTRIC POWER 4.15% 03/15/2043",
+                "weights": 0.43,
+                "FACE_AMT": 150000,
+                "qty": 131044.28
+            },
+            {
+                "code": "BG9893622",
+                "name": "CONSUMERS ENERGY CO 3.5% 08/01/2051",
+                "ename": "CONSUMERS ENERGY CO 3.5% 08/01/2051",
+                "weights": 0.42,
+                "FACE_AMT": 170000,
+                "qty": 128901.44
+            },
+            {
+                "code": "EH9787530",
+                "name": "CONSTELLATION EN GEN LLC 6.25% 10/01/2039",
+                "ename": "CONSTELLATION EN GEN LLC 6.25% 10/01/2039",
+                "weights": 0.42,
+                "FACE_AMT": 120000,
+                "qty": 128728.89
+            },
+            {
+                "code": "ZR5517936",
+                "name": "FLORIDA POWER & LIGHT CO 3.15% 10/01/2049",
+                "ename": "FLORIDA POWER & LIGHT CO 3.15% 10/01/2049",
+                "weights": 0.42,
+                "FACE_AMT": 180000,
+                "qty": 128210.85
+            },
+            {
+                "code": "ZR6012036",
+                "name": "ALABAMA POWER CO 3.45% 10/01/2049",
+                "ename": "ALABAMA POWER CO 3.45% 10/01/2049",
+                "weights": 0.42,
+                "FACE_AMT": 170000,
+                "qty": 127589.11
+            },
+            {
+                "code": "BS5042368",
+                "name": "FLORIDA POWER & LIGHT CO 2.875% 12/04/2051",
+                "ename": "FLORIDA POWER & LIGHT CO 2.875% 12/04/2051",
+                "weights": 0.42,
+                "FACE_AMT": 190000,
+                "qty": 126772.79
+            },
+            {
+                "code": "EJ6288819",
+                "name": "NISOURCE INC 4.8% 02/15/2044",
+                "ename": "NISOURCE INC 4.8% 02/15/2044",
+                "weights": 0.41,
+                "FACE_AMT": 140000,
+                "qty": 125794.62
+            },
+            {
+                "code": "EI6138628",
+                "name": "SOUTHERN CO GAS CAPITAL 5.875% 03/15/2041",
+                "ename": "SOUTHERN CO GAS CAPITAL 5.875% 03/15/2041",
+                "weights": 0.41,
+                "FACE_AMT": 120000,
+                "qty": 124142.19
+            },
+            {
+                "code": "EK7886410",
+                "name": "DTE ELECTRIC CO 3.7% 03/15/2045",
+                "ename": "DTE ELECTRIC CO 3.7% 03/15/2045",
+                "weights": 0.4,
+                "FACE_AMT": 150000,
+                "qty": 121872.75
+            },
+            {
+                "code": "EI1808159",
+                "name": "SOUTHERN CAL EDISON 5.5% 03/15/2040",
+                "ename": "SOUTHERN CAL EDISON 5.5% 03/15/2040",
+                "weights": 0.4,
+                "FACE_AMT": 120000,
+                "qty": 121328.04
+            },
+            {
+                "code": "ZL9054798",
+                "name": "VIRGINIA ELEC & POWER CO 5.45% 04/01/2053",
+                "ename": "VIRGINIA ELEC & POWER CO 5.45% 04/01/2053",
+                "weights": 0.4,
+                "FACE_AMT": 120000,
+                "qty": 121241.55
+            },
+            {
+                "code": "AQ0043861",
+                "name": "FLORIDA POWER & LIGHT CO 3.7% 12/01/2047",
+                "ename": "FLORIDA POWER & LIGHT CO 3.7% 12/01/2047",
+                "weights": 0.39,
+                "FACE_AMT": 150000,
+                "qty": 119295.58
+            },
+            {
+                "code": "ZN2247510",
+                "name": "DUKE ENERGY FLORIDA LLC 5.95% 11/15/2052",
+                "ename": "DUKE ENERGY FLORIDA LLC 5.95% 11/15/2052",
+                "weights": 0.39,
+                "FACE_AMT": 110000,
+                "qty": 118726.06
+            },
+            {
+                "code": "EK1522508",
+                "name": "BERKSHIRE HATHAWAY ENERG 5.15% 11/15/2043",
+                "ename": "BERKSHIRE HATHAWAY ENERG 5.15% 11/15/2043",
+                "weights": 0.39,
+                "FACE_AMT": 120000,
+                "qty": 118171.1
+            },
+            {
+                "code": "QJ8059512",
+                "name": "DUKE ENERGY CORP 4.8% 12/15/2045",
+                "ename": "DUKE ENERGY CORP 4.8% 12/15/2045",
+                "weights": 0.38,
+                "FACE_AMT": 130000,
+                "qty": 116504.05
+            },
+            {
+                "code": "AP9578513",
+                "name": "DUKE ENERGY CAROLINAS 3.7% 12/01/2047",
+                "ename": "DUKE ENERGY CAROLINAS 3.7% 12/01/2047",
+                "weights": 0.38,
+                "FACE_AMT": 150000,
+                "qty": 115170.58
+            },
+            {
+                "code": "UV9813972",
+                "name": "ONCOR ELECTRIC DELIVERY 3.75% 04/01/2045",
+                "ename": "ONCOR ELECTRIC DELIVERY 3.75% 04/01/2045",
+                "weights": 0.38,
+                "FACE_AMT": 140000,
+                "qty": 114948.52
+            },
+            {
+                "code": "BX0506366",
+                "name": "AEP TRANSMISSION CO LLC 4.5% 06/15/2052",
+                "ename": "AEP TRANSMISSION CO LLC 4.5% 06/15/2052",
+                "weights": 0.38,
+                "FACE_AMT": 130000,
+                "qty": 114740.08
+            },
+            {
+                "code": "ZL7472240",
+                "name": "INDIANA MICHIGAN POWER 5.625% 04/01/2053",
+                "ename": "INDIANA MICHIGAN POWER 5.625% 04/01/2053",
+                "weights": 0.37,
+                "FACE_AMT": 110000,
+                "qty": 113499.07
+            },
+            {
+                "code": "ZR2126368",
+                "name": "CONSUMERS ENERGY CO 3.1% 08/15/2050",
+                "ename": "CONSUMERS ENERGY CO 3.1% 08/15/2050",
+                "weights": 0.37,
+                "FACE_AMT": 160000,
+                "qty": 112555.89
+            },
+            {
+                "code": "ZL1304894",
+                "name": "EXELON CORP 5.6% 03/15/2053",
+                "ename": "EXELON CORP 5.6% 03/15/2053",
+                "weights": 0.37,
+                "FACE_AMT": 110000,
+                "qty": 111087.02
+            },
+            {
+                "code": "AT2476451",
+                "name": "ALABAMA POWER CO 4.3% 07/15/2048",
+                "ename": "ALABAMA POWER CO 4.3% 07/15/2048",
+                "weights": 0.36,
+                "FACE_AMT": 130000,
+                "qty": 110570.42
+            },
+            {
+                "code": "BW6114423",
+                "name": "AEP TEXAS INC 5.25% 05/15/2052",
+                "ename": "AEP TEXAS INC 5.25% 05/15/2052",
+                "weights": 0.36,
+                "FACE_AMT": 115000,
+                "qty": 110290.35
+            },
+            {
+                "code": "AS5001555",
+                "name": "FLORIDA POWER & LIGHT CO 4.125% 06/01/2048",
+                "ename": "FLORIDA POWER & LIGHT CO 4.125% 06/01/2048",
+                "weights": 0.36,
+                "FACE_AMT": 130000,
+                "qty": 109514.13
+            },
+            {
+                "code": "BN9135714",
+                "name": "BERKSHIRE HATHAWAY ENERG 4.25% 10/15/2050",
+                "ename": "BERKSHIRE HATHAWAY ENERG 4.25% 10/15/2050",
+                "weights": 0.35,
+                "FACE_AMT": 130000,
+                "qty": 107235.03
+            },
+            {
+                "code": "EG5181839",
+                "name": "DUKE ENERGY CAROLINAS 6.1% 06/01/2037",
+                "ename": "DUKE ENERGY CAROLINAS 6.1% 06/01/2037",
+                "weights": 0.35,
+                "FACE_AMT": 100000,
+                "qty": 107229.62
+            },
+            {
+                "code": "AU7688362",
+                "name": "ATMOS ENERGY CORP 4.3% 10/01/2048",
+                "ename": "ATMOS ENERGY CORP 4.3% 10/01/2048",
+                "weights": 0.35,
+                "FACE_AMT": 120000,
+                "qty": 106435.31
+            },
+            {
+                "code": "JK6799221",
+                "name": "EXELON CORP 4.45% 04/15/2046",
+                "ename": "EXELON CORP 4.45% 04/15/2046",
+                "weights": 0.34,
+                "FACE_AMT": 120000,
+                "qty": 103882.58
+            },
+            {
+                "code": "ZN6870614",
+                "name": "PACIFICORP 5.35% 12/01/2053",
+                "ename": "PACIFICORP 5.35% 12/01/2053",
+                "weights": 0.34,
+                "FACE_AMT": 110000,
+                "qty": 103032.61
+            },
+            {
+                "code": "ZL3476914",
+                "name": "FLORIDA POWER & LIGHT CO 5.3% 04/01/2053",
+                "ename": "FLORIDA POWER & LIGHT CO 5.3% 04/01/2053",
+                "weights": 0.34,
+                "FACE_AMT": 100000,
+                "qty": 102260.04
+            },
+            {
+                "code": "EI0694113",
+                "name": "CON EDISON CO OF NY INC 5.5% 12/01/2039",
+                "ename": "CON EDISON CO OF NY INC 5.5% 12/01/2039",
+                "weights": 0.34,
+                "FACE_AMT": 100000,
+                "qty": 102096.29
+            },
+            {
+                "code": "ZN2253484",
+                "name": "SOUTHERN CALIF GAS CO 6.35% 11/15/2052",
+                "ename": "SOUTHERN CALIF GAS CO 6.35% 11/15/2052",
+                "weights": 0.33,
+                "FACE_AMT": 90000,
+                "qty": 101588.33
+            },
+            {
+                "code": "ZM2171126",
+                "name": "COMMONWEALTH EDISON CO 5.3% 02/01/2053",
+                "ename": "COMMONWEALTH EDISON CO 5.3% 02/01/2053",
+                "weights": 0.33,
+                "FACE_AMT": 100000,
+                "qty": 99026.88
+            },
+            {
+                "code": "BJ4831522",
+                "name": "ENTERGY CORP 3.75% 06/15/2050",
+                "ename": "ENTERGY CORP 3.75% 06/15/2050",
+                "weights": 0.32,
+                "FACE_AMT": 130000,
+                "qty": 96116.61
+            },
+            {
+                "code": "EJ7893393",
+                "name": "VIRGINIA ELEC & POWER CO 4.65% 08/15/2043",
+                "ename": "VIRGINIA ELEC & POWER CO 4.65% 08/15/2043",
+                "weights": 0.31,
+                "FACE_AMT": 105000,
+                "qty": 94596.86
+            },
+            {
+                "code": "EJ5075001",
+                "name": "CONSTELLATION EN GEN LLC 5.6% 06/15/2042",
+                "ename": "CONSTELLATION EN GEN LLC 5.6% 06/15/2042",
+                "weights": 0.3,
+                "FACE_AMT": 90000,
+                "qty": 89743.68
+            },
+            {
+                "code": "AV8866056",
+                "name": "VIRGINIA ELEC & POWER CO 4.6% 12/01/2048",
+                "ename": "VIRGINIA ELEC & POWER CO 4.6% 12/01/2048",
+                "weights": 0.29,
+                "FACE_AMT": 100000,
+                "qty": 89131.59
+            },
+            {
+                "code": "JK3914716",
+                "name": "DUKE ENERGY CAROLINAS 3.875% 03/15/2046",
+                "ename": "DUKE ENERGY CAROLINAS 3.875% 03/15/2046",
+                "weights": 0.29,
+                "FACE_AMT": 110000,
+                "qty": 88778.39
+            },
+            {
+                "code": "AZ9880065",
+                "name": "PUBLIC SERVICE COLORADO 3.2% 03/01/2050",
+                "ename": "PUBLIC SERVICE COLORADO 3.2% 03/01/2050",
+                "weights": 0.29,
+                "FACE_AMT": 130000,
+                "qty": 88656.12
+            },
+            {
+                "code": "EK9257669",
+                "name": "DOMINION ENERGY SOUTH 5.1% 06/01/2065",
+                "ename": "DOMINION ENERGY SOUTH 5.1% 06/01/2065",
+                "weights": 0.28,
+                "FACE_AMT": 90000,
+                "qty": 85146.42
+            },
+            {
+                "code": "AQ7087358",
+                "name": "SEMPRA 3.8% 02/01/2038",
+                "ename": "SEMPRA 3.8% 02/01/2038",
+                "weights": 0.27,
+                "FACE_AMT": 100000,
+                "qty": 83385.04
+            },
+            {
+                "code": "ZS4971264",
+                "name": "CON EDISON CO OF NY INC 4.125% 05/15/2049",
+                "ename": "CON EDISON CO OF NY INC 4.125% 05/15/2049",
+                "weights": 0.27,
+                "FACE_AMT": 100000,
+                "qty": 82756.08
+            },
+            {
+                "code": "QZ2465453",
+                "name": "BALTIMORE GAS & ELECTRIC 3.5% 08/15/2046",
+                "ename": "BALTIMORE GAS & ELECTRIC 3.5% 08/15/2046",
+                "weights": 0.27,
+                "FACE_AMT": 110000,
+                "qty": 82273.58
+            },
+            {
+                "code": "EH3693064",
+                "name": "AMERICAN WATER CAPITAL C 6.593% 10/15/2037",
+                "ename": "AMERICAN WATER CAPITAL C 6.593% 10/15/2037",
+                "weights": 0.27,
+                "FACE_AMT": 70000,
+                "qty": 81325.83
+            },
+            {
+                "code": "AR2654176",
+                "name": "COMMONWEALTH EDISON CO 4% 03/01/2048",
+                "ename": "COMMONWEALTH EDISON CO 4% 03/01/2048",
+                "weights": 0.27,
+                "FACE_AMT": 100000,
+                "qty": 81268.76
+            },
+            {
+                "code": "EK6736376",
+                "name": "BERKSHIRE HATHAWAY ENERG 4.5% 02/01/2045",
+                "ename": "BERKSHIRE HATHAWAY ENERG 4.5% 02/01/2045",
+                "weights": 0.27,
+                "FACE_AMT": 90000,
+                "qty": 80550.99
+            },
+            {
+                "code": "AS1598018",
+                "name": "AEP TRANSMISSION CO LLC 3.75% 12/01/2047",
+                "ename": "AEP TRANSMISSION CO LLC 3.75% 12/01/2047",
+                "weights": 0.26,
+                "FACE_AMT": 100000,
+                "qty": 78810.88
+            },
+            {
+                "code": "BN9136308",
+                "name": "BERKSHIRE HATHAWAY ENERG 2.85% 05/15/2051",
+                "ename": "BERKSHIRE HATHAWAY ENERG 2.85% 05/15/2051",
+                "weights": 0.26,
+                "FACE_AMT": 120000,
+                "qty": 78402.54
+            },
+            {
+                "code": "AX3575211",
+                "name": "FLORIDA POWER & LIGHT CO 3.99% 03/01/2049",
+                "ename": "FLORIDA POWER & LIGHT CO 3.99% 03/01/2049",
+                "weights": 0.26,
+                "FACE_AMT": 95000,
+                "qty": 77610.75
+            },
+            {
+                "code": "ZI8499728",
+                "name": "NEVADA POWER CO 6% 03/15/2054",
+                "ename": "NEVADA POWER CO 6% 03/15/2054",
+                "weights": 0.25,
+                "FACE_AMT": 70000,
+                "qty": 75561.1
+            },
+            {
+                "code": "BH6970777",
+                "name": "AMERICAN WATER CAPITAL C 3.45% 05/01/2050",
+                "ename": "AMERICAN WATER CAPITAL C 3.45% 05/01/2050",
+                "weights": 0.25,
+                "FACE_AMT": 100000,
+                "qty": 74821.02
+            },
+            {
+                "code": "BJ4508138",
+                "name": "APPALACHIAN POWER CO 3.7% 05/01/2050",
+                "ename": "APPALACHIAN POWER CO 3.7% 05/01/2050",
+                "weights": 0.24,
+                "FACE_AMT": 100000,
+                "qty": 73151.12
+            },
+            {
+                "code": "EH6753873",
+                "name": "PACIFICORP 6% 01/15/2039",
+                "ename": "PACIFICORP 6% 01/15/2039",
+                "weights": 0.24,
+                "FACE_AMT": 70000,
+                "qty": 72896.6
+            },
+            {
+                "code": "EH1638178",
+                "name": "SOUTHERN CAL EDISON 5.95% 02/01/2038",
+                "ename": "SOUTHERN CAL EDISON 5.95% 02/01/2038",
+                "weights": 0.24,
+                "FACE_AMT": 70000,
+                "qty": 72839.46
+            },
+            {
+                "code": "BJ6041542",
+                "name": "KENTUCKY UTILITIES CO 3.3% 06/01/2050",
+                "ename": "KENTUCKY UTILITIES CO 3.3% 06/01/2050",
+                "weights": 0.23,
+                "FACE_AMT": 100000,
+                "qty": 71206.93
+            },
+            {
+                "code": "BW6116279",
+                "name": "VIRGINIA ELEC & POWER CO 4.625% 05/15/2052",
+                "ename": "VIRGINIA ELEC & POWER CO 4.625% 05/15/2052",
+                "weights": 0.23,
+                "FACE_AMT": 80000,
+                "qty": 71069.07
+            },
+            {
+                "code": "EI3869340",
+                "name": "SOUTHERN CAL EDISON 4.5% 09/01/2040",
+                "ename": "SOUTHERN CAL EDISON 4.5% 09/01/2040",
+                "weights": 0.23,
+                "FACE_AMT": 80000,
+                "qty": 70706.24
+            },
+            {
+                "code": "BW2762811",
+                "name": "NORTHERN STATES PWR-MINN 4.5% 06/01/2052",
+                "ename": "NORTHERN STATES PWR-MINN 4.5% 06/01/2052",
+                "weights": 0.23,
+                "FACE_AMT": 80000,
+                "qty": 70439.12
+            },
+            {
+                "code": "QZ5049569",
+                "name": "SOUTHERN CO GAS CAPITAL 3.95% 10/01/2046",
+                "ename": "SOUTHERN CO GAS CAPITAL 3.95% 10/01/2046",
+                "weights": 0.23,
+                "FACE_AMT": 90000,
+                "qty": 70383.69
+            },
+            {
+                "code": "BJ9318608",
+                "name": "NORTHERN STATES PWR-MINN 2.6% 06/01/2051",
+                "ename": "NORTHERN STATES PWR-MINN 2.6% 06/01/2051",
+                "weights": 0.23,
+                "FACE_AMT": 110000,
+                "qty": 68471.49
+            },
+            {
+                "code": "EK6090980",
+                "name": "DUKE ENERGY PROGRESS LLC 4.15% 12/01/2044",
+                "ename": "DUKE ENERGY PROGRESS LLC 4.15% 12/01/2044",
+                "weights": 0.22,
+                "FACE_AMT": 80000,
+                "qty": 67387.71
+            },
+            {
+                "code": "QJ5950747",
+                "name": "ARIZONA PUBLIC SERVICE 4.35% 11/15/2045",
+                "ename": "ARIZONA PUBLIC SERVICE 4.35% 11/15/2045",
+                "weights": 0.22,
+                "FACE_AMT": 80000,
+                "qty": 67168.04
+            },
+            {
+                "code": "EK7911937",
+                "name": "ALABAMA POWER CO 3.75% 03/01/2045",
+                "ename": "ALABAMA POWER CO 3.75% 03/01/2045",
+                "weights": 0.22,
+                "FACE_AMT": 85000,
+                "qty": 67104.26
+            },
+            {
+                "code": "EJ0447874",
+                "name": "EVERGY KANSAS CENTRAL 4.125% 03/01/2042",
+                "ename": "EVERGY KANSAS CENTRAL 4.125% 03/01/2042",
+                "weights": 0.22,
+                "FACE_AMT": 80000,
+                "qty": 66953.59
+            },
+            {
+                "code": "BO4636748",
+                "name": "CENTERPOINT ENER HOUSTON 3.35% 04/01/2051",
+                "ename": "CENTERPOINT ENER HOUSTON 3.35% 04/01/2051",
+                "weights": 0.22,
+                "FACE_AMT": 90000,
+                "qty": 66291.81
+            },
+            {
+                "code": "BH3964310",
+                "name": "CON EDISON CO OF NY INC 3.95% 04/01/2050",
+                "ename": "CON EDISON CO OF NY INC 3.95% 04/01/2050",
+                "weights": 0.22,
+                "FACE_AMT": 80000,
+                "qty": 66174.96
+            },
+            {
+                "code": "EK0597113",
+                "name": "VIRGINIA ELEC & POWER CO 4.45% 02/15/2044",
+                "ename": "VIRGINIA ELEC & POWER CO 4.45% 02/15/2044",
+                "weights": 0.22,
+                "FACE_AMT": 75000,
+                "qty": 65578.12
+            },
+            {
+                "code": "AV3292191",
+                "name": "CONSUMERS ENERGY CO 4.35% 04/15/2049",
+                "ename": "CONSUMERS ENERGY CO 4.35% 04/15/2049",
+                "weights": 0.21,
+                "FACE_AMT": 71000,
+                "qty": 63426.32
+            },
+            {
+                "code": "AQ0826901",
+                "name": "AMEREN ILLINOIS CO 3.7% 12/01/2047",
+                "ename": "AMEREN ILLINOIS CO 3.7% 12/01/2047",
+                "weights": 0.21,
+                "FACE_AMT": 80000,
+                "qty": 63089.27
+            },
+            {
+                "code": "AR0071894",
+                "name": "MIDAMERICAN ENERGY CO 3.65% 08/01/2048",
+                "ename": "MIDAMERICAN ENERGY CO 3.65% 08/01/2048",
+                "weights": 0.2,
+                "FACE_AMT": 80000,
+                "qty": 61866.53
+            },
+            {
+                "code": "BV0467308",
+                "name": "SAN DIEGO G & E 3.7% 03/15/2052",
+                "ename": "SAN DIEGO G & E 3.7% 03/15/2052",
+                "weights": 0.2,
+                "FACE_AMT": 80000,
+                "qty": 61700.56
+            },
+            {
+                "code": "ZS9987927",
+                "name": "DUKE ENERGY CORP 4.2% 06/15/2049",
+                "ename": "DUKE ENERGY CORP 4.2% 06/15/2049",
+                "weights": 0.2,
+                "FACE_AMT": 75000,
+                "qty": 60285.75
+            },
+            {
+                "code": "QZ1927370",
+                "name": "DUKE ENERGY CORP 3.75% 09/01/2046",
+                "ename": "DUKE ENERGY CORP 3.75% 09/01/2046",
+                "weights": 0.2,
+                "FACE_AMT": 80000,
+                "qty": 60054.87
+            },
+            {
+                "code": "UV4871785",
+                "name": "DUKE ENERGY PROGRESS LLC 4.2% 08/15/2045",
+                "ename": "DUKE ENERGY PROGRESS LLC 4.2% 08/15/2045",
+                "weights": 0.19,
+                "FACE_AMT": 70000,
+                "qty": 58490.18
+            },
+            {
+                "code": "AX1707824",
+                "name": "DTE ELECTRIC CO 3.95% 03/01/2049",
+                "ename": "DTE ELECTRIC CO 3.95% 03/01/2049",
+                "weights": 0.19,
+                "FACE_AMT": 70000,
+                "qty": 57069.5
+            },
+            {
+                "code": "EH0327070",
+                "name": "POTOMAC ELECTRIC POWER 6.5% 11/15/2037",
+                "ename": "POTOMAC ELECTRIC POWER 6.5% 11/15/2037",
+                "weights": 0.19,
+                "FACE_AMT": 50000,
+                "qty": 56636.78
+            },
+            {
+                "code": "EG8360273",
+                "name": "DUKE ENERGY FLORIDA LLC 6.35% 09/15/2037",
+                "ename": "DUKE ENERGY FLORIDA LLC 6.35% 09/15/2037",
+                "weights": 0.18,
+                "FACE_AMT": 50000,
+                "qty": 55545.18
+            },
+            {
+                "code": "BH4558772",
+                "name": "AEP TRANSMISSION CO LLC 3.65% 04/01/2050",
+                "ename": "AEP TRANSMISSION CO LLC 3.65% 04/01/2050",
+                "weights": 0.18,
+                "FACE_AMT": 70000,
+                "qty": 54326.32
+            },
+            {
+                "code": "BZ3432821",
+                "name": "ATMOS ENERGY CORP 5.75% 10/15/2052",
+                "ename": "ATMOS ENERGY CORP 5.75% 10/15/2052",
+                "weights": 0.18,
+                "FACE_AMT": 50000,
+                "qty": 54269.09
+            },
+            {
+                "code": "EH3070206",
+                "name": "DUKE ENERGY CAROLINAS 6.05% 04/15/2038",
+                "ename": "DUKE ENERGY CAROLINAS 6.05% 04/15/2038",
+                "weights": 0.18,
+                "FACE_AMT": 50000,
+                "qty": 54251.09
+            },
+            {
+                "code": "EI9039294",
+                "name": "FLORIDA POWER & LIGHT CO 4.125% 02/01/2042",
+                "ename": "FLORIDA POWER & LIGHT CO 4.125% 02/01/2042",
+                "weights": 0.17,
+                "FACE_AMT": 60000,
+                "qty": 52346.55
+            },
+            {
+                "code": "QZ4731472",
+                "name": "DUKE ENERGY FLORIDA LLC 3.4% 10/01/2046",
+                "ename": "DUKE ENERGY FLORIDA LLC 3.4% 10/01/2046",
+                "weights": 0.17,
+                "FACE_AMT": 70000,
+                "qty": 51986.4
+            },
+            {
+                "code": "ZL3254238",
+                "name": "UNION ELECTRIC CO 5.45% 03/15/2053",
+                "ename": "UNION ELECTRIC CO 5.45% 03/15/2053",
+                "weights": 0.17,
+                "FACE_AMT": 50000,
+                "qty": 50953.78
+            },
+            {
+                "code": "EJ5701192",
+                "name": "CON EDISON CO OF NY INC 3.95% 03/01/2043",
+                "ename": "CON EDISON CO OF NY INC 3.95% 03/01/2043",
+                "weights": 0.16,
+                "FACE_AMT": 60000,
+                "qty": 49825.48
+            },
+            {
+                "code": "AO6729500",
+                "name": "AMERICAN WATER CAPITAL C 3.75% 09/01/2047",
+                "ename": "AMERICAN WATER CAPITAL C 3.75% 09/01/2047",
+                "weights": 0.16,
+                "FACE_AMT": 60000,
+                "qty": 47367.47
+            },
+            {
+                "code": "EH2936365",
+                "name": "CON EDISON CO OF NY INC 6.75% 04/01/2038",
+                "ename": "CON EDISON CO OF NY INC 6.75% 04/01/2038",
+                "weights": 0.15,
+                "FACE_AMT": 40000,
+                "qty": 46199.06
+            },
+            {
+                "code": "EH5188642",
+                "name": "DUKE ENERGY INDIANA LLC 6.35% 08/15/2038",
+                "ename": "DUKE ENERGY INDIANA LLC 6.35% 08/15/2038",
+                "weights": 0.14,
+                "FACE_AMT": 40000,
+                "qty": 43309.09
+            },
+            {
+                "code": "LW1734232",
+                "name": "SOUTHERN CO 4.4% 07/01/2046",
+                "ename": "SOUTHERN CO 4.4% 07/01/2046",
+                "weights": 0.14,
+                "FACE_AMT": 50000,
+                "qty": 43163.17
+            },
+            {
+                "code": "EH7617333",
+                "name": "SOUTHERN CAL EDISON 6.05% 03/15/2039",
+                "ename": "SOUTHERN CAL EDISON 6.05% 03/15/2039",
+                "weights": 0.14,
+                "FACE_AMT": 40000,
+                "qty": 42827.26
+            },
+            {
+                "code": "EH1517216",
+                "name": "DUKE ENERGY CAROLINAS 6% 01/15/2038",
+                "ename": "DUKE ENERGY CAROLINAS 6% 01/15/2038",
+                "weights": 0.14,
+                "FACE_AMT": 40000,
+                "qty": 42699.68
+            },
+            {
+                "code": "EJ1996101",
+                "name": "DUKE ENERGY PROGRESS LLC 4.1% 05/15/2042",
+                "ename": "DUKE ENERGY PROGRESS LLC 4.1% 05/15/2042",
+                "weights": 0.14,
+                "FACE_AMT": 50000,
+                "qty": 42638.68
+            },
+            {
+                "code": "ZO0388686",
+                "name": "DUKE ENERGY PROGRESS LLC 2.5% 08/15/2050",
+                "ename": "DUKE ENERGY PROGRESS LLC 2.5% 08/15/2050",
+                "weights": 0.14,
+                "FACE_AMT": 70000,
+                "qty": 42129.38
+            },
+            {
+                "code": "EH6135378",
+                "name": "VIRGINIA ELEC & POWER CO 8.875% 11/15/2038",
+                "ename": "VIRGINIA ELEC & POWER CO 8.875% 11/15/2038",
+                "weights": 0.13,
+                "FACE_AMT": 30000,
+                "qty": 40894.58
+            },
+            {
+                "code": "AR3537958",
+                "name": "PECO ENERGY CO 3.9% 03/01/2048",
+                "ename": "PECO ENERGY CO 3.9% 03/01/2048",
+                "weights": 0.13,
+                "FACE_AMT": 50000,
+                "qty": 40643.78
+            },
+            {
+                "code": "EI8148450",
+                "name": "SOUTHERN POWER CO 5.15% 09/15/2041",
+                "ename": "SOUTHERN POWER CO 5.15% 09/15/2041",
+                "weights": 0.13,
+                "FACE_AMT": 40000,
+                "qty": 38134.66
+            },
+            {
+                "code": "BO4035727",
+                "name": "ENTERGY LOUISIANA LLC 3.1% 06/15/2041",
+                "ename": "ENTERGY LOUISIANA LLC 3.1% 06/15/2041",
+                "weights": 0.12,
+                "FACE_AMT": 50000,
+                "qty": 37448.2
+            },
+            {
+                "code": "EJ4815159",
+                "name": "AMERICAN WATER CAPITAL C 4.3% 12/01/2042",
+                "ename": "AMERICAN WATER CAPITAL C 4.3% 12/01/2042",
+                "weights": 0.12,
+                "FACE_AMT": 40000,
+                "qty": 35575.53
+            },
+            {
+                "code": "EK6156435",
+                "name": "CON EDISON CO OF NY INC 4.625% 12/01/2054",
+                "ename": "CON EDISON CO OF NY INC 4.625% 12/01/2054",
+                "weights": 0.12,
+                "FACE_AMT": 40000,
+                "qty": 35303.83
+            },
+            {
+                "code": "ZR0836240",
+                "name": "DUKE ENERGY CAROLINAS 3.2% 08/15/2049",
+                "ename": "DUKE ENERGY CAROLINAS 3.2% 08/15/2049",
+                "weights": 0.12,
+                "FACE_AMT": 50000,
+                "qty": 34926.03
+            },
+            {
+                "code": "AX5472664",
+                "name": "ENTERGY LOUISIANA LLC 4.2% 04/01/2050",
+                "ename": "ENTERGY LOUISIANA LLC 4.2% 04/01/2050",
+                "weights": 0.11,
+                "FACE_AMT": 40000,
+                "qty": 33470.49
+            },
+            {
+                "code": "ED9856615",
+                "name": "DOMINION ENERGY INC 5.95% 06/15/2035",
+                "ename": "DOMINION ENERGY INC 5.95% 06/15/2035",
+                "weights": 0.1,
+                "FACE_AMT": 30000,
+                "qty": 31296.05
+            },
+            {
+                "code": "BQ4396413",
+                "name": "PACIFICORP 2.9% 06/15/2052",
+                "ename": "PACIFICORP 2.9% 06/15/2052",
+                "weights": 0.1,
+                "FACE_AMT": 50000,
+                "qty": 31178.85
+            },
+            {
+                "code": "EI7009166",
+                "name": "KENTUCKY UTILITIES CO 5.125% 11/01/2040",
+                "ename": "KENTUCKY UTILITIES CO 5.125% 11/01/2040",
+                "weights": 0.1,
+                "FACE_AMT": 30000,
+                "qty": 29316.63
+            },
+            {
+                "code": "BP9678502",
+                "name": "ALABAMA POWER CO 3.125% 07/15/2051",
+                "ename": "ALABAMA POWER CO 3.125% 07/15/2051",
+                "weights": 0.09,
+                "FACE_AMT": 40000,
+                "qty": 27743.12
+            },
+            {
+                "code": "EJ5070754",
+                "name": "ATMOS ENERGY CORP 4.15% 01/15/2043",
+                "ename": "ATMOS ENERGY CORP 4.15% 01/15/2043",
+                "weights": 0.09,
+                "FACE_AMT": 30000,
+                "qty": 26281.39
+            },
+            {
+                "code": "EK4700739",
+                "name": "FLORIDA POWER & LIGHT CO 4.05% 10/01/2044",
+                "ename": "FLORIDA POWER & LIGHT CO 4.05% 10/01/2044",
+                "weights": 0.09,
+                "FACE_AMT": 30000,
+                "qty": 26166.2
+            },
+            {
+                "code": "EJ5006402",
+                "name": "VIRGINIA ELEC & POWER CO 4% 01/15/2043",
+                "ename": "VIRGINIA ELEC & POWER CO 4% 01/15/2043",
+                "weights": 0.08,
+                "FACE_AMT": 30000,
+                "qty": 25060.61
+            },
+            {
+                "code": "ZN6737540",
+                "name": "EXELON CORP 4.1% 03/15/2052",
+                "ename": "EXELON CORP 4.1% 03/15/2052",
+                "weights": 0.08,
+                "FACE_AMT": 30000,
+                "qty": 24286.59
+            },
+            {
+                "code": "EJ1931959",
+                "name": "FLORIDA POWER & LIGHT CO 4.05% 06/01/2042",
+                "ename": "FLORIDA POWER & LIGHT CO 4.05% 06/01/2042",
+                "weights": 0.06,
+                "FACE_AMT": 20000,
+                "qty": 17284.99
+            }
+        ]
+    },
+    "Memo": null
+}

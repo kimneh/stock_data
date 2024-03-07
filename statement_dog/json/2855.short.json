@@ -6,7 +6,7 @@
         "main_business": "承銷有價證券 自行買賣有價證券 受託買賣有價證券<br>股務代理 有價證券融資融券業務 期貨業務輔助 期貨自營<br>其它經證期會核准之有關證券業務",
         "website_url": "https://www.pscnet.com.tw/",
         "ceo": "蔡森部",
-        "pe_ratio": 11,
+        "pe_ratio": 0,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 23,
@@ -58,19 +58,19 @@
             "at_2023_last_all": 17.08,
             "at_2024_last_all": 17.08
         },
-        "latest_eps": 1.83,
-        "latest_price": 19.75,
-        "latest_roe": 8.75,
+        "latest_eps": 0,
+        "latest_price": 21.2,
+        "latest_roe": 0,
         "latest_gross_margin": null,
-        "latest_equity": 31709373,
-        "latest_revenue": 2620807,
+        "latest_equity": null,
+        "latest_revenue": null,
         "latest_gross_profit": null,
-        "latest_net_income": 825941,
-        "latest_debt_ratio": 75.31,
-        "latest_current_ratio": 122.83,
-        "latest_account_receivable_turnover_ratio": 0.12,
+        "latest_net_income": null,
+        "latest_debt_ratio": null,
+        "latest_current_ratio": null,
+        "latest_account_receivable_turnover_ratio": null,
         "latest_inventory_turnover_ratio": null,
-        "latest_reinvestment_rate": 26.71,
+        "latest_reinvestment_rate": null,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -193,6 +193,11 @@
             "cash": 0.39,
             "stock": 0,
             "eps": 1.68
+        },
+        "2024": {
+            "cash": 1.32,
+            "stock": 0,
+            "eps": 0
         }
     },
     "dividends": {
@@ -282,6 +287,10 @@
         },
         "2023-07-18": {
             "cash": 0.39,
+            "stock": 0
+        },
+        "2024-03-04": {
+            "cash": 1.32,
             "stock": 0
         }
     },
@@ -3475,6 +3484,38 @@
             "eps_avg_yearly": 2.59,
             "eps_latest_yearly": 2.28,
             "eps_growth_yearly": 119.55
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": null,
+            "eps_growth_year": null,
+            "eps_4q": null,
+            "eps_4q_growth_year": null,
+            "roe": null,
+            "roe_4q": 8,
+            "gross_profit": null,
+            "gross_margin": null,
+            "gross_margin_4q_avg": 0,
+            "net_income": null,
+            "net_income_4q": null,
+            "revenue": null,
+            "revenue_4q": null,
+            "common_shares": null,
+            "book_valuer_per_share": 22.01,
+            "book_valuer_per_share_4q_avg": 21.43,
+            "equity": null,
+            "current_ratio": null,
+            "debt_ratio": null,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": null,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": null,
+            "price_fair": 92.53,
+            "eps_avg_yearly": 2.64,
+            "eps_latest_yearly": 2.28,
+            "eps_growth_yearly": 123.5
         }
     },
     "months": {

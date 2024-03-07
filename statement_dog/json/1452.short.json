@@ -6,19 +6,19 @@
         "main_business": "聚酯加工絲",
         "website_url": "http://www.hongyilon.com.tw",
         "ceo": "羅昭甲",
-        "pe_ratio": 100,
+        "pe_ratio": 42,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 23,
         "eps_negative_percentage": 13,
         "eps_growth_avg": {
-            "last_all": -5.96,
-            "last_2y": -13.92,
-            "last_4y": -19.4,
-            "last_8y": -4.92,
-            "last_12y": -2.07,
-            "last_16y": 1.89,
-            "last_20y": -7.9,
+            "last_all": -4.98,
+            "last_2y": -7.73,
+            "last_4y": -15.69,
+            "last_8y": -2.86,
+            "last_12y": -0.64,
+            "last_16y": 3.05,
+            "last_20y": -6.87,
             "at_2006_last_3y": -86.21,
             "at_2007_last_3y": -21.43,
             "at_2008_last_3y": -21.43,
@@ -36,8 +36,8 @@
             "at_2020_last_3y": -14.13,
             "at_2021_last_3y": 8.89,
             "at_2022_last_3y": -4.66,
-            "at_2023_last_3y": -21.71,
-            "at_2024_last_3y": -21.71,
+            "at_2023_last_3y": -17.08,
+            "at_2024_last_3y": -17.08,
             "at_2006_last_all": -47.84,
             "at_2007_last_all": -21.6,
             "at_2008_last_all": -37.28,
@@ -55,23 +55,23 @@
             "at_2020_last_all": -4.47,
             "at_2021_last_all": 1.68,
             "at_2022_last_all": -1.94,
-            "at_2023_last_all": -5.96,
-            "at_2024_last_all": -5.96
+            "at_2023_last_all": -4.98,
+            "at_2024_last_all": -4.98
         },
-        "latest_eps": 0.14,
-        "latest_price": 17.05,
-        "latest_roe": 0.69,
-        "latest_gross_margin": 1.7,
-        "latest_equity": 2649413,
-        "latest_revenue": 295590,
-        "latest_gross_profit": 5027,
-        "latest_net_income": 34848,
-        "latest_debt_ratio": 5.51,
-        "latest_current_ratio": 1919.85,
-        "latest_account_receivable_turnover_ratio": 1.91,
-        "latest_inventory_turnover_ratio": 1.18,
-        "latest_reinvestment_rate": -30.89,
-        "latest_research_to_sale_ratio": 0.71
+        "latest_eps": 0.39,
+        "latest_price": 16.5,
+        "latest_roe": 1.92,
+        "latest_gross_margin": 4.66,
+        "latest_equity": 2733924,
+        "latest_revenue": 364544,
+        "latest_gross_profit": 16976,
+        "latest_net_income": 24148,
+        "latest_debt_ratio": 5.66,
+        "latest_current_ratio": 1739.47,
+        "latest_account_receivable_turnover_ratio": 1.85,
+        "latest_inventory_turnover_ratio": 1.42,
+        "latest_reinvestment_rate": -31.31,
+        "latest_research_to_sale_ratio": 0.61
     },
     "eps_dividends": {
         "1991": {
@@ -222,7 +222,12 @@
         "2023": {
             "cash": 0.8,
             "stock": 0,
-            "eps": 0.21
+            "eps": 0.39
+        },
+        "2024": {
+            "cash": 0.3,
+            "stock": 0,
+            "eps": 0
         }
     },
     "dividends": {
@@ -332,6 +337,10 @@
         },
         "2023-08-07": {
             "cash": 0.8,
+            "stock": 0
+        },
+        "2024-02-29": {
+            "cash": 0.3,
             "stock": 0
         }
     },
@@ -3525,6 +3534,38 @@
             "eps_avg_yearly": 1.73,
             "eps_latest_yearly": 1.04,
             "eps_growth_yearly": 180.58
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": 0.18,
+            "eps_growth_year": null,
+            "eps_4q": 0.39,
+            "eps_4q_growth_year": -59.33,
+            "roe": 0.9,
+            "roe_4q": 1.9600000000000002,
+            "gross_profit": 16976,
+            "gross_margin": 4.66,
+            "gross_margin_4q_avg": 3.11,
+            "net_income": 24148,
+            "net_income_4q": null,
+            "revenue": 364544,
+            "revenue_4q": null,
+            "common_shares": 1326414,
+            "book_valuer_per_share": 20.61,
+            "book_valuer_per_share_4q_avg": 20.03,
+            "equity": 2733924,
+            "current_ratio": 1739.47,
+            "debt_ratio": 5.66,
+            "inventory_turnover_ratio": 1.42,
+            "account_receivable_turnover_ratio": 1.85,
+            "reinvestment_rate": -31.31,
+            "research_to_sale_ratio": 0.61,
+            "price_fair": 59.05,
+            "eps_avg_yearly": 1.69,
+            "eps_latest_yearly": 0.72,
+            "eps_growth_yearly": 178
         }
     },
     "months": {

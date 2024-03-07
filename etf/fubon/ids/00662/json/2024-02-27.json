@@ -1,0 +1,818 @@
+{
+    "date": "2024-02-27",
+    "amount": 26235706594,
+    "shares": 359529000,
+    "net": 72.97,
+    "stocks": {
+        "MSFT US": {
+            "id": "MSFT US",
+            "name": "Microsoft Corp",
+            "shares": 175873,
+            "amount": 2264820463,
+            "weight": 8.6325,
+            "price": 12877.59
+        },
+        "AAPL US": {
+            "id": "AAPL US",
+            "name": "APPLE INC",
+            "shares": 368033,
+            "amount": 2124159832,
+            "weight": 8.0964,
+            "price": 5771.66
+        },
+        "NVDA US": {
+            "id": "NVDA US",
+            "name": "NVIDIA CORP",
+            "shares": 58449,
+            "amount": 1453736340,
+            "weight": 5.541,
+            "price": 24871.88
+        },
+        "AMZN US": {
+            "id": "AMZN US",
+            "name": "Amazon.com Inc",
+            "shares": 244539,
+            "amount": 1341145930,
+            "weight": 5.1119,
+            "price": 5484.38
+        },
+        "META US": {
+            "id": "META US",
+            "name": "META PLATFORMS INC",
+            "shares": 83560,
+            "amount": 1286175670,
+            "weight": 4.9023,
+            "price": 15392.24
+        },
+        "AVGO US": {
+            "id": "AVGO US",
+            "name": "Broadcom Inc",
+            "shares": 28549,
+            "amount": 1169502839,
+            "weight": 4.4576,
+            "price": 40964.76
+        },
+        "TSLA US": {
+            "id": "TSLA US",
+            "name": "Tesla Inc",
+            "shares": 113864,
+            "amount": 718717219,
+            "weight": 2.7394,
+            "price": 6312.07
+        },
+        "COST US": {
+            "id": "COST US",
+            "name": "Costco Wholesale Corp",
+            "shares": 27060,
+            "amount": 636858997,
+            "weight": 2.4274,
+            "price": 23535.07
+        },
+        "GOOGL US": {
+            "id": "GOOGL US",
+            "name": "Alphabet Inc-CL A",
+            "shares": 140041,
+            "amount": 614643399,
+            "weight": 2.3427,
+            "price": 4389.02
+        },
+        "GOOG US": {
+            "id": "GOOG US",
+            "name": "Alphabet Inc-CL C",
+            "shares": 135474,
+            "amount": 599822014,
+            "weight": 2.2862,
+            "price": 4427.58
+        },
+        "AMD US": {
+            "id": "AMD US",
+            "name": "ADVANCED MICRO DEVICES",
+            "shares": 98739,
+            "amount": 555439854,
+            "weight": 2.1171,
+            "price": 5625.33
+        },
+        "NFLX US": {
+            "id": "NFLX US",
+            "name": "Netflix Inc",
+            "shares": 26751,
+            "amount": 508658950,
+            "weight": 1.9388,
+            "price": 19014.58
+        },
+        "ADBE US": {
+            "id": "ADBE US",
+            "name": "Adobe Inc",
+            "shares": 27828,
+            "amount": 485886382,
+            "weight": 1.852,
+            "price": 17460.34
+        },
+        "PEP US": {
+            "id": "PEP US",
+            "name": "PepsiCo Inc",
+            "shares": 84031,
+            "amount": 446571025,
+            "weight": 1.7021,
+            "price": 5314.36
+        },
+        "CSCO US": {
+            "id": "CSCO US",
+            "name": "Cisco Systems Inc",
+            "shares": 248358,
+            "amount": 379178324,
+            "weight": 1.4452,
+            "price": 1526.74
+        },
+        "TMUS US": {
+            "id": "TMUS US",
+            "name": "T-Mobile US Inc",
+            "shares": 70683,
+            "amount": 367727308,
+            "weight": 1.4016,
+            "price": 5202.49
+        },
+        "INTU US": {
+            "id": "INTU US",
+            "name": "Intuit Inc",
+            "shares": 17110,
+            "amount": 361941245,
+            "weight": 1.3795,
+            "price": 21153.78
+        },
+        "INTC US": {
+            "id": "INTC US",
+            "name": "Intel Corp",
+            "shares": 257680,
+            "amount": 347970090,
+            "weight": 1.3263,
+            "price": 1350.4
+        },
+        "QCOM US": {
+            "id": "QCOM US",
+            "name": "QUALCOMM Inc",
+            "shares": 68026,
+            "amount": 340317405,
+            "weight": 1.2971,
+            "price": 5002.75
+        },
+        "CMCSA US": {
+            "id": "CMCSA US",
+            "name": "Comcast Corp",
+            "shares": 245434,
+            "amount": 327865171,
+            "weight": 1.2496,
+            "price": 1335.86
+        },
+        "AMAT US": {
+            "id": "AMAT US",
+            "name": "Applied Materials Inc",
+            "shares": 51129,
+            "amount": 327787231,
+            "weight": 1.2493,
+            "price": 6410.98
+        },
+        "TXN US": {
+            "id": "TXN US",
+            "name": "Texas Instruments Inc",
+            "shares": 55509,
+            "amount": 289346147,
+            "weight": 1.1028,
+            "price": 5212.6
+        },
+        "AMGN US": {
+            "id": "AMGN US",
+            "name": "Amgen Inc",
+            "shares": 32710,
+            "amount": 287884618,
+            "weight": 1.0973,
+            "price": 8801.12
+        },
+        "ISRG US": {
+            "id": "ISRG US",
+            "name": "Intuitive Surgical Inc",
+            "shares": 21518,
+            "amount": 262805690,
+            "weight": 1.0017,
+            "price": 12213.3
+        },
+        "HON US": {
+            "id": "HON US",
+            "name": "HONEYWELL INTERNATIONAL INC",
+            "shares": 40293,
+            "amount": 252358385,
+            "weight": 0.9618,
+            "price": 6263.08
+        },
+        "LRCX US": {
+            "id": "LRCX US",
+            "name": "Lam Research Corp",
+            "shares": 8055,
+            "amount": 236928644,
+            "weight": 0.903,
+            "price": 29413.86
+        },
+        "BKNG US": {
+            "id": "BKNG US",
+            "name": "Booking Holdings Inc",
+            "shares": 2132,
+            "amount": 234347365,
+            "weight": 0.8932,
+            "price": 109919.03
+        },
+        "VRTX US": {
+            "id": "VRTX US",
+            "name": "Vertex Pharmaceuticals Inc",
+            "shares": 15750,
+            "amount": 214489245,
+            "weight": 0.8175,
+            "price": 13618.36
+        },
+        "SBUX US": {
+            "id": "SBUX US",
+            "name": "Starbucks Corp",
+            "shares": 69475,
+            "amount": 206673562,
+            "weight": 0.7877,
+            "price": 2974.79
+        },
+        "REGN US": {
+            "id": "REGN US",
+            "name": "REGENERON PHARMACEUTICALS INC",
+            "shares": 6548,
+            "amount": 205560316,
+            "weight": 0.7835,
+            "price": 31392.84
+        },
+        "ADP US": {
+            "id": "ADP US",
+            "name": "Automatic Data Processing Inc",
+            "shares": 25139,
+            "amount": 199657707,
+            "weight": 0.761,
+            "price": 7942.15
+        },
+        "MU US": {
+            "id": "MU US",
+            "name": "Micron Technology Inc",
+            "shares": 67460,
+            "amount": 195818540,
+            "weight": 0.7463,
+            "price": 2902.74
+        },
+        "MDLZ US": {
+            "id": "MDLZ US",
+            "name": "Mondelez International Inc",
+            "shares": 83177,
+            "amount": 192232643,
+            "weight": 0.7327,
+            "price": 2311.13
+        },
+        "PANW US": {
+            "id": "PANW US",
+            "name": "PALO ALTO NETWORKS INC",
+            "shares": 19271,
+            "amount": 191689490,
+            "weight": 0.7306,
+            "price": 9947.04
+        },
+        "ADI US": {
+            "id": "ADI US",
+            "name": "Analog Devices Inc",
+            "shares": 30331,
+            "amount": 181233161,
+            "weight": 0.6907,
+            "price": 5975.18
+        },
+        "KLAC US": {
+            "id": "KLAC US",
+            "name": "KLA-Tencor Corp",
+            "shares": 8308,
+            "amount": 177903862,
+            "weight": 0.678,
+            "price": 21413.56
+        },
+        "GILD US": {
+            "id": "GILD US",
+            "name": "GILEAD SCIENCES INC",
+            "shares": 76158,
+            "amount": 175746089,
+            "weight": 0.6698,
+            "price": 2307.65
+        },
+        "SNPS US": {
+            "id": "SNPS US",
+            "name": "Synopsys Inc",
+            "shares": 9295,
+            "amount": 168612434,
+            "weight": 0.6426,
+            "price": 18140.12
+        },
+        "PDD US": {
+            "id": "PDD US",
+            "name": "PDD HOLDINGS INC ADS",
+            "shares": 40823,
+            "amount": 165562289,
+            "weight": 0.631,
+            "price": 4055.61
+        },
+        "ASML US": {
+            "id": "ASML US",
+            "name": "ASML Holding NV",
+            "shares": 5365,
+            "amount": 159609373,
+            "weight": 0.6083,
+            "price": 29750.12
+        },
+        "CDNS US": {
+            "id": "CDNS US",
+            "name": "Cadence Design Systems Inc",
+            "shares": 16628,
+            "amount": 157653660,
+            "weight": 0.6009,
+            "price": 9481.22
+        },
+        "MELI US": {
+            "id": "MELI US",
+            "name": "MercadoLibre Inc",
+            "shares": 3090,
+            "amount": 156971772,
+            "weight": 0.5983,
+            "price": 50799.93
+        },
+        "CSX US": {
+            "id": "CSX US",
+            "name": "CSX Corp",
+            "shares": 120780,
+            "amount": 144893713,
+            "weight": 0.5522,
+            "price": 1199.65
+        },
+        "MAR US": {
+            "id": "MAR US",
+            "name": "Marriott International Inc/MD",
+            "shares": 17950,
+            "amount": 141268207,
+            "weight": 0.5384,
+            "price": 7870.1
+        },
+        "CRWD US": {
+            "id": "CRWD US",
+            "name": "CROWDSTRIKE HOLDINGS INC",
+            "shares": 13913,
+            "amount": 141233641,
+            "weight": 0.5383,
+            "price": 10151.2
+        },
+        "ABNB US": {
+            "id": "ABNB US",
+            "name": "AIRBNB INC",
+            "shares": 26571,
+            "amount": 127688327,
+            "weight": 0.4866,
+            "price": 4805.55
+        },
+        "PYPL US": {
+            "id": "PYPL US",
+            "name": "PayPal Holdings Inc",
+            "shares": 65896,
+            "amount": 125283879,
+            "weight": 0.4775,
+            "price": 1901.24
+        },
+        "ORLY US": {
+            "id": "ORLY US",
+            "name": "O'Reilly Automotive Inc",
+            "shares": 3616,
+            "amount": 123618548,
+            "weight": 0.4711,
+            "price": 34186.55
+        },
+        "CTAS US": {
+            "id": "CTAS US",
+            "name": "Cintas Corp",
+            "shares": 6225,
+            "amount": 123575118,
+            "weight": 0.471,
+            "price": 19851.42
+        },
+        "NXPI US": {
+            "id": "NXPI US",
+            "name": "NXP SEMICONDUCTORS NV",
+            "shares": 15754,
+            "amount": 122342495,
+            "weight": 0.4663,
+            "price": 7765.81
+        },
+        "WDAY US": {
+            "id": "WDAY US",
+            "name": "Workday Inc",
+            "shares": 12774,
+            "amount": 119110718,
+            "weight": 0.454,
+            "price": 9324.47
+        },
+        "MRVL US": {
+            "id": "MRVL US",
+            "name": "MARVELL TECHNOLOGY GROUP LTD",
+            "shares": 52734,
+            "amount": 115208781,
+            "weight": 0.4391,
+            "price": 2184.72
+        },
+        "ROP US": {
+            "id": "ROP US",
+            "name": "ROPER TECHNOLOGIES INC",
+            "shares": 6529,
+            "amount": 112886419,
+            "weight": 0.4302,
+            "price": 17290
+        },
+        "MNST US": {
+            "id": "MNST US",
+            "name": "Monster Beverage Corp",
+            "shares": 63591,
+            "amount": 112762380,
+            "weight": 0.4298,
+            "price": 1773.24
+        },
+        "PCAR US": {
+            "id": "PCAR US",
+            "name": "PACCAR Inc",
+            "shares": 31970,
+            "amount": 112482033,
+            "weight": 0.4287,
+            "price": 3518.36
+        },
+        "LULU US": {
+            "id": "LULU US",
+            "name": "LULULEMON ATHLETICA INC",
+            "shares": 7421,
+            "amount": 109720580,
+            "weight": 0.4182,
+            "price": 14785.15
+        },
+        "ADSK US": {
+            "id": "ADSK US",
+            "name": "Autodesk Inc",
+            "shares": 13065,
+            "amount": 106092906,
+            "weight": 0.4043,
+            "price": 8120.39
+        },
+        "FTNT US": {
+            "id": "FTNT US",
+            "name": "FORTINET INC",
+            "shares": 46934,
+            "amount": 103753702,
+            "weight": 0.3954,
+            "price": 2210.63
+        },
+        "CPRT US": {
+            "id": "CPRT US",
+            "name": "COPART INC",
+            "shares": 58689,
+            "amount": 98153288,
+            "weight": 0.3741,
+            "price": 1672.43
+        },
+        "ROST US": {
+            "id": "ROST US",
+            "name": "Ross Stores Inc",
+            "shares": 20697,
+            "amount": 97864541,
+            "weight": 0.373,
+            "price": 4728.44
+        },
+        "CEG US": {
+            "id": "CEG US",
+            "name": "CONSTELLATION ENERGY GROUP",
+            "shares": 19520,
+            "amount": 96086874,
+            "weight": 0.3662,
+            "price": 4922.48
+        },
+        "ODFL US": {
+            "id": "ODFL US",
+            "name": "OLD DOMINION FREIGHT LINE INC",
+            "shares": 6669,
+            "amount": 92957985,
+            "weight": 0.3543,
+            "price": 13938.82
+        },
+        "IDXX US": {
+            "id": "IDXX US",
+            "name": "IDEXX Laboratories Inc",
+            "shares": 5076,
+            "amount": 92250905,
+            "weight": 0.3516,
+            "price": 18173.94
+        },
+        "DASH US": {
+            "id": "DASH US",
+            "name": "DOORDASH INC",
+            "shares": 22660,
+            "amount": 88584536,
+            "weight": 0.3376,
+            "price": 3909.29
+        },
+        "MCHP US": {
+            "id": "MCHP US",
+            "name": "Microchip Technology Inc",
+            "shares": 33069,
+            "amount": 86678903,
+            "weight": 0.3303,
+            "price": 2621.15
+        },
+        "DXCM US": {
+            "id": "DXCM US",
+            "name": "DEXCOM INC",
+            "shares": 23615,
+            "amount": 86063875,
+            "weight": 0.328,
+            "price": 3644.46
+        },
+        "PAYX US": {
+            "id": "PAYX US",
+            "name": "Paychex Inc",
+            "shares": 22078,
+            "amount": 85751144,
+            "weight": 0.3268,
+            "price": 3884.01
+        },
+        "AEP US": {
+            "id": "AEP US",
+            "name": "AMERICAN ELECTRIC POWER",
+            "shares": 32141,
+            "amount": 85394272,
+            "weight": 0.3254,
+            "price": 2656.86
+        },
+        "KHC US": {
+            "id": "KHC US",
+            "name": "Kraft Heinz Co/The",
+            "shares": 74966,
+            "amount": 84815588,
+            "weight": 0.3232,
+            "price": 1131.39
+        },
+        "CHTR US": {
+            "id": "CHTR US",
+            "name": "Charter Communications Inc",
+            "shares": 9041,
+            "amount": 82859589,
+            "weight": 0.3158,
+            "price": 9164.87
+        },
+        "GEHC US": {
+            "id": "GEHC US",
+            "name": "GE HEALTHCARE TECHNOLOGIES INC",
+            "shares": 27824,
+            "amount": 81354859,
+            "weight": 0.31,
+            "price": 2923.91
+        },
+        "FAST US": {
+            "id": "FAST US",
+            "name": "Fastenal Co",
+            "shares": 34925,
+            "amount": 80738199,
+            "weight": 0.3077,
+            "price": 2311.76
+        },
+        "KDP US": {
+            "id": "KDP US",
+            "name": "KEURIG DR PEPPER INC",
+            "shares": 85466,
+            "amount": 79678969,
+            "weight": 0.3037,
+            "price": 932.29
+        },
+        "CTSH US": {
+            "id": "CTSH US",
+            "name": "Cognizant Technology Solutions Corp",
+            "shares": 30646,
+            "amount": 76647528,
+            "weight": 0.2921,
+            "price": 2501.06
+        },
+        "DDOG US": {
+            "id": "DDOG US",
+            "name": "DATADOG INC",
+            "shares": 18468,
+            "amount": 76428209,
+            "weight": 0.2913,
+            "price": 4138.41
+        },
+        "AZN US": {
+            "id": "AZN US",
+            "name": "ASTRAZENECA PLC",
+            "shares": 35590,
+            "amount": 74604719,
+            "weight": 0.2843,
+            "price": 2096.23
+        },
+        "TTD US": {
+            "id": "TTD US",
+            "name": "TRADE DESK INC/THE",
+            "shares": 27275,
+            "amount": 73784788,
+            "weight": 0.2812,
+            "price": 2705.22
+        },
+        "EA US": {
+            "id": "EA US",
+            "name": "Electronic Arts Inc",
+            "shares": 16449,
+            "amount": 72517366,
+            "weight": 0.2764,
+            "price": 4408.62
+        },
+        "MRNA US": {
+            "id": "MRNA US",
+            "name": "MODERNA INC",
+            "shares": 23304,
+            "amount": 70849021,
+            "weight": 0.27,
+            "price": 3040.21
+        },
+        "EXC US": {
+            "id": "EXC US",
+            "name": "EXELON CORP",
+            "shares": 60841,
+            "amount": 69623071,
+            "weight": 0.2653,
+            "price": 1144.34
+        },
+        "ZS US": {
+            "id": "ZS US",
+            "name": "ZSCALER INC",
+            "shares": 9065,
+            "amount": 69468825,
+            "weight": 0.2647,
+            "price": 7663.41
+        },
+        "VRSK US": {
+            "id": "VRSK US",
+            "name": "Verisk Analytics Inc",
+            "shares": 8862,
+            "amount": 68033581,
+            "weight": 0.2593,
+            "price": 7677
+        },
+        "CSGP US": {
+            "id": "CSGP US",
+            "name": "COSTAR GROUP INC",
+            "shares": 24959,
+            "amount": 66959473,
+            "weight": 0.2552,
+            "price": 2682.78
+        },
+        "ON US": {
+            "id": "ON US",
+            "name": "ON SEMICONDUCTOR CORP",
+            "shares": 26324,
+            "amount": 64032680,
+            "weight": 0.244,
+            "price": 2432.48
+        },
+        "CDW US": {
+            "id": "CDW US",
+            "name": "CDW CORP/DE",
+            "shares": 8188,
+            "amount": 63208615,
+            "weight": 0.2409,
+            "price": 7719.66
+        },
+        "BIIB US": {
+            "id": "BIIB US",
+            "name": "Biogen Inc",
+            "shares": 8856,
+            "amount": 62675469,
+            "weight": 0.2388,
+            "price": 7077.18
+        },
+        "DLTR US": {
+            "id": "DLTR US",
+            "name": "Dollar Tree Inc",
+            "shares": 13316,
+            "amount": 62660924,
+            "weight": 0.2388,
+            "price": 4705.69
+        },
+        "CCEP US": {
+            "id": "CCEP US",
+            "name": "COCA-COLA EUROPACIFIC PARTNERS",
+            "shares": 27919,
+            "amount": 62433257,
+            "weight": 0.2379,
+            "price": 2236.23
+        },
+        "XEL US": {
+            "id": "XEL US",
+            "name": "Xcel Energy Inc",
+            "shares": 33727,
+            "amount": 62119159,
+            "weight": 0.2367,
+            "price": 1841.82
+        },
+        "MDB US": {
+            "id": "MDB US",
+            "name": "MONGODB INC",
+            "shares": 4361,
+            "amount": 62012416,
+            "weight": 0.2363,
+            "price": 14219.77
+        },
+        "TEAM US": {
+            "id": "TEAM US",
+            "name": "ATLASSIAN CORP PLC-CLASS A",
+            "shares": 9474,
+            "amount": 61623912,
+            "weight": 0.2348,
+            "price": 6504.53
+        },
+        "FANG US": {
+            "id": "FANG US",
+            "name": "DIAMONDBACK ENERGY INC",
+            "shares": 10939,
+            "amount": 61518244,
+            "weight": 0.2344,
+            "price": 5623.75
+        },
+        "BKR US": {
+            "id": "BKR US",
+            "name": "BAKER HUGHES CO",
+            "shares": 61501,
+            "amount": 57764270,
+            "weight": 0.2201,
+            "price": 939.24
+        },
+        "GFS US": {
+            "id": "GFS US",
+            "name": "GLOBALFOUNDRIES INC",
+            "shares": 33479,
+            "amount": 56604971,
+            "weight": 0.2157,
+            "price": 1690.76
+        },
+        "ANSS US": {
+            "id": "ANSS US",
+            "name": "ANSYS INC",
+            "shares": 5310,
+            "amount": 56346212,
+            "weight": 0.2147,
+            "price": 10611.34
+        },
+        "SPLK US": {
+            "id": "SPLK US",
+            "name": "SPLUNK INC",
+            "shares": 10343,
+            "amount": 50860945,
+            "weight": 0.1938,
+            "price": 4917.43
+        },
+        "TTWO US": {
+            "id": "TTWO US",
+            "name": "Take-Two Interactive Software Inc",
+            "shares": 10394,
+            "amount": 48595565,
+            "weight": 0.1852,
+            "price": 4675.35
+        },
+        "ILMN US": {
+            "id": "ILMN US",
+            "name": "Illumina Inc",
+            "shares": 9706,
+            "amount": 42869804,
+            "weight": 0.1634,
+            "price": 4416.84
+        },
+        "WBD US": {
+            "id": "WBD US",
+            "name": "WARNER BROS DISCOVERY INC",
+            "shares": 149045,
+            "amount": 40979342,
+            "weight": 0.1561,
+            "price": 274.95
+        },
+        "WBA US": {
+            "id": "WBA US",
+            "name": "Walgreens Boots Alliance Inc",
+            "shares": 52802,
+            "amount": 36094016,
+            "weight": 0.1375,
+            "price": 683.57
+        },
+        "SIRI US": {
+            "id": "SIRI US",
+            "name": "Sirius XM Holdings Inc",
+            "shares": 235643,
+            "amount": 34926550,
+            "weight": 0.1331,
+            "price": 148.22
+        }
+    },
+    "deposit": 2002098,
+    "cash": 113564034
+}

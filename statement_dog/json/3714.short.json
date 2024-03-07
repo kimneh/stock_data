@@ -6,7 +6,7 @@
         "main_business": "H201010 一般投資業",
         "website_url": "http://www.ennostar.com",
         "ceo": "彭双浪",
-        "pe_ratio": -9,
+        "pe_ratio": -5,
         "report_year_from": 2021,
         "report_year_to": 2023,
         "age": 3,
@@ -58,20 +58,20 @@
             "at_2023_last_all": -96.88,
             "at_2024_last_all": -96.88
         },
-        "latest_eps": -4.75,
-        "latest_price": 44.95,
-        "latest_roe": -7.45,
-        "latest_gross_margin": 8.7,
-        "latest_equity": 54018252,
-        "latest_revenue": 6159490,
-        "latest_gross_profit": 535837,
-        "latest_net_income": -781630,
-        "latest_debt_ratio": 23.57,
-        "latest_current_ratio": 266.76,
-        "latest_account_receivable_turnover_ratio": 0.68,
-        "latest_inventory_turnover_ratio": 1.26,
+        "latest_eps": -9.02,
+        "latest_price": 41.95,
+        "latest_roe": -13.84,
+        "latest_gross_margin": 8.11,
+        "latest_equity": 49144736,
+        "latest_revenue": 5574285,
+        "latest_gross_profit": 452298,
+        "latest_net_income": -4109294,
+        "latest_debt_ratio": 23.33,
+        "latest_current_ratio": 280.86,
+        "latest_account_receivable_turnover_ratio": 0.61,
+        "latest_inventory_turnover_ratio": 1.18,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 10.34
+        "latest_research_to_sale_ratio": 11.16
     },
     "eps_dividends": {
         "2001": {
@@ -185,14 +185,18 @@
             "eps": 0.2
         },
         "2023": {
-            "cash": 0,
+            "cash": 0.9,
             "stock": 0,
-            "eps": -3.76
+            "eps": -9.03
         }
     },
     "dividends": {
         "2022-07-14": {
             "cash": 2,
+            "stock": 0
+        },
+        "2023-11-08": {
+            "cash": 0.9,
             "stock": 0
         }
     },
@@ -3382,6 +3386,38 @@
             "account_receivable_turnover_ratio": 0.68,
             "reinvestment_rate": null,
             "research_to_sale_ratio": 10.34,
+            "price_fair": 148.4,
+            "eps_avg_yearly": 4.24,
+            "eps_latest_yearly": 2.28,
+            "eps_growth_yearly": 41.59
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": -5.27,
+            "eps_growth_year": null,
+            "eps_4q": -9.02,
+            "eps_4q_growth_year": -17937.83,
+            "roe": -7.97,
+            "roe_4q": -13.780000000000001,
+            "gross_profit": 452298,
+            "gross_margin": 8.11,
+            "gross_margin_4q_avg": 4.87,
+            "net_income": -4109294,
+            "net_income_4q": null,
+            "revenue": 5574285,
+            "revenue_4q": null,
+            "common_shares": 7529405,
+            "book_valuer_per_share": 63.03,
+            "book_valuer_per_share_4q_avg": 68.3,
+            "equity": 49144736,
+            "current_ratio": 280.86,
+            "debt_ratio": 23.33,
+            "inventory_turnover_ratio": 1.18,
+            "account_receivable_turnover_ratio": 0.61,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 11.16,
             "price_fair": 148.4,
             "eps_avg_yearly": 4.24,
             "eps_latest_yearly": 2.28,

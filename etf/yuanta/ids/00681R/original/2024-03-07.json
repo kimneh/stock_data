@@ -1,0 +1,176 @@
+{
+    "PCF": {
+        "fundid": "1153",
+        "fundname": "元大美國政府20年期(以上)債券單日反向1倍基金",
+        "fullname": "元大美國政府20年期(以上)債券ETF傘型證券投資信託基金之元大美國政府20年期(以上)債券單日反向1倍證券投資信託基金",
+        "ename": "Yuanta Daily U.S. Treasury 20+ Year Bond Bear 1X ETF",
+        "markcd": "00681R",
+        "trandate": "20240305",
+        "totalav": 444377900,
+        "osunit": 22594000,
+        "nav": 19.668,
+        "baseunit": 500000,
+        "estcvalue": 9833980,
+        "estdvalue": -900037,
+        "issuesdiff": 0,
+        "cashdiff": 0,
+        "preallot": 10630000,
+        "allot": 9839963,
+        "anndate": "20240307",
+        "upddate": "2024-03-06 14:03:04",
+        "preunit": 22594000,
+        "predate": "20240306",
+        "allot_charge_fee": 0,
+        "redem_charge_fee": 0,
+        "Beneficiary": {
+            "doc_ym": "20240229",
+            "bf_cnt_a": 185,
+            "upd_date": "2024-03-01T08:47:15"
+        }
+    },
+    "InKind": {
+        "FundComposition": null
+    },
+    "Cash": {
+        "TranDate": "20240305",
+        "CashPosition": [
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": 73.2721,
+                "amt": 325605125,
+                "trandate": "20240305"
+            },
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.0815,
+                "amt": 362345.46,
+                "trandate": "20240305"
+            },
+            {
+                "code": "1220",
+                "name": "應收利息",
+                "ename": "INTEREST RECEIVEABLES",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": 0.0877,
+                "amt": 389752,
+                "trandate": "20240305"
+            },
+            {
+                "code": "1220",
+                "name": "應收利息",
+                "ename": "INTEREST RECEIVEABLES",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.001,
+                "amt": 4470.81,
+                "trandate": "20240305"
+            }
+        ],
+        "MMF": [],
+        "Margin": [
+            {
+                "code": null,
+                "name": "保證金",
+                "ename": "Margin",
+                "crncy": "NTD",
+                "exrate": 1,
+                "rto": 0,
+                "amt": 43163994,
+                "trandate": "20240305"
+            },
+            {
+                "code": null,
+                "name": "保證金",
+                "ename": "Margin",
+                "crncy": "USD",
+                "exrate": 31.578,
+                "rto": 0,
+                "amt": 2029108.24,
+                "trandate": "20240305"
+            }
+        ],
+        "RP": [],
+        "ForwardExchange": [],
+        "Currency": [
+            {
+                "fundId": "1153",
+                "cDate": "20240305",
+                "crncy": "NTD",
+                "endRate": 31.578
+            },
+            {
+                "fundId": "1153",
+                "cDate": "20240305",
+                "crncy": "KRW",
+                "endRate": 1335.36
+            },
+            {
+                "fundId": "1153",
+                "cDate": "20240305",
+                "crncy": "JPY",
+                "endRate": 150.42
+            },
+            {
+                "fundId": "1153",
+                "cDate": "20240305",
+                "crncy": "HKD",
+                "endRate": 7.824
+            },
+            {
+                "fundId": "1153",
+                "cDate": "20240305",
+                "crncy": "EUR",
+                "endRate": 0.922
+            },
+            {
+                "fundId": "1153",
+                "cDate": "20240305",
+                "crncy": "CNY",
+                "endRate": 7.199
+            },
+            {
+                "fundId": "1153",
+                "cDate": "20240305",
+                "crncy": "CNH",
+                "endRate": 7.2119
+            }
+        ],
+        "CouponRate": [],
+        "InvestArea": [],
+        "CreditRating": []
+    },
+    "FundWeights": {
+        "Summary": {
+            "code": "1153",
+            "name": null,
+            "stkvalues": 0,
+            "futvalues": 455999148.56,
+            "etfvalues": 0,
+            "bndvalues": 0,
+            "fundsize": 444377900
+        },
+        "StockWeights": [],
+        "FutureWeights": [
+            {
+                "code": "UB",
+                "ym": "202406",
+                "name": "美國超長期政府債券期貨",
+                "ename": "Ultra U.S. Treasury Bond Futures",
+                "weights": 102.62,
+                "qty": -111
+            }
+        ],
+        "ETFWeights": [],
+        "BondWeights": []
+    },
+    "Memo": null
+}

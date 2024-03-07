@@ -1,0 +1,284 @@
+{
+    "PCF": {
+        "fundid": "1161",
+        "fundname": "元大美國政府7至10年期債券基金",
+        "fullname": "元大美國政府7至10年期債券ETF傘型證券投資信託基金之元大美國政府7至10年期債券證券投資信託基金",
+        "ename": "Yuanta U.S. Treasury 7-10 Year Bond ETF",
+        "markcd": "00697B",
+        "trandate": "20240305",
+        "totalav": 1021667588,
+        "osunit": 28712000,
+        "nav": 35.5833,
+        "baseunit": 500000,
+        "estcvalue": 17791648,
+        "estdvalue": -834634,
+        "issuesdiff": 500000,
+        "cashdiff": 0,
+        "preallot": 18690000,
+        "allot": 17805366,
+        "anndate": "20240307",
+        "upddate": "2024-03-06 14:10:50",
+        "preunit": 28712000,
+        "predate": "20240306",
+        "allot_charge_fee": 0,
+        "redem_charge_fee": 0,
+        "Beneficiary": {
+            "doc_ym": "20240229",
+            "bf_cnt_a": 3685,
+            "upd_date": "2024-03-01T08:47:15"
+        }
+    },
+    "InKind": {
+        "FundComposition": null
+    },
+    "Cash": {
+        "TranDate": "20240305",
+        "CashPosition": [
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": 2.1316,
+                "amt": 21778167,
+                "trandate": "20240305"
+            },
+            {
+                "code": "1220",
+                "name": "應收利息",
+                "ename": "INTEREST RECEIVEABLES",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.0195,
+                "amt": 199062.56,
+                "trandate": "20240305"
+            },
+            {
+                "code": "3301",
+                "name": "應付申購預收款",
+                "ename": "PAYABLES",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": -0.0822,
+                "amt": -839634,
+                "trandate": "20240305"
+            }
+        ],
+        "MMF": [],
+        "Margin": [],
+        "RP": [],
+        "ForwardExchange": [],
+        "Currency": [
+            {
+                "fundId": "1161",
+                "cDate": "20240305",
+                "crncy": "NTD",
+                "endRate": 31.578
+            },
+            {
+                "fundId": "1161",
+                "cDate": "20240305",
+                "crncy": "KRW",
+                "endRate": 1335.36
+            },
+            {
+                "fundId": "1161",
+                "cDate": "20240305",
+                "crncy": "JPY",
+                "endRate": 150.42
+            },
+            {
+                "fundId": "1161",
+                "cDate": "20240305",
+                "crncy": "HKD",
+                "endRate": 7.824
+            },
+            {
+                "fundId": "1161",
+                "cDate": "20240305",
+                "crncy": "EUR",
+                "endRate": 0.922
+            },
+            {
+                "fundId": "1161",
+                "cDate": "20240305",
+                "crncy": "CNY",
+                "endRate": 7.199
+            },
+            {
+                "fundId": "1161",
+                "cDate": "20240305",
+                "crncy": "CNH",
+                "endRate": 7.2119
+            }
+        ],
+        "CouponRate": [
+            {
+                "ConstituentCount": 12,
+                "CurrentWeight": 100,
+                "YieldtoMaturity": 4.15,
+                "avgCouponRate": 2.86,
+                "EffectiveDuration": 7.31,
+                "YearstoMaturity": 8.55,
+                "avgOASWorst": 0
+            },
+            {
+                "ConstituentCount": 12,
+                "CurrentWeight": 99.68,
+                "YieldtoMaturity": 4.14,
+                "avgCouponRate": 3.04,
+                "EffectiveDuration": 7.34,
+                "YearstoMaturity": 8.66,
+                "avgOASWorst": 0
+            }
+        ],
+        "InvestArea": [
+            {
+                "TRAN_DATE": "20240305",
+                "FUND_ID": "1161",
+                "name": "美國",
+                "ename": "USA",
+                "HOLD_RTO": 99.07,
+                "CNT": 12
+            },
+            {
+                "TRAN_DATE": "20240305",
+                "FUND_ID": "1161",
+                "name": "現金",
+                "ename": "Cash",
+                "HOLD_RTO": 0.93,
+                "CNT": 0
+            }
+        ],
+        "CreditRating": [
+            {
+                "FUND_ID": "1161",
+                "NAV_DATE": "20240305",
+                "CREDIT_NAME": "AAA",
+                "CREDIT_RATIO": 92.65,
+                "CREDIT_COUNT": 11
+            },
+            {
+                "FUND_ID": "1161",
+                "NAV_DATE": "20240305",
+                "CREDIT_NAME": "AA",
+                "CREDIT_RATIO": 6.42,
+                "CREDIT_COUNT": 1
+            }
+        ]
+    },
+    "FundWeights": {
+        "Summary": {
+            "code": "1161",
+            "name": null,
+            "stkvalues": 0,
+            "futvalues": 0,
+            "etfvalues": 0,
+            "bndvalues": 1018429940.92,
+            "fundsize": 1021667588
+        },
+        "StockWeights": [],
+        "FutureWeights": [],
+        "ETFWeights": [],
+        "BondWeights": [
+            {
+                "code": "91282CJJ1",
+                "name": "US TREASURY N/B 4.5% 11/15/2033",
+                "ename": "US TREASURY N/B 4.5% 11/15/2033",
+                "weights": 10.33,
+                "FACE_AMT": 3210000,
+                "qty": 3343272
+            },
+            {
+                "code": "91282CHC8",
+                "name": "US TREASURY N/B 3.375% 05/15/2033",
+                "ename": "US TREASURY N/B 3.375% 05/15/2033",
+                "weights": 9.78,
+                "FACE_AMT": 3325000,
+                "qty": 3163932.73
+            },
+            {
+                "code": "91282CHT1",
+                "name": "US TREASURY N/B 3.875% 08/15/2033",
+                "ename": "US TREASURY N/B 3.875% 08/15/2033",
+                "weights": 9.78,
+                "FACE_AMT": 3225000,
+                "qty": 3162839.77
+            },
+            {
+                "code": "91282CFV8",
+                "name": "US TREASURY N/B 4.125% 11/15/2032",
+                "ename": "US TREASURY N/B 4.125% 11/15/2032",
+                "weights": 9.77,
+                "FACE_AMT": 3130000,
+                "qty": 3161788.7
+            },
+            {
+                "code": "91282CGM7",
+                "name": "US TREASURY N/B 3.5% 02/15/2033",
+                "ename": "US TREASURY N/B 3.5% 02/15/2033",
+                "weights": 9.75,
+                "FACE_AMT": 3308000,
+                "qty": 3154136.06
+            },
+            {
+                "code": "91282CFF3",
+                "name": "US TREASURY N/B 2.75% 08/15/2032",
+                "ename": "US TREASURY N/B 2.75% 08/15/2032",
+                "weights": 9.65,
+                "FACE_AMT": 3461000,
+                "qty": 3121616.65
+            },
+            {
+                "code": "91282CEP2",
+                "name": "US TREASURY N/B 2.875% 05/15/2032",
+                "ename": "US TREASURY N/B 2.875% 05/15/2032",
+                "weights": 9.63,
+                "FACE_AMT": 3385000,
+                "qty": 3114789.92
+            },
+            {
+                "code": "91282CDY4",
+                "name": "US TREASURY N/B 1.875% 02/15/2032",
+                "ename": "US TREASURY N/B 1.875% 02/15/2032",
+                "weights": 8.68,
+                "FACE_AMT": 3310000,
+                "qty": 2807212.76
+            },
+            {
+                "code": "91282CCB5",
+                "name": "US TREASURY N/B 1.625% 05/15/2031",
+                "ename": "US TREASURY N/B 1.625% 05/15/2031",
+                "weights": 7.54,
+                "FACE_AMT": 2870000,
+                "qty": 2439724.2
+            },
+            {
+                "code": "91282CJZ5",
+                "name": "US TREASURY N/B 4% 02/15/2034",
+                "ename": "US TREASURY N/B 4% 02/15/2034",
+                "weights": 6.43,
+                "FACE_AMT": 2100000,
+                "qty": 2081362.47
+            },
+            {
+                "code": "91282CDJ7",
+                "name": "US TREASURY N/B 1.375% 11/15/2031",
+                "ename": "US TREASURY N/B 1.375% 11/15/2031",
+                "weights": 5.16,
+                "FACE_AMT": 2030000,
+                "qty": 1670888.84
+            },
+            {
+                "code": "91282CCS8",
+                "name": "US TREASURY N/B 1.25% 08/15/2031",
+                "ename": "US TREASURY N/B 1.25% 08/15/2031",
+                "weights": 3.18,
+                "FACE_AMT": 1260000,
+                "qty": 1029684.9
+            }
+        ]
+    },
+    "Memo": null
+}

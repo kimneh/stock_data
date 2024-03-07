@@ -1,0 +1,697 @@
+{
+    "PCF": {
+        "fundid": "1174",
+        "fundname": "元大美國政府1至3年期債券ETF基金",
+        "fullname": "元大多元債券ETF傘型證券投資信託基金之元大美國政府1至3年期債券ETF證券投資信託基金",
+        "ename": "Yuanta U.S. Treasury 1-3 Year Bond ETF ",
+        "markcd": "00719B",
+        "trandate": "20240226",
+        "totalav": 12213678700,
+        "osunit": 394514000,
+        "nav": 30.9588,
+        "baseunit": 500000,
+        "estcvalue": 15479398,
+        "estdvalue": -445602,
+        "issuesdiff": 0,
+        "cashdiff": 0,
+        "preallot": 15950000,
+        "allot": 15484398,
+        "anndate": "20240229",
+        "upddate": "2024-02-27 14:10:47",
+        "preunit": 394514000,
+        "predate": "20240227",
+        "allot_charge_fee": 0,
+        "redem_charge_fee": 0,
+        "Beneficiary": {
+            "doc_ym": "20240131",
+            "bf_cnt_a": 5116,
+            "upd_date": "2024-02-01T08:41:13"
+        }
+    },
+    "InKind": {
+        "FundComposition": null
+    },
+    "Cash": {
+        "TranDate": "20240226",
+        "CashPosition": [
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": 0.6032,
+                "amt": 73668215,
+                "trandate": "20240226"
+            },
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.0128,
+                "amt": 1562343.14,
+                "trandate": "20240226"
+            },
+            {
+                "code": "1220",
+                "name": "應收利息",
+                "ename": "INTEREST RECEIVEABLES",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.0328,
+                "amt": 4007855.39,
+                "trandate": "20240226"
+            },
+            {
+                "code": "3300",
+                "name": "應付受益權單位買回款",
+                "ename": "PAYABLES FOR UNITS REDEEMED",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": -0.2534,
+                "amt": -30944108,
+                "trandate": "20240226"
+            }
+        ],
+        "MMF": [],
+        "Margin": [
+            {
+                "code": null,
+                "name": "保證金",
+                "ename": "Margin",
+                "crncy": "NTD",
+                "exrate": 1,
+                "rto": 0,
+                "amt": 274,
+                "trandate": "20240226"
+            }
+        ],
+        "RP": [],
+        "ForwardExchange": [],
+        "Currency": [
+            {
+                "fundId": "1174",
+                "cDate": "20240226",
+                "crncy": "NTD",
+                "endRate": 31.562
+            },
+            {
+                "fundId": "1174",
+                "cDate": "20240226",
+                "crncy": "KRW",
+                "endRate": 1331.13
+            },
+            {
+                "fundId": "1174",
+                "cDate": "20240226",
+                "crncy": "JPY",
+                "endRate": 150.45
+            },
+            {
+                "fundId": "1174",
+                "cDate": "20240226",
+                "crncy": "HKD",
+                "endRate": 7.8242
+            },
+            {
+                "fundId": "1174",
+                "cDate": "20240226",
+                "crncy": "EUR",
+                "endRate": 0.9232
+            },
+            {
+                "fundId": "1174",
+                "cDate": "20240226",
+                "crncy": "CNY",
+                "endRate": 7.1982
+            },
+            {
+                "fundId": "1174",
+                "cDate": "20240226",
+                "crncy": "CNH",
+                "endRate": 7.2074
+            }
+        ],
+        "CouponRate": [
+            {
+                "ConstituentCount": 96,
+                "CurrentWeight": 100,
+                "YieldtoMaturity": 4.75,
+                "avgCouponRate": 2.46,
+                "EffectiveDuration": 1.79,
+                "YearstoMaturity": 1.89,
+                "avgOASWorst": 0
+            },
+            {
+                "ConstituentCount": 61,
+                "CurrentWeight": 99.39,
+                "YieldtoMaturity": 4.71,
+                "avgCouponRate": 4.37,
+                "EffectiveDuration": 1.77,
+                "YearstoMaturity": 1.89,
+                "avgOASWorst": 0
+            }
+        ],
+        "InvestArea": [
+            {
+                "TRAN_DATE": "20240226",
+                "FUND_ID": "1174",
+                "name": "美國",
+                "ename": "USA",
+                "HOLD_RTO": 98.35,
+                "CNT": 61
+            },
+            {
+                "TRAN_DATE": "20240226",
+                "FUND_ID": "1174",
+                "name": "現金",
+                "ename": "Cash",
+                "HOLD_RTO": 1.65,
+                "CNT": 0
+            }
+        ],
+        "CreditRating": [
+            {
+                "FUND_ID": "1174",
+                "NAV_DATE": "20240226",
+                "CREDIT_NAME": "AAA",
+                "CREDIT_RATIO": 94.17,
+                "CREDIT_COUNT": 59
+            },
+            {
+                "FUND_ID": "1174",
+                "NAV_DATE": "20240226",
+                "CREDIT_NAME": "AA",
+                "CREDIT_RATIO": 4.18,
+                "CREDIT_COUNT": 2
+            }
+        ]
+    },
+    "FundWeights": {
+        "Summary": {
+            "code": "1174",
+            "name": null,
+            "stkvalues": 0,
+            "futvalues": 0,
+            "etfvalues": 0,
+            "bndvalues": 12139121630.82,
+            "fundsize": 12213678700
+        },
+        "StockWeights": [],
+        "FutureWeights": [],
+        "ETFWeights": [],
+        "BondWeights": [
+            {
+                "code": "91282CJP7",
+                "name": "US TREASURY N/B 4.375% 12/15/2026",
+                "ename": "US TREASURY N/B 4.375% 12/15/2026",
+                "weights": 3.38,
+                "FACE_AMT": 13000000,
+                "qty": 13069289.98
+            },
+            {
+                "code": "91282CJS1",
+                "name": "US TREASURY N/B 4.25% 12/31/2025",
+                "ename": "US TREASURY N/B 4.25% 12/31/2025",
+                "weights": 3.35,
+                "FACE_AMT": 13000000,
+                "qty": 12972254.46
+            },
+            {
+                "code": "91282CJB8",
+                "name": "US TREASURY N/B 5% 09/30/2025",
+                "ename": "US TREASURY N/B 5% 09/30/2025",
+                "weights": 3.28,
+                "FACE_AMT": 12400000,
+                "qty": 12681223.36
+            },
+            {
+                "code": "91282CHB0",
+                "name": "US TREASURY N/B 3.625% 05/15/2026",
+                "ename": "US TREASURY N/B 3.625% 05/15/2026",
+                "weights": 3.18,
+                "FACE_AMT": 12430000,
+                "qty": 12297515.01
+            },
+            {
+                "code": "91282CHU8",
+                "name": "US TREASURY N/B 4.375% 08/15/2026",
+                "ename": "US TREASURY N/B 4.375% 08/15/2026",
+                "weights": 3.18,
+                "FACE_AMT": 12330000,
+                "qty": 12289505.04
+            },
+            {
+                "code": "91282CFW6",
+                "name": "US TREASURY N/B 4.5% 11/15/2025",
+                "ename": "US TREASURY N/B 4.5% 11/15/2025",
+                "weights": 3.17,
+                "FACE_AMT": 12180000,
+                "qty": 12276175.75
+            },
+            {
+                "code": "91282CHY0",
+                "name": "US TREASURY N/B 4.625% 09/15/2026",
+                "ename": "US TREASURY N/B 4.625% 09/15/2026",
+                "weights": 3.17,
+                "FACE_AMT": 12000000,
+                "qty": 12269860.47
+            },
+            {
+                "code": "91282CGR6",
+                "name": "US TREASURY N/B 4.625% 03/15/2026",
+                "ename": "US TREASURY N/B 4.625% 03/15/2026",
+                "weights": 3.16,
+                "FACE_AMT": 12000000,
+                "qty": 12235642.11
+            },
+            {
+                "code": "91282CJE2",
+                "name": "US TREASURY N/B 5% 10/31/2025",
+                "ename": "US TREASURY N/B 5% 10/31/2025",
+                "weights": 3.16,
+                "FACE_AMT": 12000000,
+                "qty": 12230371.85
+            },
+            {
+                "code": "91282CJC6",
+                "name": "US TREASURY N/B 4.625% 10/15/2026",
+                "ename": "US TREASURY N/B 4.625% 10/15/2026",
+                "weights": 3.16,
+                "FACE_AMT": 12000000,
+                "qty": 12227213.11
+            },
+            {
+                "code": "91282CJK8",
+                "name": "US TREASURY N/B 4.625% 11/15/2026",
+                "ename": "US TREASURY N/B 4.625% 11/15/2026",
+                "weights": 3.15,
+                "FACE_AMT": 12000000,
+                "qty": 12186695.83
+            },
+            {
+                "code": "91282CJL6",
+                "name": "US TREASURY N/B 4.875% 11/30/2025",
+                "ename": "US TREASURY N/B 4.875% 11/30/2025",
+                "weights": 3.14,
+                "FACE_AMT": 12000000,
+                "qty": 12159128.5
+            },
+            {
+                "code": "91282CHL8",
+                "name": "US TREASURY N/B 4.625% 06/30/2025",
+                "ename": "US TREASURY N/B 4.625% 06/30/2025",
+                "weights": 3.11,
+                "FACE_AMT": 12000000,
+                "qty": 12043434.07
+            },
+            {
+                "code": "91282CHD6",
+                "name": "US TREASURY N/B 4.25% 05/31/2025",
+                "ename": "US TREASURY N/B 4.25% 05/31/2025",
+                "weights": 3.11,
+                "FACE_AMT": 12000000,
+                "qty": 12020422.55
+            },
+            {
+                "code": "91282CGX3",
+                "name": "US TREASURY N/B 3.875% 04/30/2025",
+                "ename": "US TREASURY N/B 3.875% 04/30/2025",
+                "weights": 3.1,
+                "FACE_AMT": 11980000,
+                "qty": 11982015.87
+            },
+            {
+                "code": "91282CHH7",
+                "name": "US TREASURY N/B 4.125% 06/15/2026",
+                "ename": "US TREASURY N/B 4.125% 06/15/2026",
+                "weights": 3.09,
+                "FACE_AMT": 12000000,
+                "qty": 11972581.97
+            },
+            {
+                "code": "91282CGV7",
+                "name": "US TREASURY N/B 3.75% 04/15/2026",
+                "ename": "US TREASURY N/B 3.75% 04/15/2026",
+                "weights": 3.09,
+                "FACE_AMT": 12000000,
+                "qty": 11945202.33
+            },
+            {
+                "code": "91282CGL9",
+                "name": "US TREASURY N/B 4% 02/15/2026",
+                "ename": "US TREASURY N/B 4% 02/15/2026",
+                "weights": 3.06,
+                "FACE_AMT": 12000000,
+                "qty": 11856917.9
+            },
+            {
+                "code": "91282CHM6",
+                "name": "US TREASURY N/B 4.5% 07/15/2026",
+                "ename": "US TREASURY N/B 4.5% 07/15/2026",
+                "weights": 3.05,
+                "FACE_AMT": 11780000,
+                "qty": 11815932.58
+            },
+            {
+                "code": "91282CHN4",
+                "name": "US TREASURY N/B 4.75% 07/31/2025",
+                "ename": "US TREASURY N/B 4.75% 07/31/2025",
+                "weights": 3,
+                "FACE_AMT": 11590000,
+                "qty": 11608198.87
+            },
+            {
+                "code": "91282CFP1",
+                "name": "US TREASURY N/B 4.25% 10/15/2025",
+                "ename": "US TREASURY N/B 4.25% 10/15/2025",
+                "weights": 2.86,
+                "FACE_AMT": 11000000,
+                "qty": 11071891.59
+            },
+            {
+                "code": "91282CGA3",
+                "name": "US TREASURY N/B 4% 12/15/2025",
+                "ename": "US TREASURY N/B 4% 12/15/2025",
+                "weights": 2.78,
+                "FACE_AMT": 10800000,
+                "qty": 10743062.96
+            },
+            {
+                "code": "912810EY0",
+                "name": "US TREASURY N/B 6.5% 11/15/2026",
+                "ename": "US TREASURY N/B 6.5% 11/15/2026",
+                "weights": 2.69,
+                "FACE_AMT": 9720000,
+                "qty": 10392589.29
+            },
+            {
+                "code": "91282CHV6",
+                "name": "US TREASURY N/B 5% 08/31/2025",
+                "ename": "US TREASURY N/B 5% 08/31/2025",
+                "weights": 2.43,
+                "FACE_AMT": 9180000,
+                "qty": 9422755.69
+            },
+            {
+                "code": "91282CGU9",
+                "name": "US TREASURY N/B 3.875% 03/31/2025",
+                "ename": "US TREASURY N/B 3.875% 03/31/2025",
+                "weights": 2.39,
+                "FACE_AMT": 9200000,
+                "qty": 9236856.56
+            },
+            {
+                "code": "912810EX2",
+                "name": "US TREASURY N/B 6.75% 08/15/2026",
+                "ename": "US TREASURY N/B 6.75% 08/15/2026",
+                "weights": 2.32,
+                "FACE_AMT": 8540000,
+                "qty": 8980666.35
+            },
+            {
+                "code": "912810EW4",
+                "name": "US TREASURY N/B 6% 02/15/2026",
+                "ename": "US TREASURY N/B 6% 02/15/2026",
+                "weights": 2.31,
+                "FACE_AMT": 8700000,
+                "qty": 8929271.29
+            },
+            {
+                "code": "912810EV6",
+                "name": "US TREASURY N/B 6.875% 08/15/2025",
+                "ename": "US TREASURY N/B 6.875% 08/15/2025",
+                "weights": 2.16,
+                "FACE_AMT": 8080000,
+                "qty": 8342606.33
+            },
+            {
+                "code": "91282CEY3",
+                "name": "US TREASURY N/B 3% 07/15/2025",
+                "ename": "US TREASURY N/B 3% 07/15/2025",
+                "weights": 1.85,
+                "FACE_AMT": 7300000,
+                "qty": 7143370.88
+            },
+            {
+                "code": "91282CFE6",
+                "name": "US TREASURY N/B 3.125% 08/15/2025",
+                "ename": "US TREASURY N/B 3.125% 08/15/2025",
+                "weights": 1.61,
+                "FACE_AMT": 6370000,
+                "qty": 6221542.56
+            },
+            {
+                "code": "91282CGE5",
+                "name": "US TREASURY N/B 3.875% 01/15/2026",
+                "ename": "US TREASURY N/B 3.875% 01/15/2026",
+                "weights": 1.38,
+                "FACE_AMT": 5400000,
+                "qty": 5341187.84
+            },
+            {
+                "code": "9128285J5",
+                "name": "US TREASURY N/B 3% 10/31/2025",
+                "ename": "US TREASURY N/B 3% 10/31/2025",
+                "weights": 1.24,
+                "FACE_AMT": 4900000,
+                "qty": 4806034.23
+            },
+            {
+                "code": "91282CFK2",
+                "name": "US TREASURY N/B 3.5% 09/15/2025",
+                "ename": "US TREASURY N/B 3.5% 09/15/2025",
+                "weights": 1.13,
+                "FACE_AMT": 4390000,
+                "qty": 4371334.58
+            },
+            {
+                "code": "91282CJV4",
+                "name": "US TREASURY N/B 4.25% 01/31/2026",
+                "ename": "US TREASURY N/B 4.25% 01/31/2026",
+                "weights": 1.05,
+                "FACE_AMT": 4080000,
+                "qty": 4057834.62
+            },
+            {
+                "code": "91282CJT9",
+                "name": "US TREASURY N/B 4% 01/15/2027",
+                "ename": "US TREASURY N/B 4% 01/15/2027",
+                "weights": 0.95,
+                "FACE_AMT": 3700000,
+                "qty": 3668075.78
+            },
+            {
+                "code": "9128284R8",
+                "name": "US TREASURY N/B 2.875% 05/31/2025",
+                "ename": "US TREASURY N/B 2.875% 05/31/2025",
+                "weights": 0.76,
+                "FACE_AMT": 3000000,
+                "qty": 2945856.15
+            },
+            {
+                "code": "9128285C0",
+                "name": "US TREASURY N/B 3% 09/30/2025",
+                "ename": "US TREASURY N/B 3% 09/30/2025",
+                "weights": 0.74,
+                "FACE_AMT": 2900000,
+                "qty": 2854772.91
+            },
+            {
+                "code": "91282CEU1",
+                "name": "US TREASURY N/B 2.875% 06/15/2025",
+                "ename": "US TREASURY N/B 2.875% 06/15/2025",
+                "weights": 0.63,
+                "FACE_AMT": 2500000,
+                "qty": 2450371.93
+            },
+            {
+                "code": "912828Y79",
+                "name": "US TREASURY N/B 2.875% 07/31/2025",
+                "ename": "US TREASURY N/B 2.875% 07/31/2025",
+                "weights": 0.63,
+                "FACE_AMT": 2500000,
+                "qty": 2436679.04
+            },
+            {
+                "code": "9128285N6",
+                "name": "US TREASURY N/B 2.875% 11/30/2025",
+                "ename": "US TREASURY N/B 2.875% 11/30/2025",
+                "weights": 0.6,
+                "FACE_AMT": 2400000,
+                "qty": 2339809.92
+            },
+            {
+                "code": "9128285T3",
+                "name": "US TREASURY N/B 2.625% 12/31/2025",
+                "ename": "US TREASURY N/B 2.625% 12/31/2025",
+                "weights": 0.5,
+                "FACE_AMT": 2000000,
+                "qty": 1934224.74
+            },
+            {
+                "code": "9128284Z0",
+                "name": "US TREASURY N/B 2.75% 08/31/2025",
+                "ename": "US TREASURY N/B 2.75% 08/31/2025",
+                "weights": 0.43,
+                "FACE_AMT": 1700000,
+                "qty": 1671055.63
+            },
+            {
+                "code": "91282CEQ0",
+                "name": "US TREASURY N/B 2.75% 05/15/2025",
+                "ename": "US TREASURY N/B 2.75% 05/15/2025",
+                "weights": 0.38,
+                "FACE_AMT": 1500000,
+                "qty": 1472879.46
+            },
+            {
+                "code": "912828XB1",
+                "name": "US TREASURY N/B 2.125% 05/15/2025",
+                "ename": "US TREASURY N/B 2.125% 05/15/2025",
+                "weights": 0.36,
+                "FACE_AMT": 1415000,
+                "qty": 1376719.2
+            },
+            {
+                "code": "91282CGN5",
+                "name": "US TREASURY N/B 4.625% 02/28/2025",
+                "ename": "US TREASURY N/B 4.625% 02/28/2025",
+                "weights": 0.26,
+                "FACE_AMT": 1000000,
+                "qty": 1018730.25
+            },
+            {
+                "code": "9128284F4",
+                "name": "US TREASURY N/B 2.625% 03/31/2025",
+                "ename": "US TREASURY N/B 2.625% 03/31/2025",
+                "weights": 0.25,
+                "FACE_AMT": 1000000,
+                "qty": 985719.13
+            },
+            {
+                "code": "9128284M9",
+                "name": "US TREASURY N/B 2.875% 04/30/2025",
+                "ename": "US TREASURY N/B 2.875% 04/30/2025",
+                "weights": 0.25,
+                "FACE_AMT": 1000000,
+                "qty": 985492.79
+            },
+            {
+                "code": "912828XZ8",
+                "name": "US TREASURY N/B 2.75% 06/30/2025",
+                "ename": "US TREASURY N/B 2.75% 06/30/2025",
+                "weights": 0.25,
+                "FACE_AMT": 1000000,
+                "qty": 976803.74
+            },
+            {
+                "code": "9128286F2",
+                "name": "US TREASURY N/B 2.5% 02/28/2026",
+                "ename": "US TREASURY N/B 2.5% 02/28/2026",
+                "weights": 0.25,
+                "FACE_AMT": 1000000,
+                "qty": 970643.89
+            },
+            {
+                "code": "912810ET1",
+                "name": "US TREASURY N/B 7.625% 02/15/2025",
+                "ename": "US TREASURY N/B 7.625% 02/15/2025",
+                "weights": 0.21,
+                "FACE_AMT": 800000,
+                "qty": 824479.71
+            },
+            {
+                "code": "912828M56",
+                "name": "US TREASURY N/B 2.25% 11/15/2025",
+                "ename": "US TREASURY N/B 2.25% 11/15/2025",
+                "weights": 0.12,
+                "FACE_AMT": 500000,
+                "qty": 482472.1
+            },
+            {
+                "code": "9128286A3",
+                "name": "US TREASURY N/B 2.625% 01/31/2026",
+                "ename": "US TREASURY N/B 2.625% 01/31/2026",
+                "weights": 0.1,
+                "FACE_AMT": 400000,
+                "qty": 385513.22
+            },
+            {
+                "code": "91282CEH0",
+                "name": "US TREASURY N/B 2.625% 04/15/2025",
+                "ename": "US TREASURY N/B 2.625% 04/15/2025",
+                "weights": 0.08,
+                "FACE_AMT": 300000,
+                "qty": 295135.18
+            },
+            {
+                "code": "912828K74",
+                "name": "US TREASURY N/B 2% 08/15/2025",
+                "ename": "US TREASURY N/B 2% 08/15/2025",
+                "weights": 0.07,
+                "FACE_AMT": 300000,
+                "qty": 288127.49
+            },
+            {
+                "code": "912828ZC7",
+                "name": "US TREASURY N/B 1.125% 02/28/2025",
+                "ename": "US TREASURY N/B 1.125% 02/28/2025",
+                "weights": 0.05,
+                "FACE_AMT": 200000,
+                "qty": 193472.01
+            },
+            {
+                "code": "91282CDZ1",
+                "name": "US TREASURY N/B 1.5% 02/15/2025",
+                "ename": "US TREASURY N/B 1.5% 02/15/2025",
+                "weights": 0.05,
+                "FACE_AMT": 200000,
+                "qty": 193317.65
+            },
+            {
+                "code": "912828Z78",
+                "name": "US TREASURY N/B 1.5% 01/31/2027",
+                "ename": "US TREASURY N/B 1.5% 01/31/2027",
+                "weights": 0.05,
+                "FACE_AMT": 200000,
+                "qty": 183988.15
+            },
+            {
+                "code": "91282CDQ1",
+                "name": "US TREASURY N/B 1.25% 12/31/2026",
+                "ename": "US TREASURY N/B 1.25% 12/31/2026",
+                "weights": 0.05,
+                "FACE_AMT": 200000,
+                "qty": 183296.79
+            },
+            {
+                "code": "9128283Z1",
+                "name": "US TREASURY N/B 2.75% 02/28/2025",
+                "ename": "US TREASURY N/B 2.75% 02/28/2025",
+                "weights": 0.03,
+                "FACE_AMT": 100000,
+                "qty": 99121.61
+            },
+            {
+                "code": "91282CED9",
+                "name": "US TREASURY N/B 1.75% 03/15/2025",
+                "ename": "US TREASURY N/B 1.75% 03/15/2025",
+                "weights": 0.03,
+                "FACE_AMT": 100000,
+                "qty": 97433.9
+            },
+            {
+                "code": "912828J27",
+                "name": "US TREASURY N/B 2% 02/15/2025",
+                "ename": "US TREASURY N/B 2% 02/15/2025",
+                "weights": 0.03,
+                "FACE_AMT": 100000,
+                "qty": 97147.96
+            }
+        ]
+    },
+    "Memo": null
+}

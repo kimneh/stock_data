@@ -1,0 +1,197 @@
+{
+    "PCF": {
+        "fundid": "2011",
+        "fundname": "元大標普美元ER單日反向1倍指數股票型期貨信託基金",
+        "fullname": "元大標普美元指數傘型期貨信託基金之元大標普美元ER單日反向1倍指數股票型期貨信託基金",
+        "ename": "Yuanta S&P US Dollar 1x Inverse ER Futures ETF",
+        "markcd": "00684R",
+        "trandate": "20240301",
+        "totalav": 112433080,
+        "osunit": 7188000,
+        "nav": 15.64,
+        "baseunit": 500000,
+        "estcvalue": 7820888,
+        "estdvalue": -402112,
+        "issuesdiff": 0,
+        "cashdiff": 0,
+        "preallot": 8220000,
+        "allot": 7827888,
+        "anndate": "20240305",
+        "upddate": "2024-03-04 14:07:31",
+        "preunit": 7188000,
+        "predate": "20240304",
+        "allot_charge_fee": 2000,
+        "redem_charge_fee": 2000,
+        "Beneficiary": {
+            "doc_ym": "20240229",
+            "bf_cnt_a": 111,
+            "upd_date": "2024-03-01T08:47:15"
+        }
+    },
+    "InKind": {
+        "FundComposition": null
+    },
+    "Cash": {
+        "TranDate": "20240301",
+        "CashPosition": [
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": 45.0362,
+                "amt": 50635562,
+                "trandate": "20240301"
+            },
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.0007,
+                "amt": 786.91,
+                "trandate": "20240301"
+            },
+            {
+                "code": "1200",
+                "name": "附買回債券",
+                "ename": "RP",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": 9.0067,
+                "amt": 10126474,
+                "trandate": "20240301"
+            },
+            {
+                "code": "1220",
+                "name": "應收利息",
+                "ename": "INTEREST RECEIVEABLES",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": 0.0976,
+                "amt": 109736,
+                "trandate": "20240301"
+            },
+            {
+                "code": "1220",
+                "name": "應收利息",
+                "ename": "INTEREST RECEIVEABLES",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.0003,
+                "amt": 364.66,
+                "trandate": "20240301"
+            }
+        ],
+        "MMF": [],
+        "Margin": [
+            {
+                "code": null,
+                "name": "保證金",
+                "ename": "Margin",
+                "crncy": "NTD",
+                "exrate": 1,
+                "rto": 0,
+                "amt": 46346584,
+                "trandate": "20240301"
+            },
+            {
+                "code": null,
+                "name": "保證金",
+                "ename": "Margin",
+                "crncy": "USD",
+                "exrate": 31.613,
+                "rto": 0,
+                "amt": 169966.77,
+                "trandate": "20240301"
+            }
+        ],
+        "RP": [
+            {
+                "code": "HB0802",
+                "name": "108年度甲類第2期中央政府建設公債",
+                "ename": "Central Government Bond HB0802",
+                "crncy": null,
+                "exrate": 0,
+                "rto": 0,
+                "amt": 10126474,
+                "trandate": "20240301"
+            }
+        ],
+        "ForwardExchange": [],
+        "Currency": [
+            {
+                "fundId": "2011",
+                "cDate": "20240301",
+                "crncy": "NTD",
+                "endRate": 31.613
+            },
+            {
+                "fundId": "2011",
+                "cDate": "20240301",
+                "crncy": "KRW",
+                "endRate": 1335.04
+            },
+            {
+                "fundId": "2011",
+                "cDate": "20240301",
+                "crncy": "JPY",
+                "endRate": 150.5
+            },
+            {
+                "fundId": "2011",
+                "cDate": "20240301",
+                "crncy": "HKD",
+                "endRate": 7.8284
+            },
+            {
+                "fundId": "2011",
+                "cDate": "20240301",
+                "crncy": "EUR",
+                "endRate": 0.9248
+            },
+            {
+                "fundId": "2011",
+                "cDate": "20240301",
+                "crncy": "CNY",
+                "endRate": 7.1984
+            },
+            {
+                "fundId": "2011",
+                "cDate": "20240301",
+                "crncy": "CNH",
+                "endRate": 7.2124
+            }
+        ],
+        "CouponRate": [],
+        "InvestArea": [],
+        "CreditRating": []
+    },
+    "FundWeights": {
+        "Summary": {
+            "code": "2011",
+            "name": null,
+            "stkvalues": 0,
+            "futvalues": 111567524.76,
+            "etfvalues": 0,
+            "bndvalues": 0,
+            "fundsize": 112433080
+        },
+        "StockWeights": [],
+        "FutureWeights": [
+            {
+                "code": "DX",
+                "ym": "202403",
+                "name": "美元指數期貨",
+                "ename": "U.S.Dollar",
+                "weights": 99.23,
+                "qty": -34
+            }
+        ],
+        "ETFWeights": [],
+        "BondWeights": []
+    },
+    "Memo": null
+}

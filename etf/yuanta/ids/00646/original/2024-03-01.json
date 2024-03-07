@@ -1,0 +1,4228 @@
+{
+    "PCF": {
+        "fundid": "1129",
+        "fundname": "元大標普500基金",
+        "fullname": "元大標普500傘型證券投資信託基金之標普500證券投資信託基金",
+        "ename": "Yuanta S&P 500 ETF",
+        "markcd": "00646",
+        "trandate": "20240227",
+        "totalav": 17558534352,
+        "osunit": 351985000,
+        "nav": 49.88,
+        "baseunit": 500000,
+        "estcvalue": 24942163,
+        "estdvalue": -2502883,
+        "issuesdiff": 1500000,
+        "cashdiff": 0,
+        "preallot": 27450000,
+        "allot": 24967117,
+        "anndate": "20240301",
+        "upddate": "2024-02-29 14:13:29",
+        "preunit": 353985000,
+        "predate": "20240229",
+        "allot_charge_fee": 0,
+        "redem_charge_fee": 0,
+        "Beneficiary": {
+            "doc_ym": "20240131",
+            "bf_cnt_a": 27946,
+            "upd_date": "2024-02-01T08:41:13"
+        }
+    },
+    "InKind": {
+        "FundComposition": null
+    },
+    "Cash": {
+        "TranDate": "20240227",
+        "CashPosition": [
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": 2.8295,
+                "amt": 496822900,
+                "trandate": "20240227"
+            },
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.0658,
+                "amt": 11550407.83,
+                "trandate": "20240227"
+            },
+            {
+                "code": "1210",
+                "name": "應收股利",
+                "ename": "DIVIDENDS RECEIVABLES",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.0024,
+                "amt": 413707.83,
+                "trandate": "20240227"
+            },
+            {
+                "code": "3300",
+                "name": "應付受益權單位買回款",
+                "ename": "PAYABLES FOR UNITS REDEEMED",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": -1.8083,
+                "amt": -317515731,
+                "trandate": "20240227"
+            },
+            {
+                "code": "3301",
+                "name": "應付申購預收款",
+                "ename": "PAYABLES",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": -0.0571,
+                "amt": -10031532,
+                "trandate": "20240227"
+            }
+        ],
+        "MMF": [],
+        "Margin": [
+            {
+                "code": null,
+                "name": "保證金",
+                "ename": "Margin",
+                "crncy": "NTD",
+                "exrate": 1,
+                "rto": 0,
+                "amt": 46829,
+                "trandate": "20240227"
+            },
+            {
+                "code": null,
+                "name": "保證金",
+                "ename": "Margin",
+                "crncy": "USD",
+                "exrate": 31.601,
+                "rto": 0,
+                "amt": 6155149.5,
+                "trandate": "20240227"
+            }
+        ],
+        "RP": [],
+        "ForwardExchange": [],
+        "Currency": [
+            {
+                "fundId": "1129",
+                "cDate": "20240227",
+                "crncy": "NTD",
+                "endRate": 31.601
+            },
+            {
+                "fundId": "1129",
+                "cDate": "20240227",
+                "crncy": "KRW",
+                "endRate": 1330.4
+            },
+            {
+                "fundId": "1129",
+                "cDate": "20240227",
+                "crncy": "JPY",
+                "endRate": 150.35
+            },
+            {
+                "fundId": "1129",
+                "cDate": "20240227",
+                "crncy": "HKD",
+                "endRate": 7.8237
+            },
+            {
+                "fundId": "1129",
+                "cDate": "20240227",
+                "crncy": "EUR",
+                "endRate": 0.9211
+            },
+            {
+                "fundId": "1129",
+                "cDate": "20240227",
+                "crncy": "CNY",
+                "endRate": 7.1984
+            },
+            {
+                "fundId": "1129",
+                "cDate": "20240227",
+                "crncy": "CNH",
+                "endRate": 7.2109
+            }
+        ],
+        "CouponRate": [],
+        "InvestArea": [
+            {
+                "TRAN_DATE": "20240227",
+                "FUND_ID": "1129",
+                "name": "美國",
+                "ename": "USA",
+                "HOLD_RTO": 97.22,
+                "CNT": 503
+            },
+            {
+                "TRAN_DATE": "20240227",
+                "FUND_ID": "1129",
+                "name": "現金",
+                "ename": "Cash",
+                "HOLD_RTO": 2.78,
+                "CNT": 0
+            }
+        ],
+        "CreditRating": []
+    },
+    "FundWeights": {
+        "Summary": {
+            "code": "1129",
+            "name": null,
+            "stkvalues": 17070754623,
+            "futvalues": 474504815.5,
+            "etfvalues": 0,
+            "bndvalues": 0,
+            "fundsize": 17558534352
+        },
+        "StockWeights": [
+            {
+                "code": "MSFT UQ",
+                "ym": null,
+                "name": "MICROSOFT CORP",
+                "ename": "Microsoft Corp",
+                "weights": 6.93,
+                "qty": 94488
+            },
+            {
+                "code": "AAPL UQ",
+                "ym": null,
+                "name": "APPLE INC",
+                "ename": "Apple Inc",
+                "weights": 6.11,
+                "qty": 185861
+            },
+            {
+                "code": "NVDA UQ",
+                "ym": null,
+                "name": "NVIDIA CORP",
+                "ename": "NVIDIA Corp",
+                "weights": 4.45,
+                "qty": 31402
+            },
+            {
+                "code": "AMZN UQ",
+                "ym": null,
+                "name": "AMAZON.COM INC",
+                "ename": "Amazon.com Inc",
+                "weights": 3.61,
+                "qty": 115613
+            },
+            {
+                "code": "META UQ",
+                "ym": null,
+                "name": "META PLATFORMS INC-CLASS A",
+                "ename": "Meta Platforms Inc",
+                "weights": 2.47,
+                "qty": 28218
+            },
+            {
+                "code": "GOOGL UQ",
+                "ym": null,
+                "name": "ALPHABET INC-CL A",
+                "ename": "Alphabet Inc",
+                "weights": 1.88,
+                "qty": 75237
+            },
+            {
+                "code": "BRK/B UN",
+                "ym": null,
+                "name": "BERKSHIRE HATHAWAY INC-CL B",
+                "ename": "Berkshire Hathaway Inc",
+                "weights": 1.7,
+                "qty": 23131
+            },
+            {
+                "code": "GOOG UQ",
+                "ym": null,
+                "name": "ALPHABET INC-CL C",
+                "ename": "Alphabet Inc",
+                "weights": 1.6,
+                "qty": 63321
+            },
+            {
+                "code": "LLY UN",
+                "ym": null,
+                "name": "ELI LILLY & CO",
+                "ename": "Eli Lilly & Co",
+                "weights": 1.4,
+                "qty": 10138
+            },
+            {
+                "code": "AVGO UQ",
+                "ym": null,
+                "name": "BROADCOM INC",
+                "ename": "Broadcom Inc",
+                "weights": 1.3,
+                "qty": 5580
+            },
+            {
+                "code": "TSLA UQ",
+                "ym": null,
+                "name": "TESLA INC",
+                "ename": "Tesla Inc",
+                "weights": 1.26,
+                "qty": 35160
+            },
+            {
+                "code": "JPM UN",
+                "ym": null,
+                "name": "JPMORGAN CHASE & CO",
+                "ename": "JPMorgan Chase & Co",
+                "weights": 1.21,
+                "qty": 36754
+            },
+            {
+                "code": "UNH UN",
+                "ym": null,
+                "name": "UNITEDHEALTH GROUP INC",
+                "ename": "UnitedHealth Group Inc",
+                "weights": 1.09,
+                "qty": 11759
+            },
+            {
+                "code": "V UN",
+                "ym": null,
+                "name": "VISA INC-CLASS A SHARES",
+                "ename": "Visa Inc",
+                "weights": 1.03,
+                "qty": 20265
+            },
+            {
+                "code": "XOM UN",
+                "ym": null,
+                "name": "EXXON MOBIL CORP",
+                "ename": "Exxon Mobil Corp",
+                "weights": 0.95,
+                "qty": 50925
+            },
+            {
+                "code": "MA UN",
+                "ym": null,
+                "name": "MASTERCARD INC - A",
+                "ename": "Mastercard Inc",
+                "weights": 0.9,
+                "qty": 10528
+            },
+            {
+                "code": "JNJ UN",
+                "ym": null,
+                "name": "JOHNSON & JOHNSON",
+                "ename": "Johnson & Johnson",
+                "weights": 0.89,
+                "qty": 30604
+            },
+            {
+                "code": "HD UN",
+                "ym": null,
+                "name": "HOME DEPOT INC",
+                "ename": "Home Depot Inc/The",
+                "weights": 0.86,
+                "qty": 12714
+            },
+            {
+                "code": "PG UN",
+                "ym": null,
+                "name": "PROCTER & GAMBLE CO/THE",
+                "ename": "Procter & Gamble Co/The",
+                "weights": 0.86,
+                "qty": 29964
+            },
+            {
+                "code": "COST UQ",
+                "ym": null,
+                "name": "COSTCO WHOLESALE CORP",
+                "ename": "Costco Wholesale Corp",
+                "weights": 0.75,
+                "qty": 5629
+            },
+            {
+                "code": "MRK UN",
+                "ym": null,
+                "name": "MERCK & CO. INC.",
+                "ename": "Merck & Co Inc",
+                "weights": 0.75,
+                "qty": 32215
+            },
+            {
+                "code": "ABBV UN",
+                "ym": null,
+                "name": "ABBVIE INC",
+                "ename": "AbbVie Inc",
+                "weights": 0.72,
+                "qty": 22446
+            },
+            {
+                "code": "CRM UN",
+                "ym": null,
+                "name": "SALESFORCE INC",
+                "ename": "Salesforce Inc",
+                "weights": 0.67,
+                "qty": 12370
+            },
+            {
+                "code": "AMD UQ",
+                "ym": null,
+                "name": "ADVANCED MICRO DEVICES",
+                "ename": "Advanced Micro Devices Inc",
+                "weights": 0.66,
+                "qty": 20540
+            },
+            {
+                "code": "CVX UN",
+                "ym": null,
+                "name": "CHEVRON CORP",
+                "ename": "Chevron Corp",
+                "weights": 0.61,
+                "qty": 22319
+            },
+            {
+                "code": "NFLX UQ",
+                "ym": null,
+                "name": "NETFLIX INC",
+                "ename": "Netflix Inc",
+                "weights": 0.6,
+                "qty": 5564
+            },
+            {
+                "code": "ADBE UQ",
+                "ym": null,
+                "name": "ADOBE INC",
+                "ename": "Adobe Inc",
+                "weights": 0.58,
+                "qty": 5788
+            },
+            {
+                "code": "WMT UN",
+                "ym": null,
+                "name": "WALMART INC",
+                "ename": "Walmart Inc",
+                "weights": 0.56,
+                "qty": 51771
+            },
+            {
+                "code": "ACN UN",
+                "ym": null,
+                "name": "ACCENTURE PLC-CL A",
+                "ename": "Accenture PLC",
+                "weights": 0.54,
+                "qty": 7979
+            },
+            {
+                "code": "BAC UN",
+                "ym": null,
+                "name": "BANK OF AMERICA CORP",
+                "ename": "Bank of America Corp",
+                "weights": 0.54,
+                "qty": 87530
+            },
+            {
+                "code": "KO UN",
+                "ym": null,
+                "name": "COCA-COLA CO/THE",
+                "ename": "Coca-Cola Co/The",
+                "weights": 0.54,
+                "qty": 49468
+            },
+            {
+                "code": "PEP UQ",
+                "ym": null,
+                "name": "PEPSICO INC",
+                "ename": "PepsiCo Inc",
+                "weights": 0.53,
+                "qty": 17479
+            },
+            {
+                "code": "TMO UN",
+                "ym": null,
+                "name": "THERMO FISHER SCIENTIFIC INC",
+                "ename": "Thermo Fisher Scientific Inc",
+                "weights": 0.5,
+                "qty": 4912
+            },
+            {
+                "code": "LIN UQ",
+                "ym": null,
+                "name": "LINDE PLC",
+                "ename": "Linde PLC",
+                "weights": 0.49,
+                "qty": 6164
+            },
+            {
+                "code": "MCD UN",
+                "ym": null,
+                "name": "MCDONALD`S CORP",
+                "ename": "McDonald`s Corp",
+                "weights": 0.49,
+                "qty": 9221
+            },
+            {
+                "code": "ABT UN",
+                "ym": null,
+                "name": "ABBOTT LABORATORIES",
+                "ename": "Abbott Laboratories",
+                "weights": 0.47,
+                "qty": 22062
+            },
+            {
+                "code": "DIS UN",
+                "ym": null,
+                "name": "WALT DISNEY CO/THE",
+                "ename": "Walt Disney Co/The",
+                "weights": 0.46,
+                "qty": 23262
+            },
+            {
+                "code": "WFC UN",
+                "ym": null,
+                "name": "WELLS FARGO & CO",
+                "ename": "Wells Fargo & Co",
+                "weights": 0.46,
+                "qty": 46170
+            },
+            {
+                "code": "CSCO UQ",
+                "ym": null,
+                "name": "CISCO SYSTEMS INC",
+                "ename": "Cisco Systems Inc",
+                "weights": 0.45,
+                "qty": 51495
+            },
+            {
+                "code": "INTU UQ",
+                "ym": null,
+                "name": "INTUIT INC",
+                "ename": "Intuit Inc",
+                "weights": 0.43,
+                "qty": 3563
+            },
+            {
+                "code": "INTC UQ",
+                "ym": null,
+                "name": "INTEL CORP",
+                "ename": "Intel Corp",
+                "weights": 0.41,
+                "qty": 53599
+            },
+            {
+                "code": "ORCL UN",
+                "ym": null,
+                "name": "ORACLE CORP",
+                "ename": "Oracle Corp",
+                "weights": 0.4,
+                "qty": 20199
+            },
+            {
+                "code": "QCOM UQ",
+                "ym": null,
+                "name": "QUALCOMM INC",
+                "ename": "QUALCOMM Inc",
+                "weights": 0.4,
+                "qty": 14150
+            },
+            {
+                "code": "AMAT UQ",
+                "ym": null,
+                "name": "APPLIED MATERIALS INC",
+                "ename": "Applied Materials Inc",
+                "weights": 0.39,
+                "qty": 10635
+            },
+            {
+                "code": "CMCSA UQ",
+                "ym": null,
+                "name": "COMCAST CORP-CLASS A",
+                "ename": "Comcast Corp",
+                "weights": 0.39,
+                "qty": 51051
+            },
+            {
+                "code": "IBM UN",
+                "ym": null,
+                "name": "INTL BUSINESS MACHINES CORP",
+                "ename": "International Business Machines Corp",
+                "weights": 0.39,
+                "qty": 11609
+            },
+            {
+                "code": "CAT UN",
+                "ym": null,
+                "name": "CATERPILLAR INC",
+                "ename": "Caterpillar Inc",
+                "weights": 0.38,
+                "qty": 6486
+            },
+            {
+                "code": "DHR UN",
+                "ym": null,
+                "name": "DANAHER CORP",
+                "ename": "Danaher Corp",
+                "weights": 0.38,
+                "qty": 8361
+            },
+            {
+                "code": "GE UN",
+                "ym": null,
+                "name": "GENERAL ELECTRIC CO",
+                "ename": "General Electric Co",
+                "weights": 0.38,
+                "qty": 13837
+            },
+            {
+                "code": "VZ UN",
+                "ym": null,
+                "name": "VERIZON COMMUNICATIONS INC",
+                "ename": "Verizon Communications Inc",
+                "weights": 0.38,
+                "qty": 53447
+            },
+            {
+                "code": "UBER UN",
+                "ym": null,
+                "name": "UBER TECHNOLOGIES INC",
+                "ename": "Uber Technologies Inc",
+                "weights": 0.37,
+                "qty": 26162
+            },
+            {
+                "code": "NOW UN",
+                "ym": null,
+                "name": "SERVICENOW INC",
+                "ename": "ServiceNow Inc",
+                "weights": 0.36,
+                "qty": 2606
+            },
+            {
+                "code": "PFE UN",
+                "ym": null,
+                "name": "PFIZER INC",
+                "ename": "Pfizer Inc",
+                "weights": 0.35,
+                "qty": 71784
+            },
+            {
+                "code": "UNP UN",
+                "ym": null,
+                "name": "UNION PACIFIC CORP",
+                "ename": "Union Pacific Corp",
+                "weights": 0.35,
+                "qty": 7750
+            },
+            {
+                "code": "AMGN UQ",
+                "ym": null,
+                "name": "AMGEN INC",
+                "ename": "Amgen Inc",
+                "weights": 0.34,
+                "qty": 6804
+            },
+            {
+                "code": "TXN UQ",
+                "ym": null,
+                "name": "TEXAS INSTRUMENTS INC",
+                "ename": "Texas Instruments Inc",
+                "weights": 0.34,
+                "qty": 11546
+            },
+            {
+                "code": "PM UN",
+                "ym": null,
+                "name": "PHILIP MORRIS INTERNATIONAL",
+                "ename": "Philip Morris International Inc",
+                "weights": 0.32,
+                "qty": 19736
+            },
+            {
+                "code": "SPGI UN",
+                "ym": null,
+                "name": "S&P GLOBAL INC",
+                "ename": "S&P Global Inc",
+                "weights": 0.32,
+                "qty": 4119
+            },
+            {
+                "code": "ISRG UQ",
+                "ym": null,
+                "name": "INTUITIVE SURGICAL INC",
+                "ename": "Intuitive Surgical Inc",
+                "weights": 0.31,
+                "qty": 4476
+            },
+            {
+                "code": "LOW UN",
+                "ym": null,
+                "name": "LOWE`S COS INC",
+                "ename": "Lowe`s Cos Inc",
+                "weights": 0.31,
+                "qty": 7337
+            },
+            {
+                "code": "COP UN",
+                "ym": null,
+                "name": "CONOCOPHILLIPS",
+                "ename": "ConocoPhillips",
+                "weights": 0.3,
+                "qty": 15096
+            },
+            {
+                "code": "HON UQ",
+                "ym": null,
+                "name": "HONEYWELL INTERNATIONAL INC",
+                "ename": "Honeywell International Inc",
+                "weights": 0.3,
+                "qty": 8381
+            },
+            {
+                "code": "RTX UN",
+                "ym": null,
+                "name": "RTX CORP",
+                "ename": "RTX Corp",
+                "weights": 0.3,
+                "qty": 18280
+            },
+            {
+                "code": "AXP UN",
+                "ym": null,
+                "name": "AMERICAN EXPRESS CO",
+                "ename": "American Express Co",
+                "weights": 0.29,
+                "qty": 7319
+            },
+            {
+                "code": "GS UN",
+                "ym": null,
+                "name": "GOLDMAN SACHS GROUP INC",
+                "ename": "Goldman Sachs Group Inc/The",
+                "weights": 0.29,
+                "qty": 4146
+            },
+            {
+                "code": "NKE UN",
+                "ym": null,
+                "name": "NIKE INC -CL B",
+                "ename": "NIKE Inc",
+                "weights": 0.29,
+                "qty": 15561
+            },
+            {
+                "code": "BKNG UQ",
+                "ym": null,
+                "name": "BOOKING HOLDINGS INC",
+                "ename": "Booking Holdings Inc",
+                "weights": 0.28,
+                "qty": 444
+            },
+            {
+                "code": "LRCX UQ",
+                "ym": null,
+                "name": "LAM RESEARCH CORP",
+                "ename": "Lam Research Corp",
+                "weights": 0.28,
+                "qty": 1675
+            },
+            {
+                "code": "PLD UN",
+                "ym": null,
+                "name": "PROLOGIS INC",
+                "ename": "Prologis Inc",
+                "weights": 0.28,
+                "qty": 11747
+            },
+            {
+                "code": "T UN",
+                "ym": null,
+                "name": "AT&T INC",
+                "ename": "AT&T Inc",
+                "weights": 0.28,
+                "qty": 90899
+            },
+            {
+                "code": "ELV UN",
+                "ym": null,
+                "name": "ELEVANCE HEALTH INC",
+                "ename": "Elevance Health Inc",
+                "weights": 0.27,
+                "qty": 2987
+            },
+            {
+                "code": "SYK UN",
+                "ym": null,
+                "name": "STRYKER CORP",
+                "ename": "Stryker Corp",
+                "weights": 0.27,
+                "qty": 4298
+            },
+            {
+                "code": "BA UN",
+                "ym": null,
+                "name": "BOEING CO/THE",
+                "ename": "Boeing Co/The",
+                "weights": 0.26,
+                "qty": 7230
+            },
+            {
+                "code": "BLK UN",
+                "ym": null,
+                "name": "BLACKROCK INC",
+                "ename": "BlackRock Inc",
+                "weights": 0.26,
+                "qty": 1778
+            },
+            {
+                "code": "ETN UN",
+                "ym": null,
+                "name": "EATON CORP PLC",
+                "ename": "Eaton Corp PLC",
+                "weights": 0.26,
+                "qty": 5076
+            },
+            {
+                "code": "MDT UN",
+                "ym": null,
+                "name": "MEDTRONIC PLC",
+                "ename": "Medtronic PLC",
+                "weights": 0.26,
+                "qty": 16915
+            },
+            {
+                "code": "NEE UN",
+                "ym": null,
+                "name": "NEXTERA ENERGY INC",
+                "ename": "NextEra Energy Inc",
+                "weights": 0.26,
+                "qty": 26084
+            },
+            {
+                "code": "PGR UN",
+                "ym": null,
+                "name": "PROGRESSIVE CORP",
+                "ename": "Progressive Corp/The",
+                "weights": 0.26,
+                "qty": 7438
+            },
+            {
+                "code": "TJX UN",
+                "ym": null,
+                "name": "TJX COMPANIES INC",
+                "ename": "TJX Cos Inc/The",
+                "weights": 0.26,
+                "qty": 14545
+            },
+            {
+                "code": "MS UN",
+                "ym": null,
+                "name": "MORGAN STANLEY",
+                "ename": "Morgan Stanley",
+                "weights": 0.25,
+                "qty": 16067
+            },
+            {
+                "code": "SBUX UQ",
+                "ym": null,
+                "name": "STARBUCKS CORP",
+                "ename": "Starbucks Corp",
+                "weights": 0.25,
+                "qty": 14526
+            },
+            {
+                "code": "UPS UN",
+                "ym": null,
+                "name": "UNITED PARCEL SERVICE-CL B",
+                "ename": "United Parcel Service Inc",
+                "weights": 0.25,
+                "qty": 9195
+            },
+            {
+                "code": "VRTX UQ",
+                "ym": null,
+                "name": "VERTEX PHARMACEUTICALS INC",
+                "ename": "Vertex Pharmaceuticals Inc",
+                "weights": 0.25,
+                "qty": 3276
+            },
+            {
+                "code": "ADP UQ",
+                "ym": null,
+                "name": "AUTOMATIC DATA PROCESSING",
+                "ename": "Automatic Data Processing Inc",
+                "weights": 0.24,
+                "qty": 5229
+            },
+            {
+                "code": "BMY UN",
+                "ym": null,
+                "name": "BRISTOL-MYERS SQUIBB CO",
+                "ename": "Bristol-Myers Squibb Co",
+                "weights": 0.24,
+                "qty": 25868
+            },
+            {
+                "code": "C UN",
+                "ym": null,
+                "name": "CITIGROUP INC",
+                "ename": "Citigroup Inc",
+                "weights": 0.24,
+                "qty": 24332
+            },
+            {
+                "code": "CB UN",
+                "ym": null,
+                "name": "CHUBB LTD",
+                "ename": "Chubb Ltd",
+                "weights": 0.24,
+                "qty": 5187
+            },
+            {
+                "code": "REGN UQ",
+                "ym": null,
+                "name": "REGENERON PHARMACEUTICALS",
+                "ename": "Regeneron Pharmaceuticals Inc",
+                "weights": 0.24,
+                "qty": 1362
+            },
+            {
+                "code": "CI UN",
+                "ym": null,
+                "name": "THE CIGNA GROUP",
+                "ename": "Cigna Group/The",
+                "weights": 0.23,
+                "qty": 3720
+            },
+            {
+                "code": "MDLZ UQ",
+                "ym": null,
+                "name": "MONDELEZ INTERNATIONAL INC-A",
+                "ename": "Mondelez International Inc",
+                "weights": 0.23,
+                "qty": 17295
+            },
+            {
+                "code": "MMC UN",
+                "ym": null,
+                "name": "MARSH & MCLENNAN COS",
+                "ename": "Marsh & McLennan Cos Inc",
+                "weights": 0.23,
+                "qty": 6269
+            },
+            {
+                "code": "MU UQ",
+                "ym": null,
+                "name": "MICRON TECHNOLOGY INC",
+                "ename": "Micron Technology Inc",
+                "weights": 0.23,
+                "qty": 13959
+            },
+            {
+                "code": "ADI UQ",
+                "ym": null,
+                "name": "ANALOG DEVICES INC",
+                "ename": "Analog Devices Inc",
+                "weights": 0.22,
+                "qty": 6335
+            },
+            {
+                "code": "BSX UN",
+                "ym": null,
+                "name": "BOSTON SCIENTIFIC CORP",
+                "ename": "Boston Scientific Corp",
+                "weights": 0.22,
+                "qty": 18615
+            },
+            {
+                "code": "CVS UN",
+                "ym": null,
+                "name": "CVS HEALTH CORP",
+                "ename": "CVS Health Corp",
+                "weights": 0.22,
+                "qty": 16329
+            },
+            {
+                "code": "DE UN",
+                "ym": null,
+                "name": "DEERE & CO",
+                "ename": "Deere & Co",
+                "weights": 0.22,
+                "qty": 3405
+            },
+            {
+                "code": "LMT UN",
+                "ym": null,
+                "name": "LOCKHEED MARTIN CORP",
+                "ename": "Lockheed Martin Corp",
+                "weights": 0.22,
+                "qty": 2807
+            },
+            {
+                "code": "PANW UQ",
+                "ym": null,
+                "name": "PALO ALTO NETWORKS INC",
+                "ename": "Palo Alto Networks Inc",
+                "weights": 0.22,
+                "qty": 3951
+            },
+            {
+                "code": "BX UN",
+                "ym": null,
+                "name": "BLACKSTONE INC",
+                "ename": "Blackstone Inc",
+                "weights": 0.21,
+                "qty": 9033
+            },
+            {
+                "code": "FI UN",
+                "ym": null,
+                "name": "FISERV INC",
+                "ename": "Fiserv Inc",
+                "weights": 0.21,
+                "qty": 7630
+            },
+            {
+                "code": "GILD UQ",
+                "ym": null,
+                "name": "GILEAD SCIENCES INC",
+                "ename": "Gilead Sciences Inc",
+                "weights": 0.21,
+                "qty": 15841
+            },
+            {
+                "code": "KLAC UQ",
+                "ym": null,
+                "name": "KLA CORP",
+                "ename": "KLA Corp",
+                "weights": 0.21,
+                "qty": 1728
+            },
+            {
+                "code": "ZTS UN",
+                "ym": null,
+                "name": "ZOETIS INC",
+                "ename": "Zoetis Inc",
+                "weights": 0.21,
+                "qty": 5837
+            },
+            {
+                "code": "AMT UN",
+                "ym": null,
+                "name": "AMERICAN TOWER CORP",
+                "ename": "American Tower Corp",
+                "weights": 0.2,
+                "qty": 5926
+            },
+            {
+                "code": "SNPS UQ",
+                "ym": null,
+                "name": "SYNOPSYS INC",
+                "ename": "Synopsys Inc",
+                "weights": 0.2,
+                "qty": 1933
+            },
+            {
+                "code": "CDNS UQ",
+                "ym": null,
+                "name": "CADENCE DESIGN SYS INC",
+                "ename": "Cadence Design Systems Inc",
+                "weights": 0.19,
+                "qty": 3459
+            },
+            {
+                "code": "EQIX UQ",
+                "ym": null,
+                "name": "EQUINIX INC",
+                "ename": "Equinix Inc",
+                "weights": 0.19,
+                "qty": 1194
+            },
+            {
+                "code": "TMUS UQ",
+                "ym": null,
+                "name": "T-MOBILE US INC",
+                "ename": "T-Mobile US Inc",
+                "weights": 0.19,
+                "qty": 6469
+            },
+            {
+                "code": "CME UQ",
+                "ym": null,
+                "name": "CME GROUP INC",
+                "ename": "CME Group Inc",
+                "weights": 0.18,
+                "qty": 4577
+            },
+            {
+                "code": "ICE UN",
+                "ym": null,
+                "name": "INTERCONTINENTAL EXCHANGE IN",
+                "ename": "Intercontinental Exchange Inc",
+                "weights": 0.18,
+                "qty": 7277
+            },
+            {
+                "code": "SCHW UN",
+                "ym": null,
+                "name": "SCHWAB (CHARLES) CORP",
+                "ename": "Charles Schwab Corp/The",
+                "weights": 0.18,
+                "qty": 14934
+            },
+            {
+                "code": "SHW UN",
+                "ym": null,
+                "name": "SHERWIN-WILLIAMS CO/THE",
+                "ename": "Sherwin-Williams Co/The",
+                "weights": 0.18,
+                "qty": 2994
+            },
+            {
+                "code": "CMG UN",
+                "ym": null,
+                "name": "CHIPOTLE MEXICAN GRILL INC",
+                "ename": "Chipotle Mexican Grill Inc",
+                "weights": 0.17,
+                "qty": 349
+            },
+            {
+                "code": "CSX UQ",
+                "ym": null,
+                "name": "CSX CORP",
+                "ename": "CSX Corp",
+                "weights": 0.17,
+                "qty": 25123
+            },
+            {
+                "code": "MO UN",
+                "ym": null,
+                "name": "ALTRIA GROUP INC",
+                "ename": "Altria Group Inc",
+                "weights": 0.17,
+                "qty": 22485
+            },
+            {
+                "code": "SO UN",
+                "ym": null,
+                "name": "SOUTHERN CO/THE",
+                "ename": "Southern Co/The",
+                "weights": 0.17,
+                "qty": 13865
+            },
+            {
+                "code": "WM UN",
+                "ym": null,
+                "name": "WASTE MANAGEMENT INC",
+                "ename": "Waste Management Inc",
+                "weights": 0.17,
+                "qty": 4660
+            },
+            {
+                "code": "ANET UN",
+                "ym": null,
+                "name": "ARISTA NETWORKS INC",
+                "ename": "Arista Networks Inc",
+                "weights": 0.16,
+                "qty": 3204
+            },
+            {
+                "code": "BDX UN",
+                "ym": null,
+                "name": "BECTON DICKINSON AND CO",
+                "ename": "Becton Dickinson & Co",
+                "weights": 0.16,
+                "qty": 3688
+            },
+            {
+                "code": "CL UN",
+                "ym": null,
+                "name": "COLGATE-PALMOLIVE CO",
+                "ename": "Colgate-Palmolive Co",
+                "weights": 0.16,
+                "qty": 10468
+            },
+            {
+                "code": "DUK UN",
+                "ym": null,
+                "name": "DUKE ENERGY CORP",
+                "ename": "Duke Energy Corp",
+                "weights": 0.16,
+                "qty": 9798
+            },
+            {
+                "code": "ITW UN",
+                "ym": null,
+                "name": "ILLINOIS TOOL WORKS",
+                "ename": "Illinois Tool Works Inc",
+                "weights": 0.16,
+                "qty": 3481
+            },
+            {
+                "code": "MCK UN",
+                "ym": null,
+                "name": "MCKESSON CORP",
+                "ename": "McKesson Corp",
+                "weights": 0.16,
+                "qty": 1692
+            },
+            {
+                "code": "PH UN",
+                "ym": null,
+                "name": "PARKER HANNIFIN CORP",
+                "ename": "Parker-Hannifin Corp",
+                "weights": 0.16,
+                "qty": 1633
+            },
+            {
+                "code": "SLB UN",
+                "ym": null,
+                "name": "SCHLUMBERGER LTD",
+                "ename": "Schlumberger NV",
+                "weights": 0.16,
+                "qty": 18160
+            },
+            {
+                "code": "TGT UN",
+                "ym": null,
+                "name": "TARGET CORP",
+                "ename": "Target Corp",
+                "weights": 0.16,
+                "qty": 5868
+            },
+            {
+                "code": "ABNB UQ",
+                "ym": null,
+                "name": "AIRBNB INC-CLASS A",
+                "ename": "Airbnb Inc",
+                "weights": 0.15,
+                "qty": 5527
+            },
+            {
+                "code": "APH UN",
+                "ym": null,
+                "name": "AMPHENOL CORP-CL A",
+                "ename": "Amphenol Corp",
+                "weights": 0.15,
+                "qty": 7606
+            },
+            {
+                "code": "EOG UN",
+                "ym": null,
+                "name": "EOG RESOURCES INC",
+                "ename": "EOG Resources Inc",
+                "weights": 0.15,
+                "qty": 7414
+            },
+            {
+                "code": "MPC UN",
+                "ym": null,
+                "name": "MARATHON PETROLEUM CORP",
+                "ename": "Marathon Petroleum Corp",
+                "weights": 0.15,
+                "qty": 4827
+            },
+            {
+                "code": "NOC UN",
+                "ym": null,
+                "name": "NORTHROP GRUMMAN CORP",
+                "ename": "Northrop Grumman Corp",
+                "weights": 0.15,
+                "qty": 1802
+            },
+            {
+                "code": "ORLY UQ",
+                "ym": null,
+                "name": "O`REILLY AUTOMOTIVE INC",
+                "ename": "O`Reilly Automotive Inc",
+                "weights": 0.15,
+                "qty": 752
+            },
+            {
+                "code": "PSX UN",
+                "ym": null,
+                "name": "PHILLIPS 66",
+                "ename": "Phillips 66",
+                "weights": 0.15,
+                "qty": 5593
+            },
+            {
+                "code": "PYPL UQ",
+                "ym": null,
+                "name": "PAYPAL HOLDINGS INC",
+                "ename": "PayPal Holdings Inc",
+                "weights": 0.15,
+                "qty": 13707
+            },
+            {
+                "code": "TDG UN",
+                "ym": null,
+                "name": "TRANSDIGM GROUP INC",
+                "ename": "TransDigm Group Inc",
+                "weights": 0.15,
+                "qty": 703
+            },
+            {
+                "code": "TT UN",
+                "ym": null,
+                "name": "TRANE TECHNOLOGIES PLC",
+                "ename": "Trane Technologies PLC",
+                "weights": 0.15,
+                "qty": 2904
+            },
+            {
+                "code": "AON UN",
+                "ym": null,
+                "name": "AON PLC-CLASS A",
+                "ename": "Aon PLC",
+                "weights": 0.14,
+                "qty": 2545
+            },
+            {
+                "code": "EMR UN",
+                "ym": null,
+                "name": "EMERSON ELECTRIC CO",
+                "ename": "Emerson Electric Co",
+                "weights": 0.14,
+                "qty": 7248
+            },
+            {
+                "code": "GD UN",
+                "ym": null,
+                "name": "GENERAL DYNAMICS CORP",
+                "ename": "General Dynamics Corp",
+                "weights": 0.14,
+                "qty": 2880
+            },
+            {
+                "code": "HCA UN",
+                "ym": null,
+                "name": "HCA HEALTHCARE INC",
+                "ename": "HCA Healthcare Inc",
+                "weights": 0.14,
+                "qty": 2518
+            },
+            {
+                "code": "MAR UQ",
+                "ym": null,
+                "name": "MARRIOTT INTERNATIONAL -CL A",
+                "ename": "Marriott International Inc/MD",
+                "weights": 0.14,
+                "qty": 3136
+            },
+            {
+                "code": "MCO UN",
+                "ym": null,
+                "name": "MOODY`S CORP",
+                "ename": "Moody`s Corp",
+                "weights": 0.14,
+                "qty": 2001
+            },
+            {
+                "code": "NXPI UQ",
+                "ym": null,
+                "name": "NXP SEMICONDUCTORS NV",
+                "ename": "NXP Semiconductors NV",
+                "weights": 0.14,
+                "qty": 3277
+            },
+            {
+                "code": "ADSK UQ",
+                "ym": null,
+                "name": "AUTODESK INC",
+                "ename": "Autodesk Inc",
+                "weights": 0.13,
+                "qty": 2718
+            },
+            {
+                "code": "ECL UN",
+                "ym": null,
+                "name": "ECOLAB INC",
+                "ename": "Ecolab Inc",
+                "weights": 0.13,
+                "qty": 3226
+            },
+            {
+                "code": "FCX UN",
+                "ym": null,
+                "name": "FREEPORT-MCMORAN INC",
+                "ename": "Freeport-McMoRan Inc",
+                "weights": 0.13,
+                "qty": 18230
+            },
+            {
+                "code": "FDX UN",
+                "ym": null,
+                "name": "FEDEX CORP",
+                "ename": "FedEx Corp",
+                "weights": 0.13,
+                "qty": 2941
+            },
+            {
+                "code": "GM UN",
+                "ym": null,
+                "name": "GENERAL MOTORS CO",
+                "ename": "General Motors Co",
+                "weights": 0.13,
+                "qty": 17410
+            },
+            {
+                "code": "NSC UN",
+                "ym": null,
+                "name": "NORFOLK SOUTHERN CORP",
+                "ename": "Norfolk Southern Corp",
+                "weights": 0.13,
+                "qty": 2875
+            },
+            {
+                "code": "PCAR UQ",
+                "ym": null,
+                "name": "PACCAR INC",
+                "ename": "PACCAR Inc",
+                "weights": 0.13,
+                "qty": 6650
+            },
+            {
+                "code": "ROP UQ",
+                "ym": null,
+                "name": "ROPER TECHNOLOGIES INC",
+                "ename": "Roper Technologies Inc",
+                "weights": 0.13,
+                "qty": 1358
+            },
+            {
+                "code": "USB UN",
+                "ym": null,
+                "name": "US BANCORP",
+                "ename": "US Bancorp",
+                "weights": 0.13,
+                "qty": 17306
+            },
+            {
+                "code": "AIG UN",
+                "ym": null,
+                "name": "AMERICAN INTERNATIONAL GROUP",
+                "ename": "American International Group Inc",
+                "weights": 0.12,
+                "qty": 8925
+            },
+            {
+                "code": "AJG UN",
+                "ym": null,
+                "name": "ARTHUR J GALLAGHER & CO",
+                "ename": "Arthur J Gallagher & Co",
+                "weights": 0.12,
+                "qty": 2745
+            },
+            {
+                "code": "APD UN",
+                "ym": null,
+                "name": "AIR PRODUCTS & CHEMICALS INC",
+                "ename": "Air Products and Chemicals Inc",
+                "weights": 0.12,
+                "qty": 2824
+            },
+            {
+                "code": "AZO UN",
+                "ym": null,
+                "name": "AUTOZONE INC",
+                "ename": "AutoZone Inc",
+                "weights": 0.12,
+                "qty": 224
+            },
+            {
+                "code": "COF UN",
+                "ym": null,
+                "name": "CAPITAL ONE FINANCIAL CORP",
+                "ename": "Capital One Financial Corp",
+                "weights": 0.12,
+                "qty": 4842
+            },
+            {
+                "code": "CTAS UQ",
+                "ym": null,
+                "name": "CINTAS CORP",
+                "ename": "Cintas Corp",
+                "weights": 0.12,
+                "qty": 1101
+            },
+            {
+                "code": "EW UN",
+                "ym": null,
+                "name": "EDWARDS LIFESCIENCES CORP",
+                "ename": "Edwards Lifesciences Corp",
+                "weights": 0.12,
+                "qty": 7711
+            },
+            {
+                "code": "HLT UN",
+                "ym": null,
+                "name": "HILTON WORLDWIDE HOLDINGS IN",
+                "ename": "Hilton Worldwide Holdings Inc",
+                "weights": 0.12,
+                "qty": 3260
+            },
+            {
+                "code": "LULU UQ",
+                "ym": null,
+                "name": "LULULEMON ATHLETICA INC",
+                "ename": "Lululemon Athletica Inc",
+                "weights": 0.12,
+                "qty": 1464
+            },
+            {
+                "code": "MMM UN",
+                "ym": null,
+                "name": "3M CO",
+                "ename": "3M Co",
+                "weights": 0.12,
+                "qty": 7022
+            },
+            {
+                "code": "MSI UN",
+                "ym": null,
+                "name": "MOTOROLA SOLUTIONS INC",
+                "ename": "Motorola Solutions Inc",
+                "weights": 0.12,
+                "qty": 2110
+            },
+            {
+                "code": "PXD UN",
+                "ym": null,
+                "name": "PIONEER NATURAL RESOURCES CO",
+                "ename": "Pioneer Natural Resources Co",
+                "weights": 0.12,
+                "qty": 2966
+            },
+            {
+                "code": "ROST UQ",
+                "ym": null,
+                "name": "ROSS STORES INC",
+                "ename": "Ross Stores Inc",
+                "weights": 0.12,
+                "qty": 4305
+            },
+            {
+                "code": "TRV UN",
+                "ym": null,
+                "name": "TRAVELERS COS INC/THE",
+                "ename": "Travelers Cos Inc/The",
+                "weights": 0.12,
+                "qty": 2904
+            },
+            {
+                "code": "WELL UN",
+                "ym": null,
+                "name": "WELLTOWER INC",
+                "ename": "Welltower Inc",
+                "weights": 0.12,
+                "qty": 7036
+            },
+            {
+                "code": "CARR UN",
+                "ym": null,
+                "name": "CARRIER GLOBAL CORP",
+                "ename": "Carrier Global Corp",
+                "weights": 0.11,
+                "qty": 10667
+            },
+            {
+                "code": "CEG UQ",
+                "ym": null,
+                "name": "CONSTELLATION ENERGY",
+                "ename": "Constellation Energy Corp",
+                "weights": 0.11,
+                "qty": 4060
+            },
+            {
+                "code": "CPRT UQ",
+                "ym": null,
+                "name": "COPART INC",
+                "ename": "Copart Inc",
+                "weights": 0.11,
+                "qty": 11108
+            },
+            {
+                "code": "F UN",
+                "ym": null,
+                "name": "FORD MOTOR CO",
+                "ename": "Ford Motor Co",
+                "weights": 0.11,
+                "qty": 49989
+            },
+            {
+                "code": "IDXX UQ",
+                "ym": null,
+                "name": "IDEXX LABORATORIES INC",
+                "ename": "IDEXX Laboratories Inc",
+                "weights": 0.11,
+                "qty": 1056
+            },
+            {
+                "code": "NUE UN",
+                "ym": null,
+                "name": "NUCOR CORP",
+                "ename": "Nucor Corp",
+                "weights": 0.11,
+                "qty": 3125
+            },
+            {
+                "code": "SPG UN",
+                "ym": null,
+                "name": "SIMON PROPERTY GROUP INC",
+                "ename": "Simon Property Group Inc",
+                "weights": 0.11,
+                "qty": 4148
+            },
+            {
+                "code": "VLO UN",
+                "ym": null,
+                "name": "VALERO ENERGY CORP",
+                "ename": "Valero Energy Corp",
+                "weights": 0.11,
+                "qty": 4328
+            },
+            {
+                "code": "AEP UQ",
+                "ym": null,
+                "name": "AMERICAN ELECTRIC POWER",
+                "ename": "American Electric Power Co Inc",
+                "weights": 0.1,
+                "qty": 6686
+            },
+            {
+                "code": "AFL UN",
+                "ym": null,
+                "name": "AFLAC INC",
+                "ename": "Aflac Inc",
+                "weights": 0.1,
+                "qty": 6761
+            },
+            {
+                "code": "ALL UN",
+                "ym": null,
+                "name": "ALLSTATE CORP",
+                "ename": "Allstate Corp/The",
+                "weights": 0.1,
+                "qty": 3327
+            },
+            {
+                "code": "BK UN",
+                "ym": null,
+                "name": "BANK OF NEW YORK MELLON CORP",
+                "ename": "Bank of New York Mellon Corp/The",
+                "weights": 0.1,
+                "qty": 9777
+            },
+            {
+                "code": "CCI UN",
+                "ym": null,
+                "name": "CROWN CASTLE INC",
+                "ename": "Crown Castle Inc",
+                "weights": 0.1,
+                "qty": 5518
+            },
+            {
+                "code": "CNC UN",
+                "ym": null,
+                "name": "CENTENE CORP",
+                "ename": "Centene Corp",
+                "weights": 0.1,
+                "qty": 6791
+            },
+            {
+                "code": "DHI UN",
+                "ym": null,
+                "name": "DR HORTON INC",
+                "ename": "DR Horton Inc",
+                "weights": 0.1,
+                "qty": 3831
+            },
+            {
+                "code": "DLR UN",
+                "ym": null,
+                "name": "DIGITAL REALTY TRUST INC",
+                "ename": "Digital Realty Trust Inc",
+                "weights": 0.1,
+                "qty": 3850
+            },
+            {
+                "code": "DXCM UQ",
+                "ym": null,
+                "name": "DEXCOM INC",
+                "ename": "Dexcom Inc",
+                "weights": 0.1,
+                "qty": 4912
+            },
+            {
+                "code": "FAST UQ",
+                "ym": null,
+                "name": "FASTENAL CO",
+                "ename": "Fastenal Co",
+                "weights": 0.1,
+                "qty": 7264
+            },
+            {
+                "code": "FTNT UQ",
+                "ym": null,
+                "name": "FORTINET INC",
+                "ename": "Fortinet Inc",
+                "weights": 0.1,
+                "qty": 8103
+            },
+            {
+                "code": "GWW UN",
+                "ym": null,
+                "name": "WW GRAINGER INC",
+                "ename": "WW Grainger Inc",
+                "weights": 0.1,
+                "qty": 562
+            },
+            {
+                "code": "HUM UN",
+                "ym": null,
+                "name": "HUMANA INC",
+                "ename": "Humana Inc",
+                "weights": 0.1,
+                "qty": 1565
+            },
+            {
+                "code": "IQV UN",
+                "ym": null,
+                "name": "IQVIA HOLDINGS INC",
+                "ename": "IQVIA Holdings Inc",
+                "weights": 0.1,
+                "qty": 2328
+            },
+            {
+                "code": "MCHP UQ",
+                "ym": null,
+                "name": "MICROCHIP TECHNOLOGY INC",
+                "ename": "Microchip Technology Inc",
+                "weights": 0.1,
+                "qty": 6878
+            },
+            {
+                "code": "MET UN",
+                "ym": null,
+                "name": "METLIFE INC",
+                "ename": "MetLife Inc",
+                "weights": 0.1,
+                "qty": 7905
+            },
+            {
+                "code": "MSCI UN",
+                "ym": null,
+                "name": "MSCI INC",
+                "ename": "MSCI Inc",
+                "weights": 0.1,
+                "qty": 1005
+            },
+            {
+                "code": "O UN",
+                "ym": null,
+                "name": "REALTY INCOME CORP",
+                "ename": "Realty Income Corp",
+                "weights": 0.1,
+                "qty": 10573
+            },
+            {
+                "code": "OKE UN",
+                "ym": null,
+                "name": "ONEOK INC",
+                "ename": "ONEOK Inc",
+                "weights": 0.1,
+                "qty": 7406
+            },
+            {
+                "code": "PSA UN",
+                "ym": null,
+                "name": "PUBLIC STORAGE",
+                "ename": "Public Storage",
+                "weights": 0.1,
+                "qty": 2012
+            },
+            {
+                "code": "SRE UN",
+                "ym": null,
+                "name": "SEMPRA",
+                "ename": "Sempra",
+                "weights": 0.1,
+                "qty": 8001
+            },
+            {
+                "code": "TEL UN",
+                "ym": null,
+                "name": "TE CONNECTIVITY LTD",
+                "ename": "TE Connectivity Ltd",
+                "weights": 0.1,
+                "qty": 3951
+            },
+            {
+                "code": "URI UN",
+                "ym": null,
+                "name": "UNITED RENTALS INC",
+                "ename": "United Rentals Inc",
+                "weights": 0.1,
+                "qty": 862
+            },
+            {
+                "code": "WMB UN",
+                "ym": null,
+                "name": "WILLIAMS COS INC",
+                "ename": "Williams Cos Inc/The",
+                "weights": 0.1,
+                "qty": 15466
+            },
+            {
+                "code": "A UN",
+                "ym": null,
+                "name": "AGILENT TECHNOLOGIES INC",
+                "ename": "Agilent Technologies Inc",
+                "weights": 0.09,
+                "qty": 3720
+            },
+            {
+                "code": "AME UN",
+                "ym": null,
+                "name": "AMETEK INC",
+                "ename": "AMETEK Inc",
+                "weights": 0.09,
+                "qty": 2934
+            },
+            {
+                "code": "AMP UN",
+                "ym": null,
+                "name": "AMERIPRISE FINANCIAL INC",
+                "ename": "Ameriprise Financial Inc",
+                "weights": 0.09,
+                "qty": 1287
+            },
+            {
+                "code": "CMI UN",
+                "ym": null,
+                "name": "CUMMINS INC",
+                "ename": "Cummins Inc",
+                "weights": 0.09,
+                "qty": 1802
+            },
+            {
+                "code": "COR UN",
+                "ym": null,
+                "name": "CENCORA INC",
+                "ename": "Cencora Inc",
+                "weights": 0.09,
+                "qty": 2119
+            },
+            {
+                "code": "CTSH UQ",
+                "ym": null,
+                "name": "COGNIZANT TECH SOLUTIONS-A",
+                "ename": "Cognizant Technology Solutions Corp",
+                "weights": 0.09,
+                "qty": 6375
+            },
+            {
+                "code": "CTVA UN",
+                "ym": null,
+                "name": "CORTEVA INC",
+                "ename": "Corteva Inc",
+                "weights": 0.09,
+                "qty": 8959
+            },
+            {
+                "code": "D UN",
+                "ym": null,
+                "name": "DOMINION ENERGY INC",
+                "ename": "Dominion Energy Inc",
+                "weights": 0.09,
+                "qty": 10638
+            },
+            {
+                "code": "DOW UN",
+                "ym": null,
+                "name": "DOW INC",
+                "ename": "Dow Inc",
+                "weights": 0.09,
+                "qty": 8917
+            },
+            {
+                "code": "FIS UN",
+                "ym": null,
+                "name": "FIDELITY NATIONAL INFO SERV",
+                "ename": "Fidelity National Information Services Inc",
+                "weights": 0.09,
+                "qty": 7532
+            },
+            {
+                "code": "GEHC UQ",
+                "ym": null,
+                "name": "GE HEALTHCARE TECHNOLOGY",
+                "ename": "GE HealthCare Technologies Inc",
+                "weights": 0.09,
+                "qty": 5152
+            },
+            {
+                "code": "GIS UN",
+                "ym": null,
+                "name": "GENERAL MILLS INC",
+                "ename": "General Mills Inc",
+                "weights": 0.09,
+                "qty": 7390
+            },
+            {
+                "code": "HES UN",
+                "ym": null,
+                "name": "HESS CORP",
+                "ename": "Hess Corp",
+                "weights": 0.09,
+                "qty": 3514
+            },
+            {
+                "code": "JCI UN",
+                "ym": null,
+                "name": "JOHNSON CONTROLS INTERNATION",
+                "ename": "Johnson Controls International plc",
+                "weights": 0.09,
+                "qty": 8649
+            },
+            {
+                "code": "KMB UN",
+                "ym": null,
+                "name": "KIMBERLY-CLARK CORP",
+                "ename": "Kimberly-Clark Corp",
+                "weights": 0.09,
+                "qty": 4296
+            },
+            {
+                "code": "LEN UN",
+                "ym": null,
+                "name": "LENNAR CORP-A",
+                "ename": "Lennar Corp",
+                "weights": 0.09,
+                "qty": 3180
+            },
+            {
+                "code": "LHX UN",
+                "ym": null,
+                "name": "L3HARRIS TECHNOLOGIES INC",
+                "ename": "L3Harris Technologies Inc",
+                "weights": 0.09,
+                "qty": 2410
+            },
+            {
+                "code": "MNST UQ",
+                "ym": null,
+                "name": "MONSTER BEVERAGE CORP",
+                "ename": "Monster Beverage Corp",
+                "weights": 0.09,
+                "qty": 9391
+            },
+            {
+                "code": "ODFL UQ",
+                "ym": null,
+                "name": "OLD DOMINION FREIGHT LINE",
+                "ename": "Old Dominion Freight Line Inc",
+                "weights": 0.09,
+                "qty": 1137
+            },
+            {
+                "code": "OTIS UN",
+                "ym": null,
+                "name": "OTIS WORLDWIDE CORP",
+                "ename": "Otis Worldwide Corp",
+                "weights": 0.09,
+                "qty": 5203
+            },
+            {
+                "code": "OXY UN",
+                "ym": null,
+                "name": "OCCIDENTAL PETROLEUM CORP",
+                "ename": "Occidental Petroleum Corp",
+                "weights": 0.09,
+                "qty": 8394
+            },
+            {
+                "code": "PAYX UQ",
+                "ym": null,
+                "name": "PAYCHEX INC",
+                "ename": "Paychex Inc",
+                "weights": 0.09,
+                "qty": 4087
+            },
+            {
+                "code": "PRU UN",
+                "ym": null,
+                "name": "PRUDENTIAL FINANCIAL INC",
+                "ename": "Prudential Financial Inc",
+                "weights": 0.09,
+                "qty": 4589
+            },
+            {
+                "code": "RSG UN",
+                "ym": null,
+                "name": "REPUBLIC SERVICES INC",
+                "ename": "Republic Services Inc",
+                "weights": 0.09,
+                "qty": 2600
+            },
+            {
+                "code": "STZ UN",
+                "ym": null,
+                "name": "CONSTELLATION BRANDS INC-A",
+                "ename": "Constellation Brands Inc",
+                "weights": 0.09,
+                "qty": 2055
+            },
+            {
+                "code": "SYY UN",
+                "ym": null,
+                "name": "SYSCO CORP",
+                "ename": "Sysco Corp",
+                "weights": 0.09,
+                "qty": 6410
+            },
+            {
+                "code": "YUM UN",
+                "ym": null,
+                "name": "YUM! BRANDS INC",
+                "ename": "Yum! Brands Inc",
+                "weights": 0.09,
+                "qty": 3564
+            },
+            {
+                "code": "CSGP UQ",
+                "ym": null,
+                "name": "COSTAR GROUP INC",
+                "ename": "CoStar Group Inc",
+                "weights": 0.08,
+                "qty": 5192
+            },
+            {
+                "code": "EA UQ",
+                "ym": null,
+                "name": "ELECTRONIC ARTS INC",
+                "ename": "Electronic Arts Inc",
+                "weights": 0.08,
+                "qty": 3112
+            },
+            {
+                "code": "EFX UN",
+                "ym": null,
+                "name": "EQUIFAX INC",
+                "ename": "Equifax Inc",
+                "weights": 0.08,
+                "qty": 1566
+            },
+            {
+                "code": "EL UN",
+                "ym": null,
+                "name": "ESTEE LAUDER COMPANIES-CL A",
+                "ename": "Estee Lauder Cos Inc/The",
+                "weights": 0.08,
+                "qty": 2953
+            },
+            {
+                "code": "EXC UQ",
+                "ym": null,
+                "name": "EXELON CORP",
+                "ename": "Exelon Corp",
+                "weights": 0.08,
+                "qty": 12655
+            },
+            {
+                "code": "GPN UN",
+                "ym": null,
+                "name": "GLOBAL PAYMENTS INC",
+                "ename": "Global Payments Inc",
+                "weights": 0.08,
+                "qty": 3310
+            },
+            {
+                "code": "IR UN",
+                "ym": null,
+                "name": "INGERSOLL-RAND INC",
+                "ename": "Ingersoll Rand Inc",
+                "weights": 0.08,
+                "qty": 5146
+            },
+            {
+                "code": "IT UN",
+                "ym": null,
+                "name": "GARTNER INC",
+                "ename": "Gartner Inc",
+                "weights": 0.08,
+                "qty": 991
+            },
+            {
+                "code": "KMI UN",
+                "ym": null,
+                "name": "KINDER MORGAN INC",
+                "ename": "Kinder Morgan Inc",
+                "weights": 0.08,
+                "qty": 24585
+            },
+            {
+                "code": "MLM UN",
+                "ym": null,
+                "name": "MARTIN MARIETTA MATERIALS",
+                "ename": "Martin Marietta Materials Inc",
+                "weights": 0.08,
+                "qty": 786
+            },
+            {
+                "code": "MPWR UQ",
+                "ym": null,
+                "name": "MONOLITHIC POWER SYSTEMS INC",
+                "ename": "Monolithic Power Systems Inc",
+                "weights": 0.08,
+                "qty": 609
+            },
+            {
+                "code": "NEM UN",
+                "ym": null,
+                "name": "NEWMONT CORP",
+                "ename": "Newmont Corp",
+                "weights": 0.08,
+                "qty": 14652
+            },
+            {
+                "code": "ON UQ",
+                "ym": null,
+                "name": "ON SEMICONDUCTOR",
+                "ename": "ON Semiconductor Corp",
+                "weights": 0.08,
+                "qty": 5476
+            },
+            {
+                "code": "PCG UN",
+                "ym": null,
+                "name": "P G & E CORP",
+                "ename": "PG&E Corp",
+                "weights": 0.08,
+                "qty": 27124
+            },
+            {
+                "code": "PPG UN",
+                "ym": null,
+                "name": "PPG INDUSTRIES INC",
+                "ename": "PPG Industries Inc",
+                "weights": 0.08,
+                "qty": 2998
+            },
+            {
+                "code": "PWR UN",
+                "ym": null,
+                "name": "QUANTA SERVICES INC",
+                "ename": "Quanta Services Inc",
+                "weights": 0.08,
+                "qty": 1847
+            },
+            {
+                "code": "VMC UN",
+                "ym": null,
+                "name": "VULCAN MATERIALS CO",
+                "ename": "Vulcan Materials Co",
+                "weights": 0.08,
+                "qty": 1689
+            },
+            {
+                "code": "VRSK UQ",
+                "ym": null,
+                "name": "VERISK ANALYTICS INC",
+                "ename": "Verisk Analytics Inc",
+                "weights": 0.08,
+                "qty": 1844
+            },
+            {
+                "code": "ACGL UQ",
+                "ym": null,
+                "name": "ARCH CAPITAL GROUP LTD",
+                "ename": "Arch Capital Group Ltd",
+                "weights": 0.07,
+                "qty": 4744
+            },
+            {
+                "code": "ANSS UQ",
+                "ym": null,
+                "name": "ANSYS INC",
+                "ename": "ANSYS Inc",
+                "weights": 0.07,
+                "qty": 1103
+            },
+            {
+                "code": "BIIB UQ",
+                "ym": null,
+                "name": "BIOGEN INC",
+                "ename": "Biogen Inc",
+                "weights": 0.07,
+                "qty": 1842
+            },
+            {
+                "code": "BKR UQ",
+                "ym": null,
+                "name": "BAKER HUGHES CO",
+                "ename": "Baker Hughes Co",
+                "weights": 0.07,
+                "qty": 12792
+            },
+            {
+                "code": "CDW UQ",
+                "ym": null,
+                "name": "CDW CORP/DE",
+                "ename": "CDW Corp/DE",
+                "weights": 0.07,
+                "qty": 1703
+            },
+            {
+                "code": "CHTR UQ",
+                "ym": null,
+                "name": "CHARTER COMMUNICATIONS INC-A",
+                "ename": "Charter Communications Inc",
+                "weights": 0.07,
+                "qty": 1279
+            },
+            {
+                "code": "DD UN",
+                "ym": null,
+                "name": "DUPONT DE NEMOURS INC",
+                "ename": "DuPont de Nemours Inc",
+                "weights": 0.07,
+                "qty": 5467
+            },
+            {
+                "code": "DFS UN",
+                "ym": null,
+                "name": "DISCOVER FINANCIAL SERVICES",
+                "ename": "Discover Financial Services",
+                "weights": 0.07,
+                "qty": 3179
+            },
+            {
+                "code": "DG UN",
+                "ym": null,
+                "name": "DOLLAR GENERAL CORP",
+                "ename": "Dollar General Corp",
+                "weights": 0.07,
+                "qty": 2790
+            },
+            {
+                "code": "DLTR UQ",
+                "ym": null,
+                "name": "DOLLAR TREE INC",
+                "ename": "Dollar Tree Inc",
+                "weights": 0.07,
+                "qty": 2657
+            },
+            {
+                "code": "ED UN",
+                "ym": null,
+                "name": "CONSOLIDATED EDISON INC",
+                "ename": "Consolidated Edison Inc",
+                "weights": 0.07,
+                "qty": 4389
+            },
+            {
+                "code": "EXR UN",
+                "ym": null,
+                "name": "EXTRA SPACE STORAGE INC",
+                "ename": "Extra Space Storage Inc",
+                "weights": 0.07,
+                "qty": 2686
+            },
+            {
+                "code": "FANG UQ",
+                "ym": null,
+                "name": "DIAMONDBACK ENERGY INC",
+                "ename": "Diamondback Energy Inc",
+                "weights": 0.07,
+                "qty": 2275
+            },
+            {
+                "code": "FICO UN",
+                "ym": null,
+                "name": "FAIR ISAAC CORP",
+                "ename": "Fair Isaac Corp",
+                "weights": 0.07,
+                "qty": 314
+            },
+            {
+                "code": "FTV UN",
+                "ym": null,
+                "name": "FORTIVE CORP",
+                "ename": "Fortive Corp",
+                "weights": 0.07,
+                "qty": 4468
+            },
+            {
+                "code": "HAL UN",
+                "ym": null,
+                "name": "HALLIBURTON CO",
+                "ename": "Halliburton Co",
+                "weights": 0.07,
+                "qty": 11379
+            },
+            {
+                "code": "HIG UN",
+                "ym": null,
+                "name": "HARTFORD FINANCIAL SVCS GRP",
+                "ename": "Hartford Financial Services Group Inc/The",
+                "weights": 0.07,
+                "qty": 3824
+            },
+            {
+                "code": "KDP UQ",
+                "ym": null,
+                "name": "KEURIG DR PEPPER INC",
+                "ename": "Keurig Dr Pepper Inc",
+                "weights": 0.07,
+                "qty": 12800
+            },
+            {
+                "code": "KHC UQ",
+                "ym": null,
+                "name": "KRAFT HEINZ CO/THE",
+                "ename": "Kraft Heinz Co/The",
+                "weights": 0.07,
+                "qty": 10136
+            },
+            {
+                "code": "KR UN",
+                "ym": null,
+                "name": "KROGER CO",
+                "ename": "Kroger Co/The",
+                "weights": 0.07,
+                "qty": 8413
+            },
+            {
+                "code": "KVUE UN",
+                "ym": null,
+                "name": "KENVUE INC",
+                "ename": "Kenvue Inc",
+                "weights": 0.07,
+                "qty": 21911
+            },
+            {
+                "code": "MRNA UQ",
+                "ym": null,
+                "name": "MODERNA INC",
+                "ename": "Moderna Inc",
+                "weights": 0.07,
+                "qty": 4217
+            },
+            {
+                "code": "PEG UN",
+                "ym": null,
+                "name": "PUBLIC SERVICE ENTERPRISE GP",
+                "ename": "Public Service Enterprise Group Inc",
+                "weights": 0.07,
+                "qty": 6335
+            },
+            {
+                "code": "RCL UN",
+                "ym": null,
+                "name": "ROYAL CARIBBEAN CRUISES LTD",
+                "ename": "Royal Caribbean Cruises Ltd",
+                "weights": 0.07,
+                "qty": 2997
+            },
+            {
+                "code": "ROK UN",
+                "ym": null,
+                "name": "ROCKWELL AUTOMATION INC",
+                "ename": "Rockwell Automation Inc",
+                "weights": 0.07,
+                "qty": 1458
+            },
+            {
+                "code": "VICI UN",
+                "ym": null,
+                "name": "VICI PROPERTIES INC",
+                "ename": "VICI Properties Inc",
+                "weights": 0.07,
+                "qty": 13152
+            },
+            {
+                "code": "XEL UQ",
+                "ym": null,
+                "name": "XCEL ENERGY INC",
+                "ename": "Xcel Energy Inc",
+                "weights": 0.07,
+                "qty": 7015
+            },
+            {
+                "code": "XYL UN",
+                "ym": null,
+                "name": "XYLEM INC",
+                "ename": "Xylem Inc/NY",
+                "weights": 0.07,
+                "qty": 3065
+            },
+            {
+                "code": "ADM UN",
+                "ym": null,
+                "name": "ARCHER-DANIELS-MIDLAND CO",
+                "ename": "Archer-Daniels-Midland Co",
+                "weights": 0.06,
+                "qty": 6781
+            },
+            {
+                "code": "AVB UN",
+                "ym": null,
+                "name": "AVALONBAY COMMUNITIES INC",
+                "ename": "AvalonBay Communities Inc",
+                "weights": 0.06,
+                "qty": 1805
+            },
+            {
+                "code": "CAH UN",
+                "ym": null,
+                "name": "CARDINAL HEALTH INC",
+                "ename": "Cardinal Health Inc",
+                "weights": 0.06,
+                "qty": 3133
+            },
+            {
+                "code": "CBRE UN",
+                "ym": null,
+                "name": "CBRE GROUP INC - A",
+                "ename": "CBRE Group Inc",
+                "weights": 0.06,
+                "qty": 3875
+            },
+            {
+                "code": "CHD UN",
+                "ym": null,
+                "name": "CHURCH & DWIGHT CO INC",
+                "ename": "Church & Dwight Co Inc",
+                "weights": 0.06,
+                "qty": 3132
+            },
+            {
+                "code": "DAL UN",
+                "ym": null,
+                "name": "DELTA AIR LINES INC",
+                "ename": "Delta Air Lines Inc",
+                "weights": 0.06,
+                "qty": 8180
+            },
+            {
+                "code": "DVN UN",
+                "ym": null,
+                "name": "DEVON ENERGY CORP",
+                "ename": "Devon Energy Corp",
+                "weights": 0.06,
+                "qty": 8145
+            },
+            {
+                "code": "EIX UN",
+                "ym": null,
+                "name": "EDISON INTERNATIONAL",
+                "ename": "Edison International",
+                "weights": 0.06,
+                "qty": 4873
+            },
+            {
+                "code": "GLW UN",
+                "ym": null,
+                "name": "CORNING INC",
+                "ename": "Corning Inc",
+                "weights": 0.06,
+                "qty": 9762
+            },
+            {
+                "code": "HPQ UN",
+                "ym": null,
+                "name": "HP INC",
+                "ename": "HP Inc",
+                "weights": 0.06,
+                "qty": 11056
+            },
+            {
+                "code": "HSY UN",
+                "ym": null,
+                "name": "HERSHEY CO/THE",
+                "ename": "Hershey Co/The",
+                "weights": 0.06,
+                "qty": 1906
+            },
+            {
+                "code": "HWM UN",
+                "ym": null,
+                "name": "HOWMET AEROSPACE INC",
+                "ename": "Howmet Aerospace Inc",
+                "weights": 0.06,
+                "qty": 4973
+            },
+            {
+                "code": "KEYS UN",
+                "ym": null,
+                "name": "KEYSIGHT TECHNOLOGIES IN",
+                "ename": "Keysight Technologies Inc",
+                "weights": 0.06,
+                "qty": 2258
+            },
+            {
+                "code": "LYB UN",
+                "ym": null,
+                "name": "LYONDELLBASELL INDU-CL A",
+                "ename": "LyondellBasell Industries NV",
+                "weights": 0.06,
+                "qty": 3258
+            },
+            {
+                "code": "MTD UN",
+                "ym": null,
+                "name": "METTLER-TOLEDO INTERNATIONAL",
+                "ename": "Mettler-Toledo International Inc",
+                "weights": 0.06,
+                "qty": 276
+            },
+            {
+                "code": "PNC UN",
+                "ym": null,
+                "name": "PNC FINANCIAL SERVICES GROUP",
+                "ename": "PNC Financial Services Group Inc/The",
+                "weights": 0.06,
+                "qty": 2311
+            },
+            {
+                "code": "RMD UN",
+                "ym": null,
+                "name": "RESMED INC",
+                "ename": "ResMed Inc",
+                "weights": 0.06,
+                "qty": 1870
+            },
+            {
+                "code": "TFC UN",
+                "ym": null,
+                "name": "TRUIST FINANCIAL CORP",
+                "ename": "Truist Financial Corp",
+                "weights": 0.06,
+                "qty": 8866
+            },
+            {
+                "code": "TROW UQ",
+                "ym": null,
+                "name": "T ROWE PRICE GROUP INC",
+                "ename": "T Rowe Price Group Inc",
+                "weights": 0.06,
+                "qty": 2841
+            },
+            {
+                "code": "TSCO UQ",
+                "ym": null,
+                "name": "TRACTOR SUPPLY COMPANY",
+                "ename": "Tractor Supply Co",
+                "weights": 0.06,
+                "qty": 1374
+            },
+            {
+                "code": "ULTA UQ",
+                "ym": null,
+                "name": "ULTA BEAUTY INC",
+                "ename": "Ulta Beauty Inc",
+                "weights": 0.06,
+                "qty": 626
+            },
+            {
+                "code": "WAB UN",
+                "ym": null,
+                "name": "WABTEC CORP",
+                "ename": "Westinghouse Air Brake Technologies Corp",
+                "weights": 0.06,
+                "qty": 2278
+            },
+            {
+                "code": "WEC UN",
+                "ym": null,
+                "name": "WEC ENERGY GROUP INC",
+                "ename": "WEC Energy Group Inc",
+                "weights": 0.06,
+                "qty": 4010
+            },
+            {
+                "code": "WST UN",
+                "ym": null,
+                "name": "WEST PHARMACEUTICAL SERVICES",
+                "ename": "West Pharmaceutical Services Inc",
+                "weights": 0.06,
+                "qty": 941
+            },
+            {
+                "code": "WTW UQ",
+                "ym": null,
+                "name": "WILLIS TOWERS WATSON PLC",
+                "ename": "Willis Towers Watson PLC",
+                "weights": 0.06,
+                "qty": 1313
+            },
+            {
+                "code": "ZBH UN",
+                "ym": null,
+                "name": "ZIMMER BIOMET HOLDINGS INC",
+                "ename": "Zimmer Biomet Holdings Inc",
+                "weights": 0.06,
+                "qty": 2657
+            },
+            {
+                "code": "ALGN UQ",
+                "ym": null,
+                "name": "ALIGN TECHNOLOGY INC",
+                "ename": "Align Technology Inc",
+                "weights": 0.05,
+                "qty": 906
+            },
+            {
+                "code": "APTV UN",
+                "ym": null,
+                "name": "APTIV PLC",
+                "ename": "Aptiv PLC",
+                "weights": 0.05,
+                "qty": 3596
+            },
+            {
+                "code": "AWK UN",
+                "ym": null,
+                "name": "AMERICAN WATER WORKS CO INC",
+                "ename": "American Water Works Co Inc",
+                "weights": 0.05,
+                "qty": 2475
+            },
+            {
+                "code": "BALL UN",
+                "ym": null,
+                "name": "BALL CORP",
+                "ename": "Ball Corp",
+                "weights": 0.05,
+                "qty": 4008
+            },
+            {
+                "code": "BAX UN",
+                "ym": null,
+                "name": "BAXTER INTERNATIONAL INC",
+                "ename": "Baxter International Inc",
+                "weights": 0.05,
+                "qty": 6450
+            },
+            {
+                "code": "BLDR UN",
+                "ym": null,
+                "name": "BUILDERS FIRSTSOURCE INC",
+                "ename": "Builders FirstSource Inc",
+                "weights": 0.05,
+                "qty": 1569
+            },
+            {
+                "code": "BR UN",
+                "ym": null,
+                "name": "BROADRIDGE FINANCIAL SOLUTIO",
+                "ename": "Broadridge Financial Solutions Inc",
+                "weights": 0.05,
+                "qty": 1496
+            },
+            {
+                "code": "BRO UN",
+                "ym": null,
+                "name": "BROWN & BROWN INC",
+                "ename": "Brown & Brown Inc",
+                "weights": 0.05,
+                "qty": 3003
+            },
+            {
+                "code": "CBOE UF",
+                "ym": null,
+                "name": "CBOE GLOBAL MARKETS INC",
+                "ename": "Cboe Global Markets Inc",
+                "weights": 0.05,
+                "qty": 1342
+            },
+            {
+                "code": "DOV UN",
+                "ym": null,
+                "name": "DOVER CORP",
+                "ename": "Dover Corp",
+                "weights": 0.05,
+                "qty": 1778
+            },
+            {
+                "code": "DRI UN",
+                "ym": null,
+                "name": "DARDEN RESTAURANTS INC",
+                "ename": "Darden Restaurants Inc",
+                "weights": 0.05,
+                "qty": 1530
+            },
+            {
+                "code": "DTE UN",
+                "ym": null,
+                "name": "DTE ENERGY COMPANY",
+                "ename": "DTE Energy Co",
+                "weights": 0.05,
+                "qty": 2621
+            },
+            {
+                "code": "EBAY UQ",
+                "ym": null,
+                "name": "EBAY INC",
+                "ename": "eBay Inc",
+                "weights": 0.05,
+                "qty": 6598
+            },
+            {
+                "code": "EQR UN",
+                "ym": null,
+                "name": "EQUITY RESIDENTIAL",
+                "ename": "Equity Residential",
+                "weights": 0.05,
+                "qty": 4393
+            },
+            {
+                "code": "ES UN",
+                "ym": null,
+                "name": "EVERSOURCE ENERGY",
+                "ename": "Eversource Energy",
+                "weights": 0.05,
+                "qty": 4441
+            },
+            {
+                "code": "ETR UN",
+                "ym": null,
+                "name": "ENTERGY CORP",
+                "ename": "Entergy Corp",
+                "weights": 0.05,
+                "qty": 2688
+            },
+            {
+                "code": "FLT UN",
+                "ym": null,
+                "name": "FLEETCOR TECHNOLOGIES INC",
+                "ename": "FleetCor Technologies Inc",
+                "weights": 0.05,
+                "qty": 918
+            },
+            {
+                "code": "GPC UN",
+                "ym": null,
+                "name": "GENUINE PARTS CO",
+                "ename": "Genuine Parts Co",
+                "weights": 0.05,
+                "qty": 1782
+            },
+            {
+                "code": "GRMN UN",
+                "ym": null,
+                "name": "GARMIN LTD",
+                "ename": "Garmin Ltd",
+                "weights": 0.05,
+                "qty": 1946
+            },
+            {
+                "code": "HUBB UN",
+                "ym": null,
+                "name": "HUBBELL INC",
+                "ename": "Hubbell Inc",
+                "weights": 0.05,
+                "qty": 682
+            },
+            {
+                "code": "ILMN UQ",
+                "ym": null,
+                "name": "ILLUMINA INC",
+                "ename": "Illumina Inc",
+                "weights": 0.05,
+                "qty": 2019
+            },
+            {
+                "code": "IRM UN",
+                "ym": null,
+                "name": "IRON MOUNTAIN INC",
+                "ename": "Iron Mountain Inc",
+                "weights": 0.05,
+                "qty": 3712
+            },
+            {
+                "code": "LUV UN",
+                "ym": null,
+                "name": "SOUTHWEST AIRLINES CO",
+                "ename": "Southwest Airlines Co",
+                "weights": 0.05,
+                "qty": 7579
+            },
+            {
+                "code": "LVS UN",
+                "ym": null,
+                "name": "LAS VEGAS SANDS CORP",
+                "ename": "Las Vegas Sands Corp",
+                "weights": 0.05,
+                "qty": 4693
+            },
+            {
+                "code": "MOH UN",
+                "ym": null,
+                "name": "MOLINA HEALTHCARE INC",
+                "ename": "Molina Healthcare Inc",
+                "weights": 0.05,
+                "qty": 741
+            },
+            {
+                "code": "NVR UN",
+                "ym": null,
+                "name": "NVR INC",
+                "ename": "NVR Inc",
+                "weights": 0.05,
+                "qty": 40
+            },
+            {
+                "code": "PHM UN",
+                "ym": null,
+                "name": "PULTEGROUP INC",
+                "ename": "PulteGroup Inc",
+                "weights": 0.05,
+                "qty": 2741
+            },
+            {
+                "code": "PTC UQ",
+                "ym": null,
+                "name": "PTC INC",
+                "ename": "PTC Inc",
+                "weights": 0.05,
+                "qty": 1511
+            },
+            {
+                "code": "RJF UN",
+                "ym": null,
+                "name": "RAYMOND JAMES FINANCIAL INC",
+                "ename": "Raymond James Financial Inc",
+                "weights": 0.05,
+                "qty": 2389
+            },
+            {
+                "code": "SBAC UQ",
+                "ym": null,
+                "name": "SBA COMMUNICATIONS CORP",
+                "ename": "SBA Communications Corp",
+                "weights": 0.05,
+                "qty": 1372
+            },
+            {
+                "code": "STE UN",
+                "ym": null,
+                "name": "STERIS PLC",
+                "ename": "STERIS PLC",
+                "weights": 0.05,
+                "qty": 1256
+            },
+            {
+                "code": "STLD UQ",
+                "ym": null,
+                "name": "STEEL DYNAMICS INC",
+                "ename": "Steel Dynamics Inc",
+                "weights": 0.05,
+                "qty": 1934
+            },
+            {
+                "code": "STT UN",
+                "ym": null,
+                "name": "STATE STREET CORP",
+                "ename": "State Street Corp",
+                "weights": 0.05,
+                "qty": 3923
+            },
+            {
+                "code": "TDY UN",
+                "ym": null,
+                "name": "TELEDYNE TECHNOLOGIES INC",
+                "ename": "Teledyne Technologies Inc",
+                "weights": 0.05,
+                "qty": 600
+            },
+            {
+                "code": "TRGP UN",
+                "ym": null,
+                "name": "TARGA RESOURCES CORP",
+                "ename": "Targa Resources Corp",
+                "weights": 0.05,
+                "qty": 2835
+            },
+            {
+                "code": "TTWO UQ",
+                "ym": null,
+                "name": "TAKE-TWO INTERACTIVE SOFTWRE",
+                "ename": "Take-Two Interactive Software Inc",
+                "weights": 0.05,
+                "qty": 2011
+            },
+            {
+                "code": "WAT UN",
+                "ym": null,
+                "name": "WATERS CORP",
+                "ename": "Waters Corp",
+                "weights": 0.05,
+                "qty": 752
+            },
+            {
+                "code": "WY UN",
+                "ym": null,
+                "name": "WEYERHAEUSER CO",
+                "ename": "Weyerhaeuser Co",
+                "weights": 0.05,
+                "qty": 9281
+            },
+            {
+                "code": "AEE UN",
+                "ym": null,
+                "name": "AMEREN CORPORATION",
+                "ename": "Ameren Corp",
+                "weights": 0.04,
+                "qty": 3343
+            },
+            {
+                "code": "AKAM UQ",
+                "ym": null,
+                "name": "AKAMAI TECHNOLOGIES INC",
+                "ename": "Akamai Technologies Inc",
+                "weights": 0.04,
+                "qty": 1918
+            },
+            {
+                "code": "ARE UN",
+                "ym": null,
+                "name": "ALEXANDRIA REAL ESTATE EQUIT",
+                "ename": "Alexandria Real Estate Equities Inc",
+                "weights": 0.04,
+                "qty": 1988
+            },
+            {
+                "code": "ATO UN",
+                "ym": null,
+                "name": "ATMOS ENERGY CORP",
+                "ename": "Atmos Energy Corp",
+                "weights": 0.04,
+                "qty": 1888
+            },
+            {
+                "code": "AVY UN",
+                "ym": null,
+                "name": "AVERY DENNISON CORP",
+                "ename": "Avery Dennison Corp",
+                "weights": 0.04,
+                "qty": 1024
+            },
+            {
+                "code": "AXON UQ",
+                "ym": null,
+                "name": "AXON ENTERPRISE INC",
+                "ename": "Axon Enterprise Inc",
+                "weights": 0.04,
+                "qty": 895
+            },
+            {
+                "code": "BBY UN",
+                "ym": null,
+                "name": "BEST BUY CO INC",
+                "ename": "Best Buy Co Inc",
+                "weights": 0.04,
+                "qty": 2463
+            },
+            {
+                "code": "CCL UN",
+                "ym": null,
+                "name": "CARNIVAL CORP",
+                "ename": "Carnival Corp",
+                "weights": 0.04,
+                "qty": 12809
+            },
+            {
+                "code": "CINF UQ",
+                "ym": null,
+                "name": "CINCINNATI FINANCIAL CORP",
+                "ename": "Cincinnati Financial Corp",
+                "weights": 0.04,
+                "qty": 1995
+            },
+            {
+                "code": "CLX UN",
+                "ym": null,
+                "name": "CLOROX COMPANY",
+                "ename": "Clorox Co/The",
+                "weights": 0.04,
+                "qty": 1576
+            },
+            {
+                "code": "CMS UN",
+                "ym": null,
+                "name": "CMS ENERGY CORP",
+                "ename": "CMS Energy Corp",
+                "weights": 0.04,
+                "qty": 3709
+            },
+            {
+                "code": "CNP UN",
+                "ym": null,
+                "name": "CENTERPOINT ENERGY INC",
+                "ename": "CenterPoint Energy Inc",
+                "weights": 0.04,
+                "qty": 8025
+            },
+            {
+                "code": "COO UQ",
+                "ym": null,
+                "name": "COOPER COS INC/THE",
+                "ename": "Cooper Cos Inc/The",
+                "weights": 0.04,
+                "qty": 2397
+            },
+            {
+                "code": "CTRA UN",
+                "ym": null,
+                "name": "COTERRA ENERGY INC",
+                "ename": "Coterra Energy Inc",
+                "weights": 0.04,
+                "qty": 9563
+            },
+            {
+                "code": "DPZ UN",
+                "ym": null,
+                "name": "DOMINO`S PIZZA INC",
+                "ename": "Domino`s Pizza Inc",
+                "weights": 0.04,
+                "qty": 443
+            },
+            {
+                "code": "EG UN",
+                "ym": null,
+                "name": "EVEREST GROUP LTD",
+                "ename": "Everest Group Ltd",
+                "weights": 0.04,
+                "qty": 552
+            },
+            {
+                "code": "ENPH UQ",
+                "ym": null,
+                "name": "ENPHASE ENERGY INC",
+                "ename": "Enphase Energy Inc",
+                "weights": 0.04,
+                "qty": 1736
+            },
+            {
+                "code": "EPAM UN",
+                "ym": null,
+                "name": "EPAM SYSTEMS INC",
+                "ename": "EPAM Systems Inc",
+                "weights": 0.04,
+                "qty": 734
+            },
+            {
+                "code": "EXPD UN",
+                "ym": null,
+                "name": "EXPEDITORS INTL WASH INC",
+                "ename": "Expeditors International of Washington Inc",
+                "weights": 0.04,
+                "qty": 1848
+            },
+            {
+                "code": "EXPE UQ",
+                "ym": null,
+                "name": "EXPEDIA GROUP INC",
+                "ename": "Expedia Group Inc",
+                "weights": 0.04,
+                "qty": 1695
+            },
+            {
+                "code": "FDS UN",
+                "ym": null,
+                "name": "FACTSET RESEARCH SYSTEMS INC",
+                "ename": "FactSet Research Systems Inc",
+                "weights": 0.04,
+                "qty": 483
+            },
+            {
+                "code": "FE UN",
+                "ym": null,
+                "name": "FIRSTENERGY CORP",
+                "ename": "FirstEnergy Corp",
+                "weights": 0.04,
+                "qty": 6566
+            },
+            {
+                "code": "FSLR UQ",
+                "ym": null,
+                "name": "FIRST SOLAR INC",
+                "ename": "First Solar Inc",
+                "weights": 0.04,
+                "qty": 1358
+            },
+            {
+                "code": "HBAN UQ",
+                "ym": null,
+                "name": "HUNTINGTON BANCSHARES INC",
+                "ename": "Huntington Bancshares Inc/OH",
+                "weights": 0.04,
+                "qty": 18410
+            },
+            {
+                "code": "HOLX UQ",
+                "ym": null,
+                "name": "HOLOGIC INC",
+                "ename": "Hologic Inc",
+                "weights": 0.04,
+                "qty": 3114
+            },
+            {
+                "code": "HPE UN",
+                "ym": null,
+                "name": "HEWLETT PACKARD ENTERPRISE",
+                "ename": "Hewlett Packard Enterprise Co",
+                "weights": 0.04,
+                "qty": 16309
+            },
+            {
+                "code": "IEX UN",
+                "ym": null,
+                "name": "IDEX CORP",
+                "ename": "IDEX Corp",
+                "weights": 0.04,
+                "qty": 961
+            },
+            {
+                "code": "IFF UN",
+                "ym": null,
+                "name": "INTL FLAVORS & FRAGRANCES",
+                "ename": "International Flavors & Fragrances Inc",
+                "weights": 0.04,
+                "qty": 3245
+            },
+            {
+                "code": "INVH UN",
+                "ym": null,
+                "name": "INVITATION HOMES INC",
+                "ename": "Invitation Homes Inc",
+                "weights": 0.04,
+                "qty": 7313
+            },
+            {
+                "code": "J UN",
+                "ym": null,
+                "name": "JACOBS SOLUTIONS INC",
+                "ename": "Jacobs Solutions Inc",
+                "weights": 0.04,
+                "qty": 1601
+            },
+            {
+                "code": "JBHT UQ",
+                "ym": null,
+                "name": "HUNT (JB) TRANSPRT SVCS INC",
+                "ename": "JB Hunt Transport Services Inc",
+                "weights": 0.04,
+                "qty": 1036
+            },
+            {
+                "code": "JBL UN",
+                "ym": null,
+                "name": "JABIL INC",
+                "ename": "Jabil Inc",
+                "weights": 0.04,
+                "qty": 1627
+            },
+            {
+                "code": "LDOS UN",
+                "ym": null,
+                "name": "LEIDOS HOLDINGS INC",
+                "ename": "Leidos Holdings Inc",
+                "weights": 0.04,
+                "qty": 1748
+            },
+            {
+                "code": "LH UN",
+                "ym": null,
+                "name": "LABORATORY CRP OF AMER HLDGS",
+                "ename": "Laboratory Corp of America Holdings",
+                "weights": 0.04,
+                "qty": 1079
+            },
+            {
+                "code": "MAS UN",
+                "ym": null,
+                "name": "MASCO CORP",
+                "ename": "Masco Corp",
+                "weights": 0.04,
+                "qty": 2854
+            },
+            {
+                "code": "MKC UN",
+                "ym": null,
+                "name": "MCCORMICK & CO-NON VTG SHRS",
+                "ename": "McCormick & Co Inc/MD",
+                "weights": 0.04,
+                "qty": 3195
+            },
+            {
+                "code": "MTB UN",
+                "ym": null,
+                "name": "M & T BANK CORP",
+                "ename": "M&T Bank Corp",
+                "weights": 0.04,
+                "qty": 1777
+            },
+            {
+                "code": "NDAQ UQ",
+                "ym": null,
+                "name": "NASDAQ INC",
+                "ename": "Nasdaq Inc",
+                "weights": 0.04,
+                "qty": 4328
+            },
+            {
+                "code": "NTAP UQ",
+                "ym": null,
+                "name": "NETAPP INC",
+                "ename": "NetApp Inc",
+                "weights": 0.04,
+                "qty": 2654
+            },
+            {
+                "code": "NTRS UQ",
+                "ym": null,
+                "name": "NORTHERN TRUST CORP",
+                "ename": "Northern Trust Corp",
+                "weights": 0.04,
+                "qty": 2632
+            },
+            {
+                "code": "OMC UN",
+                "ym": null,
+                "name": "OMNICOM GROUP",
+                "ename": "Omnicom Group Inc",
+                "weights": 0.04,
+                "qty": 2516
+            },
+            {
+                "code": "PFG UQ",
+                "ym": null,
+                "name": "PRINCIPAL FINANCIAL GROUP",
+                "ename": "Principal Financial Group Inc",
+                "weights": 0.04,
+                "qty": 2788
+            },
+            {
+                "code": "PKG UN",
+                "ym": null,
+                "name": "PACKAGING CORP OF AMERICA",
+                "ename": "Packaging Corp of America",
+                "weights": 0.04,
+                "qty": 1139
+            },
+            {
+                "code": "PPL UN",
+                "ym": null,
+                "name": "PPL CORP",
+                "ename": "PPL Corp",
+                "weights": 0.04,
+                "qty": 9371
+            },
+            {
+                "code": "STX UQ",
+                "ym": null,
+                "name": "SEAGATE TECHNOLOGY HOLDINGS",
+                "ename": "Seagate Technology Holdings PLC",
+                "weights": 0.04,
+                "qty": 2473
+            },
+            {
+                "code": "SWKS UQ",
+                "ym": null,
+                "name": "SKYWORKS SOLUTIONS INC",
+                "ename": "Skyworks Solutions Inc",
+                "weights": 0.04,
+                "qty": 2026
+            },
+            {
+                "code": "SYF UN",
+                "ym": null,
+                "name": "SYNCHRONY FINANCIAL",
+                "ename": "Synchrony Financial",
+                "weights": 0.04,
+                "qty": 5261
+            },
+            {
+                "code": "TER UQ",
+                "ym": null,
+                "name": "TERADYNE INC",
+                "ename": "Teradyne Inc",
+                "weights": 0.04,
+                "qty": 1944
+            },
+            {
+                "code": "TRMB UQ",
+                "ym": null,
+                "name": "TRIMBLE INC",
+                "ename": "Trimble Inc",
+                "weights": 0.04,
+                "qty": 3163
+            },
+            {
+                "code": "TSN UN",
+                "ym": null,
+                "name": "TYSON FOODS INC-CL A",
+                "ename": "Tyson Foods Inc",
+                "weights": 0.04,
+                "qty": 3626
+            },
+            {
+                "code": "TXT UN",
+                "ym": null,
+                "name": "TEXTRON INC",
+                "ename": "Textron Inc",
+                "weights": 0.04,
+                "qty": 2492
+            },
+            {
+                "code": "TYL UN",
+                "ym": null,
+                "name": "TYLER TECHNOLOGIES INC",
+                "ename": "Tyler Technologies Inc",
+                "weights": 0.04,
+                "qty": 535
+            },
+            {
+                "code": "VLTO UN",
+                "ym": null,
+                "name": "VERALTO CORP",
+                "ename": "Veralto Corp",
+                "weights": 0.04,
+                "qty": 2787
+            },
+            {
+                "code": "VRSN UQ",
+                "ym": null,
+                "name": "VERISIGN INC",
+                "ename": "VeriSign Inc",
+                "weights": 0.04,
+                "qty": 1129
+            },
+            {
+                "code": "VTR UN",
+                "ym": null,
+                "name": "VENTAS INC",
+                "ename": "Ventas Inc",
+                "weights": 0.04,
+                "qty": 5116
+            },
+            {
+                "code": "VTRS UQ",
+                "ym": null,
+                "name": "VIATRIS INC",
+                "ename": "Viatris Inc",
+                "weights": 0.04,
+                "qty": 15252
+            },
+            {
+                "code": "WBA UQ",
+                "ym": null,
+                "name": "WALGREENS BOOTS ALLIANCE INC",
+                "ename": "Walgreens Boots Alliance Inc",
+                "weights": 0.04,
+                "qty": 9116
+            },
+            {
+                "code": "WBD UQ",
+                "ym": null,
+                "name": "WARNER BROS DISCOVERY INC",
+                "ename": "Warner Bros Discovery Inc",
+                "weights": 0.04,
+                "qty": 28212
+            },
+            {
+                "code": "WDC UQ",
+                "ym": null,
+                "name": "WESTERN DIGITAL CORP",
+                "ename": "Western Digital Corp",
+                "weights": 0.04,
+                "qty": 4122
+            },
+            {
+                "code": "WRB UN",
+                "ym": null,
+                "name": "WR BERKLEY CORP",
+                "ename": "W R Berkley Corp",
+                "weights": 0.04,
+                "qty": 2590
+            },
+            {
+                "code": "ALB UN",
+                "ym": null,
+                "name": "ALBEMARLE CORP",
+                "ename": "Albemarle Corp",
+                "weights": 0.03,
+                "qty": 1492
+            },
+            {
+                "code": "ALLE UN",
+                "ym": null,
+                "name": "ALLEGION PLC",
+                "ename": "Allegion plc",
+                "weights": 0.03,
+                "qty": 1116
+            },
+            {
+                "code": "AMCR UN",
+                "ym": null,
+                "name": "AMCOR PLC",
+                "ename": "Amcor PLC",
+                "weights": 0.03,
+                "qty": 18375
+            },
+            {
+                "code": "BG UN",
+                "ym": null,
+                "name": "BUNGE GLOBAL SA",
+                "ename": "Bunge Global SA",
+                "weights": 0.03,
+                "qty": 1847
+            },
+            {
+                "code": "CAG UN",
+                "ym": null,
+                "name": "CONAGRA BRANDS INC",
+                "ename": "Conagra Brands Inc",
+                "weights": 0.03,
+                "qty": 6076
+            },
+            {
+                "code": "CE UN",
+                "ym": null,
+                "name": "CELANESE CORP",
+                "ename": "Celanese Corp",
+                "weights": 0.03,
+                "qty": 1273
+            },
+            {
+                "code": "CF UN",
+                "ym": null,
+                "name": "CF INDUSTRIES HOLDINGS INC",
+                "ename": "CF Industries Holdings Inc",
+                "weights": 0.03,
+                "qty": 2429
+            },
+            {
+                "code": "CFG UN",
+                "ym": null,
+                "name": "CITIZENS FINANCIAL GROUP",
+                "ename": "Citizens Financial Group Inc",
+                "weights": 0.03,
+                "qty": 5492
+            },
+            {
+                "code": "CRL UN",
+                "ym": null,
+                "name": "CHARLES RIVER LABORATORIES",
+                "ename": "Charles River Laboratories International Inc",
+                "weights": 0.03,
+                "qty": 652
+            },
+            {
+                "code": "DGX UN",
+                "ym": null,
+                "name": "QUEST DIAGNOSTICS INC",
+                "ename": "Quest Diagnostics Inc",
+                "weights": 0.03,
+                "qty": 1429
+            },
+            {
+                "code": "EQT UN",
+                "ym": null,
+                "name": "EQT CORP",
+                "ename": "EQT Corp",
+                "weights": 0.03,
+                "qty": 5229
+            },
+            {
+                "code": "ESS UN",
+                "ym": null,
+                "name": "ESSEX PROPERTY TRUST INC",
+                "ename": "Essex Property Trust Inc",
+                "weights": 0.03,
+                "qty": 816
+            },
+            {
+                "code": "EVRG UQ",
+                "ym": null,
+                "name": "EVERGY INC",
+                "ename": "Evergy Inc",
+                "weights": 0.03,
+                "qty": 2920
+            },
+            {
+                "code": "FFIV UQ",
+                "ym": null,
+                "name": "F5 INC",
+                "ename": "F5 Inc",
+                "weights": 0.03,
+                "qty": 759
+            },
+            {
+                "code": "GEN UQ",
+                "ym": null,
+                "name": "GEN DIGITAL INC",
+                "ename": "Gen Digital Inc",
+                "weights": 0.03,
+                "qty": 7168
+            },
+            {
+                "code": "GL UN",
+                "ym": null,
+                "name": "GLOBE LIFE INC",
+                "ename": "Globe Life Inc",
+                "weights": 0.03,
+                "qty": 1089
+            },
+            {
+                "code": "HII UN",
+                "ym": null,
+                "name": "HUNTINGTON INGALLS INDUSTRIE",
+                "ename": "Huntington Ingalls Industries Inc",
+                "weights": 0.03,
+                "qty": 505
+            },
+            {
+                "code": "HST UQ",
+                "ym": null,
+                "name": "HOST HOTELS & RESORTS INC",
+                "ename": "Host Hotels & Resorts Inc",
+                "weights": 0.03,
+                "qty": 8968
+            },
+            {
+                "code": "INCY UQ",
+                "ym": null,
+                "name": "INCYTE CORP",
+                "ename": "Incyte Corp",
+                "weights": 0.03,
+                "qty": 2365
+            },
+            {
+                "code": "IP UN",
+                "ym": null,
+                "name": "INTERNATIONAL PAPER CO",
+                "ename": "International Paper Co",
+                "weights": 0.03,
+                "qty": 4399
+            },
+            {
+                "code": "IPG UN",
+                "ym": null,
+                "name": "INTERPUBLIC GROUP OF COS INC",
+                "ename": "Interpublic Group of Cos Inc/The",
+                "weights": 0.03,
+                "qty": 4869
+            },
+            {
+                "code": "JKHY UQ",
+                "ym": null,
+                "name": "JACK HENRY & ASSOCIATES INC",
+                "ename": "Jack Henry & Associates Inc",
+                "weights": 0.03,
+                "qty": 926
+            },
+            {
+                "code": "JNPR UN",
+                "ym": null,
+                "name": "JUNIPER NETWORKS INC",
+                "ename": "Juniper Networks Inc",
+                "weights": 0.03,
+                "qty": 4054
+            },
+            {
+                "code": "K UN",
+                "ym": null,
+                "name": "KELLANOVA",
+                "ename": "Kellanova",
+                "weights": 0.03,
+                "qty": 3353
+            },
+            {
+                "code": "KIM UN",
+                "ym": null,
+                "name": "KIMCO REALTY CORP",
+                "ename": "Kimco Realty Corp",
+                "weights": 0.03,
+                "qty": 8454
+            },
+            {
+                "code": "KMX UN",
+                "ym": null,
+                "name": "CARMAX INC",
+                "ename": "CarMax Inc",
+                "weights": 0.03,
+                "qty": 2017
+            },
+            {
+                "code": "L UN",
+                "ym": null,
+                "name": "LOEWS CORP",
+                "ename": "Loews Corp",
+                "weights": 0.03,
+                "qty": 2327
+            },
+            {
+                "code": "LKQ UQ",
+                "ym": null,
+                "name": "LKQ CORP",
+                "ename": "LKQ Corp",
+                "weights": 0.03,
+                "qty": 3402
+            },
+            {
+                "code": "LNT UQ",
+                "ym": null,
+                "name": "ALLIANT ENERGY CORP",
+                "ename": "Alliant Energy Corp",
+                "weights": 0.03,
+                "qty": 3244
+            },
+            {
+                "code": "LW UN",
+                "ym": null,
+                "name": "LAMB WESTON HOLDINGS INC",
+                "ename": "Lamb Weston Holdings Inc",
+                "weights": 0.03,
+                "qty": 1842
+            },
+            {
+                "code": "LYV UN",
+                "ym": null,
+                "name": "LIVE NATION ENTERTAINMENT IN",
+                "ename": "Live Nation Entertainment Inc",
+                "weights": 0.03,
+                "qty": 1804
+            },
+            {
+                "code": "MAA UN",
+                "ym": null,
+                "name": "MID-AMERICA APARTMENT COMM",
+                "ename": "Mid-America Apartment Communities Inc",
+                "weights": 0.03,
+                "qty": 1483
+            },
+            {
+                "code": "MGM UN",
+                "ym": null,
+                "name": "MGM RESORTS INTERNATIONAL",
+                "ename": "MGM Resorts International",
+                "weights": 0.03,
+                "qty": 3474
+            },
+            {
+                "code": "MRO UN",
+                "ym": null,
+                "name": "MARATHON OIL CORP",
+                "ename": "Marathon Oil Corp",
+                "weights": 0.03,
+                "qty": 7440
+            },
+            {
+                "code": "NDSN UQ",
+                "ym": null,
+                "name": "NORDSON CORP",
+                "ename": "Nordson Corp",
+                "weights": 0.03,
+                "qty": 689
+            },
+            {
+                "code": "NRG UN",
+                "ym": null,
+                "name": "NRG ENERGY INC",
+                "ename": "NRG Energy Inc",
+                "weights": 0.03,
+                "qty": 2870
+            },
+            {
+                "code": "PNR UN",
+                "ym": null,
+                "name": "PENTAIR PLC",
+                "ename": "Pentair PLC",
+                "weights": 0.03,
+                "qty": 2101
+            },
+            {
+                "code": "PODD UQ",
+                "ym": null,
+                "name": "INSULET CORP",
+                "ename": "Insulet Corp",
+                "weights": 0.03,
+                "qty": 888
+            },
+            {
+                "code": "POOL UQ",
+                "ym": null,
+                "name": "POOL CORP",
+                "ename": "Pool Corp",
+                "weights": 0.03,
+                "qty": 492
+            },
+            {
+                "code": "QRVO UQ",
+                "ym": null,
+                "name": "QORVO INC",
+                "ename": "Qorvo Inc",
+                "weights": 0.03,
+                "qty": 1238
+            },
+            {
+                "code": "ROL UN",
+                "ym": null,
+                "name": "ROLLINS INC",
+                "ename": "Rollins Inc",
+                "weights": 0.03,
+                "qty": 3569
+            },
+            {
+                "code": "RVTY UN",
+                "ym": null,
+                "name": "REVVITY INC",
+                "ename": "Revvity Inc",
+                "weights": 0.03,
+                "qty": 1569
+            },
+            {
+                "code": "SJM UN",
+                "ym": null,
+                "name": "JM SMUCKER CO/THE",
+                "ename": "J M Smucker Co/The",
+                "weights": 0.03,
+                "qty": 1349
+            },
+            {
+                "code": "SNA UN",
+                "ym": null,
+                "name": "SNAP-ON INC",
+                "ename": "Snap-on Inc",
+                "weights": 0.03,
+                "qty": 671
+            },
+            {
+                "code": "SWK UN",
+                "ym": null,
+                "name": "STANLEY BLACK & DECKER INC",
+                "ename": "Stanley Black & Decker Inc",
+                "weights": 0.03,
+                "qty": 1949
+            },
+            {
+                "code": "TAP UN",
+                "ym": null,
+                "name": "MOLSON COORS BEVERAGE CO - B",
+                "ename": "Molson Coors Beverage Co",
+                "weights": 0.03,
+                "qty": 2354
+            },
+            {
+                "code": "TECH UQ",
+                "ym": null,
+                "name": "BIO-TECHNE CORP",
+                "ename": "Bio-Techne Corp",
+                "weights": 0.03,
+                "qty": 2011
+            },
+            {
+                "code": "UAL UQ",
+                "ym": null,
+                "name": "UNITED AIRLINES HOLDINGS INC",
+                "ename": "United Airlines Holdings Inc",
+                "weights": 0.03,
+                "qty": 4170
+            },
+            {
+                "code": "WRK UN",
+                "ym": null,
+                "name": "WESTROCK CO",
+                "ename": "Westrock Co",
+                "weights": 0.03,
+                "qty": 3260
+            },
+            {
+                "code": "ZBRA UQ",
+                "ym": null,
+                "name": "ZEBRA TECHNOLOGIES CORP-CL A",
+                "ename": "Zebra Technologies Corp",
+                "weights": 0.03,
+                "qty": 653
+            },
+            {
+                "code": "AAL UQ",
+                "ym": null,
+                "name": "AMERICAN AIRLINES GROUP INC",
+                "ename": "American Airlines Group Inc",
+                "weights": 0.02,
+                "qty": 8309
+            },
+            {
+                "code": "AES UN",
+                "ym": null,
+                "name": "AES CORP",
+                "ename": "AES Corp/The",
+                "weights": 0.02,
+                "qty": 8513
+            },
+            {
+                "code": "AIZ UN",
+                "ym": null,
+                "name": "ASSURANT INC",
+                "ename": "Assurant Inc",
+                "weights": 0.02,
+                "qty": 669
+            },
+            {
+                "code": "AOS UN",
+                "ym": null,
+                "name": "SMITH (A.O.) CORP",
+                "ename": "A O Smith Corp",
+                "weights": 0.02,
+                "qty": 1562
+            },
+            {
+                "code": "APA UQ",
+                "ym": null,
+                "name": "APA CORP",
+                "ename": "APA Corp",
+                "weights": 0.02,
+                "qty": 3899
+            },
+            {
+                "code": "BBWI UN",
+                "ym": null,
+                "name": "BATH & BODY WORKS INC",
+                "ename": "Bath & Body Works Inc",
+                "weights": 0.02,
+                "qty": 2891
+            },
+            {
+                "code": "BEN UN",
+                "ym": null,
+                "name": "FRANKLIN RESOURCES INC",
+                "ename": "Franklin Resources Inc",
+                "weights": 0.02,
+                "qty": 3584
+            },
+            {
+                "code": "BF/B UN",
+                "ym": null,
+                "name": "BROWN-FORMAN CORP-CLASS B",
+                "ename": "Brown-Forman Corp",
+                "weights": 0.02,
+                "qty": 2326
+            },
+            {
+                "code": "BIO UN",
+                "ym": null,
+                "name": "BIO-RAD LABORATORIES-A",
+                "ename": "Bio-Rad Laboratories Inc",
+                "weights": 0.02,
+                "qty": 266
+            },
+            {
+                "code": "BWA UN",
+                "ym": null,
+                "name": "BORGWARNER INC",
+                "ename": "BorgWarner Inc",
+                "weights": 0.02,
+                "qty": 2988
+            },
+            {
+                "code": "BXP UN",
+                "ym": null,
+                "name": "BOSTON PROPERTIES INC",
+                "ename": "Boston Properties Inc",
+                "weights": 0.02,
+                "qty": 1511
+            },
+            {
+                "code": "CHRW UQ",
+                "ym": null,
+                "name": "C.H. ROBINSON WORLDWIDE INC",
+                "ename": "CH Robinson Worldwide Inc",
+                "weights": 0.02,
+                "qty": 1483
+            },
+            {
+                "code": "CPB UN",
+                "ym": null,
+                "name": "CAMPBELL SOUP CO",
+                "ename": "Campbell Soup Co",
+                "weights": 0.02,
+                "qty": 2497
+            },
+            {
+                "code": "CPT UN",
+                "ym": null,
+                "name": "CAMDEN PROPERTY TRUST",
+                "ename": "Camden Property Trust",
+                "weights": 0.02,
+                "qty": 1357
+            },
+            {
+                "code": "CTLT UN",
+                "ym": null,
+                "name": "CATALENT INC",
+                "ename": "Catalent Inc",
+                "weights": 0.02,
+                "qty": 2292
+            },
+            {
+                "code": "CZR UQ",
+                "ym": null,
+                "name": "CAESARS ENTERTAINMENT INC",
+                "ename": "Caesars Entertainment Inc",
+                "weights": 0.02,
+                "qty": 2742
+            },
+            {
+                "code": "DAY UN",
+                "ym": null,
+                "name": "DAYFORCE INC",
+                "ename": "Dayforce Inc",
+                "weights": 0.02,
+                "qty": 1885
+            },
+            {
+                "code": "DVA UN",
+                "ym": null,
+                "name": "DAVITA INC",
+                "ename": "DaVita Inc",
+                "weights": 0.02,
+                "qty": 685
+            },
+            {
+                "code": "EMN UN",
+                "ym": null,
+                "name": "EASTMAN CHEMICAL CO",
+                "ename": "Eastman Chemical Co",
+                "weights": 0.02,
+                "qty": 1507
+            },
+            {
+                "code": "ETSY UQ",
+                "ym": null,
+                "name": "ETSY INC",
+                "ename": "Etsy Inc",
+                "weights": 0.02,
+                "qty": 1522
+            },
+            {
+                "code": "FITB UQ",
+                "ym": null,
+                "name": "FIFTH THIRD BANCORP",
+                "ename": "Fifth Third Bancorp",
+                "weights": 0.02,
+                "qty": 3938
+            },
+            {
+                "code": "FMC UN",
+                "ym": null,
+                "name": "FMC CORP",
+                "ename": "FMC Corp",
+                "weights": 0.02,
+                "qty": 1586
+            },
+            {
+                "code": "FOXA UQ",
+                "ym": null,
+                "name": "FOX CORP - CLASS A",
+                "ename": "Fox Corp",
+                "weights": 0.02,
+                "qty": 3143
+            },
+            {
+                "code": "GNRC UN",
+                "ym": null,
+                "name": "GENERAC HOLDINGS INC",
+                "ename": "Generac Holdings Inc",
+                "weights": 0.02,
+                "qty": 781
+            },
+            {
+                "code": "HAS UQ",
+                "ym": null,
+                "name": "HASBRO INC",
+                "ename": "Hasbro Inc",
+                "weights": 0.02,
+                "qty": 1658
+            },
+            {
+                "code": "HRL UN",
+                "ym": null,
+                "name": "HORMEL FOODS CORP",
+                "ename": "Hormel Foods Corp",
+                "weights": 0.02,
+                "qty": 3682
+            },
+            {
+                "code": "HSIC UQ",
+                "ym": null,
+                "name": "HENRY SCHEIN INC",
+                "ename": "Henry Schein Inc",
+                "weights": 0.02,
+                "qty": 1660
+            },
+            {
+                "code": "IVZ UN",
+                "ym": null,
+                "name": "INVESCO LTD",
+                "ename": "Invesco Ltd",
+                "weights": 0.02,
+                "qty": 5715
+            },
+            {
+                "code": "MKTX UQ",
+                "ym": null,
+                "name": "MARKETAXESS HOLDINGS INC",
+                "ename": "MarketAxess Holdings Inc",
+                "weights": 0.02,
+                "qty": 482
+            },
+            {
+                "code": "MOS UN",
+                "ym": null,
+                "name": "MOSAIC CO/THE",
+                "ename": "Mosaic Co/The",
+                "weights": 0.02,
+                "qty": 4155
+            },
+            {
+                "code": "MTCH UQ",
+                "ym": null,
+                "name": "MATCH GROUP INC",
+                "ename": "Match Group Inc",
+                "weights": 0.02,
+                "qty": 3456
+            },
+            {
+                "code": "NCLH UN",
+                "ym": null,
+                "name": "NORWEGIAN CRUISE LINE HOLDIN",
+                "ename": "Norwegian Cruise Line Holdings Ltd",
+                "weights": 0.02,
+                "qty": 5409
+            },
+            {
+                "code": "NI UN",
+                "ym": null,
+                "name": "NISOURCE INC",
+                "ename": "NiSource Inc",
+                "weights": 0.02,
+                "qty": 5254
+            },
+            {
+                "code": "NWSA UQ",
+                "ym": null,
+                "name": "NEWS CORP - CLASS A",
+                "ename": "News Corp",
+                "weights": 0.02,
+                "qty": 4838
+            },
+            {
+                "code": "PAYC UN",
+                "ym": null,
+                "name": "PAYCOM SOFTWARE INC",
+                "ename": "Paycom Software Inc",
+                "weights": 0.02,
+                "qty": 624
+            },
+            {
+                "code": "PEAK UN",
+                "ym": null,
+                "name": "HEALTHPEAK PROPERTIES INC",
+                "ename": "Healthpeak Properties Inc",
+                "weights": 0.02,
+                "qty": 5792
+            },
+            {
+                "code": "PNW UN",
+                "ym": null,
+                "name": "PINNACLE WEST CAPITAL",
+                "ename": "Pinnacle West Capital Corp",
+                "weights": 0.02,
+                "qty": 1442
+            },
+            {
+                "code": "REG UQ",
+                "ym": null,
+                "name": "REGENCY CENTERS CORP",
+                "ename": "Regency Centers Corp",
+                "weights": 0.02,
+                "qty": 2088
+            },
+            {
+                "code": "RF UN",
+                "ym": null,
+                "name": "REGIONS FINANCIAL CORP",
+                "ename": "Regions Financial Corp",
+                "weights": 0.02,
+                "qty": 5382
+            },
+            {
+                "code": "RHI UN",
+                "ym": null,
+                "name": "ROBERT HALF INC",
+                "ename": "Robert Half Inc",
+                "weights": 0.02,
+                "qty": 1346
+            },
+            {
+                "code": "RL UN",
+                "ym": null,
+                "name": "RALPH LAUREN CORP",
+                "ename": "Ralph Lauren Corp",
+                "weights": 0.02,
+                "qty": 505
+            },
+            {
+                "code": "TFX UN",
+                "ym": null,
+                "name": "TELEFLEX INC",
+                "ename": "Teleflex Inc",
+                "weights": 0.02,
+                "qty": 597
+            },
+            {
+                "code": "TPR UN",
+                "ym": null,
+                "name": "TAPESTRY INC",
+                "ename": "Tapestry Inc",
+                "weights": 0.02,
+                "qty": 2914
+            },
+            {
+                "code": "UDR UN",
+                "ym": null,
+                "name": "UDR INC",
+                "ename": "UDR Inc",
+                "weights": 0.02,
+                "qty": 3847
+            },
+            {
+                "code": "UHS UN",
+                "ym": null,
+                "name": "UNIVERSAL HEALTH SERVICES-B",
+                "ename": "Universal Health Services Inc",
+                "weights": 0.02,
+                "qty": 776
+            },
+            {
+                "code": "WYNN UQ",
+                "ym": null,
+                "name": "WYNN RESORTS LTD",
+                "ename": "Wynn Resorts Ltd",
+                "weights": 0.02,
+                "qty": 1221
+            },
+            {
+                "code": "XRAY UQ",
+                "ym": null,
+                "name": "DENTSPLY SIRONA INC",
+                "ename": "DENTSPLY SIRONA Inc",
+                "weights": 0.02,
+                "qty": 2693
+            },
+            {
+                "code": "CMA UN",
+                "ym": null,
+                "name": "COMERICA INC",
+                "ename": "Comerica Inc",
+                "weights": 0.01,
+                "qty": 903
+            },
+            {
+                "code": "FOX UQ",
+                "ym": null,
+                "name": "FOX CORP - CLASS B",
+                "ename": "Fox Corp",
+                "weights": 0.01,
+                "qty": 1677
+            },
+            {
+                "code": "KEY UN",
+                "ym": null,
+                "name": "KEYCORP",
+                "ename": "KeyCorp",
+                "weights": 0.01,
+                "qty": 5378
+            },
+            {
+                "code": "MHK UN",
+                "ym": null,
+                "name": "MOHAWK INDUSTRIES INC",
+                "ename": "Mohawk Industries Inc",
+                "weights": 0.01,
+                "qty": 672
+            },
+            {
+                "code": "NWS UQ",
+                "ym": null,
+                "name": "NEWS CORP - CLASS B",
+                "ename": "News Corp",
+                "weights": 0.01,
+                "qty": 1460
+            },
+            {
+                "code": "PARA UQ",
+                "ym": null,
+                "name": "PARAMOUNT GLOBAL-CLASS B",
+                "ename": "Paramount Global",
+                "weights": 0.01,
+                "qty": 6134
+            },
+            {
+                "code": "VFC UN",
+                "ym": null,
+                "name": "VF CORP",
+                "ename": "VF Corp",
+                "weights": 0.01,
+                "qty": 4202
+            },
+            {
+                "code": "WHR UN",
+                "ym": null,
+                "name": "WHIRLPOOL CORP",
+                "ename": "Whirlpool Corp",
+                "weights": 0.01,
+                "qty": 697
+            },
+            {
+                "code": "ZION UQ",
+                "ym": null,
+                "name": "ZIONS BANCORP NA",
+                "ename": "Zions Bancorp NA",
+                "weights": 0.01,
+                "qty": 1045
+            },
+            {
+                "code": "FRT UN",
+                "ym": null,
+                "name": "FEDERAL REALTY INVS TRUST",
+                "ename": "Federal Realty Investment Trust",
+                "weights": 0,
+                "qty": 244
+            }
+        ],
+        "FutureWeights": [
+            {
+                "code": "ES",
+                "ym": "202403",
+                "name": "小S&P500指數期貨",
+                "ename": "Mini S&P500 Index Futures",
+                "weights": 2.7,
+                "qty": 59
+            }
+        ],
+        "ETFWeights": [],
+        "BondWeights": []
+    },
+    "Memo": null
+}

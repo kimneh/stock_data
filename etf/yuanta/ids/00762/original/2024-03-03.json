@@ -1,0 +1,618 @@
+{
+    "PCF": {
+        "fundid": "1187",
+        "fundname": "元大全球人工智慧ETF基金",
+        "fullname": "元大全球人工智慧ETF證券投資信託基金",
+        "ename": "Yuanta STOXX Global Artificial Intelligence ETF",
+        "markcd": "00762",
+        "trandate": "20240229",
+        "totalav": 2118620610,
+        "osunit": 36748000,
+        "nav": 57.65,
+        "baseunit": 500000,
+        "estcvalue": 28826339,
+        "estdvalue": -2269835,
+        "issuesdiff": 500000,
+        "cashdiff": 0,
+        "preallot": 31720000,
+        "allot": 28860165,
+        "anndate": "20240304",
+        "upddate": "2024-03-01 12:18:38",
+        "preunit": 39748000,
+        "predate": "20240301",
+        "allot_charge_fee": 0,
+        "redem_charge_fee": 0,
+        "Beneficiary": {
+            "doc_ym": "20240229",
+            "bf_cnt_a": 14013,
+            "upd_date": "2024-03-01T08:47:15"
+        }
+    },
+    "InKind": {
+        "FundComposition": null
+    },
+    "Cash": {
+        "TranDate": "20240229",
+        "CashPosition": [
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": 5.0864,
+                "amt": 107760951,
+                "trandate": "20240229"
+            },
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.0176,
+                "amt": 373719.13,
+                "trandate": "20240229"
+            },
+            {
+                "code": "1210",
+                "name": "應收股利",
+                "ename": "DIVIDENDS RECEIVABLES",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.0011,
+                "amt": 23142.96,
+                "trandate": "20240229"
+            },
+            {
+                "code": "3301",
+                "name": "應付申購預收款",
+                "ename": "PAYABLES",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": -0.1074,
+                "amt": -2274835,
+                "trandate": "20240229"
+            }
+        ],
+        "MMF": [],
+        "Margin": [
+            {
+                "code": null,
+                "name": "保證金",
+                "ename": "Margin",
+                "crncy": "NTD",
+                "exrate": 1,
+                "rto": 0,
+                "amt": 2000000,
+                "trandate": "20240229"
+            },
+            {
+                "code": null,
+                "name": "保證金",
+                "ename": "Margin",
+                "crncy": "USD",
+                "exrate": 31.602,
+                "rto": 0,
+                "amt": 810209.29,
+                "trandate": "20240229"
+            }
+        ],
+        "RP": [],
+        "ForwardExchange": [],
+        "Currency": [
+            {
+                "fundId": "1187",
+                "cDate": "20240229",
+                "crncy": "NTD",
+                "endRate": 31.602
+            },
+            {
+                "fundId": "1187",
+                "cDate": "20240229",
+                "crncy": "KRW",
+                "endRate": 1333.27
+            },
+            {
+                "fundId": "1187",
+                "cDate": "20240229",
+                "crncy": "JPY",
+                "endRate": 149.67
+            },
+            {
+                "fundId": "1187",
+                "cDate": "20240229",
+                "crncy": "HKD",
+                "endRate": 7.826
+            },
+            {
+                "fundId": "1187",
+                "cDate": "20240229",
+                "crncy": "EUR",
+                "endRate": 0.9235
+            },
+            {
+                "fundId": "1187",
+                "cDate": "20240229",
+                "crncy": "CNY",
+                "endRate": 7.194
+            },
+            {
+                "fundId": "1187",
+                "cDate": "20240229",
+                "crncy": "CNH",
+                "endRate": 7.2092
+            }
+        ],
+        "CouponRate": [],
+        "InvestArea": [
+            {
+                "TRAN_DATE": "20240229",
+                "FUND_ID": "1187",
+                "name": "美國",
+                "ename": "USA",
+                "HOLD_RTO": 86.24,
+                "CNT": 34
+            },
+            {
+                "TRAN_DATE": "20240229",
+                "FUND_ID": "1187",
+                "name": "台灣",
+                "ename": "TAIWAN",
+                "HOLD_RTO": 2.6,
+                "CNT": 6
+            },
+            {
+                "TRAN_DATE": "20240229",
+                "FUND_ID": "1187",
+                "name": "澳洲",
+                "ename": "Australia",
+                "HOLD_RTO": 2.44,
+                "CNT": 2
+            },
+            {
+                "TRAN_DATE": "20240229",
+                "FUND_ID": "1187",
+                "name": "香港",
+                "ename": "HK",
+                "HOLD_RTO": 2.34,
+                "CNT": 3
+            },
+            {
+                "TRAN_DATE": "20240229",
+                "FUND_ID": "1187",
+                "name": "日本",
+                "ename": "JAPAN",
+                "HOLD_RTO": 0.44,
+                "CNT": 2
+            },
+            {
+                "TRAN_DATE": "20240229",
+                "FUND_ID": "1187",
+                "name": "瑞士",
+                "ename": "Switzerland",
+                "HOLD_RTO": 0.16,
+                "CNT": 1
+            },
+            {
+                "TRAN_DATE": "20240229",
+                "FUND_ID": "1187",
+                "name": "現金",
+                "ename": "Cash",
+                "HOLD_RTO": 5.78,
+                "CNT": 0
+            }
+        ],
+        "CreditRating": []
+    },
+    "FundWeights": {
+        "Summary": {
+            "code": "1187",
+            "name": null,
+            "stkvalues": 1995986657,
+            "futvalues": 114290213.1,
+            "etfvalues": 0,
+            "bndvalues": 0,
+            "fundsize": 2118620610
+        },
+        "StockWeights": [
+            {
+                "code": "NVDA UQ",
+                "ym": null,
+                "name": "NVIDIA CORP",
+                "ename": "NVIDIA Corp",
+                "weights": 10.7,
+                "qty": 9065
+            },
+            {
+                "code": "META UQ",
+                "ym": null,
+                "name": "META PLATFORMS INC-CLASS A",
+                "ename": "Meta Platforms Inc",
+                "weights": 9.46,
+                "qty": 12933
+            },
+            {
+                "code": "MSFT UQ",
+                "ym": null,
+                "name": "MICROSOFT CORP",
+                "ename": "Microsoft Corp",
+                "weights": 7.05,
+                "qty": 11422
+            },
+            {
+                "code": "GOOGL UQ",
+                "ym": null,
+                "name": "ALPHABET INC-CL A",
+                "ename": "Alphabet Inc",
+                "weights": 6.39,
+                "qty": 30943
+            },
+            {
+                "code": "AMD UQ",
+                "ym": null,
+                "name": "ADVANCED MICRO DEVICES",
+                "ename": "Advanced Micro Devices Inc",
+                "weights": 5.33,
+                "qty": 18566
+            },
+            {
+                "code": "MRVL UQ",
+                "ym": null,
+                "name": "MARVELL TECHNOLOGY INC",
+                "ename": "Marvell Technology Inc",
+                "weights": 4.88,
+                "qty": 45666
+            },
+            {
+                "code": "EQIX UQ",
+                "ym": null,
+                "name": "EQUINIX INC",
+                "ename": "Equinix Inc",
+                "weights": 3.9,
+                "qty": 2942
+            },
+            {
+                "code": "DLR UN",
+                "ym": null,
+                "name": "DIGITAL REALTY TRUST INC",
+                "ename": "Digital Realty Trust Inc",
+                "weights": 3.89,
+                "qty": 17782
+            },
+            {
+                "code": "INTC UQ",
+                "ym": null,
+                "name": "INTEL CORP",
+                "ename": "Intel Corp",
+                "weights": 3.63,
+                "qty": 56544
+            },
+            {
+                "code": "SNOW UN",
+                "ym": null,
+                "name": "SNOWFLAKE INC-CLASS A",
+                "ename": "Snowflake Inc",
+                "weights": 3.57,
+                "qty": 12724
+            },
+            {
+                "code": "ORCL UN",
+                "ym": null,
+                "name": "ORACLE CORP",
+                "ename": "Oracle Corp",
+                "weights": 3.52,
+                "qty": 21116
+            },
+            {
+                "code": "SPLK UQ",
+                "ym": null,
+                "name": "SPLUNK INC",
+                "ename": "Splunk Inc",
+                "weights": 3.4,
+                "qty": 14581
+            },
+            {
+                "code": "PINS UN",
+                "ym": null,
+                "name": "PINTEREST INC- CLASS A",
+                "ename": "Pinterest Inc",
+                "weights": 3.01,
+                "qty": 54896
+            },
+            {
+                "code": "STX UQ",
+                "ym": null,
+                "name": "SEAGATE TECHNOLOGY HOLDINGS",
+                "ename": "Seagate Technology Holdings PLC",
+                "weights": 2.72,
+                "qty": 19585
+            },
+            {
+                "code": "WDC UQ",
+                "ym": null,
+                "name": "WESTERN DIGITAL CORP",
+                "ename": "Western Digital Corp",
+                "weights": 2.69,
+                "qty": 30357
+            },
+            {
+                "code": "9888 HK",
+                "ym": null,
+                "name": "BAIDU INC-CLASS A",
+                "ename": "Baidu Inc",
+                "weights": 1.99,
+                "qty": 104950
+            },
+            {
+                "code": "NTAP UQ",
+                "ym": null,
+                "name": "NETAPP INC",
+                "ename": "NetApp Inc",
+                "weights": 1.81,
+                "qty": 13589
+            },
+            {
+                "code": "MSTR UQ",
+                "ym": null,
+                "name": "MICROSTRATEGY INC-CL A",
+                "ename": "MicroStrategy Inc",
+                "weights": 1.73,
+                "qty": 1135
+            },
+            {
+                "code": "XRO AU",
+                "ym": null,
+                "name": "XERO LTD",
+                "ename": "Xero Ltd",
+                "weights": 1.62,
+                "qty": 13100
+            },
+            {
+                "code": "LSCC UQ",
+                "ym": null,
+                "name": "LATTICE SEMICONDUCTOR CORP",
+                "ename": "Lattice Semiconductor Corp",
+                "weights": 1.44,
+                "qty": 12587
+            },
+            {
+                "code": "PSTG UN",
+                "ym": null,
+                "name": "PURE STORAGE INC - CLASS A",
+                "ename": "Pure Storage Inc",
+                "weights": 1.39,
+                "qty": 17698
+            },
+            {
+                "code": "ESTC UN",
+                "ym": null,
+                "name": "ELASTIC NV",
+                "ename": "Elastic NV",
+                "weights": 1.36,
+                "qty": 6810
+            },
+            {
+                "code": "3661",
+                "ym": null,
+                "name": "世芯-KY",
+                "ename": "Alchip Technologies Limited",
+                "weights": 1.17,
+                "qty": 6000
+            },
+            {
+                "code": "CGNX UQ",
+                "ym": null,
+                "name": "COGNEX CORP",
+                "ename": "Cognex Corp",
+                "weights": 0.95,
+                "qty": 16117
+            },
+            {
+                "code": "NXT AU",
+                "ym": null,
+                "name": "NEXTDC LTD",
+                "ename": "NEXTDC Ltd",
+                "weights": 0.82,
+                "qty": 47716
+            },
+            {
+                "code": "BOX UN",
+                "ym": null,
+                "name": "BOX INC - CLASS A",
+                "ename": "Box Inc",
+                "weights": 0.52,
+                "qty": 13486
+            },
+            {
+                "code": "TDC UN",
+                "ym": null,
+                "name": "TERADATA CORP",
+                "ename": "Teradata Corp",
+                "weights": 0.51,
+                "qty": 9156
+            },
+            {
+                "code": "CCOI UQ",
+                "ym": null,
+                "name": "COGENT COMMUNICATIONS HOLDIN",
+                "ename": "Cogent Communications Holdings Inc",
+                "weights": 0.5,
+                "qty": 4109
+            },
+            {
+                "code": "3443",
+                "ym": null,
+                "name": "創意",
+                "ename": "Global Unichip Corp.",
+                "weights": 0.45,
+                "qty": 6000
+            },
+            {
+                "code": "AYX UN",
+                "ym": null,
+                "name": "ALTERYX INC - CLASS A",
+                "ename": "Alteryx Inc",
+                "weights": 0.43,
+                "qty": 5982
+            },
+            {
+                "code": "3035",
+                "ym": null,
+                "name": "智原",
+                "ename": "FARADAY TECHNOLOGY CORP.",
+                "weights": 0.33,
+                "qty": 18000
+            },
+            {
+                "code": "5269",
+                "ym": null,
+                "name": "祥碩",
+                "ename": "ASMEDIA TECHNOLOGY INC.",
+                "weights": 0.33,
+                "qty": 3000
+            },
+            {
+                "code": "CLVT UN",
+                "ym": null,
+                "name": "CLARIVATE PLC",
+                "ename": "Clarivate PLC",
+                "weights": 0.32,
+                "qty": 30026
+            },
+            {
+                "code": "AMBA UQ",
+                "ym": null,
+                "name": "AMBARELLA INC",
+                "ename": "Ambarella Inc",
+                "weights": 0.31,
+                "qty": 3734
+            },
+            {
+                "code": "4716 JT",
+                "ym": null,
+                "name": "ORACLE CORP JAPAN",
+                "ename": "Oracle Corp Japan",
+                "weights": 0.3,
+                "qty": 2600
+            },
+            {
+                "code": "RDNT UQ",
+                "ym": null,
+                "name": "RADNET INC",
+                "ename": "RadNet Inc",
+                "weights": 0.3,
+                "qty": 5260
+            },
+            {
+                "code": "268 HK",
+                "ym": null,
+                "name": "KINGDEE INTERNATIONAL SFTWR",
+                "ename": "Kingdee International Software Group Co Ltd",
+                "weights": 0.28,
+                "qty": 176000
+            },
+            {
+                "code": "2337",
+                "ym": null,
+                "name": "旺宏",
+                "ename": "MACRONIX INTERNATIONAL CO. LTD.",
+                "weights": 0.21,
+                "qty": 157000
+            },
+            {
+                "code": "SWON SW",
+                "ym": null,
+                "name": "SOFTWAREONE HOLDING AG",
+                "ename": "Softwareone Holding AG",
+                "weights": 0.16,
+                "qty": 5651
+            },
+            {
+                "code": "3923 JT",
+                "ym": null,
+                "name": "RAKUS CO LTD",
+                "ename": "Rakus Co Ltd",
+                "weights": 0.14,
+                "qty": 6100
+            },
+            {
+                "code": "GENI UN",
+                "ym": null,
+                "name": "GENIUS SPORTS LTD",
+                "ename": "Genius Sports Ltd",
+                "weights": 0.12,
+                "qty": 10987
+            },
+            {
+                "code": "MXL UQ",
+                "ym": null,
+                "name": "MAXLINEAR INC",
+                "ename": "MaxLinear Inc",
+                "weights": 0.12,
+                "qty": 4046
+            },
+            {
+                "code": "3006",
+                "ym": null,
+                "name": "晶豪科",
+                "ename": "Elite Semiconductor Microelectronics Tech Inc",
+                "weights": 0.11,
+                "qty": 26000
+            },
+            {
+                "code": "YEXT UN",
+                "ym": null,
+                "name": "YEXT INC",
+                "ename": "Yext Inc",
+                "weights": 0.1,
+                "qty": 10846
+            },
+            {
+                "code": "NNOX UQ",
+                "ym": null,
+                "name": "NANO-X IMAGING LTD",
+                "ename": "Nano-X Imaging Ltd",
+                "weights": 0.09,
+                "qty": 5150
+            },
+            {
+                "code": "9698 HK",
+                "ym": null,
+                "name": "GDS HOLDINGS LTD-CL A",
+                "ename": "GDS Holdings Ltd",
+                "weights": 0.07,
+                "qty": 54700
+            },
+            {
+                "code": "MVIS UQ",
+                "ym": null,
+                "name": "MICROVISION INC",
+                "ename": "MicroVision Inc",
+                "weights": 0.06,
+                "qty": 17787
+            },
+            {
+                "code": "KC UQ",
+                "ym": null,
+                "name": "KINGSOFT CLOUD HOLDINGS-ADR",
+                "ename": "Kingsoft Cloud Holdings Ltd",
+                "weights": 0.05,
+                "qty": 10759
+            }
+        ],
+        "FutureWeights": [
+            {
+                "code": "NQ",
+                "ym": "202403",
+                "name": "小那斯達克指數期貨",
+                "ename": "E-Mini Nasdaq 100 Index futures",
+                "weights": 5.39,
+                "qty": 10
+            }
+        ],
+        "ETFWeights": [],
+        "BondWeights": []
+    },
+    "Memo": null
+}

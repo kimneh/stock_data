@@ -1,0 +1,237 @@
+{
+    "PCF": {
+        "fundid": "2010",
+        "fundname": "元大標普美元ER單日正向2倍指數股票型期貨信託基金",
+        "fullname": "元大標普美元指數傘型期貨信託基金之元大標普美元ER單日正向2倍指數股票型期貨信託基金",
+        "ename": "Yuanta S&P US Dollar 2x Leverage ER Futures ETF ",
+        "markcd": "00683L",
+        "trandate": "20240305",
+        "totalav": 556797634,
+        "osunit": 24934000,
+        "nav": 22.33,
+        "baseunit": 500000,
+        "estcvalue": 11165429,
+        "estdvalue": -1135571,
+        "issuesdiff": 0,
+        "cashdiff": 0,
+        "preallot": 12290000,
+        "allot": 11174429,
+        "anndate": "20240307",
+        "upddate": "2024-03-06 14:22:32",
+        "preunit": 24434000,
+        "predate": "20240306",
+        "allot_charge_fee": 4000,
+        "redem_charge_fee": 4000,
+        "Beneficiary": {
+            "doc_ym": "20240229",
+            "bf_cnt_a": 892,
+            "upd_date": "2024-03-01T08:47:15"
+        }
+    },
+    "InKind": {
+        "FundComposition": null
+    },
+    "Cash": {
+        "TranDate": "20240305",
+        "CashPosition": [
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": 31.1133,
+                "amt": 173237983,
+                "trandate": "20240305"
+            },
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.0722,
+                "amt": 401760.21,
+                "trandate": "20240305"
+            },
+            {
+                "code": "1200",
+                "name": "附買回債券",
+                "ename": "RP",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": 18.1107,
+                "amt": 100839840,
+                "trandate": "20240305"
+            },
+            {
+                "code": "1220",
+                "name": "應收利息",
+                "ename": "INTEREST RECEIVEABLES",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": 0.0901,
+                "amt": 501470,
+                "trandate": "20240305"
+            },
+            {
+                "code": "1220",
+                "name": "應收利息",
+                "ename": "INTEREST RECEIVEABLES",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.0005,
+                "amt": 2961.33,
+                "trandate": "20240305"
+            },
+            {
+                "code": "3300",
+                "name": "應付受益權單位買回款",
+                "ename": "PAYABLES FOR UNITS REDEEMED",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": -2.0068,
+                "amt": -11173567,
+                "trandate": "20240305"
+            }
+        ],
+        "MMF": [],
+        "Margin": [
+            {
+                "code": null,
+                "name": "保證金",
+                "ename": "Margin",
+                "crncy": "NTD",
+                "exrate": 1,
+                "rto": 0,
+                "amt": 239539720,
+                "trandate": "20240305"
+            },
+            {
+                "code": null,
+                "name": "保證金",
+                "ename": "Margin",
+                "crncy": "USD",
+                "exrate": 31.578,
+                "rto": 0,
+                "amt": 1306418.22,
+                "trandate": "20240305"
+            }
+        ],
+        "RP": [
+            {
+                "code": "A12111",
+                "name": "112年度甲類第11期中央政府建設公債",
+                "ename": "Central Government Bond A12111",
+                "crncy": null,
+                "exrate": 0,
+                "rto": 0,
+                "amt": 40058902,
+                "trandate": "20240305"
+            },
+            {
+                "code": "A05104",
+                "name": "105年度甲類第4期中央政府建設公債",
+                "ename": "Central Government Bond A05104",
+                "crncy": null,
+                "exrate": 0,
+                "rto": 0,
+                "amt": 1098873,
+                "trandate": "20240305"
+            },
+            {
+                "code": "A11111",
+                "name": "111年度甲類第11期中央政府建設公債",
+                "ename": "Central Government Bond A11111",
+                "crncy": null,
+                "exrate": 0,
+                "rto": 0,
+                "amt": 9190571,
+                "trandate": "20240305"
+            },
+            {
+                "code": "HB0802",
+                "name": "108年度甲類第2期中央政府建設公債",
+                "ename": "Central Government Bond HB0802",
+                "crncy": null,
+                "exrate": 0,
+                "rto": 0,
+                "amt": 50491494,
+                "trandate": "20240305"
+            }
+        ],
+        "ForwardExchange": [],
+        "Currency": [
+            {
+                "fundId": "2010",
+                "cDate": "20240305",
+                "crncy": "NTD",
+                "endRate": 31.578
+            },
+            {
+                "fundId": "2010",
+                "cDate": "20240305",
+                "crncy": "KRW",
+                "endRate": 1335.36
+            },
+            {
+                "fundId": "2010",
+                "cDate": "20240305",
+                "crncy": "JPY",
+                "endRate": 150.42
+            },
+            {
+                "fundId": "2010",
+                "cDate": "20240305",
+                "crncy": "HKD",
+                "endRate": 7.824
+            },
+            {
+                "fundId": "2010",
+                "cDate": "20240305",
+                "crncy": "EUR",
+                "endRate": 0.922
+            },
+            {
+                "fundId": "2010",
+                "cDate": "20240305",
+                "crncy": "CNY",
+                "endRate": 7.199
+            },
+            {
+                "fundId": "2010",
+                "cDate": "20240305",
+                "crncy": "CNH",
+                "endRate": 7.2119
+            }
+        ],
+        "CouponRate": [],
+        "InvestArea": [],
+        "CreditRating": []
+    },
+    "FundWeights": {
+        "Summary": {
+            "code": "2010",
+            "name": null,
+            "stkvalues": 0,
+            "futvalues": 1117222471.79,
+            "etfvalues": 0,
+            "bndvalues": 0,
+            "fundsize": 556797634
+        },
+        "StockWeights": [],
+        "FutureWeights": [
+            {
+                "code": "DX",
+                "ym": "202403",
+                "name": "美元指數期貨",
+                "ename": "U.S.Dollar",
+                "weights": 200.65,
+                "qty": 341
+            }
+        ],
+        "ETFWeights": [],
+        "BondWeights": []
+    },
+    "Memo": null
+}

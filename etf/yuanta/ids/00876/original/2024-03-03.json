@@ -1,0 +1,1080 @@
+{
+    "PCF": {
+        "fundid": "1204",
+        "fundname": "元大全球5G關鍵科技ETF基金",
+        "fullname": "元大全球5G關鍵科技ETF證券投資信託基金",
+        "ename": "Yuanta Global 5G & NexGen Telecommunication Components ETF",
+        "markcd": "00876",
+        "trandate": "20240229",
+        "totalav": 4356718760,
+        "osunit": 118024000,
+        "nav": 36.91,
+        "baseunit": 500000,
+        "estcvalue": 18456919,
+        "estdvalue": -1699624,
+        "issuesdiff": -500000,
+        "cashdiff": 0,
+        "preallot": 20310000,
+        "allot": 18480376,
+        "anndate": "20240304",
+        "upddate": "2024-03-01 14:11:50",
+        "preunit": 119524000,
+        "predate": "20240301",
+        "allot_charge_fee": 0,
+        "redem_charge_fee": 0,
+        "Beneficiary": {
+            "doc_ym": "20240229",
+            "bf_cnt_a": 18012,
+            "upd_date": "2024-03-01T08:47:15"
+        }
+    },
+    "InKind": {
+        "FundComposition": null
+    },
+    "Cash": {
+        "TranDate": "20240229",
+        "CashPosition": [
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "CNH",
+                "exrate": 0,
+                "rto": 0.0727,
+                "amt": 3166160.66,
+                "trandate": "20240229"
+            },
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "EUR",
+                "exrate": 0,
+                "rto": 0.0007,
+                "amt": 31080.14,
+                "trandate": "20240229"
+            },
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "JPY",
+                "exrate": 0,
+                "rto": 4.0726,
+                "amt": 177429634,
+                "trandate": "20240229"
+            },
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": 4.8022,
+                "amt": 209216728,
+                "trandate": "20240229"
+            },
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.037,
+                "amt": 1612433.48,
+                "trandate": "20240229"
+            },
+            {
+                "code": "1210",
+                "name": "應收股利",
+                "ename": "DIVIDENDS RECEIVABLES",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.0021,
+                "amt": 92799.75,
+                "trandate": "20240229"
+            },
+            {
+                "code": "3300",
+                "name": "應付受益權單位買回款",
+                "ename": "PAYABLES FOR UNITS REDEEMED",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": -5.0237,
+                "amt": -218868370,
+                "trandate": "20240229"
+            }
+        ],
+        "MMF": [],
+        "Margin": [
+            {
+                "code": null,
+                "name": "保證金",
+                "ename": "Margin",
+                "crncy": "NTD",
+                "exrate": 1,
+                "rto": 0,
+                "amt": 23428586,
+                "trandate": "20240229"
+            },
+            {
+                "code": null,
+                "name": "保證金",
+                "ename": "Margin",
+                "crncy": "USD",
+                "exrate": 31.602,
+                "rto": 0,
+                "amt": 1522829.18,
+                "trandate": "20240229"
+            }
+        ],
+        "RP": [],
+        "ForwardExchange": [],
+        "Currency": [
+            {
+                "fundId": "1204",
+                "cDate": "20240229",
+                "crncy": "NTD",
+                "endRate": 31.602
+            },
+            {
+                "fundId": "1204",
+                "cDate": "20240229",
+                "crncy": "KRW",
+                "endRate": 1333.27
+            },
+            {
+                "fundId": "1204",
+                "cDate": "20240229",
+                "crncy": "JPY",
+                "endRate": 149.67
+            },
+            {
+                "fundId": "1204",
+                "cDate": "20240229",
+                "crncy": "HKD",
+                "endRate": 7.826
+            },
+            {
+                "fundId": "1204",
+                "cDate": "20240229",
+                "crncy": "EUR",
+                "endRate": 0.9235
+            },
+            {
+                "fundId": "1204",
+                "cDate": "20240229",
+                "crncy": "CNY",
+                "endRate": 7.194
+            },
+            {
+                "fundId": "1204",
+                "cDate": "20240229",
+                "crncy": "CNH",
+                "endRate": 7.2092
+            }
+        ],
+        "CouponRate": [],
+        "InvestArea": [
+            {
+                "TRAN_DATE": "20240229",
+                "FUND_ID": "1204",
+                "name": "美國",
+                "ename": "USA",
+                "HOLD_RTO": 32.23,
+                "CNT": 21
+            },
+            {
+                "TRAN_DATE": "20240229",
+                "FUND_ID": "1204",
+                "name": "日本",
+                "ename": "JAPAN",
+                "HOLD_RTO": 24.8,
+                "CNT": 18
+            },
+            {
+                "TRAN_DATE": "20240229",
+                "FUND_ID": "1204",
+                "name": "台灣",
+                "ename": "TAIWAN",
+                "HOLD_RTO": 18.62,
+                "CNT": 22
+            },
+            {
+                "TRAN_DATE": "20240229",
+                "FUND_ID": "1204",
+                "name": "荷蘭",
+                "ename": "NETHERLANDS",
+                "HOLD_RTO": 8.8,
+                "CNT": 2
+            },
+            {
+                "TRAN_DATE": "20240229",
+                "FUND_ID": "1204",
+                "name": "中國",
+                "ename": "CHINA",
+                "HOLD_RTO": 6.93,
+                "CNT": 30
+            },
+            {
+                "TRAN_DATE": "20240229",
+                "FUND_ID": "1204",
+                "name": "德國",
+                "ename": "GERMANY",
+                "HOLD_RTO": 3.33,
+                "CNT": 2
+            },
+            {
+                "TRAN_DATE": "20240229",
+                "FUND_ID": "1204",
+                "name": "其他",
+                "ename": "other",
+                "HOLD_RTO": 1.12,
+                "CNT": 5
+            },
+            {
+                "TRAN_DATE": "20240229",
+                "FUND_ID": "1204",
+                "name": "現金",
+                "ename": "Cash",
+                "HOLD_RTO": 4.17,
+                "CNT": 0
+            }
+        ],
+        "CreditRating": []
+    },
+    "FundWeights": {
+        "Summary": {
+            "code": "1204",
+            "name": null,
+            "stkvalues": 4175058057,
+            "futvalues": 178757613.1,
+            "etfvalues": 0,
+            "bndvalues": 0,
+            "fundsize": 4356718760
+        },
+        "StockWeights": [
+            {
+                "code": "ASML NA",
+                "ym": null,
+                "name": "ASML HOLDING NV",
+                "ename": "ASML Holding NV",
+                "weights": 6.89,
+                "qty": 10084
+            },
+            {
+                "code": "QCOM UQ",
+                "ym": null,
+                "name": "QUALCOMM INC",
+                "ename": "QUALCOMM Inc",
+                "weights": 6.89,
+                "qty": 60215
+            },
+            {
+                "code": "LRCX UQ",
+                "ym": null,
+                "name": "LAM RESEARCH CORP",
+                "ename": "Lam Research Corp",
+                "weights": 6.41,
+                "qty": 9416
+            },
+            {
+                "code": "AMAT UQ",
+                "ym": null,
+                "name": "APPLIED MATERIALS INC",
+                "ename": "Applied Materials Inc",
+                "weights": 6.3,
+                "qty": 43057
+            },
+            {
+                "code": "2330",
+                "ym": null,
+                "name": "台積電",
+                "ename": "Taiwan Semiconductor Manufacturing Co. Ltd.",
+                "weights": 5.99,
+                "qty": 378000
+            },
+            {
+                "code": "4063 JT",
+                "ym": null,
+                "name": "SHIN-ETSU CHEMICAL CO LTD",
+                "ename": "Shin-Etsu Chemical Co Ltd",
+                "weights": 5.75,
+                "qty": 185900
+            },
+            {
+                "code": "8035 JT",
+                "ym": null,
+                "name": "TOKYO ELECTRON LTD",
+                "ename": "Tokyo Electron Ltd",
+                "weights": 5.74,
+                "qty": 32100
+            },
+            {
+                "code": "2454",
+                "ym": null,
+                "name": "聯發科",
+                "ename": "MediaTek Inc.",
+                "weights": 3.85,
+                "qty": 147000
+            },
+            {
+                "code": "IFX GY",
+                "ym": null,
+                "name": "INFINEON TECHNOLOGIES AG",
+                "ename": "Infineon Technologies AG",
+                "weights": 3.12,
+                "qty": 119907
+            },
+            {
+                "code": "7741 JT",
+                "ym": null,
+                "name": "HOYA CORP",
+                "ename": "Hoya Corp",
+                "weights": 3.04,
+                "qty": 32200
+            },
+            {
+                "code": "TEL UN",
+                "ym": null,
+                "name": "TE CONNECTIVITY LTD",
+                "ename": "TE Connectivity Ltd",
+                "weights": 2.98,
+                "qty": 28646
+            },
+            {
+                "code": "6981 JT",
+                "ym": null,
+                "name": "MURATA MANUFACTURING CO LTD",
+                "ename": "Murata Manufacturing Co Ltd",
+                "weights": 2.54,
+                "qty": 173500
+            },
+            {
+                "code": "DD UN",
+                "ym": null,
+                "name": "DUPONT DE NEMOURS INC",
+                "ename": "DuPont de Nemours Inc",
+                "weights": 1.98,
+                "qty": 39486
+            },
+            {
+                "code": "6146 JT",
+                "ym": null,
+                "name": "DISCO CORP",
+                "ename": "Disco Corp",
+                "weights": 1.96,
+                "qty": 8400
+            },
+            {
+                "code": "ASM NA",
+                "ym": null,
+                "name": "ASM INTERNATIONAL NV",
+                "ename": "ASM International NV",
+                "weights": 1.9,
+                "qty": 4291
+            },
+            {
+                "code": "KEYS UN",
+                "ym": null,
+                "name": "KEYSIGHT TECHNOLOGIES IN",
+                "ename": "Keysight Technologies Inc",
+                "weights": 1.82,
+                "qty": 16305
+            },
+            {
+                "code": "GLW UN",
+                "ym": null,
+                "name": "CORNING INC",
+                "ename": "Corning Inc",
+                "weights": 1.66,
+                "qty": 70989
+            },
+            {
+                "code": "6971 JT",
+                "ym": null,
+                "name": "KYOCERA CORP",
+                "ename": "Kyocera Corp",
+                "weights": 1.38,
+                "qty": 129300
+            },
+            {
+                "code": "2303",
+                "ym": null,
+                "name": "聯電",
+                "ename": "UNITED MICROELECTRONICS CORP.",
+                "weights": 1.29,
+                "qty": 1148000
+            },
+            {
+                "code": "002475 CH",
+                "ym": null,
+                "name": "立訊精密",
+                "ename": "立訊精密",
+                "weights": 1.12,
+                "qty": 405400
+            },
+            {
+                "code": "3711",
+                "ym": null,
+                "name": "日月光投控",
+                "ename": "ASE Technology Holding Co. Ltd.",
+                "weights": 1,
+                "qty": 315000
+            },
+            {
+                "code": "6762 JT",
+                "ym": null,
+                "name": "TDK CORP",
+                "ename": "TDK Corp",
+                "weights": 0.97,
+                "qty": 25800
+            },
+            {
+                "code": "7735 JT",
+                "ym": null,
+                "name": "SCREEN HOLDINGS CO LTD",
+                "ename": "SCREEN Holdings Co Ltd",
+                "weights": 0.8,
+                "qty": 8800
+            },
+            {
+                "code": "JNPR UN",
+                "ym": null,
+                "name": "JUNIPER NETWORKS INC",
+                "ename": "Juniper Networks Inc",
+                "weights": 0.79,
+                "qty": 29278
+            },
+            {
+                "code": "3034",
+                "ym": null,
+                "name": "聯詠",
+                "ename": "Novatek Microelectronics Corporation",
+                "weights": 0.77,
+                "qty": 56000
+            },
+            {
+                "code": "002371 CH",
+                "ym": null,
+                "name": "北方華創",
+                "ename": "北方華創",
+                "weights": 0.71,
+                "qty": 24800
+            },
+            {
+                "code": "3231",
+                "ym": null,
+                "name": "緯創",
+                "ename": "Wistron Corporation",
+                "weights": 0.71,
+                "qty": 266000
+            },
+            {
+                "code": "LSCC UQ",
+                "ym": null,
+                "name": "LATTICE SEMICONDUCTOR CORP",
+                "ename": "Lattice Semiconductor Corp",
+                "weights": 0.7,
+                "qty": 12673
+            },
+            {
+                "code": "601138 CH",
+                "ym": null,
+                "name": "工業富聯",
+                "ename": "工業富聯",
+                "weights": 0.64,
+                "qty": 338900
+            },
+            {
+                "code": "6988 JT",
+                "ym": null,
+                "name": "NITTO DENKO CORP",
+                "ename": "Nitto Denko Corp",
+                "weights": 0.64,
+                "qty": 9600
+            },
+            {
+                "code": "2379",
+                "ym": null,
+                "name": "瑞昱",
+                "ename": "Realtek Semiconductor Corporation",
+                "weights": 0.61,
+                "qty": 47000
+            },
+            {
+                "code": "3008",
+                "ym": null,
+                "name": "大立光",
+                "ename": "LARGAN Precision Co.Ltd",
+                "weights": 0.59,
+                "qty": 10000
+            },
+            {
+                "code": "2345",
+                "ym": null,
+                "name": "智邦",
+                "ename": "Accton Technology Corp.",
+                "weights": 0.57,
+                "qty": 48000
+            },
+            {
+                "code": "3037",
+                "ym": null,
+                "name": "欣興",
+                "ename": "Unimicron Technology Corp.",
+                "weights": 0.5,
+                "qty": 122000
+            },
+            {
+                "code": "NOVT UQ",
+                "ym": null,
+                "name": "NOVANTA INC",
+                "ename": "Novanta Inc",
+                "weights": 0.41,
+                "qty": 3288
+            },
+            {
+                "code": "009150 KS",
+                "ym": null,
+                "name": "SAMSUNG ELECTRO-MECHANICS CO",
+                "ename": "Samsung Electro-Mechanics Co Ltd",
+                "weights": 0.4,
+                "qty": 5236
+            },
+            {
+                "code": "2327",
+                "ym": null,
+                "name": "國巨",
+                "ename": "YAGEO CORPORATION",
+                "weights": 0.4,
+                "qty": 31265
+            },
+            {
+                "code": "4185 JT",
+                "ym": null,
+                "name": "JSR CORP",
+                "ename": "JSR Corp",
+                "weights": 0.37,
+                "qty": 19200
+            },
+            {
+                "code": "600745 CH",
+                "ym": null,
+                "name": "聞泰科技",
+                "ename": "聞泰科技",
+                "weights": 0.36,
+                "qty": 93800
+            },
+            {
+                "code": "ESI UN",
+                "ym": null,
+                "name": "ELEMENT SOLUTIONS INC",
+                "ename": "Element Solutions Inc",
+                "weights": 0.36,
+                "qty": 20940
+            },
+            {
+                "code": "6965 JT",
+                "ym": null,
+                "name": "HAMAMATSU PHOTONICS KK",
+                "ename": "Hamamatsu Photonics KK",
+                "weights": 0.35,
+                "qty": 13500
+            },
+            {
+                "code": "2383",
+                "ym": null,
+                "name": "台光電",
+                "ename": "ELITE  MATERIAL CO. LTD.",
+                "weights": 0.32,
+                "qty": 28000
+            },
+            {
+                "code": "600584 CH",
+                "ym": null,
+                "name": "長電科技",
+                "ename": "長電科技",
+                "weights": 0.32,
+                "qty": 121500
+            },
+            {
+                "code": "6415",
+                "ym": null,
+                "name": "矽力*-KY",
+                "ename": "Silergy Corp.",
+                "weights": 0.32,
+                "qty": 33000
+            },
+            {
+                "code": "002463 CH",
+                "ym": null,
+                "name": "滬電股份",
+                "ename": "滬電股份",
+                "weights": 0.31,
+                "qty": 118500
+            },
+            {
+                "code": "AMKR UQ",
+                "ym": null,
+                "name": "AMKOR TECHNOLOGY INC",
+                "ename": "Amkor Technology Inc",
+                "weights": 0.3,
+                "qty": 13277
+            },
+            {
+                "code": "4186 JT",
+                "ym": null,
+                "name": "TOKYO OHKA KOGYO CO LTD",
+                "ename": "Tokyo Ohka Kogyo Co Ltd",
+                "weights": 0.25,
+                "qty": 11200
+            },
+            {
+                "code": "6239",
+                "ym": null,
+                "name": "力成",
+                "ename": "Powertech Technology Inc.",
+                "weights": 0.25,
+                "qty": 70000
+            },
+            {
+                "code": "ACLS UQ",
+                "ym": null,
+                "name": "AXCELIS TECHNOLOGIES INC",
+                "ename": "Axcelis Technologies Inc",
+                "weights": 0.25,
+                "qty": 3007
+            },
+            {
+                "code": "SOI FP",
+                "ym": null,
+                "name": "S.O.I.T.E.C.",
+                "ename": "SOITEC",
+                "weights": 0.25,
+                "qty": 2361
+            },
+            {
+                "code": "000988 CH",
+                "ym": null,
+                "name": "華工科技",
+                "ename": "華工科技",
+                "weights": 0.24,
+                "qty": 74800
+            },
+            {
+                "code": "BDC UN",
+                "ym": null,
+                "name": "BELDEN INC",
+                "ename": "Belden Inc",
+                "weights": 0.24,
+                "qty": 3827
+            },
+            {
+                "code": "GFS UQ",
+                "ym": null,
+                "name": "GLOBALFOUNDRIES INC",
+                "ename": "GLOBALFOUNDRIES Inc",
+                "weights": 0.24,
+                "qty": 5947
+            },
+            {
+                "code": "002340 CH",
+                "ym": null,
+                "name": "格林美",
+                "ename": "格林美",
+                "weights": 0.23,
+                "qty": 431800
+            },
+            {
+                "code": "2449",
+                "ym": null,
+                "name": "京元電子",
+                "ename": "KING YUAN ELECTRONICS CO. LTD.",
+                "weights": 0.23,
+                "qty": 113000
+            },
+            {
+                "code": "7731 JT",
+                "ym": null,
+                "name": "NIKON CORP",
+                "ename": "Nikon Corp",
+                "weights": 0.23,
+                "qty": 32300
+            },
+            {
+                "code": "2059",
+                "ym": null,
+                "name": "川湖",
+                "ename": "KING SLIDE WORKS CO.LTD",
+                "weights": 0.22,
+                "qty": 7000
+            },
+            {
+                "code": "2360",
+                "ym": null,
+                "name": "致茂",
+                "ename": "CHROMA ATE INC.",
+                "weights": 0.21,
+                "qty": 39000
+            },
+            {
+                "code": "6728 JT",
+                "ym": null,
+                "name": "ULVAC INC",
+                "ename": "Ulvac Inc",
+                "weights": 0.21,
+                "qty": 4600
+            },
+            {
+                "code": "AIXA GY",
+                "ym": null,
+                "name": "AIXTRON SE",
+                "ename": "AIXTRON SE",
+                "weights": 0.21,
+                "qty": 10412
+            },
+            {
+                "code": "2368",
+                "ym": null,
+                "name": "金像電",
+                "ename": "GOLD CIRCUIT ELECTRONICS LTD",
+                "weights": 0.2,
+                "qty": 34000
+            },
+            {
+                "code": "IPGP UQ",
+                "ym": null,
+                "name": "IPG PHOTONICS CORP",
+                "ename": "IPG Photonics Corp",
+                "weights": 0.2,
+                "qty": 3132
+            },
+            {
+                "code": "002185 CH",
+                "ym": null,
+                "name": "華天科技",
+                "ename": "華天科技",
+                "weights": 0.19,
+                "qty": 229700
+            },
+            {
+                "code": "2313",
+                "ym": null,
+                "name": "華通",
+                "ename": "COMPEQ MANUFACTURING COMPANY LIMITED",
+                "weights": 0.19,
+                "qty": 110000
+            },
+            {
+                "code": "285 HK",
+                "ym": null,
+                "name": "BYD ELECTRONIC INTL CO LTD",
+                "ename": "BYD Electronic International Co Ltd",
+                "weights": 0.19,
+                "qty": 71000
+            },
+            {
+                "code": "3800 HK",
+                "ym": null,
+                "name": "GCL TECHNOLOGY HOLDINGS LTD",
+                "ename": "GCL Technology Holdings Ltd",
+                "weights": 0.19,
+                "qty": 1890000
+            },
+            {
+                "code": "7729 JT",
+                "ym": null,
+                "name": "TOKYO SEIMITSU CO LTD",
+                "ename": "Tokyo Seimitsu Co Ltd",
+                "weights": 0.19,
+                "qty": 3900
+            },
+            {
+                "code": "002138 CH",
+                "ym": null,
+                "name": "順絡電子",
+                "ename": "順絡電子",
+                "weights": 0.18,
+                "qty": 64000
+            },
+            {
+                "code": "002384 CH",
+                "ym": null,
+                "name": "東山精密",
+                "ename": "東山精密",
+                "weights": 0.18,
+                "qty": 118000
+            },
+            {
+                "code": "600183 CH",
+                "ym": null,
+                "name": "生益科技",
+                "ename": "生益科技",
+                "weights": 0.18,
+                "qty": 105700
+            },
+            {
+                "code": "002436 CH",
+                "ym": null,
+                "name": "興森科技",
+                "ename": "興森科技",
+                "weights": 0.17,
+                "qty": 132700
+            },
+            {
+                "code": "600885 CH",
+                "ym": null,
+                "name": "宏發股份",
+                "ename": "宏發股份",
+                "weights": 0.17,
+                "qty": 69600
+            },
+            {
+                "code": "2352",
+                "ym": null,
+                "name": "佳世達",
+                "ename": "Qisda Corporation",
+                "weights": 0.16,
+                "qty": 150000
+            },
+            {
+                "code": "002008 CH",
+                "ym": null,
+                "name": "大族激光",
+                "ename": "大族激光",
+                "weights": 0.15,
+                "qty": 72900
+            },
+            {
+                "code": "002600 CH",
+                "ym": null,
+                "name": "領益智造",
+                "ename": "領益智造",
+                "weights": 0.15,
+                "qty": 263400
+            },
+            {
+                "code": "5344 JT",
+                "ym": null,
+                "name": "MARUWA CO LTD",
+                "ename": "Maruwa Co Ltd/Aichi",
+                "weights": 0.15,
+                "qty": 900
+            },
+            {
+                "code": "603659 CH",
+                "ym": null,
+                "name": "璞泰來",
+                "ename": "璞泰來",
+                "weights": 0.15,
+                "qty": 80711
+            },
+            {
+                "code": "ALGM UQ",
+                "ym": null,
+                "name": "ALLEGRO MICROSYSTEMS INC",
+                "ename": "Allegro MicroSystems Inc",
+                "weights": 0.15,
+                "qty": 6396
+            },
+            {
+                "code": "002281 CH",
+                "ym": null,
+                "name": "光迅科技",
+                "ename": "光迅科技",
+                "weights": 0.14,
+                "qty": 46200
+            },
+            {
+                "code": "6976 JT",
+                "ym": null,
+                "name": "TAIYO YUDEN CO LTD",
+                "ename": "Taiyo Yuden Co Ltd",
+                "weights": 0.14,
+                "qty": 8600
+            },
+            {
+                "code": "CALX UN",
+                "ym": null,
+                "name": "CALIX INC",
+                "ename": "Calix Inc",
+                "weights": 0.14,
+                "qty": 5407
+            },
+            {
+                "code": "SXI UN",
+                "ym": null,
+                "name": "STANDEX INTERNATIONAL CORP",
+                "ename": "Standex International Corp",
+                "weights": 0.14,
+                "qty": 1093
+            },
+            {
+                "code": "VIAV UQ",
+                "ym": null,
+                "name": "VIAVI SOLUTIONS INC",
+                "ename": "Viavi Solutions Inc",
+                "weights": 0.14,
+                "qty": 20420
+            },
+            {
+                "code": "002409 CH",
+                "ym": null,
+                "name": "雅克科技",
+                "ename": "雅克科技",
+                "weights": 0.13,
+                "qty": 25300
+            },
+            {
+                "code": "002938 CH",
+                "ym": null,
+                "name": "鵬鼎控股",
+                "ename": "鵬鼎控股",
+                "weights": 0.13,
+                "qty": 60062
+            },
+            {
+                "code": "3023",
+                "ym": null,
+                "name": "信邦",
+                "ename": "SINBON ELECTRONICS CO.LTD.",
+                "weights": 0.13,
+                "qty": 22000
+            },
+            {
+                "code": "600549 CH",
+                "ym": null,
+                "name": "廈門鎢業",
+                "ename": "廈門鎢業",
+                "weights": 0.13,
+                "qty": 77700
+            },
+            {
+                "code": "600884 CH",
+                "ym": null,
+                "name": "杉杉股份",
+                "ename": "杉杉股份",
+                "weights": 0.13,
+                "qty": 116700
+            },
+            {
+                "code": "ROG UN",
+                "ym": null,
+                "name": "ROGERS CORP",
+                "ename": "Rogers Corp",
+                "weights": 0.13,
+                "qty": 1538
+            },
+            {
+                "code": "002273 CH",
+                "ym": null,
+                "name": "水晶光電",
+                "ename": "水晶光電",
+                "weights": 0.12,
+                "qty": 109600
+            },
+            {
+                "code": "002916 CH",
+                "ym": null,
+                "name": "深南電路",
+                "ename": "深南電路",
+                "weights": 0.12,
+                "qty": 17000
+            },
+            {
+                "code": "600498 CH",
+                "ym": null,
+                "name": "烽火通信",
+                "ename": "烽火通信",
+                "weights": 0.12,
+                "qty": 63500
+            },
+            {
+                "code": "002850 CH",
+                "ym": null,
+                "name": "科達利",
+                "ename": "科達利",
+                "weights": 0.11,
+                "qty": 15300
+            },
+            {
+                "code": "4958",
+                "ym": null,
+                "name": "臻鼎-KY",
+                "ename": "Zhen Ding Technology Holding Limited",
+                "weights": 0.11,
+                "qty": 48000
+            },
+            {
+                "code": "605358 CH",
+                "ym": null,
+                "name": "立昂微",
+                "ename": "立昂微",
+                "weights": 0.11,
+                "qty": 47700
+            },
+            {
+                "code": "000636 CH",
+                "ym": null,
+                "name": "風華高科",
+                "ename": "風華高科",
+                "weights": 0.1,
+                "qty": 81600
+            },
+            {
+                "code": "000990 KS",
+                "ym": null,
+                "name": "DB HITEK CO LTD",
+                "ename": "DB HiTek Co Ltd",
+                "weights": 0.09,
+                "qty": 3571
+            },
+            {
+                "code": "6770 JT",
+                "ym": null,
+                "name": "ALPS ALPINE CO LTD",
+                "ename": "Alps Alpine Co Ltd",
+                "weights": 0.09,
+                "qty": 17700
+            },
+            {
+                "code": "603185 CH",
+                "ym": null,
+                "name": "弘元綠能",
+                "ename": "弘元綠能",
+                "weights": 0.08,
+                "qty": 26935
+            },
+            {
+                "code": "600601 CH",
+                "ym": null,
+                "name": "方正科技",
+                "ename": "方正科技",
+                "weights": 0.06,
+                "qty": 246500
+            }
+        ],
+        "FutureWeights": [
+            {
+                "code": "NQ",
+                "ym": "202403",
+                "name": "小那斯達克指數期貨",
+                "ename": "E-Mini Nasdaq 100 Index futures",
+                "weights": 2.62,
+                "qty": 10
+            },
+            {
+                "code": "TX",
+                "ym": "202403",
+                "name": "臺股期貨",
+                "ename": "TAIEX FUTURE",
+                "weights": 1.48,
+                "qty": 17
+            }
+        ],
+        "ETFWeights": [],
+        "BondWeights": []
+    },
+    "Memo": null
+}

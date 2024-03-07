@@ -1,0 +1,1330 @@
+{
+    "PCF": {
+        "fundid": "1188",
+        "fundname": "元大10年期以上美元投資級醫療保健債券ETF基金",
+        "fullname": "元大產業債券ETF傘型證券投資信託基金之元大10年期以上美元投資級醫療保健債券ETF證券投資信託基金",
+        "ename": "Yuanta US 10plus Investment Grade Healthcare Bond ETF",
+        "markcd": "00787B",
+        "trandate": "20240229",
+        "totalav": 459896641,
+        "osunit": 13306000,
+        "nav": 34.5631,
+        "baseunit": 500000,
+        "estcvalue": 17281551,
+        "estdvalue": -1343449,
+        "issuesdiff": 0,
+        "cashdiff": 0,
+        "preallot": 18670000,
+        "allot": 17286551,
+        "anndate": "20240304",
+        "upddate": "2024-03-01 14:13:54",
+        "preunit": 13306000,
+        "predate": "20240301",
+        "allot_charge_fee": 0,
+        "redem_charge_fee": 0,
+        "Beneficiary": {
+            "doc_ym": "20240229",
+            "bf_cnt_a": 1053,
+            "upd_date": "2024-03-01T08:47:15"
+        }
+    },
+    "InKind": {
+        "FundComposition": null
+    },
+    "Cash": {
+        "TranDate": "20240229",
+        "CashPosition": [
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": 0.3943,
+                "amt": 1813146,
+                "trandate": "20240229"
+            },
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.0298,
+                "amt": 136843.87,
+                "trandate": "20240229"
+            },
+            {
+                "code": "1220",
+                "name": "應收利息",
+                "ename": "INTEREST RECEIVEABLES",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.0482,
+                "amt": 221740.01,
+                "trandate": "20240229"
+            }
+        ],
+        "MMF": [],
+        "Margin": [],
+        "RP": [],
+        "ForwardExchange": [],
+        "Currency": [
+            {
+                "fundId": "1188",
+                "cDate": "20240229",
+                "crncy": "NTD",
+                "endRate": 31.602
+            },
+            {
+                "fundId": "1188",
+                "cDate": "20240229",
+                "crncy": "KRW",
+                "endRate": 1333.27
+            },
+            {
+                "fundId": "1188",
+                "cDate": "20240229",
+                "crncy": "JPY",
+                "endRate": 149.67
+            },
+            {
+                "fundId": "1188",
+                "cDate": "20240229",
+                "crncy": "HKD",
+                "endRate": 7.826
+            },
+            {
+                "fundId": "1188",
+                "cDate": "20240229",
+                "crncy": "EUR",
+                "endRate": 0.9235
+            },
+            {
+                "fundId": "1188",
+                "cDate": "20240229",
+                "crncy": "CNY",
+                "endRate": 7.194
+            },
+            {
+                "fundId": "1188",
+                "cDate": "20240229",
+                "crncy": "CNH",
+                "endRate": 7.2092
+            }
+        ],
+        "CouponRate": [
+            {
+                "ConstituentCount": 206,
+                "CurrentWeight": 100,
+                "YieldtoMaturity": 5.41,
+                "avgCouponRate": 4.33,
+                "EffectiveDuration": 12.91,
+                "YearstoMaturity": 22.65,
+                "avgOASWorst": 0.97
+            },
+            {
+                "ConstituentCount": 138,
+                "CurrentWeight": 98.72,
+                "YieldtoMaturity": 5.29,
+                "avgCouponRate": 4.4,
+                "EffectiveDuration": 12.8,
+                "YearstoMaturity": 22.45,
+                "avgOASWorst": 0.9
+            }
+        ],
+        "InvestArea": [
+            {
+                "TRAN_DATE": "20240229",
+                "FUND_ID": "1188",
+                "name": "美國",
+                "ename": "USA",
+                "HOLD_RTO": 88.43,
+                "CNT": 127
+            },
+            {
+                "TRAN_DATE": "20240229",
+                "FUND_ID": "1188",
+                "name": "英國",
+                "ename": "LONDON",
+                "HOLD_RTO": 5.72,
+                "CNT": 7
+            },
+            {
+                "TRAN_DATE": "20240229",
+                "FUND_ID": "1188",
+                "name": "瑞士",
+                "ename": "Switzerland",
+                "HOLD_RTO": 2.1,
+                "CNT": 3
+            },
+            {
+                "TRAN_DATE": "20240229",
+                "FUND_ID": "1188",
+                "name": "日本",
+                "ename": "JAPAN",
+                "HOLD_RTO": 0.95,
+                "CNT": 1
+            },
+            {
+                "TRAN_DATE": "20240229",
+                "FUND_ID": "1188",
+                "name": "現金",
+                "ename": "Cash",
+                "HOLD_RTO": 2.8,
+                "CNT": 0
+            }
+        ],
+        "CreditRating": [
+            {
+                "FUND_ID": "1188",
+                "NAV_DATE": "20240229",
+                "CREDIT_NAME": "AAA",
+                "CREDIT_RATIO": 5.31,
+                "CREDIT_COUNT": 9
+            },
+            {
+                "FUND_ID": "1188",
+                "NAV_DATE": "20240229",
+                "CREDIT_NAME": "AA",
+                "CREDIT_RATIO": 12.97,
+                "CREDIT_COUNT": 25
+            },
+            {
+                "FUND_ID": "1188",
+                "NAV_DATE": "20240229",
+                "CREDIT_NAME": "A",
+                "CREDIT_RATIO": 52.01,
+                "CREDIT_COUNT": 71
+            },
+            {
+                "FUND_ID": "1188",
+                "NAV_DATE": "20240229",
+                "CREDIT_NAME": "BBB",
+                "CREDIT_RATIO": 26.91,
+                "CREDIT_COUNT": 33
+            }
+        ]
+    },
+    "FundWeights": {
+        "Summary": {
+            "code": "1188",
+            "name": null,
+            "stkvalues": 0,
+            "futvalues": 0,
+            "etfvalues": 0,
+            "bndvalues": 454030484.37,
+            "fundsize": 459896641
+        },
+        "StockWeights": [],
+        "FutureWeights": [],
+        "ETFWeights": [],
+        "BondWeights": [
+            {
+                "code": "AR6336036",
+                "name": "CVS HEALTH CORP 5.05% 03/25/2048",
+                "ename": "CVS HEALTH CORP 5.05% 03/25/2048",
+                "weights": 3.08,
+                "FACE_AMT": 490000,
+                "qty": 447789.6
+            },
+            {
+                "code": "BM0493411",
+                "name": "ABBVIE INC 4.25% 11/21/2049",
+                "ename": "ABBVIE INC 4.25% 11/21/2049",
+                "weights": 2.15,
+                "FACE_AMT": 360000,
+                "qty": 313094.36
+            },
+            {
+                "code": "ZL1040761",
+                "name": "AMGEN INC 5.65% 03/02/2053",
+                "ename": "AMGEN INC 5.65% 03/02/2053",
+                "weights": 2.12,
+                "FACE_AMT": 300000,
+                "qty": 308303.12
+            },
+            {
+                "code": "AR6335392",
+                "name": "CVS HEALTH CORP 4.78% 03/25/2038",
+                "ename": "CVS HEALTH CORP 4.78% 03/25/2038",
+                "weights": 1.92,
+                "FACE_AMT": 300000,
+                "qty": 278827
+            },
+            {
+                "code": "EH3525340",
+                "name": "GLAXOSMITHKLINE CAP INC 6.375% 05/15/2038",
+                "ename": "GLAXOSMITHKLINE CAP INC 6.375% 05/15/2038",
+                "weights": 1.8,
+                "FACE_AMT": 230000,
+                "qty": 262026.08
+            },
+            {
+                "code": "EH7597287",
+                "name": "PFIZER INC 7.2% 03/15/2039",
+                "ename": "PFIZER INC 7.2% 03/15/2039",
+                "weights": 1.68,
+                "FACE_AMT": 200000,
+                "qty": 244314.8
+            },
+            {
+                "code": "BM0491613",
+                "name": "ABBVIE INC 4.05% 11/21/2039",
+                "ename": "ABBVIE INC 4.05% 11/21/2039",
+                "weights": 1.53,
+                "FACE_AMT": 250000,
+                "qty": 221995.5
+            },
+            {
+                "code": "BK1099831",
+                "name": "BRISTOL-MYERS SQUIBB CO 4.25% 10/26/2049",
+                "ename": "BRISTOL-MYERS SQUIBB CO 4.25% 10/26/2049",
+                "weights": 1.53,
+                "FACE_AMT": 260000,
+                "qty": 221964.33
+            },
+            {
+                "code": "AL7020905",
+                "name": "AMGEN INC 4.663% 06/15/2051",
+                "ename": "AMGEN INC 4.663% 06/15/2051",
+                "weights": 1.45,
+                "FACE_AMT": 240000,
+                "qty": 211231.71
+            },
+            {
+                "code": "AF2646764",
+                "name": "CVS HEALTH CORP 5.125% 07/20/2045",
+                "ename": "CVS HEALTH CORP 5.125% 07/20/2045",
+                "weights": 1.45,
+                "FACE_AMT": 230000,
+                "qty": 210550.01
+            },
+            {
+                "code": "ZL1040779",
+                "name": "AMGEN INC 5.75% 03/02/2063",
+                "ename": "AMGEN INC 5.75% 03/02/2063",
+                "weights": 1.41,
+                "FACE_AMT": 200000,
+                "qty": 205736.46
+            },
+            {
+                "code": "EG8123564",
+                "name": "ASTRAZENECA PLC 6.45% 09/15/2037",
+                "ename": "ASTRAZENECA PLC 6.45% 09/15/2037",
+                "weights": 1.35,
+                "FACE_AMT": 170000,
+                "qty": 196683.48
+            },
+            {
+                "code": "UV8399916",
+                "name": "GILEAD SCIENCES INC 4.75% 03/01/2046",
+                "ename": "GILEAD SCIENCES INC 4.75% 03/01/2046",
+                "weights": 1.35,
+                "FACE_AMT": 210000,
+                "qty": 195878.97
+            },
+            {
+                "code": "AL3302604",
+                "name": "ABBOTT LABORATORIES 4.9% 11/30/2046",
+                "ename": "ABBOTT LABORATORIES 4.9% 11/30/2046",
+                "weights": 1.34,
+                "FACE_AMT": 200000,
+                "qty": 195267.62
+            },
+            {
+                "code": "ZL1040746",
+                "name": "AMGEN INC 5.6% 03/02/2043",
+                "ename": "AMGEN INC 5.6% 03/02/2043",
+                "weights": 1.27,
+                "FACE_AMT": 180000,
+                "qty": 185208.2
+            },
+            {
+                "code": "EK8976012",
+                "name": "ABBVIE INC 4.7% 05/14/2045",
+                "ename": "ABBVIE INC 4.7% 05/14/2045",
+                "weights": 1.22,
+                "FACE_AMT": 190000,
+                "qty": 177663.38
+            },
+            {
+                "code": "BS9042729",
+                "name": "MERCK & CO INC 2.9% 12/10/2061",
+                "ename": "MERCK & CO INC 2.9% 12/10/2061",
+                "weights": 1.21,
+                "FACE_AMT": 280000,
+                "qty": 175825.16
+            },
+            {
+                "code": "EG2993269",
+                "name": "WYETH LLC 5.95% 04/01/2037",
+                "ename": "WYETH LLC 5.95% 04/01/2037",
+                "weights": 1.13,
+                "FACE_AMT": 150000,
+                "qty": 163977.25
+            },
+            {
+                "code": "EJ7488335",
+                "name": "ABBVIE INC 4.4% 11/06/2042",
+                "ename": "ABBVIE INC 4.4% 11/06/2042",
+                "weights": 1.13,
+                "FACE_AMT": 180000,
+                "qty": 163919.08
+            },
+            {
+                "code": "AM6819149",
+                "name": "JOHNSON & JOHNSON 3.625% 03/03/2037",
+                "ename": "JOHNSON & JOHNSON 3.625% 03/03/2037",
+                "weights": 1.12,
+                "FACE_AMT": 180000,
+                "qty": 162297.29
+            },
+            {
+                "code": "EK6007513",
+                "name": "GILEAD SCIENCES INC 4.5% 02/01/2045",
+                "ename": "GILEAD SCIENCES INC 4.5% 02/01/2045",
+                "weights": 1.09,
+                "FACE_AMT": 180000,
+                "qty": 159074.46
+            },
+            {
+                "code": "ZH8171105",
+                "name": "BRISTOL-MYERS SQUIBB CO 6.25% 11/15/2053",
+                "ename": "BRISTOL-MYERS SQUIBB CO 6.25% 11/15/2053",
+                "weights": 1.08,
+                "FACE_AMT": 140000,
+                "qty": 157713.64
+            },
+            {
+                "code": "ZK5382500",
+                "name": "MERCK & CO INC 5% 05/17/2053",
+                "ename": "MERCK & CO INC 5% 05/17/2053",
+                "weights": 1.08,
+                "FACE_AMT": 160000,
+                "qty": 157380.87
+            },
+            {
+                "code": "BG1438434",
+                "name": "AMGEN INC 3.15% 02/21/2040",
+                "ename": "AMGEN INC 3.15% 02/21/2040",
+                "weights": 1.03,
+                "FACE_AMT": 200000,
+                "qty": 150219.8
+            },
+            {
+                "code": "UV4493036",
+                "name": "MEDTRONIC INC 4.625% 03/15/2045",
+                "ename": "MEDTRONIC INC 4.625% 03/15/2045",
+                "weights": 0.98,
+                "FACE_AMT": 150000,
+                "qty": 142422.36
+            },
+            {
+                "code": "EK8864390",
+                "name": "AMGEN INC 4.4% 05/01/2045",
+                "ename": "AMGEN INC 4.4% 05/01/2045",
+                "weights": 0.95,
+                "FACE_AMT": 160000,
+                "qty": 138944.27
+            },
+            {
+                "code": "BK2963274",
+                "name": "TAKEDA PHARMACEUTICAL 3.175% 07/09/2050",
+                "ename": "TAKEDA PHARMACEUTICAL 3.175% 07/09/2050",
+                "weights": 0.95,
+                "FACE_AMT": 200000,
+                "qty": 138567.62
+            },
+            {
+                "code": "BM0491324",
+                "name": "ABBVIE INC 4.55% 03/15/2035",
+                "ename": "ABBVIE INC 4.55% 03/15/2035",
+                "weights": 0.94,
+                "FACE_AMT": 140000,
+                "qty": 137065.68
+            },
+            {
+                "code": "UV4492996",
+                "name": "MEDTRONIC INC 4.375% 03/15/2035",
+                "ename": "MEDTRONIC INC 4.375% 03/15/2035",
+                "weights": 0.93,
+                "FACE_AMT": 140000,
+                "qty": 134816.17
+            },
+            {
+                "code": "EK1088500",
+                "name": "GILEAD SCIENCES INC 4.8% 04/01/2044",
+                "ename": "GILEAD SCIENCES INC 4.8% 04/01/2044",
+                "weights": 0.9,
+                "FACE_AMT": 140000,
+                "qty": 131387.48
+            },
+            {
+                "code": "EK0812140",
+                "name": "NOVARTIS CAPITAL CORP 4.4% 05/06/2044",
+                "ename": "NOVARTIS CAPITAL CORP 4.4% 05/06/2044",
+                "weights": 0.89,
+                "FACE_AMT": 140000,
+                "qty": 129374.5
+            },
+            {
+                "code": "QJ8247554",
+                "name": "NOVARTIS CAPITAL CORP 4% 11/20/2045",
+                "ename": "NOVARTIS CAPITAL CORP 4% 11/20/2045",
+                "weights": 0.89,
+                "FACE_AMT": 150000,
+                "qty": 129154.83
+            },
+            {
+                "code": "AL3302596",
+                "name": "ABBOTT LABORATORIES 4.75% 11/30/2036",
+                "ename": "ABBOTT LABORATORIES 4.75% 11/30/2036",
+                "weights": 0.89,
+                "FACE_AMT": 130000,
+                "qty": 129009.26
+            },
+            {
+                "code": "AX5270746",
+                "name": "MERCK & CO INC 4% 03/07/2049",
+                "ename": "MERCK & CO INC 4% 03/07/2049",
+                "weights": 0.88,
+                "FACE_AMT": 150000,
+                "qty": 128121.8
+            },
+            {
+                "code": "AU0580426",
+                "name": "ASTRAZENECA PLC 4.375% 08/17/2048",
+                "ename": "ASTRAZENECA PLC 4.375% 08/17/2048",
+                "weights": 0.88,
+                "FACE_AMT": 143000,
+                "qty": 127465.11
+            },
+            {
+                "code": "BJ5743429",
+                "name": "PFIZER INC 2.7% 05/28/2050",
+                "ename": "PFIZER INC 2.7% 05/28/2050",
+                "weights": 0.87,
+                "FACE_AMT": 190000,
+                "qty": 126750.33
+            },
+            {
+                "code": "JK2606917",
+                "name": "JOHNSON & JOHNSON 3.7% 03/01/2046",
+                "ename": "JOHNSON & JOHNSON 3.7% 03/01/2046",
+                "weights": 0.87,
+                "FACE_AMT": 150000,
+                "qty": 125945.1
+            },
+            {
+                "code": "LW0654365",
+                "name": "ABBVIE INC 4.45% 05/14/2046",
+                "ename": "ABBVIE INC 4.45% 05/14/2046",
+                "weights": 0.86,
+                "FACE_AMT": 140000,
+                "qty": 125663.21
+            },
+            {
+                "code": "EJ6801066",
+                "name": "MERCK & CO INC 4.15% 05/18/2043",
+                "ename": "MERCK & CO INC 4.15% 05/18/2043",
+                "weights": 0.85,
+                "FACE_AMT": 140000,
+                "qty": 123890.99
+            },
+            {
+                "code": "AN3642401",
+                "name": "KAISER FOUNDATION HOSPIT 4.15% 05/01/2047",
+                "ename": "KAISER FOUNDATION HOSPIT 4.15% 05/01/2047",
+                "weights": 0.84,
+                "FACE_AMT": 140000,
+                "qty": 122653.21
+            },
+            {
+                "code": "ZK5382583",
+                "name": "MERCK & CO INC 5.15% 05/17/2063",
+                "ename": "MERCK & CO INC 5.15% 05/17/2063",
+                "weights": 0.82,
+                "FACE_AMT": 120000,
+                "qty": 118881.69
+            },
+            {
+                "code": "JK9635554",
+                "name": "BAXALTA INC 5.25% 06/23/2045",
+                "ename": "BAXALTA INC 5.25% 06/23/2045",
+                "weights": 0.82,
+                "FACE_AMT": 122000,
+                "qty": 118866.26
+            },
+            {
+                "code": "QZ5802157",
+                "name": "GILEAD SCIENCES INC 4.15% 03/01/2047",
+                "ename": "GILEAD SCIENCES INC 4.15% 03/01/2047",
+                "weights": 0.82,
+                "FACE_AMT": 140000,
+                "qty": 118620.88
+            },
+            {
+                "code": "BU5808946",
+                "name": "BRISTOL-MYERS SQUIBB CO 3.7% 03/15/2052",
+                "ename": "BRISTOL-MYERS SQUIBB CO 3.7% 03/15/2052",
+                "weights": 0.8,
+                "FACE_AMT": 150000,
+                "qty": 116406.62
+            },
+            {
+                "code": "EK8975832",
+                "name": "ABBVIE INC 4.5% 05/14/2035",
+                "ename": "ABBVIE INC 4.5% 05/14/2035",
+                "weights": 0.8,
+                "FACE_AMT": 120000,
+                "qty": 115923.36
+            },
+            {
+                "code": "EK7402309",
+                "name": "MERCK & CO INC 3.7% 02/10/2045",
+                "ename": "MERCK & CO INC 3.7% 02/10/2045",
+                "weights": 0.78,
+                "FACE_AMT": 140000,
+                "qty": 113614.25
+            },
+            {
+                "code": "ZH8171295",
+                "name": "BRISTOL-MYERS SQUIBB CO 6.4% 11/15/2063",
+                "ename": "BRISTOL-MYERS SQUIBB CO 6.4% 11/15/2063",
+                "weights": 0.78,
+                "FACE_AMT": 100000,
+                "qty": 113574.5
+            },
+            {
+                "code": "BK1099625",
+                "name": "BRISTOL-MYERS SQUIBB CO 4.35% 11/15/2047",
+                "ename": "BRISTOL-MYERS SQUIBB CO 4.35% 11/15/2047",
+                "weights": 0.77,
+                "FACE_AMT": 130000,
+                "qty": 112265.7
+            },
+            {
+                "code": "ZK8344739",
+                "name": "CVS HEALTH CORP 5.875% 06/01/2053",
+                "ename": "CVS HEALTH CORP 5.875% 06/01/2053",
+                "weights": 0.76,
+                "FACE_AMT": 110000,
+                "qty": 111254.83
+            },
+            {
+                "code": "ED2609482",
+                "name": "WYETH LLC 6.5% 02/01/2034",
+                "ename": "WYETH LLC 6.5% 02/01/2034",
+                "weights": 0.76,
+                "FACE_AMT": 100000,
+                "qty": 110631.87
+            },
+            {
+                "code": "AO7302802",
+                "name": "THERMO FISHER SCIENTIFIC 4.1% 08/15/2047",
+                "ename": "THERMO FISHER SCIENTIFIC 4.1% 08/15/2047",
+                "weights": 0.75,
+                "FACE_AMT": 130000,
+                "qty": 109205.88
+            },
+            {
+                "code": "BG1438442",
+                "name": "AMGEN INC 3.375% 02/21/2050",
+                "ename": "AMGEN INC 3.375% 02/21/2050",
+                "weights": 0.74,
+                "FACE_AMT": 150000,
+                "qty": 107808.53
+            },
+            {
+                "code": "AL7020855",
+                "name": "AMGEN INC 4.563% 06/15/2048",
+                "ename": "AMGEN INC 4.563% 06/15/2048",
+                "weights": 0.72,
+                "FACE_AMT": 120000,
+                "qty": 105167.28
+            },
+            {
+                "code": "ZI8069604",
+                "name": "GILEAD SCIENCES INC 5.55% 10/15/2053",
+                "ename": "GILEAD SCIENCES INC 5.55% 10/15/2053",
+                "weights": 0.72,
+                "FACE_AMT": 100000,
+                "qty": 104506.78
+            },
+            {
+                "code": "AX3340830",
+                "name": "ELI LILLY & CO 4.15% 03/15/2059",
+                "ename": "ELI LILLY & CO 4.15% 03/15/2059",
+                "weights": 0.71,
+                "FACE_AMT": 120000,
+                "qty": 103695.01
+            },
+            {
+                "code": "JK9116332",
+                "name": "ASCENSION HEALTH 3.945% 11/15/2046",
+                "ename": "ASCENSION HEALTH 3.945% 11/15/2046",
+                "weights": 0.7,
+                "FACE_AMT": 120000,
+                "qty": 102396.34
+            },
+            {
+                "code": "EJ8555645",
+                "name": "ZOETIS INC 4.7% 02/01/2043",
+                "ename": "ZOETIS INC 4.7% 02/01/2043",
+                "weights": 0.69,
+                "FACE_AMT": 110000,
+                "qty": 101086.22
+            },
+            {
+                "code": "AN7112872",
+                "name": "BECTON DICKINSON & CO 4.669% 06/06/2047",
+                "ename": "BECTON DICKINSON & CO 4.669% 06/06/2047",
+                "weights": 0.68,
+                "FACE_AMT": 110000,
+                "qty": 98642.83
+            },
+            {
+                "code": "BS9042604",
+                "name": "MERCK & CO INC 2.75% 12/10/2051",
+                "ename": "MERCK & CO INC 2.75% 12/10/2051",
+                "weights": 0.67,
+                "FACE_AMT": 150000,
+                "qty": 97681.43
+            },
+            {
+                "code": "BK1131840",
+                "name": "BRISTOL-MYERS SQUIBB CO 4.125% 06/15/2039",
+                "ename": "BRISTOL-MYERS SQUIBB CO 4.125% 06/15/2039",
+                "weights": 0.67,
+                "FACE_AMT": 110000,
+                "qty": 96789.37
+            },
+            {
+                "code": "AU5268761",
+                "name": "ABBVIE INC 4.875% 11/14/2048",
+                "ename": "ABBVIE INC 4.875% 11/14/2048",
+                "weights": 0.66,
+                "FACE_AMT": 100000,
+                "qty": 96085.76
+            },
+            {
+                "code": "BM0472837",
+                "name": "ABBVIE INC 4.85% 06/15/2044",
+                "ename": "ABBVIE INC 4.85% 06/15/2044",
+                "weights": 0.66,
+                "FACE_AMT": 100000,
+                "qty": 95679.09
+            },
+            {
+                "code": "BM0474270",
+                "name": "ABBVIE INC 4.75% 03/15/2045",
+                "ename": "ABBVIE INC 4.75% 03/15/2045",
+                "weights": 0.65,
+                "FACE_AMT": 100000,
+                "qty": 94887.78
+            },
+            {
+                "code": "AP9424510",
+                "name": "JOHNSON & JOHNSON 3.4% 01/15/2038",
+                "ename": "JOHNSON & JOHNSON 3.4% 01/15/2038",
+                "weights": 0.64,
+                "FACE_AMT": 110000,
+                "qty": 93841.49
+            },
+            {
+                "code": "EI9011251",
+                "name": "GILEAD SCIENCES INC 5.65% 12/01/2041",
+                "ename": "GILEAD SCIENCES INC 5.65% 12/01/2041",
+                "weights": 0.64,
+                "FACE_AMT": 90000,
+                "qty": 92987.55
+            },
+            {
+                "code": "EH0073963",
+                "name": "ABBOTT LABORATORIES 6.15% 11/30/2037",
+                "ename": "ABBOTT LABORATORIES 6.15% 11/30/2037",
+                "weights": 0.62,
+                "FACE_AMT": 80000,
+                "qty": 89840.79
+            },
+            {
+                "code": "QJ7515456",
+                "name": "ASTRAZENECA PLC 4.375% 11/16/2045",
+                "ename": "ASTRAZENECA PLC 4.375% 11/16/2045",
+                "weights": 0.62,
+                "FACE_AMT": 100000,
+                "qty": 89708.04
+            },
+            {
+                "code": "BU6349619",
+                "name": "AMGEN INC 4.4% 02/22/2062",
+                "ename": "AMGEN INC 4.4% 02/22/2062",
+                "weights": 0.61,
+                "FACE_AMT": 110000,
+                "qty": 88584.98
+            },
+            {
+                "code": "EJ1047483",
+                "name": "KAISER FOUNDATION HOSPIT 4.875% 04/01/2042",
+                "ename": "KAISER FOUNDATION HOSPIT 4.875% 04/01/2042",
+                "weights": 0.6,
+                "FACE_AMT": 90000,
+                "qty": 87294.38
+            },
+            {
+                "code": "UV8489444",
+                "name": "BIOGEN INC 5.2% 09/15/2045",
+                "ename": "BIOGEN INC 5.2% 09/15/2045",
+                "weights": 0.6,
+                "FACE_AMT": 90000,
+                "qty": 86983.72
+            },
+            {
+                "code": "ZP7436709",
+                "name": "NYU LANGONE HOSPITALS 3.38% 07/01/2055",
+                "ename": "NYU LANGONE HOSPITALS 3.38% 07/01/2055",
+                "weights": 0.6,
+                "FACE_AMT": 120000,
+                "qty": 86927.8
+            },
+            {
+                "code": "BK1098833",
+                "name": "BRISTOL-MYERS SQUIBB CO 5% 08/15/2045",
+                "ename": "BRISTOL-MYERS SQUIBB CO 5% 08/15/2045",
+                "weights": 0.59,
+                "FACE_AMT": 90000,
+                "qty": 85753.73
+            },
+            {
+                "code": "EK7279145",
+                "name": "NY & PRESBYTERIAN HOSPIT 4.024% 08/01/2045",
+                "ename": "NY & PRESBYTERIAN HOSPIT 4.024% 08/01/2045",
+                "weights": 0.59,
+                "FACE_AMT": 100000,
+                "qty": 85143.33
+            },
+            {
+                "code": "AX5019291",
+                "name": "PFIZER INC 4% 03/15/2049",
+                "ename": "PFIZER INC 4% 03/15/2049",
+                "weights": 0.58,
+                "FACE_AMT": 100000,
+                "qty": 84394.24
+            },
+            {
+                "code": "JK3460470",
+                "name": "STRYKER CORP 4.625% 03/15/2046",
+                "ename": "STRYKER CORP 4.625% 03/15/2046",
+                "weights": 0.58,
+                "FACE_AMT": 90000,
+                "qty": 83821.18
+            },
+            {
+                "code": "BY4591073",
+                "name": "AMGEN INC 4.875% 03/01/2053",
+                "ename": "AMGEN INC 4.875% 03/01/2053",
+                "weights": 0.57,
+                "FACE_AMT": 90000,
+                "qty": 82947.42
+            },
+            {
+                "code": "EK2708494",
+                "name": "PFIZER INC 4.4% 05/15/2044",
+                "ename": "PFIZER INC 4.4% 05/15/2044",
+                "weights": 0.56,
+                "FACE_AMT": 90000,
+                "qty": 82174.82
+            },
+            {
+                "code": "AP9426390",
+                "name": "JOHNSON & JOHNSON 3.5% 01/15/2048",
+                "ename": "JOHNSON & JOHNSON 3.5% 01/15/2048",
+                "weights": 0.55,
+                "FACE_AMT": 100000,
+                "qty": 79484.02
+            },
+            {
+                "code": "BK1099815",
+                "name": "BRISTOL-MYERS SQUIBB CO 4.55% 02/20/2048",
+                "ename": "BRISTOL-MYERS SQUIBB CO 4.55% 02/20/2048",
+                "weights": 0.55,
+                "FACE_AMT": 90000,
+                "qty": 79371.3
+            },
+            {
+                "code": "ZL2713820",
+                "name": "ELI LILLY & CO 4.875% 02/27/2053",
+                "ename": "ELI LILLY & CO 4.875% 02/27/2053",
+                "weights": 0.53,
+                "FACE_AMT": 80000,
+                "qty": 77427.97
+            },
+            {
+                "code": "ZL2713838",
+                "name": "ELI LILLY & CO 4.95% 02/27/2063",
+                "ename": "ELI LILLY & CO 4.95% 02/27/2063",
+                "weights": 0.53,
+                "FACE_AMT": 80000,
+                "qty": 77217.6
+            },
+            {
+                "code": "ZL0458204",
+                "name": "CVS HEALTH CORP 5.625% 02/21/2053",
+                "ename": "CVS HEALTH CORP 5.625% 02/21/2053",
+                "weights": 0.53,
+                "FACE_AMT": 80000,
+                "qty": 76982.92
+            },
+            {
+                "code": "AL2532367",
+                "name": "PFIZER INC 4.125% 12/15/2046",
+                "ename": "PFIZER INC 4.125% 12/15/2046",
+                "weights": 0.52,
+                "FACE_AMT": 90000,
+                "qty": 76270.53
+            },
+            {
+                "code": "BP9878243",
+                "name": "KAISER FOUNDATION HOSPIT 3.002% 06/01/2051",
+                "ename": "KAISER FOUNDATION HOSPIT 3.002% 06/01/2051",
+                "weights": 0.52,
+                "FACE_AMT": 110000,
+                "qty": 76225.49
+            },
+            {
+                "code": "AM6819156",
+                "name": "JOHNSON & JOHNSON 3.75% 03/03/2047",
+                "ename": "JOHNSON & JOHNSON 3.75% 03/03/2047",
+                "weights": 0.52,
+                "FACE_AMT": 90000,
+                "qty": 75740.73
+            },
+            {
+                "code": "ZO1044189",
+                "name": "JOHNSON & JOHNSON 2.25% 09/01/2050",
+                "ename": "JOHNSON & JOHNSON 2.25% 09/01/2050",
+                "weights": 0.52,
+                "FACE_AMT": 120000,
+                "qty": 75425.76
+            },
+            {
+                "code": "BJ1478392",
+                "name": "BIOGEN INC 3.15% 05/01/2050",
+                "ename": "BIOGEN INC 3.15% 05/01/2050",
+                "weights": 0.51,
+                "FACE_AMT": 110000,
+                "qty": 73818.25
+            },
+            {
+                "code": "BK1131808",
+                "name": "BRISTOL-MYERS SQUIBB CO 4.625% 05/15/2044",
+                "ename": "BRISTOL-MYERS SQUIBB CO 4.625% 05/15/2044",
+                "weights": 0.51,
+                "FACE_AMT": 80000,
+                "qty": 73598.4
+            },
+            {
+                "code": "EI2623920",
+                "name": "ABBOTT LABORATORIES 5.3% 05/27/2040",
+                "ename": "ABBOTT LABORATORIES 5.3% 05/27/2040",
+                "weights": 0.5,
+                "FACE_AMT": 70000,
+                "qty": 72515.58
+            },
+            {
+                "code": "BU5808938",
+                "name": "BRISTOL-MYERS SQUIBB CO 3.55% 03/15/2042",
+                "ename": "BRISTOL-MYERS SQUIBB CO 3.55% 03/15/2042",
+                "weights": 0.5,
+                "FACE_AMT": 90000,
+                "qty": 72433.57
+            },
+            {
+                "code": "EK6433974",
+                "name": "BECTON DICKINSON & CO 4.685% 12/15/2044",
+                "ename": "BECTON DICKINSON & CO 4.685% 12/15/2044",
+                "weights": 0.5,
+                "FACE_AMT": 80000,
+                "qty": 72389.96
+            },
+            {
+                "code": "AV1308056",
+                "name": "TOLEDO HOSPITAL/THE 5.75% 11/15/2038",
+                "ename": "TOLEDO HOSPITAL/THE 5.75% 11/15/2038",
+                "weights": 0.49,
+                "FACE_AMT": 70000,
+                "qty": 71106.53
+            },
+            {
+                "code": "BM0687996",
+                "name": "COMMONSPIRIT HEALTH 3.91% 10/01/2050",
+                "ename": "COMMONSPIRIT HEALTH 3.91% 10/01/2050",
+                "weights": 0.49,
+                "FACE_AMT": 90000,
+                "qty": 70615.59
+            },
+            {
+                "code": "EJ3604638",
+                "name": "ASTRAZENECA PLC 4% 09/18/2042",
+                "ename": "ASTRAZENECA PLC 4% 09/18/2042",
+                "weights": 0.48,
+                "FACE_AMT": 80000,
+                "qty": 69727.21
+            },
+            {
+                "code": "AU3780957",
+                "name": "PFIZER INC 4.2% 09/15/2048",
+                "ename": "PFIZER INC 4.2% 09/15/2048",
+                "weights": 0.48,
+                "FACE_AMT": 80000,
+                "qty": 69708.13
+            },
+            {
+                "code": "EJ4097394",
+                "name": "COMMONSPIRIT HEALTH 4.35% 11/01/2042",
+                "ename": "COMMONSPIRIT HEALTH 4.35% 11/01/2042",
+                "weights": 0.48,
+                "FACE_AMT": 80000,
+                "qty": 69416.72
+            },
+            {
+                "code": "EI8703171",
+                "name": "AMGEN INC 5.15% 11/15/2041",
+                "ename": "AMGEN INC 5.15% 11/15/2041",
+                "weights": 0.46,
+                "FACE_AMT": 70000,
+                "qty": 67643.72
+            },
+            {
+                "code": "AZ9084775",
+                "name": "COMMONSPIRIT HEALTH 4.187% 10/01/2049",
+                "ename": "COMMONSPIRIT HEALTH 4.187% 10/01/2049",
+                "weights": 0.46,
+                "FACE_AMT": 80000,
+                "qty": 66303.67
+            },
+            {
+                "code": "AL1180242",
+                "name": "JOHNS HOPKINS HEALTH SYS 3.837% 05/15/2046",
+                "ename": "JOHNS HOPKINS HEALTH SYS 3.837% 05/15/2046",
+                "weights": 0.45,
+                "FACE_AMT": 80000,
+                "qty": 66203.19
+            },
+            {
+                "code": "LW0654340",
+                "name": "ABBVIE INC 4.3% 05/14/2036",
+                "ename": "ABBVIE INC 4.3% 05/14/2036",
+                "weights": 0.45,
+                "FACE_AMT": 70000,
+                "qty": 65893.49
+            },
+            {
+                "code": "AQ6802492",
+                "name": "STANFORD HEALTH CARE 3.795% 11/15/2048",
+                "ename": "STANFORD HEALTH CARE 3.795% 11/15/2048",
+                "weights": 0.45,
+                "FACE_AMT": 80000,
+                "qty": 65291.45
+            },
+            {
+                "code": "BU6367256",
+                "name": "AMGEN INC 4.2% 02/22/2052",
+                "ename": "AMGEN INC 4.2% 02/22/2052",
+                "weights": 0.45,
+                "FACE_AMT": 80000,
+                "qty": 64776.4
+            },
+            {
+                "code": "ED4023724",
+                "name": "GLAXOSMITHKLINE CAP INC 5.375% 04/15/2034",
+                "ename": "GLAXOSMITHKLINE CAP INC 5.375% 04/15/2034",
+                "weights": 0.44,
+                "FACE_AMT": 60000,
+                "qty": 64539.75
+            },
+            {
+                "code": "ZK8345926",
+                "name": "CVS HEALTH CORP 6% 06/01/2063",
+                "ename": "CVS HEALTH CORP 6% 06/01/2063",
+                "weights": 0.42,
+                "FACE_AMT": 60000,
+                "qty": 60964.02
+            },
+            {
+                "code": "ZI2439159",
+                "name": "THERMO FISHER SCIENTIFIC 5.404% 08/10/2043",
+                "ename": "THERMO FISHER SCIENTIFIC 5.404% 08/10/2043",
+                "weights": 0.42,
+                "FACE_AMT": 60000,
+                "qty": 60835.7
+            },
+            {
+                "code": "ZO1044197",
+                "name": "JOHNSON & JOHNSON 2.45% 09/01/2060",
+                "ename": "JOHNSON & JOHNSON 2.45% 09/01/2060",
+                "weights": 0.41,
+                "FACE_AMT": 100000,
+                "qty": 60246.5
+            },
+            {
+                "code": "ZQ3047169",
+                "name": "KAISER FOUNDATION HOSPIT 3.266% 11/01/2049",
+                "ename": "KAISER FOUNDATION HOSPIT 3.266% 11/01/2049",
+                "weights": 0.41,
+                "FACE_AMT": 80000,
+                "qty": 59656.77
+            },
+            {
+                "code": "UV8396391",
+                "name": "GILEAD SCIENCES INC 4.6% 09/01/2035",
+                "ename": "GILEAD SCIENCES INC 4.6% 09/01/2035",
+                "weights": 0.4,
+                "FACE_AMT": 60000,
+                "qty": 58325.1
+            },
+            {
+                "code": "AP1549447",
+                "name": "NORTHWELL HEALTHCARE INC 4.26% 11/01/2047",
+                "ename": "NORTHWELL HEALTHCARE INC 4.26% 11/01/2047",
+                "weights": 0.4,
+                "FACE_AMT": 70000,
+                "qty": 57960.56
+            },
+            {
+                "code": "AF2645998",
+                "name": "CVS HEALTH CORP 4.875% 07/20/2035",
+                "ename": "CVS HEALTH CORP 4.875% 07/20/2035",
+                "weights": 0.4,
+                "FACE_AMT": 60000,
+                "qty": 57525.61
+            },
+            {
+                "code": "EJ9701586",
+                "name": "JOHNSON & JOHNSON 4.5% 12/05/2043",
+                "ename": "JOHNSON & JOHNSON 4.5% 12/05/2043",
+                "weights": 0.39,
+                "FACE_AMT": 60000,
+                "qty": 57103.56
+            },
+            {
+                "code": "BP0156367",
+                "name": "NOVANT HEALTH INC 3.168% 11/01/2051",
+                "ename": "NOVANT HEALTH INC 3.168% 11/01/2051",
+                "weights": 0.38,
+                "FACE_AMT": 80000,
+                "qty": 55322.8
+            },
+            {
+                "code": "JK2606842",
+                "name": "JOHNSON & JOHNSON 3.55% 03/01/2036",
+                "ename": "JOHNSON & JOHNSON 3.55% 03/01/2036",
+                "weights": 0.37,
+                "FACE_AMT": 60000,
+                "qty": 54189.42
+            },
+            {
+                "code": "EJ3705658",
+                "name": "NOVARTIS CAPITAL CORP 3.7% 09/21/2042",
+                "ename": "NOVARTIS CAPITAL CORP 3.7% 09/21/2042",
+                "weights": 0.35,
+                "FACE_AMT": 60000,
+                "qty": 50749.41
+            },
+            {
+                "code": "EK7389019",
+                "name": "MEMORIAL SLOAN-KETTERING 4.2% 07/01/2055",
+                "ename": "MEMORIAL SLOAN-KETTERING 4.2% 07/01/2055",
+                "weights": 0.35,
+                "FACE_AMT": 60000,
+                "qty": 50741.34
+            },
+            {
+                "code": "EJ9701040",
+                "name": "CVS HEALTH CORP 5.3% 12/05/2043",
+                "ename": "CVS HEALTH CORP 5.3% 12/05/2043",
+                "weights": 0.32,
+                "FACE_AMT": 50000,
+                "qty": 47167.36
+            },
+            {
+                "code": "BJ4335706",
+                "name": "BECTON DICKINSON & CO 3.794% 05/20/2050",
+                "ename": "BECTON DICKINSON & CO 3.794% 05/20/2050",
+                "weights": 0.32,
+                "FACE_AMT": 60000,
+                "qty": 47077.7
+            },
+            {
+                "code": "BN5399314",
+                "name": "BAYLOR SCOTT & WHITE HOL 2.839% 11/15/2050",
+                "ename": "BAYLOR SCOTT & WHITE HOL 2.839% 11/15/2050",
+                "weights": 0.32,
+                "FACE_AMT": 70000,
+                "qty": 46970.79
+            },
+            {
+                "code": "EH7397175",
+                "name": "ABBOTT LABORATORIES 6% 04/01/2039",
+                "ename": "ABBOTT LABORATORIES 6% 04/01/2039",
+                "weights": 0.31,
+                "FACE_AMT": 40000,
+                "qty": 45423.04
+            },
+            {
+                "code": "EK7126486",
+                "name": "LABORATORY CORP OF AMER 4.7% 02/01/2045",
+                "ename": "LABORATORY CORP OF AMER 4.7% 02/01/2045",
+                "weights": 0.31,
+                "FACE_AMT": 50000,
+                "qty": 44822.78
+            },
+            {
+                "code": "ZO9414202",
+                "name": "BAPTIST HEALTHCARE 3.54% 08/15/2050",
+                "ename": "BAPTIST HEALTHCARE 3.54% 08/15/2050",
+                "weights": 0.31,
+                "FACE_AMT": 60000,
+                "qty": 44605.28
+            },
+            {
+                "code": "EJ6969475",
+                "name": "PFIZER INC 4.3% 06/15/2043",
+                "ename": "PFIZER INC 4.3% 06/15/2043",
+                "weights": 0.3,
+                "FACE_AMT": 50000,
+                "qty": 44347.44
+            },
+            {
+                "code": "AQ2404269",
+                "name": "CENCORA INC 4.3% 12/15/2047",
+                "ename": "CENCORA INC 4.3% 12/15/2047",
+                "weights": 0.3,
+                "FACE_AMT": 50000,
+                "qty": 43014.99
+            },
+            {
+                "code": "ZP6454703",
+                "name": "MASS GENERAL BRIGHAM INC 3.342% 07/01/2060",
+                "ename": "MASS GENERAL BRIGHAM INC 3.342% 07/01/2060",
+                "weights": 0.28,
+                "FACE_AMT": 60000,
+                "qty": 41170.92
+            },
+            {
+                "code": "AP0341945",
+                "name": "ZOETIS INC 3.95% 09/12/2047",
+                "ename": "ZOETIS INC 3.95% 09/12/2047",
+                "weights": 0.28,
+                "FACE_AMT": 50000,
+                "qty": 40936.55
+            },
+            {
+                "code": "AX3600209",
+                "name": "BOSTON SCIENTIFIC CORP 4.7% 03/01/2049",
+                "ename": "BOSTON SCIENTIFIC CORP 4.7% 03/01/2049",
+                "weights": 0.26,
+                "FACE_AMT": 40000,
+                "qty": 37645.64
+            },
+            {
+                "code": "ZQ2338197",
+                "name": "NY & PRESBYTERIAN HOSPIT 3.954% 08/01/2119",
+                "ename": "NY & PRESBYTERIAN HOSPIT 3.954% 08/01/2119",
+                "weights": 0.25,
+                "FACE_AMT": 50000,
+                "qty": 36835.2
+            },
+            {
+                "code": "BJ1253712",
+                "name": "ELI LILLY & CO 2.25% 05/15/2050",
+                "ename": "ELI LILLY & CO 2.25% 05/15/2050",
+                "weights": 0.25,
+                "FACE_AMT": 60000,
+                "qty": 36679.8
+            },
+            {
+                "code": "ZP6189903",
+                "name": "COTTAGE HEALTH SYSTEM 3.304% 11/01/2049",
+                "ename": "COTTAGE HEALTH SYSTEM 3.304% 11/01/2049",
+                "weights": 0.25,
+                "FACE_AMT": 50000,
+                "qty": 35993.72
+            },
+            {
+                "code": "EJ5929876",
+                "name": "GLAXOSMITHKLINE CAP INC 4.2% 03/18/2043",
+                "ename": "GLAXOSMITHKLINE CAP INC 4.2% 03/18/2043",
+                "weights": 0.25,
+                "FACE_AMT": 40000,
+                "qty": 35935.75
+            },
+            {
+                "code": "ZO1044759",
+                "name": "ELI LILLY & CO 2.5% 09/15/2060",
+                "ename": "ELI LILLY & CO 2.5% 09/15/2060",
+                "weights": 0.25,
+                "FACE_AMT": 60000,
+                "qty": 35794.79
+            },
+            {
+                "code": "ZO0916205",
+                "name": "HACKENSACK MERIDIAN HLTH 2.675% 09/01/2041",
+                "ename": "HACKENSACK MERIDIAN HLTH 2.675% 09/01/2041",
+                "weights": 0.24,
+                "FACE_AMT": 50000,
+                "qty": 35500.85
+            },
+            {
+                "code": "BJ5743320",
+                "name": "PFIZER INC 2.55% 05/28/2040",
+                "ename": "PFIZER INC 2.55% 05/28/2040",
+                "weights": 0.24,
+                "FACE_AMT": 50000,
+                "qty": 35407.28
+            },
+            {
+                "code": "BW8737346",
+                "name": "BIOGEN INC 3.25% 02/15/2051",
+                "ename": "BIOGEN INC 3.25% 02/15/2051",
+                "weights": 0.24,
+                "FACE_AMT": 50000,
+                "qty": 34302.42
+            },
+            {
+                "code": "ZO0916015",
+                "name": "HACKENSACK MERIDIAN HLTH 2.875% 09/01/2050",
+                "ename": "HACKENSACK MERIDIAN HLTH 2.875% 09/01/2050",
+                "weights": 0.23,
+                "FACE_AMT": 50000,
+                "qty": 33983.2
+            },
+            {
+                "code": "EK7593875",
+                "name": "CENCORA INC 4.25% 03/01/2045",
+                "ename": "CENCORA INC 4.25% 03/01/2045",
+                "weights": 0.18,
+                "FACE_AMT": 30000,
+                "qty": 26808.18
+            },
+            {
+                "code": "BU5808953",
+                "name": "BRISTOL-MYERS SQUIBB CO 3.9% 03/15/2062",
+                "ename": "BRISTOL-MYERS SQUIBB CO 3.9% 03/15/2062",
+                "weights": 0.16,
+                "FACE_AMT": 30000,
+                "qty": 22933.45
+            },
+            {
+                "code": "AN7201790",
+                "name": "NYU LANGONE HOSPITALS 4.368% 07/01/2047",
+                "ename": "NYU LANGONE HOSPITALS 4.368% 07/01/2047",
+                "weights": 0.12,
+                "FACE_AMT": 20000,
+                "qty": 17788.32
+            }
+        ]
+    },
+    "Memo": null
+}
