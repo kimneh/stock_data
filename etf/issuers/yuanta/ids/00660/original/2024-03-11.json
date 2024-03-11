@@ -1,0 +1,631 @@
+{
+    "PCF": {
+        "fundid": "1144",
+        "fundname": "元大歐洲50基金",
+        "fullname": "元大已開發國家傘型證券投資信託基金之元大歐洲50證券投資信託基金",
+        "ename": "Yuanta EURO STOXX 50 ETF ",
+        "markcd": "00660",
+        "trandate": "20240307",
+        "totalav": 273138333,
+        "osunit": 7531000,
+        "nav": 36.27,
+        "baseunit": 500000,
+        "estcvalue": 18134267,
+        "estdvalue": -1443532,
+        "issuesdiff": 0,
+        "cashdiff": 0,
+        "preallot": 19960000,
+        "allot": 18166468,
+        "anndate": "20240311",
+        "upddate": "2024-03-08 14:16:02",
+        "preunit": 7531000,
+        "predate": "20240308",
+        "allot_charge_fee": 2000,
+        "redem_charge_fee": 2000,
+        "Beneficiary": {
+            "doc_ym": "20240229",
+            "bf_cnt_a": 489,
+            "upd_date": "2024-03-01T08:47:15"
+        }
+    },
+    "InKind": {
+        "FundComposition": null
+    },
+    "Cash": {
+        "TranDate": "20240307",
+        "CashPosition": [
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "EUR",
+                "exrate": 0,
+                "rto": 0.002,
+                "amt": 5570.12,
+                "trandate": "20240307"
+            },
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": 4.0062,
+                "amt": 10942400,
+                "trandate": "20240307"
+            }
+        ],
+        "MMF": [],
+        "Margin": [
+            {
+                "code": null,
+                "name": "保證金",
+                "ename": "Margin",
+                "crncy": "EUR",
+                "exrate": 34.3643,
+                "rto": 0,
+                "amt": 179237.5,
+                "trandate": "20240307"
+            },
+            {
+                "code": null,
+                "name": "保證金",
+                "ename": "Margin",
+                "crncy": "NTD",
+                "exrate": 1,
+                "rto": 0,
+                "amt": 2008776,
+                "trandate": "20240307"
+            }
+        ],
+        "RP": [],
+        "ForwardExchange": [
+            {
+                "Cname": "遠匯",
+                "Ename": "ForwardExchange",
+                "SAL_CRNCY": "EUR",
+                "SAL_AMT": "6796000",
+                "End_Rate": 34.3643,
+                "HedgeRatio": "87.96"
+            }
+        ],
+        "Currency": [
+            {
+                "fundId": "1144",
+                "cDate": "20240307",
+                "crncy": "NTD",
+                "endRate": 31.543
+            },
+            {
+                "fundId": "1144",
+                "cDate": "20240307",
+                "crncy": "KRW",
+                "endRate": 1330.53
+            },
+            {
+                "fundId": "1144",
+                "cDate": "20240307",
+                "crncy": "JPY",
+                "endRate": 147.94
+            },
+            {
+                "fundId": "1144",
+                "cDate": "20240307",
+                "crncy": "HKD",
+                "endRate": 7.8195
+            },
+            {
+                "fundId": "1144",
+                "cDate": "20240307",
+                "crncy": "EUR",
+                "endRate": 0.9179
+            },
+            {
+                "fundId": "1144",
+                "cDate": "20240307",
+                "crncy": "CNY",
+                "endRate": 7.1986
+            },
+            {
+                "fundId": "1144",
+                "cDate": "20240307",
+                "crncy": "CNH",
+                "endRate": 7.2103
+            }
+        ],
+        "CouponRate": [],
+        "InvestArea": [
+            {
+                "TRAN_DATE": "20240307",
+                "FUND_ID": "1144",
+                "name": "法國",
+                "ename": "FRANCE",
+                "HOLD_RTO": 38.51,
+                "CNT": 17
+            },
+            {
+                "TRAN_DATE": "20240307",
+                "FUND_ID": "1144",
+                "name": "德國",
+                "ename": "GERMANY",
+                "HOLD_RTO": 23.92,
+                "CNT": 14
+            },
+            {
+                "TRAN_DATE": "20240307",
+                "FUND_ID": "1144",
+                "name": "荷蘭",
+                "ename": "NETHERLANDS",
+                "HOLD_RTO": 15.5,
+                "CNT": 6
+            },
+            {
+                "TRAN_DATE": "20240307",
+                "FUND_ID": "1144",
+                "name": "義大利",
+                "ename": "ITALY",
+                "HOLD_RTO": 7.77,
+                "CNT": 6
+            },
+            {
+                "TRAN_DATE": "20240307",
+                "FUND_ID": "1144",
+                "name": "西班牙",
+                "ename": "SPAIN",
+                "HOLD_RTO": 6.27,
+                "CNT": 4
+            },
+            {
+                "TRAN_DATE": "20240307",
+                "FUND_ID": "1144",
+                "name": "芬蘭",
+                "ename": "FINLAND",
+                "HOLD_RTO": 1.56,
+                "CNT": 2
+            },
+            {
+                "TRAN_DATE": "20240307",
+                "FUND_ID": "1144",
+                "name": "其他",
+                "ename": "other",
+                "HOLD_RTO": 1.35,
+                "CNT": 1
+            },
+            {
+                "TRAN_DATE": "20240307",
+                "FUND_ID": "1144",
+                "name": "現金",
+                "ename": "Cash",
+                "HOLD_RTO": 5.12,
+                "CNT": 0
+            }
+        ],
+        "CreditRating": []
+    },
+    "FundWeights": {
+        "Summary": {
+            "code": "1144",
+            "name": null,
+            "stkvalues": 259165482,
+            "futvalues": 18828549,
+            "etfvalues": 0,
+            "bndvalues": 0,
+            "fundsize": 273138333
+        },
+        "StockWeights": [
+            {
+                "code": "ASML NA",
+                "ym": null,
+                "name": "ASML HOLDING NV",
+                "ename": "ASML Holding NV",
+                "weights": 10.28,
+                "qty": 861
+            },
+            {
+                "code": "MC FP",
+                "ym": null,
+                "name": "LVMH MOET HENNESSY LOUIS VUI",
+                "ename": "LVMH Moet Hennessy Louis Vuitton SE",
+                "weights": 5.83,
+                "qty": 552
+            },
+            {
+                "code": "SAP GY",
+                "ym": null,
+                "name": "SAP SE",
+                "ename": "SAP SE",
+                "weights": 4.88,
+                "qty": 2180
+            },
+            {
+                "code": "TTE FP",
+                "ym": null,
+                "name": "TOTALENERGIES SE",
+                "ename": "TotalEnergies SE",
+                "weights": 3.88,
+                "qty": 5147
+            },
+            {
+                "code": "SIE GY",
+                "ym": null,
+                "name": "SIEMENS AG-REG",
+                "ename": "Siemens AG",
+                "weights": 3.65,
+                "qty": 1598
+            },
+            {
+                "code": "SU FP",
+                "ym": null,
+                "name": "SCHNEIDER ELECTRIC SE",
+                "ename": "Schneider Electric SE",
+                "weights": 3.25,
+                "qty": 1223
+            },
+            {
+                "code": "OR FP",
+                "ym": null,
+                "name": "L`OREAL",
+                "ename": "L`Oreal SA",
+                "weights": 2.9,
+                "qty": 518
+            },
+            {
+                "code": "ALV GY",
+                "ym": null,
+                "name": "ALLIANZ SE-REG",
+                "ename": "Allianz SE",
+                "weights": 2.78,
+                "qty": 861
+            },
+            {
+                "code": "AI FP",
+                "ym": null,
+                "name": "AIR LIQUIDE SA",
+                "ename": "Air Liquide SA",
+                "weights": 2.72,
+                "qty": 1118
+            },
+            {
+                "code": "SAN FP",
+                "ym": null,
+                "name": "SANOFI",
+                "ename": "Sanofi SA",
+                "weights": 2.71,
+                "qty": 2447
+            },
+            {
+                "code": "AIR FP",
+                "ym": null,
+                "name": "AIRBUS SE",
+                "ename": "Airbus SE",
+                "weights": 2.49,
+                "qty": 1252
+            },
+            {
+                "code": "RMS FP",
+                "ym": null,
+                "name": "HERMES INTERNATIONAL",
+                "ename": "Hermes International SCA",
+                "weights": 2.21,
+                "qty": 76
+            },
+            {
+                "code": "DTE GY",
+                "ym": null,
+                "name": "DEUTSCHE TELEKOM AG-REG",
+                "ename": "Deutsche Telekom AG",
+                "weights": 2.05,
+                "qty": 7399
+            },
+            {
+                "code": "SAF FP",
+                "ym": null,
+                "name": "SAFRAN SA",
+                "ename": "Safran SA",
+                "weights": 2,
+                "qty": 810
+            },
+            {
+                "code": "DG FP",
+                "ym": null,
+                "name": "VINCI SA",
+                "ename": "Vinci SA",
+                "weights": 1.91,
+                "qty": 1276
+            },
+            {
+                "code": "IBE SM",
+                "ym": null,
+                "name": "IBERDROLA SA",
+                "ename": "Iberdrola SA",
+                "weights": 1.73,
+                "qty": 12369
+            },
+            {
+                "code": "SAN SM",
+                "ym": null,
+                "name": "BANCO SANTANDER SA",
+                "ename": "Banco Santander SA",
+                "weights": 1.73,
+                "qty": 34531
+            },
+            {
+                "code": "BNP FP",
+                "ym": null,
+                "name": "BNP PARIBAS",
+                "ename": "BNP Paribas SA",
+                "weights": 1.7,
+                "qty": 2314
+            },
+            {
+                "code": "CS FP",
+                "ym": null,
+                "name": "AXA SA",
+                "ename": "AXA SA",
+                "weights": 1.69,
+                "qty": 4070
+            },
+            {
+                "code": "EL FP",
+                "ym": null,
+                "name": "ESSILORLUXOTTICA",
+                "ename": "EssilorLuxottica SA",
+                "weights": 1.67,
+                "qty": 653
+            },
+            {
+                "code": "MUV2 GY",
+                "ym": null,
+                "name": "MUENCHENER RUECKVER AG-REG",
+                "ename": "Muenchener Rueckversicherungs-Gesellschaft AG in Muenchen",
+                "weights": 1.6,
+                "qty": 292
+            },
+            {
+                "code": "BBVA SM",
+                "ym": null,
+                "name": "BANCO BILBAO VIZCAYA ARGENTA",
+                "ename": "Banco Bilbao Vizcaya Argentaria SA",
+                "weights": 1.58,
+                "qty": 12728
+            },
+            {
+                "code": "MBG GY",
+                "ym": null,
+                "name": "MERCEDES-BENZ GROUP AG",
+                "ename": "Mercedes-Benz Group AG",
+                "weights": 1.55,
+                "qty": 1707
+            },
+            {
+                "code": "STLAM IM",
+                "ym": null,
+                "name": "STELLANTIS NV",
+                "ename": "Stellantis NV",
+                "weights": 1.54,
+                "qty": 4876
+            },
+            {
+                "code": "UCG IM",
+                "ym": null,
+                "name": "UNICREDIT SPA",
+                "ename": "UniCredit SpA",
+                "weights": 1.5,
+                "qty": 3808
+            },
+            {
+                "code": "ABI BB",
+                "ym": null,
+                "name": "ANHEUSER-BUSCH INBEV SA/NV",
+                "ename": "Anheuser-Busch InBev SA/NV",
+                "weights": 1.35,
+                "qty": 1911
+            },
+            {
+                "code": "ISP IM",
+                "ym": null,
+                "name": "INTESA SANPAOLO",
+                "ename": "Intesa Sanpaolo SpA",
+                "weights": 1.34,
+                "qty": 34421
+            },
+            {
+                "code": "ENEL IM",
+                "ym": null,
+                "name": "ENEL SPA",
+                "ename": "Enel SpA",
+                "weights": 1.28,
+                "qty": 16575
+            },
+            {
+                "code": "INGA NA",
+                "ym": null,
+                "name": "ING GROEP NV",
+                "ename": "ING Groep NV",
+                "weights": 1.23,
+                "qty": 7329
+            },
+            {
+                "code": "ITX SM",
+                "ym": null,
+                "name": "INDUSTRIA DE DISENO TEXTIL",
+                "ename": "Industria de Diseno Textil SA",
+                "weights": 1.23,
+                "qty": 2372
+            },
+            {
+                "code": "IFX GY",
+                "ym": null,
+                "name": "INFINEON TECHNOLOGIES AG",
+                "ename": "Infineon Technologies AG",
+                "weights": 1.22,
+                "qty": 2787
+            },
+            {
+                "code": "RACE IM",
+                "ym": null,
+                "name": "FERRARI NV",
+                "ename": "Ferrari NV",
+                "weights": 1.21,
+                "qty": 251
+            },
+            {
+                "code": "BAS GY",
+                "ym": null,
+                "name": "BASF SE",
+                "ename": "BASF SE",
+                "weights": 1.18,
+                "qty": 1905
+            },
+            {
+                "code": "ADYEN NA",
+                "ym": null,
+                "name": "ADYEN NV",
+                "ename": "Adyen NV",
+                "weights": 1.17,
+                "qty": 62
+            },
+            {
+                "code": "PRX NA",
+                "ym": null,
+                "name": "PROSUS NV",
+                "ename": "Prosus NV",
+                "weights": 1.11,
+                "qty": 3329
+            },
+            {
+                "code": "NDA FH",
+                "ym": null,
+                "name": "NORDEA BANK ABP",
+                "ename": "Nordea Bank Abp",
+                "weights": 1.08,
+                "qty": 7544
+            },
+            {
+                "code": "BN FP",
+                "ym": null,
+                "name": "DANONE",
+                "ename": "Danone SA",
+                "weights": 1.01,
+                "qty": 1369
+            },
+            {
+                "code": "DB1 GY",
+                "ym": null,
+                "name": "DEUTSCHE BOERSE AG",
+                "ename": "Deutsche Boerse AG",
+                "weights": 0.98,
+                "qty": 406
+            },
+            {
+                "code": "DHL GY",
+                "ym": null,
+                "name": "DHL GROUP",
+                "ename": "Deutsche Post AG",
+                "weights": 0.98,
+                "qty": 1970
+            },
+            {
+                "code": "WKL NA",
+                "ym": null,
+                "name": "WOLTERS KLUWER",
+                "ename": "Wolters Kluwer NV",
+                "weights": 0.97,
+                "qty": 531
+            },
+            {
+                "code": "SGO FP",
+                "ym": null,
+                "name": "COMPAGNIE DE SAINT GOBAIN",
+                "ename": "Cie de Saint-Gobain SA",
+                "weights": 0.94,
+                "qty": 1081
+            },
+            {
+                "code": "ENI IM",
+                "ym": null,
+                "name": "ENI SPA",
+                "ename": "Eni SpA",
+                "weights": 0.9,
+                "qty": 4870
+            },
+            {
+                "code": "BMW GY",
+                "ym": null,
+                "name": "BAYERISCHE MOTOREN WERKE AG",
+                "ename": "Bayerische Motoren Werke AG",
+                "weights": 0.86,
+                "qty": 637
+            },
+            {
+                "code": "ADS GY",
+                "ym": null,
+                "name": "ADIDAS AG",
+                "ename": "adidas AG",
+                "weights": 0.84,
+                "qty": 355
+            },
+            {
+                "code": "RI FP",
+                "ym": null,
+                "name": "PERNOD RICARD SA",
+                "ename": "Pernod Ricard SA",
+                "weights": 0.81,
+                "qty": 428
+            },
+            {
+                "code": "KER FP",
+                "ym": null,
+                "name": "KERING",
+                "ename": "Kering SA",
+                "weights": 0.79,
+                "qty": 153
+            },
+            {
+                "code": "AD NA",
+                "ym": null,
+                "name": "KONINKLIJKE AHOLD DELHAIZE N",
+                "ename": "Koninklijke Ahold Delhaize NV",
+                "weights": 0.72,
+                "qty": 2050
+            },
+            {
+                "code": "BAYN GY",
+                "ym": null,
+                "name": "BAYER AG-REG",
+                "ename": "Bayer AG",
+                "weights": 0.7,
+                "qty": 2097
+            },
+            {
+                "code": "VOW3 GY",
+                "ym": null,
+                "name": "VOLKSWAGEN AG-PREF",
+                "ename": "Volkswagen AG",
+                "weights": 0.65,
+                "qty": 440
+            },
+            {
+                "code": "NOKIA FH",
+                "ym": null,
+                "name": "NOKIA OYJ",
+                "ename": "Nokia Oyj",
+                "weights": 0.48,
+                "qty": 11451
+            }
+        ],
+        "FutureWeights": [
+            {
+                "code": "FESX",
+                "ym": "202403",
+                "name": "道瓊歐洲50指數期貨",
+                "ename": "DJ Euro STOXX 50 Futures",
+                "weights": 6.89,
+                "qty": 11
+            }
+        ],
+        "ETFWeights": [],
+        "BondWeights": []
+    },
+    "Memo": null
+}

@@ -6,19 +6,19 @@
         "main_business": "高爾夫球桿頭",
         "website_url": "http://www.dynamic.com.tw",
         "ceo": "蔡昌均",
-        "pe_ratio": 25,
+        "pe_ratio": -42,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 23,
-        "eps_negative_percentage": 17,
+        "eps_negative_percentage": 22,
         "eps_growth_avg": {
-            "last_all": -24.18,
-            "last_2y": 3.42,
-            "last_4y": 17.21,
-            "last_8y": 2.79,
-            "last_12y": 2.29,
-            "last_16y": -14.86,
-            "last_20y": -23.77,
+            "last_all": -24.31,
+            "last_2y": 2.6,
+            "last_4y": 16.71,
+            "last_8y": 2.52,
+            "last_12y": 2.06,
+            "last_16y": -15.04,
+            "last_20y": -23.91,
             "at_2006_last_3y": -65.32,
             "at_2007_last_3y": -100,
             "at_2008_last_3y": -67.11,
@@ -36,8 +36,8 @@
             "at_2020_last_3y": 17.9,
             "at_2021_last_3y": 38.41,
             "at_2022_last_3y": 45.89,
-            "at_2023_last_3y": -3.49,
-            "at_2024_last_3y": -3.49,
+            "at_2023_last_3y": -4.11,
+            "at_2024_last_3y": -4.11,
             "at_2006_last_all": -56.78,
             "at_2007_last_all": -56.78,
             "at_2008_last_all": -52.26,
@@ -55,23 +55,23 @@
             "at_2020_last_all": -29.7,
             "at_2021_last_all": -22.34,
             "at_2022_last_all": -19.86,
-            "at_2023_last_all": -24.18,
-            "at_2024_last_all": -24.18
+            "at_2023_last_all": -24.31,
+            "at_2024_last_all": -24.31
         },
-        "latest_eps": 1.23,
-        "latest_price": 30.8,
-        "latest_roe": 5.98,
-        "latest_gross_margin": -4.57,
-        "latest_equity": 1017335,
-        "latest_revenue": 361211,
-        "latest_gross_profit": -16500,
-        "latest_net_income": -49828,
-        "latest_debt_ratio": 63.18,
-        "latest_current_ratio": 96,
-        "latest_account_receivable_turnover_ratio": 0.93,
-        "latest_inventory_turnover_ratio": 0.62,
-        "latest_reinvestment_rate": 101.01,
-        "latest_research_to_sale_ratio": 7.3
+        "latest_eps": -0.71,
+        "latest_price": 29.65,
+        "latest_roe": -3.4,
+        "latest_gross_margin": 3.26,
+        "latest_equity": 982111,
+        "latest_revenue": 938029,
+        "latest_gross_profit": 30584,
+        "latest_net_income": -42944,
+        "latest_debt_ratio": 69.57,
+        "latest_current_ratio": 91.95,
+        "latest_account_receivable_turnover_ratio": 1.44,
+        "latest_inventory_turnover_ratio": 1.49,
+        "latest_reinvestment_rate": 120.59,
+        "latest_research_to_sale_ratio": 2.12
     },
     "eps_dividends": {
         "2001": {
@@ -187,7 +187,12 @@
         "2023": {
             "cash": 2.6,
             "stock": 0,
-            "eps": 0.14
+            "eps": -0.7
+        },
+        "2024": {
+            "cash": 0.7,
+            "stock": 0,
+            "eps": 0
         }
     },
     "dividends": {
@@ -253,6 +258,10 @@
         },
         "2023-09-08": {
             "cash": 2.6,
+            "stock": 0
+        },
+        "2024-03-07": {
+            "cash": 0.7,
             "stock": 0
         }
     },
@@ -3446,6 +3455,38 @@
             "eps_avg_yearly": 3.93,
             "eps_latest_yearly": 0.04,
             "eps_growth_yearly": 194.51
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": -0.84,
+            "eps_growth_year": -176.99,
+            "eps_4q": -0.71,
+            "eps_4q_growth_year": -112.67,
+            "roe": -4.3,
+            "roe_4q": -4.000000000000001,
+            "gross_profit": 30584,
+            "gross_margin": 3.26,
+            "gross_margin_4q_avg": 6.69,
+            "net_income": -42944,
+            "net_income_4q": null,
+            "revenue": 938029,
+            "revenue_4q": null,
+            "common_shares": 508540,
+            "book_valuer_per_share": 19.31,
+            "book_valuer_per_share_4q_avg": 20.38,
+            "equity": 982111,
+            "current_ratio": 91.95,
+            "debt_ratio": 69.57,
+            "inventory_turnover_ratio": 1.49,
+            "account_receivable_turnover_ratio": 1.44,
+            "reinvestment_rate": 120.59,
+            "research_to_sale_ratio": 2.12,
+            "price_fair": 139.5,
+            "eps_avg_yearly": 3.99,
+            "eps_latest_yearly": 0.04,
+            "eps_growth_yearly": 51.27
         }
     },
     "months": {
