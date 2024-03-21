@@ -6,19 +6,19 @@
         "main_business": "3C商品買賣",
         "website_url": "http://www.sunfar.com.tw",
         "ceo": "吳錦昌",
-        "pe_ratio": 21,
+        "pe_ratio": 24,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 23,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": -5.64,
-            "last_2y": 6.06,
-            "last_4y": 3.1,
-            "last_8y": -4.92,
-            "last_12y": -5.81,
-            "last_16y": -5.75,
-            "last_20y": -4.25,
+            "last_all": -5.16,
+            "last_2y": 9.6,
+            "last_4y": 5.22,
+            "last_8y": -3.74,
+            "last_12y": -4.99,
+            "last_16y": -5.12,
+            "last_20y": -3.74,
             "at_2006_last_3y": 2.12,
             "at_2007_last_3y": 6.95,
             "at_2008_last_3y": -1.89,
@@ -36,8 +36,8 @@
             "at_2020_last_3y": -10.65,
             "at_2021_last_3y": 15.62,
             "at_2022_last_3y": 15.37,
-            "at_2023_last_3y": 15.17,
-            "at_2024_last_3y": 15.17,
+            "at_2023_last_3y": 17.83,
+            "at_2024_last_3y": 17.83,
             "at_2006_last_all": -5.28,
             "at_2007_last_all": 0.74,
             "at_2008_last_all": -7.81,
@@ -55,23 +55,23 @@
             "at_2020_last_all": -7.49,
             "at_2021_last_all": -2.11,
             "at_2022_last_all": -3.72,
-            "at_2023_last_all": -5.64,
-            "at_2024_last_all": -5.64
+            "at_2023_last_all": -5.16,
+            "at_2024_last_all": -5.16
         },
-        "latest_eps": 0.79,
-        "latest_price": 16.65,
-        "latest_roe": 4.93,
-        "latest_gross_margin": 16.9,
-        "latest_equity": 1274921,
-        "latest_revenue": 1015387,
-        "latest_gross_profit": 171627,
-        "latest_net_income": 17652,
-        "latest_debt_ratio": 36.49,
-        "latest_current_ratio": 249.69,
-        "latest_account_receivable_turnover_ratio": 12.85,
-        "latest_inventory_turnover_ratio": 1.24,
-        "latest_reinvestment_rate": 9.71,
-        "latest_research_to_sale_ratio": 0.13
+        "latest_eps": 0.73,
+        "latest_price": 17.25,
+        "latest_roe": 4.53,
+        "latest_gross_margin": 17.14,
+        "latest_equity": 1281845,
+        "latest_revenue": 866172,
+        "latest_gross_profit": 148452,
+        "latest_net_income": 9524,
+        "latest_debt_ratio": 35.78,
+        "latest_current_ratio": 254.18,
+        "latest_account_receivable_turnover_ratio": 9.64,
+        "latest_inventory_turnover_ratio": 1.05,
+        "latest_reinvestment_rate": 17.4,
+        "latest_research_to_sale_ratio": 0.15
     },
     "eps_dividends": {
         "2000": {
@@ -192,7 +192,12 @@
         "2023": {
             "cash": 0.9,
             "stock": 0,
-            "eps": 0.61
+            "eps": 0.73
+        },
+        "2024": {
+            "cash": 0.72,
+            "stock": 0,
+            "eps": 0
         }
     },
     "dividends": {
@@ -290,6 +295,10 @@
         },
         "2023-09-27": {
             "cash": 0.9,
+            "stock": 0
+        },
+        "2024-03-13": {
+            "cash": 0.72,
             "stock": 0
         }
     },
@@ -3483,6 +3492,38 @@
             "eps_avg_yearly": 1.03,
             "eps_latest_yearly": 0.88,
             "eps_growth_yearly": 256.87
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": 0.12,
+            "eps_growth_year": -32.3,
+            "eps_4q": 0.73,
+            "eps_4q_growth_year": -34.52,
+            "roe": 0.74,
+            "roe_4q": 4.55,
+            "gross_profit": 148452,
+            "gross_margin": 17.14,
+            "gross_margin_4q_avg": 16.37,
+            "net_income": 9524,
+            "net_income_4q": null,
+            "revenue": 866172,
+            "revenue_4q": null,
+            "common_shares": 800800,
+            "book_valuer_per_share": 16.01,
+            "book_valuer_per_share_4q_avg": 15.99,
+            "equity": 1281845,
+            "current_ratio": 254.18,
+            "debt_ratio": 35.78,
+            "inventory_turnover_ratio": 1.05,
+            "account_receivable_turnover_ratio": 9.64,
+            "reinvestment_rate": 17.4,
+            "research_to_sale_ratio": 0.15,
+            "price_fair": 36.66,
+            "eps_avg_yearly": 1.05,
+            "eps_latest_yearly": 0.48,
+            "eps_growth_yearly": 262.81
         }
     },
     "months": {

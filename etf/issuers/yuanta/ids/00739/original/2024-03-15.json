@@ -1,0 +1,3864 @@
+{
+    "PCF": {
+        "fundid": "1180",
+        "fundname": "元大MSCI中國A股國際通ETF基金",
+        "fullname": "元大MSCI中國A股國際通ETF證券投資信託基金",
+        "ename": "Yuanta MSCI CHINA A ETF",
+        "markcd": "00739",
+        "trandate": "20240313",
+        "totalav": 737297983,
+        "osunit": 35488000,
+        "nav": 20.78,
+        "baseunit": 500000,
+        "estcvalue": 10387990,
+        "estdvalue": -1084544,
+        "issuesdiff": 0,
+        "cashdiff": 0,
+        "preallot": 11440000,
+        "allot": 10405456,
+        "anndate": "20240315",
+        "upddate": "2024-03-14 16:34:13",
+        "preunit": 35488000,
+        "predate": "20240314",
+        "allot_charge_fee": 0,
+        "redem_charge_fee": 0,
+        "Beneficiary": {
+            "doc_ym": "20240229",
+            "bf_cnt_a": 3036,
+            "upd_date": "2024-03-01T08:47:15"
+        }
+    },
+    "InKind": {
+        "FundComposition": null
+    },
+    "Cash": {
+        "TranDate": "20240313",
+        "CashPosition": [
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "CNH",
+                "exrate": 0,
+                "rto": 0.3505,
+                "amt": 2584063.83,
+                "trandate": "20240313"
+            },
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": 2.0867,
+                "amt": 15385006,
+                "trandate": "20240313"
+            },
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.0011,
+                "amt": 8113.13,
+                "trandate": "20240313"
+            },
+            {
+                "code": "3300",
+                "name": "應付受益權單位買回款",
+                "ename": "PAYABLES FOR UNITS REDEEMED",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": -1.4098,
+                "amt": -10394575,
+                "trandate": "20240313"
+            }
+        ],
+        "MMF": [],
+        "Margin": [
+            {
+                "code": null,
+                "name": "保證金",
+                "ename": "Margin",
+                "crncy": "USD",
+                "exrate": 31.47,
+                "rto": 0,
+                "amt": 499736.95,
+                "trandate": "20240313"
+            }
+        ],
+        "RP": [],
+        "ForwardExchange": [],
+        "Currency": [
+            {
+                "fundId": "1180",
+                "cDate": "20240313",
+                "crncy": "NTD",
+                "endRate": 31.47
+            },
+            {
+                "fundId": "1180",
+                "cDate": "20240313",
+                "crncy": "KRW",
+                "endRate": 1316.18
+            },
+            {
+                "fundId": "1180",
+                "cDate": "20240313",
+                "crncy": "JPY",
+                "endRate": 147.68
+            },
+            {
+                "fundId": "1180",
+                "cDate": "20240313",
+                "crncy": "HKD",
+                "endRate": 7.8234
+            },
+            {
+                "fundId": "1180",
+                "cDate": "20240313",
+                "crncy": "EUR",
+                "endRate": 0.9152
+            },
+            {
+                "fundId": "1180",
+                "cDate": "20240313",
+                "crncy": "CNY",
+                "endRate": 7.1929
+            },
+            {
+                "fundId": "1180",
+                "cDate": "20240313",
+                "crncy": "CNH",
+                "endRate": 7.1989
+            }
+        ],
+        "CouponRate": [],
+        "InvestArea": [
+            {
+                "TRAN_DATE": "20240313",
+                "FUND_ID": "1180",
+                "name": "中國",
+                "ename": "CHINA",
+                "HOLD_RTO": 95.65,
+                "CNT": 460
+            },
+            {
+                "TRAN_DATE": "20240313",
+                "FUND_ID": "1180",
+                "name": "現金",
+                "ename": "Cash",
+                "HOLD_RTO": 4.35,
+                "CNT": 0
+            }
+        ],
+        "CreditRating": []
+    },
+    "FundWeights": {
+        "Summary": {
+            "code": "1180",
+            "name": null,
+            "stkvalues": 705198992,
+            "futvalues": 30159243.03,
+            "etfvalues": 0,
+            "bndvalues": 0,
+            "fundsize": 737297983
+        },
+        "StockWeights": [
+            {
+                "code": "600519 CH",
+                "ym": null,
+                "name": "貴州茅臺",
+                "ename": "貴州茅臺",
+                "weights": 5.77,
+                "qty": 5629
+            },
+            {
+                "code": "300750 CH",
+                "ym": null,
+                "name": "寧德時代",
+                "ename": "寧德時代",
+                "weights": 2.16,
+                "qty": 19701
+            },
+            {
+                "code": "600036 CH",
+                "ym": null,
+                "name": "招商銀行",
+                "ename": "招商銀行",
+                "weights": 1.72,
+                "qty": 92181
+            },
+            {
+                "code": "600900 CH",
+                "ym": null,
+                "name": "長江電力",
+                "ename": "長江電力",
+                "weights": 1.61,
+                "qty": 109327
+            },
+            {
+                "code": "000858 CH",
+                "ym": null,
+                "name": "五 糧 液",
+                "ename": "五 糧 液",
+                "weights": 1.52,
+                "qty": 17308
+            },
+            {
+                "code": "601318 CH",
+                "ym": null,
+                "name": "中國平安",
+                "ename": "中國平安",
+                "weights": 1.22,
+                "qty": 48105
+            },
+            {
+                "code": "002594 CH",
+                "ym": null,
+                "name": "比亞迪",
+                "ename": "比亞迪",
+                "weights": 0.99,
+                "qty": 8100
+            },
+            {
+                "code": "300760 CH",
+                "ym": null,
+                "name": "邁瑞醫療",
+                "ename": "邁瑞醫療",
+                "weights": 0.96,
+                "qty": 5408
+            },
+            {
+                "code": "601288 CH",
+                "ym": null,
+                "name": "農業銀行",
+                "ename": "農業銀行",
+                "weights": 0.93,
+                "qty": 380323
+            },
+            {
+                "code": "601166 CH",
+                "ym": null,
+                "name": "興業銀行",
+                "ename": "興業銀行",
+                "weights": 0.9,
+                "qty": 92800
+            },
+            {
+                "code": "601398 CH",
+                "ym": null,
+                "name": "工商銀行",
+                "ename": "工商銀行",
+                "weights": 0.86,
+                "qty": 280977
+            },
+            {
+                "code": "600809 CH",
+                "ym": null,
+                "name": "山西汾酒",
+                "ename": "山西汾酒",
+                "weights": 0.82,
+                "qty": 5418
+            },
+            {
+                "code": "601127 CH",
+                "ym": null,
+                "name": "賽力斯",
+                "ename": "賽力斯",
+                "weights": 0.81,
+                "qty": 13400
+            },
+            {
+                "code": "601899 CH",
+                "ym": null,
+                "name": "紫金礦業",
+                "ename": "紫金礦業",
+                "weights": 0.8,
+                "qty": 92000
+            },
+            {
+                "code": "600276 CH",
+                "ym": null,
+                "name": "恒瑞醫藥",
+                "ename": "恒瑞醫藥",
+                "weights": 0.76,
+                "qty": 28544
+            },
+            {
+                "code": "000568 CH",
+                "ym": null,
+                "name": "瀘州老窖",
+                "ename": "瀘州老窖",
+                "weights": 0.73,
+                "qty": 6600
+            },
+            {
+                "code": "600030 CH",
+                "ym": null,
+                "name": "中信證券",
+                "ename": "中信證券",
+                "weights": 0.68,
+                "qty": 54673
+            },
+            {
+                "code": "601138 CH",
+                "ym": null,
+                "name": "工業富聯",
+                "ename": "工業富聯",
+                "weights": 0.68,
+                "qty": 47300
+            },
+            {
+                "code": "600309 CH",
+                "ym": null,
+                "name": "萬華化學",
+                "ename": "萬華化學",
+                "weights": 0.65,
+                "qty": 14060
+            },
+            {
+                "code": "601088 CH",
+                "ym": null,
+                "name": "中國神華",
+                "ename": "中國神華",
+                "weights": 0.65,
+                "qty": 29496
+            },
+            {
+                "code": "601225 CH",
+                "ym": null,
+                "name": "陜西煤業",
+                "ename": "陜西煤業",
+                "weights": 0.65,
+                "qty": 43300
+            },
+            {
+                "code": "601816 CH",
+                "ym": null,
+                "name": "京滬高鐵",
+                "ename": "京滬高鐵",
+                "weights": 0.65,
+                "qty": 219400
+            },
+            {
+                "code": "601328 CH",
+                "ym": null,
+                "name": "交通銀行",
+                "ename": "交通銀行",
+                "weights": 0.64,
+                "qty": 175300
+            },
+            {
+                "code": "000333 CH",
+                "ym": null,
+                "name": "美的集團",
+                "ename": "美的集團",
+                "weights": 0.6,
+                "qty": 15700
+            },
+            {
+                "code": "300059 CH",
+                "ym": null,
+                "name": "東方財富",
+                "ename": "東方財富",
+                "weights": 0.58,
+                "qty": 70870
+            },
+            {
+                "code": "601668 CH",
+                "ym": null,
+                "name": "中國建筑",
+                "ename": "中國建筑",
+                "weights": 0.58,
+                "qty": 187300
+            },
+            {
+                "code": "002714 CH",
+                "ym": null,
+                "name": "牧原股份",
+                "ename": "牧原股份",
+                "weights": 0.56,
+                "qty": 24388
+            },
+            {
+                "code": "600000 CH",
+                "ym": null,
+                "name": "浦發銀行",
+                "ename": "浦發銀行",
+                "weights": 0.55,
+                "qty": 131137
+            },
+            {
+                "code": "002475 CH",
+                "ym": null,
+                "name": "立訊精密",
+                "ename": "立訊精密",
+                "weights": 0.54,
+                "qty": 31977
+            },
+            {
+                "code": "000001 CH",
+                "ym": null,
+                "name": "平安銀行",
+                "ename": "平安銀行",
+                "weights": 0.53,
+                "qty": 86700
+            },
+            {
+                "code": "600028 CH",
+                "ym": null,
+                "name": "中國石化",
+                "ename": "中國石化",
+                "weights": 0.52,
+                "qty": 141400
+            },
+            {
+                "code": "600406 CH",
+                "ym": null,
+                "name": "國電南瑞",
+                "ename": "國電南瑞",
+                "weights": 0.52,
+                "qty": 35915
+            },
+            {
+                "code": "002352 CH",
+                "ym": null,
+                "name": "順豐控股",
+                "ename": "順豐控股",
+                "weights": 0.51,
+                "qty": 21900
+            },
+            {
+                "code": "603288 CH",
+                "ym": null,
+                "name": "海天味業",
+                "ename": "海天味業",
+                "weights": 0.51,
+                "qty": 20691
+            },
+            {
+                "code": "601857 CH",
+                "ym": null,
+                "name": "中國石油",
+                "ename": "中國石油",
+                "weights": 0.5,
+                "qty": 96465
+            },
+            {
+                "code": "600887 CH",
+                "ym": null,
+                "name": "伊利股份",
+                "ename": "伊利股份",
+                "weights": 0.47,
+                "qty": 28400
+            },
+            {
+                "code": "601888 CH",
+                "ym": null,
+                "name": "中國中免",
+                "ename": "中國中免",
+                "weights": 0.45,
+                "qty": 8681
+            },
+            {
+                "code": "601012 CH",
+                "ym": null,
+                "name": "隆基綠能",
+                "ename": "隆基綠能",
+                "weights": 0.44,
+                "qty": 33806
+            },
+            {
+                "code": "601985 CH",
+                "ym": null,
+                "name": "中國核電",
+                "ename": "中國核電",
+                "weights": 0.43,
+                "qty": 84400
+            },
+            {
+                "code": "002304 CH",
+                "ym": null,
+                "name": "洋河股份",
+                "ename": "洋河股份",
+                "weights": 0.42,
+                "qty": 6719
+            },
+            {
+                "code": "002371 CH",
+                "ym": null,
+                "name": "北方華創",
+                "ename": "北方華創",
+                "weights": 0.42,
+                "qty": 2400
+            },
+            {
+                "code": "300274 CH",
+                "ym": null,
+                "name": "陽光電源",
+                "ename": "陽光電源",
+                "weights": 0.42,
+                "qty": 6600
+            },
+            {
+                "code": "601601 CH",
+                "ym": null,
+                "name": "中國太保",
+                "ename": "中國太保",
+                "weights": 0.42,
+                "qty": 30600
+            },
+            {
+                "code": "601766 CH",
+                "ym": null,
+                "name": "中國中車",
+                "ename": "中國中車",
+                "weights": 0.42,
+                "qty": 108700
+            },
+            {
+                "code": "600150 CH",
+                "ym": null,
+                "name": "中國船舶",
+                "ename": "中國船舶",
+                "weights": 0.41,
+                "qty": 20000
+            },
+            {
+                "code": "600690 CH",
+                "ym": null,
+                "name": "海爾智家",
+                "ename": "海爾智家",
+                "weights": 0.41,
+                "qty": 28200
+            },
+            {
+                "code": "601988 CH",
+                "ym": null,
+                "name": "中國銀行",
+                "ename": "中國銀行",
+                "weights": 0.41,
+                "qty": 156900
+            },
+            {
+                "code": "688041 CH",
+                "ym": null,
+                "name": "海光信息",
+                "ename": "海光信息",
+                "weights": 0.41,
+                "qty": 8600
+            },
+            {
+                "code": "000725 CH",
+                "ym": null,
+                "name": "京東方A",
+                "ename": "京東方A",
+                "weights": 0.4,
+                "qty": 165100
+            },
+            {
+                "code": "601818 CH",
+                "ym": null,
+                "name": "光大銀行",
+                "ename": "光大銀行",
+                "weights": 0.4,
+                "qty": 207300
+            },
+            {
+                "code": "600019 CH",
+                "ym": null,
+                "name": "寶鋼股份",
+                "ename": "寶鋼股份",
+                "weights": 0.39,
+                "qty": 98797
+            },
+            {
+                "code": "600050 CH",
+                "ym": null,
+                "name": "中國聯通",
+                "ename": "中國聯通",
+                "weights": 0.39,
+                "qty": 142100
+            },
+            {
+                "code": "603259 CH",
+                "ym": null,
+                "name": "藥明康德",
+                "ename": "藥明康德",
+                "weights": 0.39,
+                "qty": 11448
+            },
+            {
+                "code": "002142 CH",
+                "ym": null,
+                "name": "寧波銀行",
+                "ename": "寧波銀行",
+                "weights": 0.38,
+                "qty": 29451
+            },
+            {
+                "code": "600436 CH",
+                "ym": null,
+                "name": "片仔癀",
+                "ename": "片仔癀",
+                "weights": 0.38,
+                "qty": 2700
+            },
+            {
+                "code": "688256 CH",
+                "ym": null,
+                "name": "寒武紀",
+                "ename": "寒武紀",
+                "weights": 0.38,
+                "qty": 3700
+            },
+            {
+                "code": "000625 CH",
+                "ym": null,
+                "name": "長安汽車",
+                "ename": "長安汽車",
+                "weights": 0.37,
+                "qty": 37000
+            },
+            {
+                "code": "600016 CH",
+                "ym": null,
+                "name": "民生銀行",
+                "ename": "民生銀行",
+                "weights": 0.37,
+                "qty": 158420
+            },
+            {
+                "code": "600919 CH",
+                "ym": null,
+                "name": "江蘇銀行",
+                "ename": "江蘇銀行",
+                "weights": 0.37,
+                "qty": 81970
+            },
+            {
+                "code": "601658 CH",
+                "ym": null,
+                "name": "郵儲銀行",
+                "ename": "郵儲銀行",
+                "weights": 0.37,
+                "qty": 129900
+            },
+            {
+                "code": "688111 CH",
+                "ym": null,
+                "name": "金山辦公",
+                "ename": "金山辦公",
+                "weights": 0.37,
+                "qty": 2100
+            },
+            {
+                "code": "600905 CH",
+                "ym": null,
+                "name": "三峽能源",
+                "ename": "三峽能源",
+                "weights": 0.36,
+                "qty": 127900
+            },
+            {
+                "code": "688223 CH",
+                "ym": null,
+                "name": "晶科能源",
+                "ename": "晶科能源",
+                "weights": 0.36,
+                "qty": 67000
+            },
+            {
+                "code": "300015 CH",
+                "ym": null,
+                "name": "愛爾眼科",
+                "ename": "愛爾眼科",
+                "weights": 0.35,
+                "qty": 41628
+            },
+            {
+                "code": "300308 CH",
+                "ym": null,
+                "name": "中際旭創",
+                "ename": "中際旭創",
+                "weights": 0.35,
+                "qty": 3600
+            },
+            {
+                "code": "601390 CH",
+                "ym": null,
+                "name": "中國中鐵",
+                "ename": "中國中鐵",
+                "weights": 0.35,
+                "qty": 91734
+            },
+            {
+                "code": "688036 CH",
+                "ym": null,
+                "name": "傳音控股",
+                "ename": "傳音控股",
+                "weights": 0.35,
+                "qty": 3600
+            },
+            {
+                "code": "300122 CH",
+                "ym": null,
+                "name": "智飛生物",
+                "ename": "智飛生物",
+                "weights": 0.34,
+                "qty": 10677
+            },
+            {
+                "code": "300498 CH",
+                "ym": null,
+                "name": "溫氏股份",
+                "ename": "溫氏股份",
+                "weights": 0.33,
+                "qty": 29689
+            },
+            {
+                "code": "600438 CH",
+                "ym": null,
+                "name": "通威股份",
+                "ename": "通威股份",
+                "weights": 0.33,
+                "qty": 20100
+            },
+            {
+                "code": "603993 CH",
+                "ym": null,
+                "name": "洛陽鉬業",
+                "ename": "洛陽鉬業",
+                "weights": 0.32,
+                "qty": 78900
+            },
+            {
+                "code": "000063 CH",
+                "ym": null,
+                "name": "中興通訊",
+                "ename": "中興通訊",
+                "weights": 0.31,
+                "qty": 18000
+            },
+            {
+                "code": "002230 CH",
+                "ym": null,
+                "name": "科大訊飛",
+                "ename": "科大訊飛",
+                "weights": 0.31,
+                "qty": 10307
+            },
+            {
+                "code": "600031 CH",
+                "ym": null,
+                "name": "三一重工",
+                "ename": "三一重工",
+                "weights": 0.31,
+                "qty": 37907
+            },
+            {
+                "code": "600104 CH",
+                "ym": null,
+                "name": "上汽集團",
+                "ename": "上汽集團",
+                "weights": 0.3,
+                "qty": 34500
+            },
+            {
+                "code": "600989 CH",
+                "ym": null,
+                "name": "寶豐能源",
+                "ename": "寶豐能源",
+                "weights": 0.3,
+                "qty": 32800
+            },
+            {
+                "code": "601006 CH",
+                "ym": null,
+                "name": "大秦鐵路",
+                "ename": "大秦鐵路",
+                "weights": 0.3,
+                "qty": 70300
+            },
+            {
+                "code": "601169 CH",
+                "ym": null,
+                "name": "北京銀行",
+                "ename": "北京銀行",
+                "weights": 0.3,
+                "qty": 94400
+            },
+            {
+                "code": "603501 CH",
+                "ym": null,
+                "name": "韋爾股份",
+                "ename": "韋爾股份",
+                "weights": 0.3,
+                "qty": 5280
+            },
+            {
+                "code": "688271 CH",
+                "ym": null,
+                "name": "聯影醫療",
+                "ename": "聯影醫療",
+                "weights": 0.3,
+                "qty": 3600
+            },
+            {
+                "code": "000338 CH",
+                "ym": null,
+                "name": "濰柴動力",
+                "ename": "濰柴動力",
+                "weights": 0.29,
+                "qty": 30300
+            },
+            {
+                "code": "000651 CH",
+                "ym": null,
+                "name": "格力電器",
+                "ename": "格力電器",
+                "weights": 0.29,
+                "qty": 12600
+            },
+            {
+                "code": "002493 CH",
+                "ym": null,
+                "name": "榮盛石化",
+                "ename": "榮盛石化",
+                "weights": 0.29,
+                "qty": 45190
+            },
+            {
+                "code": "300394 CH",
+                "ym": null,
+                "name": "天孚通信",
+                "ename": "天孚通信",
+                "weights": 0.29,
+                "qty": 3600
+            },
+            {
+                "code": "600886 CH",
+                "ym": null,
+                "name": "國投電力",
+                "ename": "國投電力",
+                "weights": 0.29,
+                "qty": 33300
+            },
+            {
+                "code": "601211 CH",
+                "ym": null,
+                "name": "國泰君安",
+                "ename": "國泰君安",
+                "weights": 0.29,
+                "qty": 33609
+            },
+            {
+                "code": "600999 CH",
+                "ym": null,
+                "name": "招商證券",
+                "ename": "招商證券",
+                "weights": 0.28,
+                "qty": 33120
+            },
+            {
+                "code": "601688 CH",
+                "ym": null,
+                "name": "華泰證券",
+                "ename": "華泰證券",
+                "weights": 0.28,
+                "qty": 32630
+            },
+            {
+                "code": "688303 CH",
+                "ym": null,
+                "name": "大全能源",
+                "ename": "大全能源",
+                "weights": 0.28,
+                "qty": 16000
+            },
+            {
+                "code": "000166 CH",
+                "ym": null,
+                "name": "申萬宏源",
+                "ename": "申萬宏源",
+                "weights": 0.27,
+                "qty": 100665
+            },
+            {
+                "code": "301236 CH",
+                "ym": null,
+                "name": "軟通動力",
+                "ename": "軟通動力",
+                "weights": 0.27,
+                "qty": 8550
+            },
+            {
+                "code": "000596 CH",
+                "ym": null,
+                "name": "古井貢酒",
+                "ename": "古井貢酒",
+                "weights": 0.26,
+                "qty": 1800
+            },
+            {
+                "code": "000895 CH",
+                "ym": null,
+                "name": "雙匯發展",
+                "ename": "雙匯發展",
+                "weights": 0.26,
+                "qty": 15500
+            },
+            {
+                "code": "601066 CH",
+                "ym": null,
+                "name": "中信建投",
+                "ename": "中信建投",
+                "weights": 0.26,
+                "qty": 19300
+            },
+            {
+                "code": "688012 CH",
+                "ym": null,
+                "name": "中微公司",
+                "ename": "中微公司",
+                "weights": 0.26,
+                "qty": 2800
+            },
+            {
+                "code": "000538 CH",
+                "ym": null,
+                "name": "云南白藥",
+                "ename": "云南白藥",
+                "weights": 0.25,
+                "qty": 8060
+            },
+            {
+                "code": "000792 CH",
+                "ym": null,
+                "name": "鹽湖股份",
+                "ename": "鹽湖股份",
+                "weights": 0.25,
+                "qty": 24300
+            },
+            {
+                "code": "600188 CH",
+                "ym": null,
+                "name": "兗礦能源",
+                "ename": "兗礦能源",
+                "weights": 0.25,
+                "qty": 17050
+            },
+            {
+                "code": "600585 CH",
+                "ym": null,
+                "name": "海螺水泥",
+                "ename": "海螺水泥",
+                "weights": 0.25,
+                "qty": 17900
+            },
+            {
+                "code": "002027 CH",
+                "ym": null,
+                "name": "分眾傳媒",
+                "ename": "分眾傳媒",
+                "weights": 0.24,
+                "qty": 64560
+            },
+            {
+                "code": "600346 CH",
+                "ym": null,
+                "name": "恒力石化",
+                "ename": "恒力石化",
+                "weights": 0.24,
+                "qty": 31440
+            },
+            {
+                "code": "601009 CH",
+                "ym": null,
+                "name": "南京銀行",
+                "ename": "南京銀行",
+                "weights": 0.24,
+                "qty": 46200
+            },
+            {
+                "code": "601229 CH",
+                "ym": null,
+                "name": "上海銀行",
+                "ename": "上海銀行",
+                "weights": 0.24,
+                "qty": 63470
+            },
+            {
+                "code": "000100 CH",
+                "ym": null,
+                "name": "TCL科技",
+                "ename": "TCL科技",
+                "weights": 0.23,
+                "qty": 83910
+            },
+            {
+                "code": "300014 CH",
+                "ym": null,
+                "name": "億緯鋰能",
+                "ename": "億緯鋰能",
+                "weights": 0.23,
+                "qty": 9130
+            },
+            {
+                "code": "300124 CH",
+                "ym": null,
+                "name": "匯川技術",
+                "ename": "匯川技術",
+                "weights": 0.23,
+                "qty": 6000
+            },
+            {
+                "code": "600547 CH",
+                "ym": null,
+                "name": "山東黃金",
+                "ename": "山東黃金",
+                "weights": 0.23,
+                "qty": 16188
+            },
+            {
+                "code": "600660 CH",
+                "ym": null,
+                "name": "福耀玻璃",
+                "ename": "福耀玻璃",
+                "weights": 0.23,
+                "qty": 8900
+            },
+            {
+                "code": "600795 CH",
+                "ym": null,
+                "name": "國電電力",
+                "ename": "國電電力",
+                "weights": 0.23,
+                "qty": 79700
+            },
+            {
+                "code": "600837 CH",
+                "ym": null,
+                "name": "海通證券",
+                "ename": "海通證券",
+                "weights": 0.23,
+                "qty": 43100
+            },
+            {
+                "code": "601111 CH",
+                "ym": null,
+                "name": "中國國航",
+                "ename": "中國國航",
+                "weights": 0.23,
+                "qty": 52000
+            },
+            {
+                "code": "601600 CH",
+                "ym": null,
+                "name": "中國鋁業",
+                "ename": "中國鋁業",
+                "weights": 0.23,
+                "qty": 59000
+            },
+            {
+                "code": "601669 CH",
+                "ym": null,
+                "name": "中國電建",
+                "ename": "中國電建",
+                "weights": 0.23,
+                "qty": 77000
+            },
+            {
+                "code": "000776 CH",
+                "ym": null,
+                "name": "廣發證券",
+                "ename": "廣發證券",
+                "weights": 0.22,
+                "qty": 26400
+            },
+            {
+                "code": "600011 CH",
+                "ym": null,
+                "name": "華能國際",
+                "ename": "華能國際",
+                "weights": 0.22,
+                "qty": 40900
+            },
+            {
+                "code": "600015 CH",
+                "ym": null,
+                "name": "華夏銀行",
+                "ename": "華夏銀行",
+                "weights": 0.22,
+                "qty": 59200
+            },
+            {
+                "code": "601995 CH",
+                "ym": null,
+                "name": "中金公司",
+                "ename": "中金公司",
+                "weights": 0.22,
+                "qty": 10900
+            },
+            {
+                "code": "002466 CH",
+                "ym": null,
+                "name": "天齊鋰業",
+                "ename": "天齊鋰業",
+                "weights": 0.21,
+                "qty": 6600
+            },
+            {
+                "code": "600089 CH",
+                "ym": null,
+                "name": "特變電工",
+                "ename": "特變電工",
+                "weights": 0.21,
+                "qty": 22540
+            },
+            {
+                "code": "600845 CH",
+                "ym": null,
+                "name": "寶信軟件",
+                "ename": "寶信軟件",
+                "weights": 0.21,
+                "qty": 8027
+            },
+            {
+                "code": "601628 CH",
+                "ym": null,
+                "name": "中國人壽",
+                "ename": "中國人壽",
+                "weights": 0.21,
+                "qty": 12400
+            },
+            {
+                "code": "002311 CH",
+                "ym": null,
+                "name": "海大集團",
+                "ename": "海大集團",
+                "weights": 0.2,
+                "qty": 7400
+            },
+            {
+                "code": "300033 CH",
+                "ym": null,
+                "name": "同花順",
+                "ename": "同花順",
+                "weights": 0.2,
+                "qty": 2400
+            },
+            {
+                "code": "300896 CH",
+                "ym": null,
+                "name": "愛美客",
+                "ename": "愛美客",
+                "weights": 0.2,
+                "qty": 1000
+            },
+            {
+                "code": "601100 CH",
+                "ym": null,
+                "name": "恒立液壓",
+                "ename": "恒立液壓",
+                "weights": 0.2,
+                "qty": 5996
+            },
+            {
+                "code": "000425 CH",
+                "ym": null,
+                "name": "徐工機械",
+                "ename": "徐工機械",
+                "weights": 0.19,
+                "qty": 52800
+            },
+            {
+                "code": "600111 CH",
+                "ym": null,
+                "name": "北方稀土",
+                "ename": "北方稀土",
+                "weights": 0.19,
+                "qty": 16100
+            },
+            {
+                "code": "600674 CH",
+                "ym": null,
+                "name": "川投能源",
+                "ename": "川投能源",
+                "weights": 0.19,
+                "qty": 20500
+            },
+            {
+                "code": "601689 CH",
+                "ym": null,
+                "name": "拓普集團",
+                "ename": "拓普集團",
+                "weights": 0.19,
+                "qty": 5200
+            },
+            {
+                "code": "601699 CH",
+                "ym": null,
+                "name": "潞安環能",
+                "ename": "潞安環能",
+                "weights": 0.19,
+                "qty": 13400
+            },
+            {
+                "code": "601881 CH",
+                "ym": null,
+                "name": "中國銀河",
+                "ename": "中國銀河",
+                "weights": 0.19,
+                "qty": 27000
+            },
+            {
+                "code": "000301 CH",
+                "ym": null,
+                "name": "東方盛虹",
+                "ename": "東方盛虹",
+                "weights": 0.18,
+                "qty": 29500
+            },
+            {
+                "code": "600010 CH",
+                "ym": null,
+                "name": "包鋼股份",
+                "ename": "包鋼股份",
+                "weights": 0.18,
+                "qty": 202800
+            },
+            {
+                "code": "601360 CH",
+                "ym": null,
+                "name": "三六零",
+                "ename": "三六零",
+                "weights": 0.18,
+                "qty": 31900
+            },
+            {
+                "code": "601868 CH",
+                "ym": null,
+                "name": "中國能建",
+                "ename": "中國能建",
+                "weights": 0.18,
+                "qty": 144900
+            },
+            {
+                "code": "603369 CH",
+                "ym": null,
+                "name": "今世緣",
+                "ename": "今世緣",
+                "weights": 0.18,
+                "qty": 5600
+            },
+            {
+                "code": "002236 CH",
+                "ym": null,
+                "name": "大華股份",
+                "ename": "大華股份",
+                "weights": 0.17,
+                "qty": 14700
+            },
+            {
+                "code": "002459 CH",
+                "ym": null,
+                "name": "晶澳科技",
+                "ename": "晶澳科技",
+                "weights": 0.17,
+                "qty": 14812
+            },
+            {
+                "code": "002460 CH",
+                "ym": null,
+                "name": "贛鋒鋰業",
+                "ename": "贛鋒鋰業",
+                "weights": 0.17,
+                "qty": 7160
+            },
+            {
+                "code": "002920 CH",
+                "ym": null,
+                "name": "德賽西威",
+                "ename": "德賽西威",
+                "weights": 0.17,
+                "qty": 2500
+            },
+            {
+                "code": "300433 CH",
+                "ym": null,
+                "name": "藍思科技",
+                "ename": "藍思科技",
+                "weights": 0.17,
+                "qty": 22288
+            },
+            {
+                "code": "300832 CH",
+                "ym": null,
+                "name": "新產業",
+                "ename": "新產業",
+                "weights": 0.17,
+                "qty": 3500
+            },
+            {
+                "code": "600023 CH",
+                "ym": null,
+                "name": "浙能電力",
+                "ename": "浙能電力",
+                "weights": 0.17,
+                "qty": 49900
+            },
+            {
+                "code": "600029 CH",
+                "ym": null,
+                "name": "南方航空",
+                "ename": "南方航空",
+                "weights": 0.17,
+                "qty": 50200
+            },
+            {
+                "code": "600115 CH",
+                "ym": null,
+                "name": "中國東航",
+                "ename": "中國東航",
+                "weights": 0.17,
+                "qty": 76500
+            },
+            {
+                "code": "600926 CH",
+                "ym": null,
+                "name": "杭州銀行",
+                "ename": "杭州銀行",
+                "weights": 0.17,
+                "qty": 26480
+            },
+            {
+                "code": "600958 CH",
+                "ym": null,
+                "name": "東方證券",
+                "ename": "東方證券",
+                "weights": 0.17,
+                "qty": 33404
+            },
+            {
+                "code": "601336 CH",
+                "ym": null,
+                "name": "新華保險",
+                "ename": "新華保險",
+                "weights": 0.17,
+                "qty": 9300
+            },
+            {
+                "code": "601788 CH",
+                "ym": null,
+                "name": "光大證券",
+                "ename": "光大證券",
+                "weights": 0.17,
+                "qty": 17500
+            },
+            {
+                "code": "601939 CH",
+                "ym": null,
+                "name": "建設銀行",
+                "ename": "建設銀行",
+                "weights": 0.17,
+                "qty": 42900
+            },
+            {
+                "code": "688728 CH",
+                "ym": null,
+                "name": "格科微",
+                "ename": "格科微",
+                "weights": 0.17,
+                "qty": 15200
+            },
+            {
+                "code": "000977 CH",
+                "ym": null,
+                "name": "浪潮信息",
+                "ename": "浪潮信息",
+                "weights": 0.16,
+                "qty": 6580
+            },
+            {
+                "code": "000983 CH",
+                "ym": null,
+                "name": "山西焦煤",
+                "ename": "山西焦煤",
+                "weights": 0.16,
+                "qty": 25395
+            },
+            {
+                "code": "002241 CH",
+                "ym": null,
+                "name": "歌爾股份",
+                "ename": "歌爾股份",
+                "weights": 0.16,
+                "qty": 15321
+            },
+            {
+                "code": "003816 CH",
+                "ym": null,
+                "name": "中國廣核",
+                "ename": "中國廣核",
+                "weights": 0.16,
+                "qty": 70300
+            },
+            {
+                "code": "300782 CH",
+                "ym": null,
+                "name": "卓勝微",
+                "ename": "卓勝微",
+                "weights": 0.16,
+                "qty": 2408
+            },
+            {
+                "code": "600085 CH",
+                "ym": null,
+                "name": "同仁堂",
+                "ename": "同仁堂",
+                "weights": 0.16,
+                "qty": 6100
+            },
+            {
+                "code": "600221 CH",
+                "ym": null,
+                "name": "海航控股",
+                "ename": "海航控股",
+                "weights": 0.16,
+                "qty": 193000
+            },
+            {
+                "code": "600600 CH",
+                "ym": null,
+                "name": "青島啤酒",
+                "ename": "青島啤酒",
+                "weights": 0.16,
+                "qty": 3200
+            },
+            {
+                "code": "601633 CH",
+                "ym": null,
+                "name": "長城汽車",
+                "ename": "長城汽車",
+                "weights": 0.16,
+                "qty": 11000
+            },
+            {
+                "code": "601825 CH",
+                "ym": null,
+                "name": "滬農商行",
+                "ename": "滬農商行",
+                "weights": 0.16,
+                "qty": 43100
+            },
+            {
+                "code": "601872 CH",
+                "ym": null,
+                "name": "招商輪船",
+                "ename": "招商輪船",
+                "weights": 0.16,
+                "qty": 36400
+            },
+            {
+                "code": "601916 CH",
+                "ym": null,
+                "name": "浙商銀行",
+                "ename": "浙商銀行",
+                "weights": 0.16,
+                "qty": 96270
+            },
+            {
+                "code": "603392 CH",
+                "ym": null,
+                "name": "萬泰生物",
+                "ename": "萬泰生物",
+                "weights": 0.16,
+                "qty": 3806
+            },
+            {
+                "code": "688008 CH",
+                "ym": null,
+                "name": "瀾起科技",
+                "ename": "瀾起科技",
+                "weights": 0.16,
+                "qty": 5100
+            },
+            {
+                "code": "000963 CH",
+                "ym": null,
+                "name": "華東醫藥",
+                "ename": "華東醫藥",
+                "weights": 0.15,
+                "qty": 7820
+            },
+            {
+                "code": "002463 CH",
+                "ym": null,
+                "name": "滬電股份",
+                "ename": "滬電股份",
+                "weights": 0.15,
+                "qty": 8520
+            },
+            {
+                "code": "002648 CH",
+                "ym": null,
+                "name": "衛星化學",
+                "ename": "衛星化學",
+                "weights": 0.15,
+                "qty": 15092
+            },
+            {
+                "code": "600039 CH",
+                "ym": null,
+                "name": "四川路橋",
+                "ename": "四川路橋",
+                "weights": 0.15,
+                "qty": 32460
+            },
+            {
+                "code": "600426 CH",
+                "ym": null,
+                "name": "華魯恒升",
+                "ename": "華魯恒升",
+                "weights": 0.15,
+                "qty": 9530
+            },
+            {
+                "code": "600489 CH",
+                "ym": null,
+                "name": "中金黃金",
+                "ename": "中金黃金",
+                "weights": 0.15,
+                "qty": 21700
+            },
+            {
+                "code": "600741 CH",
+                "ym": null,
+                "name": "華域汽車",
+                "ename": "華域汽車",
+                "weights": 0.15,
+                "qty": 14131
+            },
+            {
+                "code": "601618 CH",
+                "ym": null,
+                "name": "中國中冶",
+                "ename": "中國中冶",
+                "weights": 0.15,
+                "qty": 79700
+            },
+            {
+                "code": "603806 CH",
+                "ym": null,
+                "name": "福斯特",
+                "ename": "福斯特",
+                "weights": 0.15,
+                "qty": 8328
+            },
+            {
+                "code": "688396 CH",
+                "ym": null,
+                "name": "華潤微",
+                "ename": "華潤微",
+                "weights": 0.15,
+                "qty": 5900
+            },
+            {
+                "code": "688599 CH",
+                "ym": null,
+                "name": "天合光能",
+                "ename": "天合光能",
+                "weights": 0.15,
+                "qty": 9700
+            },
+            {
+                "code": "000157 CH",
+                "ym": null,
+                "name": "中聯重科",
+                "ename": "中聯重科",
+                "weights": 0.14,
+                "qty": 31700
+            },
+            {
+                "code": "000661 CH",
+                "ym": null,
+                "name": "長春高新",
+                "ename": "長春高新",
+                "weights": 0.14,
+                "qty": 1800
+            },
+            {
+                "code": "000999 CH",
+                "ym": null,
+                "name": "華潤三九",
+                "ename": "華潤三九",
+                "weights": 0.14,
+                "qty": 4400
+            },
+            {
+                "code": "002001 CH",
+                "ym": null,
+                "name": "新和成",
+                "ename": "新和成",
+                "weights": 0.14,
+                "qty": 13808
+            },
+            {
+                "code": "002129 CH",
+                "ym": null,
+                "name": "TCL中環",
+                "ename": "TCL中環",
+                "weights": 0.14,
+                "qty": 18025
+            },
+            {
+                "code": "002736 CH",
+                "ym": null,
+                "name": "國信證券",
+                "ename": "國信證券",
+                "weights": 0.14,
+                "qty": 28600
+            },
+            {
+                "code": "300999 CH",
+                "ym": null,
+                "name": "金龍魚",
+                "ename": "金龍魚",
+                "weights": 0.14,
+                "qty": 7300
+            },
+            {
+                "code": "600027 CH",
+                "ym": null,
+                "name": "華電國際",
+                "ename": "華電國際",
+                "weights": 0.14,
+                "qty": 38000
+            },
+            {
+                "code": "600160 CH",
+                "ym": null,
+                "name": "巨化股份",
+                "ename": "巨化股份",
+                "weights": 0.14,
+                "qty": 12100
+            },
+            {
+                "code": "600196 CH",
+                "ym": null,
+                "name": "復星醫藥",
+                "ename": "復星醫藥",
+                "weights": 0.14,
+                "qty": 9500
+            },
+            {
+                "code": "600233 CH",
+                "ym": null,
+                "name": "圓通速遞",
+                "ename": "圓通速遞",
+                "weights": 0.14,
+                "qty": 15400
+            },
+            {
+                "code": "600256 CH",
+                "ym": null,
+                "name": "廣匯能源",
+                "ename": "廣匯能源",
+                "weights": 0.14,
+                "qty": 29300
+            },
+            {
+                "code": "600522 CH",
+                "ym": null,
+                "name": "中天科技",
+                "ename": "中天科技",
+                "weights": 0.14,
+                "qty": 15200
+            },
+            {
+                "code": "600584 CH",
+                "ym": null,
+                "name": "長電科技",
+                "ename": "長電科技",
+                "weights": 0.14,
+                "qty": 8000
+            },
+            {
+                "code": "601021 CH",
+                "ym": null,
+                "name": "春秋航空",
+                "ename": "春秋航空",
+                "weights": 0.14,
+                "qty": 4400
+            },
+            {
+                "code": "601727 CH",
+                "ym": null,
+                "name": "上海電氣",
+                "ename": "上海電氣",
+                "weights": 0.14,
+                "qty": 56500
+            },
+            {
+                "code": "603986 CH",
+                "ym": null,
+                "name": "兆易創新",
+                "ename": "兆易創新",
+                "weights": 0.14,
+                "qty": 2992
+            },
+            {
+                "code": "000617 CH",
+                "ym": null,
+                "name": "中油資本",
+                "ename": "中油資本",
+                "weights": 0.13,
+                "qty": 37600
+            },
+            {
+                "code": "000786 CH",
+                "ym": null,
+                "name": "北新建材",
+                "ename": "北新建材",
+                "weights": 0.13,
+                "qty": 7546
+            },
+            {
+                "code": "002050 CH",
+                "ym": null,
+                "name": "三花智控",
+                "ename": "三花智控",
+                "weights": 0.13,
+                "qty": 8300
+            },
+            {
+                "code": "002252 CH",
+                "ym": null,
+                "name": "上海萊士",
+                "ename": "上海萊士",
+                "weights": 0.13,
+                "qty": 29700
+            },
+            {
+                "code": "300316 CH",
+                "ym": null,
+                "name": "晶盛機電",
+                "ename": "晶盛機電",
+                "weights": 0.13,
+                "qty": 5800
+            },
+            {
+                "code": "300408 CH",
+                "ym": null,
+                "name": "三環集團",
+                "ename": "三環集團",
+                "weights": 0.13,
+                "qty": 8530
+            },
+            {
+                "code": "300418 CH",
+                "ym": null,
+                "name": "昆侖萬維",
+                "ename": "昆侖萬維",
+                "weights": 0.13,
+                "qty": 5400
+            },
+            {
+                "code": "300487 CH",
+                "ym": null,
+                "name": "藍曉科技",
+                "ename": "藍曉科技",
+                "weights": 0.13,
+                "qty": 4550
+            },
+            {
+                "code": "300502 CH",
+                "ym": null,
+                "name": "新易盛",
+                "ename": "新易盛",
+                "weights": 0.13,
+                "qty": 3200
+            },
+            {
+                "code": "600026 CH",
+                "ym": null,
+                "name": "中遠海能",
+                "ename": "中遠海能",
+                "weights": 0.13,
+                "qty": 15500
+            },
+            {
+                "code": "600415 CH",
+                "ym": null,
+                "name": "小商品城",
+                "ename": "小商品城",
+                "weights": 0.13,
+                "qty": 24500
+            },
+            {
+                "code": "600745 CH",
+                "ym": null,
+                "name": "聞泰科技",
+                "ename": "聞泰科技",
+                "weights": 0.13,
+                "qty": 5600
+            },
+            {
+                "code": "600803 CH",
+                "ym": null,
+                "name": "新奧股份",
+                "ename": "新奧股份",
+                "weights": 0.13,
+                "qty": 11500
+            },
+            {
+                "code": "600918 CH",
+                "ym": null,
+                "name": "中泰證券",
+                "ename": "中泰證券",
+                "weights": 0.13,
+                "qty": 31100
+            },
+            {
+                "code": "601319 CH",
+                "ym": null,
+                "name": "中國人保",
+                "ename": "中國人保",
+                "weights": 0.13,
+                "qty": 42300
+            },
+            {
+                "code": "601377 CH",
+                "ym": null,
+                "name": "興業證券",
+                "ename": "興業證券",
+                "weights": 0.13,
+                "qty": 38530
+            },
+            {
+                "code": "601607 CH",
+                "ym": null,
+                "name": "上海醫藥",
+                "ename": "上海醫藥",
+                "weights": 0.13,
+                "qty": 12400
+            },
+            {
+                "code": "601838 CH",
+                "ym": null,
+                "name": "成都銀行",
+                "ename": "成都銀行",
+                "weights": 0.13,
+                "qty": 17000
+            },
+            {
+                "code": "603799 CH",
+                "ym": null,
+                "name": "華友鈷業",
+                "ename": "華友鈷業",
+                "weights": 0.13,
+                "qty": 7625
+            },
+            {
+                "code": "605499 CH",
+                "ym": null,
+                "name": "東鵬飲料",
+                "ename": "東鵬飲料",
+                "weights": 0.13,
+                "qty": 1200
+            },
+            {
+                "code": "688082 CH",
+                "ym": null,
+                "name": "盛美上海",
+                "ename": "盛美上海",
+                "weights": 0.13,
+                "qty": 2400
+            },
+            {
+                "code": "688561 CH",
+                "ym": null,
+                "name": "奇安信",
+                "ename": "奇安信",
+                "weights": 0.13,
+                "qty": 6100
+            },
+            {
+                "code": "000408 CH",
+                "ym": null,
+                "name": "藏格礦業",
+                "ename": "藏格礦業",
+                "weights": 0.12,
+                "qty": 7100
+            },
+            {
+                "code": "000630 CH",
+                "ym": null,
+                "name": "銅陵有色",
+                "ename": "銅陵有色",
+                "weights": 0.12,
+                "qty": 56600
+            },
+            {
+                "code": "000975 CH",
+                "ym": null,
+                "name": "銀泰黃金",
+                "ename": "銀泰黃金",
+                "weights": 0.12,
+                "qty": 12400
+            },
+            {
+                "code": "002028 CH",
+                "ym": null,
+                "name": "思源電氣",
+                "ename": "思源電氣",
+                "weights": 0.12,
+                "qty": 3400
+            },
+            {
+                "code": "002601 CH",
+                "ym": null,
+                "name": "龍佰集團",
+                "ename": "龍佰集團",
+                "weights": 0.12,
+                "qty": 10700
+            },
+            {
+                "code": "002709 CH",
+                "ym": null,
+                "name": "天賜材料",
+                "ename": "天賜材料",
+                "weights": 0.12,
+                "qty": 8620
+            },
+            {
+                "code": "002812 CH",
+                "ym": null,
+                "name": "恩捷股份",
+                "ename": "恩捷股份",
+                "weights": 0.12,
+                "qty": 4340
+            },
+            {
+                "code": "300413 CH",
+                "ym": null,
+                "name": "芒果超媒",
+                "ename": "芒果超媒",
+                "weights": 0.12,
+                "qty": 8345
+            },
+            {
+                "code": "600009 CH",
+                "ym": null,
+                "name": "上海機場",
+                "ename": "上海機場",
+                "weights": 0.12,
+                "qty": 5600
+            },
+            {
+                "code": "600161 CH",
+                "ym": null,
+                "name": "天壇生物",
+                "ename": "天壇生物",
+                "weights": 0.12,
+                "qty": 7400
+            },
+            {
+                "code": "600570 CH",
+                "ym": null,
+                "name": "恒生電子",
+                "ename": "恒生電子",
+                "weights": 0.12,
+                "qty": 8487
+            },
+            {
+                "code": "600588 CH",
+                "ym": null,
+                "name": "用友網絡",
+                "ename": "用友網絡",
+                "weights": 0.12,
+                "qty": 15221
+            },
+            {
+                "code": "600875 CH",
+                "ym": null,
+                "name": "東方電氣",
+                "ename": "東方電氣",
+                "weights": 0.12,
+                "qty": 12400
+            },
+            {
+                "code": "601058 CH",
+                "ym": null,
+                "name": "賽輪輪胎",
+                "ename": "賽輪輪胎",
+                "weights": 0.12,
+                "qty": 14000
+            },
+            {
+                "code": "601238 CH",
+                "ym": null,
+                "name": "廣汽集團",
+                "ename": "廣汽集團",
+                "weights": 0.12,
+                "qty": 22000
+            },
+            {
+                "code": "601865 CH",
+                "ym": null,
+                "name": "福萊特",
+                "ename": "福萊特",
+                "weights": 0.12,
+                "qty": 7100
+            },
+            {
+                "code": "601877 CH",
+                "ym": null,
+                "name": "正泰電器",
+                "ename": "正泰電器",
+                "weights": 0.12,
+                "qty": 9600
+            },
+            {
+                "code": "603195 CH",
+                "ym": null,
+                "name": "公牛集團",
+                "ename": "公牛集團",
+                "weights": 0.12,
+                "qty": 2000
+            },
+            {
+                "code": "603198 CH",
+                "ym": null,
+                "name": "迎駕貢酒",
+                "ename": "迎駕貢酒",
+                "weights": 0.12,
+                "qty": 3000
+            },
+            {
+                "code": "605117 CH",
+                "ym": null,
+                "name": "德業股份",
+                "ename": "德業股份",
+                "weights": 0.12,
+                "qty": 1900
+            },
+            {
+                "code": "000807 CH",
+                "ym": null,
+                "name": "云鋁股份",
+                "ename": "云鋁股份",
+                "weights": 0.11,
+                "qty": 15500
+            },
+            {
+                "code": "000876 CH",
+                "ym": null,
+                "name": "新 希 望",
+                "ename": "新 希 望",
+                "weights": 0.11,
+                "qty": 20300
+            },
+            {
+                "code": "000933 CH",
+                "ym": null,
+                "name": "神火股份",
+                "ename": "神火股份",
+                "weights": 0.11,
+                "qty": 10000
+            },
+            {
+                "code": "002422 CH",
+                "ym": null,
+                "name": "科倫藥業",
+                "ename": "科倫藥業",
+                "weights": 0.11,
+                "qty": 6700
+            },
+            {
+                "code": "002555 CH",
+                "ym": null,
+                "name": "三七互娛",
+                "ename": "三七互娛",
+                "weights": 0.11,
+                "qty": 9900
+            },
+            {
+                "code": "002938 CH",
+                "ym": null,
+                "name": "鵬鼎控股",
+                "ename": "鵬鼎控股",
+                "weights": 0.11,
+                "qty": 8600
+            },
+            {
+                "code": "300765 CH",
+                "ym": null,
+                "name": "新諾威",
+                "ename": "新諾威",
+                "weights": 0.11,
+                "qty": 5200
+            },
+            {
+                "code": "600061 CH",
+                "ym": null,
+                "name": "國投資本",
+                "ename": "國投資本",
+                "weights": 0.11,
+                "qty": 28700
+            },
+            {
+                "code": "600066 CH",
+                "ym": null,
+                "name": "宇通客車",
+                "ename": "宇通客車",
+                "weights": 0.11,
+                "qty": 9900
+            },
+            {
+                "code": "600176 CH",
+                "ym": null,
+                "name": "中國巨石",
+                "ename": "中國巨石",
+                "weights": 0.11,
+                "qty": 17917
+            },
+            {
+                "code": "600183 CH",
+                "ym": null,
+                "name": "生益科技",
+                "ename": "生益科技",
+                "weights": 0.11,
+                "qty": 10500
+            },
+            {
+                "code": "600332 CH",
+                "ym": null,
+                "name": "白云山",
+                "ename": "白云山",
+                "weights": 0.11,
+                "qty": 6300
+            },
+            {
+                "code": "600362 CH",
+                "ym": null,
+                "name": "江西銅業",
+                "ename": "江西銅業",
+                "weights": 0.11,
+                "qty": 9300
+            },
+            {
+                "code": "600733 CH",
+                "ym": null,
+                "name": "北汽藍谷",
+                "ename": "北汽藍谷",
+                "weights": 0.11,
+                "qty": 24900
+            },
+            {
+                "code": "600985 CH",
+                "ym": null,
+                "name": "淮北礦業",
+                "ename": "淮北礦業",
+                "weights": 0.11,
+                "qty": 11100
+            },
+            {
+                "code": "601117 CH",
+                "ym": null,
+                "name": "中國化學",
+                "ename": "中國化學",
+                "weights": 0.11,
+                "qty": 27300
+            },
+            {
+                "code": "601168 CH",
+                "ym": null,
+                "name": "西部礦業",
+                "ename": "西部礦業",
+                "weights": 0.11,
+                "qty": 10600
+            },
+            {
+                "code": "601567 CH",
+                "ym": null,
+                "name": "三星醫療",
+                "ename": "三星醫療",
+                "weights": 0.11,
+                "qty": 6300
+            },
+            {
+                "code": "601799 CH",
+                "ym": null,
+                "name": "星宇股份",
+                "ename": "星宇股份",
+                "weights": 0.11,
+                "qty": 1300
+            },
+            {
+                "code": "601878 CH",
+                "ym": null,
+                "name": "浙商證券",
+                "ename": "浙商證券",
+                "weights": 0.11,
+                "qty": 17300
+            },
+            {
+                "code": "603260 CH",
+                "ym": null,
+                "name": "合盛硅業",
+                "ename": "合盛硅業",
+                "weights": 0.11,
+                "qty": 3500
+            },
+            {
+                "code": "603659 CH",
+                "ym": null,
+                "name": "璞泰來",
+                "ename": "璞泰來",
+                "weights": 0.11,
+                "qty": 9589
+            },
+            {
+                "code": "603939 CH",
+                "ym": null,
+                "name": "益豐藥房",
+                "ename": "益豐藥房",
+                "weights": 0.11,
+                "qty": 4517
+            },
+            {
+                "code": "688072 CH",
+                "ym": null,
+                "name": "拓荊科技",
+                "ename": "拓荊科技",
+                "weights": 0.11,
+                "qty": 888
+            },
+            {
+                "code": "688126 CH",
+                "ym": null,
+                "name": "滬硅產業",
+                "ename": "滬硅產業",
+                "weights": 0.11,
+                "qty": 12200
+            },
+            {
+                "code": "688169 CH",
+                "ym": null,
+                "name": "石頭科技",
+                "ename": "石頭科技",
+                "weights": 0.11,
+                "qty": 560
+            },
+            {
+                "code": "688188 CH",
+                "ym": null,
+                "name": "柏楚電子",
+                "ename": "柏楚電子",
+                "weights": 0.11,
+                "qty": 660
+            },
+            {
+                "code": "000423 CH",
+                "ym": null,
+                "name": "東阿阿膠",
+                "ename": "東阿阿膠",
+                "weights": 0.1,
+                "qty": 2900
+            },
+            {
+                "code": "000932 CH",
+                "ym": null,
+                "name": "華菱鋼鐵",
+                "ename": "華菱鋼鐵",
+                "weights": 0.1,
+                "qty": 30900
+            },
+            {
+                "code": "002007 CH",
+                "ym": null,
+                "name": "華蘭生物",
+                "ename": "華蘭生物",
+                "weights": 0.1,
+                "qty": 8160
+            },
+            {
+                "code": "002074 CH",
+                "ym": null,
+                "name": "國軒高科",
+                "ename": "國軒高科",
+                "weights": 0.1,
+                "qty": 8000
+            },
+            {
+                "code": "002078 CH",
+                "ym": null,
+                "name": "太陽紙業",
+                "ename": "太陽紙業",
+                "weights": 0.1,
+                "qty": 12500
+            },
+            {
+                "code": "002128 CH",
+                "ym": null,
+                "name": "電投能源",
+                "ename": "電投能源",
+                "weights": 0.1,
+                "qty": 10000
+            },
+            {
+                "code": "002156 CH",
+                "ym": null,
+                "name": "通富微電",
+                "ename": "通富微電",
+                "weights": 0.1,
+                "qty": 6800
+            },
+            {
+                "code": "002180 CH",
+                "ym": null,
+                "name": "納思達",
+                "ename": "納思達",
+                "weights": 0.1,
+                "qty": 6300
+            },
+            {
+                "code": "002600 CH",
+                "ym": null,
+                "name": "領益智造",
+                "ename": "領益智造",
+                "weights": 0.1,
+                "qty": 31300
+            },
+            {
+                "code": "002602 CH",
+                "ym": null,
+                "name": "世紀華通",
+                "ename": "世紀華通",
+                "weights": 0.1,
+                "qty": 33300
+            },
+            {
+                "code": "300919 CH",
+                "ym": null,
+                "name": "中偉股份",
+                "ename": "中偉股份",
+                "weights": 0.1,
+                "qty": 3000
+            },
+            {
+                "code": "600018 CH",
+                "ym": null,
+                "name": "上港集團",
+                "ename": "上港集團",
+                "weights": 0.1,
+                "qty": 31200
+            },
+            {
+                "code": "600219 CH",
+                "ym": null,
+                "name": "南山鋁業",
+                "ename": "南山鋁業",
+                "weights": 0.1,
+                "qty": 52300
+            },
+            {
+                "code": "600348 CH",
+                "ym": null,
+                "name": "華陽股份",
+                "ename": "華陽股份",
+                "weights": 0.1,
+                "qty": 16150
+            },
+            {
+                "code": "600398 CH",
+                "ym": null,
+                "name": "海瀾之家",
+                "ename": "海瀾之家",
+                "weights": 0.1,
+                "qty": 19600
+            },
+            {
+                "code": "600418 CH",
+                "ym": null,
+                "name": "江淮汽車",
+                "ename": "江淮汽車",
+                "weights": 0.1,
+                "qty": 9800
+            },
+            {
+                "code": "600642 CH",
+                "ym": null,
+                "name": "申能股份",
+                "ename": "申能股份",
+                "weights": 0.1,
+                "qty": 21900
+            },
+            {
+                "code": "601077 CH",
+                "ym": null,
+                "name": "渝農商行",
+                "ename": "渝農商行",
+                "weights": 0.1,
+                "qty": 39500
+            },
+            {
+                "code": "601108 CH",
+                "ym": null,
+                "name": "財通證券",
+                "ename": "財通證券",
+                "weights": 0.1,
+                "qty": 20720
+            },
+            {
+                "code": "601555 CH",
+                "ym": null,
+                "name": "東吳證券",
+                "ename": "東吳證券",
+                "weights": 0.1,
+                "qty": 22359
+            },
+            {
+                "code": "603658 CH",
+                "ym": null,
+                "name": "安圖生物",
+                "ename": "安圖生物",
+                "weights": 0.1,
+                "qty": 2600
+            },
+            {
+                "code": "603833 CH",
+                "ym": null,
+                "name": "歐派家居",
+                "ename": "歐派家居",
+                "weights": 0.1,
+                "qty": 2280
+            },
+            {
+                "code": "688009 CH",
+                "ym": null,
+                "name": "中國通號",
+                "ename": "中國通號",
+                "weights": 0.1,
+                "qty": 32100
+            },
+            {
+                "code": "688187 CH",
+                "ym": null,
+                "name": "時代電氣",
+                "ename": "時代電氣",
+                "weights": 0.1,
+                "qty": 3800
+            },
+            {
+                "code": "688777 CH",
+                "ym": null,
+                "name": "中控技術",
+                "ename": "中控技術",
+                "weights": 0.1,
+                "qty": 3435
+            },
+            {
+                "code": "000027 CH",
+                "ym": null,
+                "name": "深圳能源",
+                "ename": "深圳能源",
+                "weights": 0.09,
+                "qty": 21268
+            },
+            {
+                "code": "000066 CH",
+                "ym": null,
+                "name": "中國長城",
+                "ename": "中國長城",
+                "weights": 0.09,
+                "qty": 14400
+            },
+            {
+                "code": "000733 CH",
+                "ym": null,
+                "name": "振華科技",
+                "ename": "振華科技",
+                "weights": 0.09,
+                "qty": 2500
+            },
+            {
+                "code": "000988 CH",
+                "ym": null,
+                "name": "華工科技",
+                "ename": "華工科技",
+                "weights": 0.09,
+                "qty": 4500
+            },
+            {
+                "code": "001965 CH",
+                "ym": null,
+                "name": "招商公路",
+                "ename": "招商公路",
+                "weights": 0.09,
+                "qty": 14000
+            },
+            {
+                "code": "002064 CH",
+                "ym": null,
+                "name": "華峰化學",
+                "ename": "華峰化學",
+                "weights": 0.09,
+                "qty": 22200
+            },
+            {
+                "code": "002223 CH",
+                "ym": null,
+                "name": "魚躍醫療",
+                "ename": "魚躍醫療",
+                "weights": 0.09,
+                "qty": 4500
+            },
+            {
+                "code": "002414 CH",
+                "ym": null,
+                "name": "高德紅外",
+                "ename": "高德紅外",
+                "weights": 0.09,
+                "qty": 19030
+            },
+            {
+                "code": "002603 CH",
+                "ym": null,
+                "name": "以嶺藥業",
+                "ename": "以嶺藥業",
+                "weights": 0.09,
+                "qty": 7420
+            },
+            {
+                "code": "002673 CH",
+                "ym": null,
+                "name": "西部證券",
+                "ename": "西部證券",
+                "weights": 0.09,
+                "qty": 20008
+            },
+            {
+                "code": "002821 CH",
+                "ym": null,
+                "name": "凱萊英",
+                "ename": "凱萊英",
+                "weights": 0.09,
+                "qty": 1520
+            },
+            {
+                "code": "300223 CH",
+                "ym": null,
+                "name": "北京君正",
+                "ename": "北京君正",
+                "weights": 0.09,
+                "qty": 2200
+            },
+            {
+                "code": "300442 CH",
+                "ym": null,
+                "name": "潤澤科技",
+                "ename": "潤澤科技",
+                "weights": 0.09,
+                "qty": 6400
+            },
+            {
+                "code": "300628 CH",
+                "ym": null,
+                "name": "億聯網絡",
+                "ename": "億聯網絡",
+                "weights": 0.09,
+                "qty": 5600
+            },
+            {
+                "code": "300661 CH",
+                "ym": null,
+                "name": "圣邦股份",
+                "ename": "圣邦股份",
+                "weights": 0.09,
+                "qty": 2112
+            },
+            {
+                "code": "300751 CH",
+                "ym": null,
+                "name": "邁為股份",
+                "ename": "邁為股份",
+                "weights": 0.09,
+                "qty": 1212
+            },
+            {
+                "code": "300759 CH",
+                "ym": null,
+                "name": "康龍化成",
+                "ename": "康龍化成",
+                "weights": 0.09,
+                "qty": 6625
+            },
+            {
+                "code": "300866 CH",
+                "ym": null,
+                "name": "安克創新",
+                "ename": "安克創新",
+                "weights": 0.09,
+                "qty": 1800
+            },
+            {
+                "code": "301269 CH",
+                "ym": null,
+                "name": "華大九天",
+                "ename": "華大九天",
+                "weights": 0.09,
+                "qty": 1600
+            },
+            {
+                "code": "600060 CH",
+                "ym": null,
+                "name": "海信視像",
+                "ename": "海信視像",
+                "weights": 0.09,
+                "qty": 5800
+            },
+            {
+                "code": "600079 CH",
+                "ym": null,
+                "name": "人福醫藥",
+                "ename": "人福醫藥",
+                "weights": 0.09,
+                "qty": 7300
+            },
+            {
+                "code": "600096 CH",
+                "ym": null,
+                "name": "云天化",
+                "ename": "云天化",
+                "weights": 0.09,
+                "qty": 8200
+            },
+            {
+                "code": "600109 CH",
+                "ym": null,
+                "name": "國金證券",
+                "ename": "國金證券",
+                "weights": 0.09,
+                "qty": 16600
+            },
+            {
+                "code": "600132 CH",
+                "ym": null,
+                "name": "重慶啤酒",
+                "ename": "重慶啤酒",
+                "weights": 0.09,
+                "qty": 2200
+            },
+            {
+                "code": "600177 CH",
+                "ym": null,
+                "name": "雅戈爾",
+                "ename": "雅戈爾",
+                "weights": 0.09,
+                "qty": 20700
+            },
+            {
+                "code": "600460 CH",
+                "ym": null,
+                "name": "士蘭微",
+                "ename": "士蘭微",
+                "weights": 0.09,
+                "qty": 7400
+            },
+            {
+                "code": "600487 CH",
+                "ym": null,
+                "name": "亨通光電",
+                "ename": "亨通光電",
+                "weights": 0.09,
+                "qty": 11000
+            },
+            {
+                "code": "600546 CH",
+                "ym": null,
+                "name": "山煤國際",
+                "ename": "山煤國際",
+                "weights": 0.09,
+                "qty": 8900
+            },
+            {
+                "code": "600566 CH",
+                "ym": null,
+                "name": "濟川藥業",
+                "ename": "濟川藥業",
+                "weights": 0.09,
+                "qty": 4100
+            },
+            {
+                "code": "601216 CH",
+                "ym": null,
+                "name": "君正集團",
+                "ename": "君正集團",
+                "weights": 0.09,
+                "qty": 37700
+            },
+            {
+                "code": "601233 CH",
+                "ym": null,
+                "name": "桐昆股份",
+                "ename": "桐昆股份",
+                "weights": 0.09,
+                "qty": 10800
+            },
+            {
+                "code": "601958 CH",
+                "ym": null,
+                "name": "金鉬股份",
+                "ename": "金鉬股份",
+                "weights": 0.09,
+                "qty": 14400
+            },
+            {
+                "code": "601966 CH",
+                "ym": null,
+                "name": "玲瓏輪胎",
+                "ename": "玲瓏輪胎",
+                "weights": 0.09,
+                "qty": 6600
+            },
+            {
+                "code": "603899 CH",
+                "ym": null,
+                "name": "晨光股份",
+                "ename": "晨光股份",
+                "weights": 0.09,
+                "qty": 4100
+            },
+            {
+                "code": "688120 CH",
+                "ym": null,
+                "name": "華海清科",
+                "ename": "華海清科",
+                "weights": 0.09,
+                "qty": 790
+            },
+            {
+                "code": "000009 CH",
+                "ym": null,
+                "name": "中國寶安",
+                "ename": "中國寶安",
+                "weights": 0.08,
+                "qty": 11500
+            },
+            {
+                "code": "000629 CH",
+                "ym": null,
+                "name": "釩鈦股份",
+                "ename": "釩鈦股份",
+                "weights": 0.08,
+                "qty": 41500
+            },
+            {
+                "code": "000723 CH",
+                "ym": null,
+                "name": "美錦能源",
+                "ename": "美錦能源",
+                "weights": 0.08,
+                "qty": 19300
+            },
+            {
+                "code": "000728 CH",
+                "ym": null,
+                "name": "國元證券",
+                "ename": "國元證券",
+                "weights": 0.08,
+                "qty": 19495
+            },
+            {
+                "code": "000783 CH",
+                "ym": null,
+                "name": "長江證券",
+                "ename": "長江證券",
+                "weights": 0.08,
+                "qty": 24700
+            },
+            {
+                "code": "000831 CH",
+                "ym": null,
+                "name": "中國稀土",
+                "ename": "中國稀土",
+                "weights": 0.08,
+                "qty": 4700
+            },
+            {
+                "code": "000937 CH",
+                "ym": null,
+                "name": "冀中能源",
+                "ename": "冀中能源",
+                "weights": 0.08,
+                "qty": 15800
+            },
+            {
+                "code": "002032 CH",
+                "ym": null,
+                "name": "蘇泊爾",
+                "ename": "蘇泊爾",
+                "weights": 0.08,
+                "qty": 2400
+            },
+            {
+                "code": "002152 CH",
+                "ym": null,
+                "name": "廣電運通",
+                "ename": "廣電運通",
+                "weights": 0.08,
+                "qty": 11100
+            },
+            {
+                "code": "002294 CH",
+                "ym": null,
+                "name": "信立泰",
+                "ename": "信立泰",
+                "weights": 0.08,
+                "qty": 5000
+            },
+            {
+                "code": "002353 CH",
+                "ym": null,
+                "name": "杰瑞股份",
+                "ename": "杰瑞股份",
+                "weights": 0.08,
+                "qty": 4600
+            },
+            {
+                "code": "002456 CH",
+                "ym": null,
+                "name": "歐菲光",
+                "ename": "歐菲光",
+                "weights": 0.08,
+                "qty": 14600
+            },
+            {
+                "code": "002465 CH",
+                "ym": null,
+                "name": "海格通信",
+                "ename": "海格通信",
+                "weights": 0.08,
+                "qty": 11100
+            },
+            {
+                "code": "002625 CH",
+                "ym": null,
+                "name": "光啟技術",
+                "ename": "光啟技術",
+                "weights": 0.08,
+                "qty": 9600
+            },
+            {
+                "code": "002739 CH",
+                "ym": null,
+                "name": "萬達電影",
+                "ename": "萬達電影",
+                "weights": 0.08,
+                "qty": 9700
+            },
+            {
+                "code": "002756 CH",
+                "ym": null,
+                "name": "永興材料",
+                "ename": "永興材料",
+                "weights": 0.08,
+                "qty": 2400
+            },
+            {
+                "code": "002939 CH",
+                "ym": null,
+                "name": "長城證券",
+                "ename": "長城證券",
+                "weights": 0.08,
+                "qty": 18000
+            },
+            {
+                "code": "300003 CH",
+                "ym": null,
+                "name": "樂普醫療",
+                "ename": "樂普醫療",
+                "weights": 0.08,
+                "qty": 8431
+            },
+            {
+                "code": "300037 CH",
+                "ym": null,
+                "name": "新宙邦",
+                "ename": "新宙邦",
+                "weights": 0.08,
+                "qty": 3360
+            },
+            {
+                "code": "300142 CH",
+                "ym": null,
+                "name": "沃森生物",
+                "ename": "沃森生物",
+                "weights": 0.08,
+                "qty": 7135
+            },
+            {
+                "code": "300144 CH",
+                "ym": null,
+                "name": "宋城演藝",
+                "ename": "宋城演藝",
+                "weights": 0.08,
+                "qty": 11714
+            },
+            {
+                "code": "300146 CH",
+                "ym": null,
+                "name": "湯臣倍健",
+                "ename": "湯臣倍健",
+                "weights": 0.08,
+                "qty": 7600
+            },
+            {
+                "code": "300454 CH",
+                "ym": null,
+                "name": "深信服",
+                "ename": "深信服",
+                "weights": 0.08,
+                "qty": 1900
+            },
+            {
+                "code": "300496 CH",
+                "ym": null,
+                "name": "中科創達",
+                "ename": "中科創達",
+                "weights": 0.08,
+                "qty": 2100
+            },
+            {
+                "code": "300957 CH",
+                "ym": null,
+                "name": "貝泰妮",
+                "ename": "貝泰妮",
+                "weights": 0.08,
+                "qty": 1900
+            },
+            {
+                "code": "600153 CH",
+                "ym": null,
+                "name": "建發股份",
+                "ename": "建發股份",
+                "weights": 0.08,
+                "qty": 13400
+            },
+            {
+                "code": "600157 CH",
+                "ym": null,
+                "name": "永泰能源",
+                "ename": "永泰能源",
+                "weights": 0.08,
+                "qty": 99200
+            },
+            {
+                "code": "600536 CH",
+                "ym": null,
+                "name": "中國軟件",
+                "ename": "中國軟件",
+                "weights": 0.08,
+                "qty": 3800
+            },
+            {
+                "code": "600583 CH",
+                "ym": null,
+                "name": "海油工程",
+                "ename": "海油工程",
+                "weights": 0.08,
+                "qty": 19750
+            },
+            {
+                "code": "600702 CH",
+                "ym": null,
+                "name": "舍得酒業",
+                "ename": "舍得酒業",
+                "weights": 0.08,
+                "qty": 1500
+            },
+            {
+                "code": "600732 CH",
+                "ym": null,
+                "name": "愛旭股份",
+                "ename": "愛旭股份",
+                "weights": 0.08,
+                "qty": 8200
+            },
+            {
+                "code": "600873 CH",
+                "ym": null,
+                "name": "梅花生物",
+                "ename": "梅花生物",
+                "weights": 0.08,
+                "qty": 13100
+            },
+            {
+                "code": "600970 CH",
+                "ym": null,
+                "name": "中材國際",
+                "ename": "中材國際",
+                "weights": 0.08,
+                "qty": 11800
+            },
+            {
+                "code": "600998 CH",
+                "ym": null,
+                "name": "九州通",
+                "ename": "九州通",
+                "weights": 0.08,
+                "qty": 17419
+            },
+            {
+                "code": "601456 CH",
+                "ym": null,
+                "name": "國聯證券",
+                "ename": "國聯證券",
+                "weights": 0.08,
+                "qty": 10700
+            },
+            {
+                "code": "601577 CH",
+                "ym": null,
+                "name": "長沙銀行",
+                "ename": "長沙銀行",
+                "weights": 0.08,
+                "qty": 18000
+            },
+            {
+                "code": "601696 CH",
+                "ym": null,
+                "name": "中銀證券",
+                "ename": "中銀證券",
+                "weights": 0.08,
+                "qty": 12400
+            },
+            {
+                "code": "601928 CH",
+                "ym": null,
+                "name": "鳳凰傳媒",
+                "ename": "鳳凰傳媒",
+                "weights": 0.08,
+                "qty": 11400
+            },
+            {
+                "code": "601990 CH",
+                "ym": null,
+                "name": "南京證券",
+                "ename": "南京證券",
+                "weights": 0.08,
+                "qty": 16500
+            },
+            {
+                "code": "603000 CH",
+                "ym": null,
+                "name": "人民網",
+                "ename": "人民網",
+                "weights": 0.08,
+                "qty": 4900
+            },
+            {
+                "code": "603156 CH",
+                "ym": null,
+                "name": "養元飲品",
+                "ename": "養元飲品",
+                "weights": 0.08,
+                "qty": 5700
+            },
+            {
+                "code": "603160 CH",
+                "ym": null,
+                "name": "匯頂科技",
+                "ename": "匯頂科技",
+                "weights": 0.08,
+                "qty": 2000
+            },
+            {
+                "code": "603290 CH",
+                "ym": null,
+                "name": "斯達半導",
+                "ename": "斯達半導",
+                "weights": 0.08,
+                "qty": 800
+            },
+            {
+                "code": "603338 CH",
+                "ym": null,
+                "name": "浙江鼎力",
+                "ename": "浙江鼎力",
+                "weights": 0.08,
+                "qty": 2220
+            },
+            {
+                "code": "603568 CH",
+                "ym": null,
+                "name": "偉明環保",
+                "ename": "偉明環保",
+                "weights": 0.08,
+                "qty": 7660
+            },
+            {
+                "code": "603606 CH",
+                "ym": null,
+                "name": "東方電纜",
+                "ename": "東方電纜",
+                "weights": 0.08,
+                "qty": 3100
+            },
+            {
+                "code": "603688 CH",
+                "ym": null,
+                "name": "石英股份",
+                "ename": "石英股份",
+                "weights": 0.08,
+                "qty": 1600
+            },
+            {
+                "code": "603816 CH",
+                "ym": null,
+                "name": "顧家家居",
+                "ename": "顧家家居",
+                "weights": 0.08,
+                "qty": 3650
+            },
+            {
+                "code": "603882 CH",
+                "ym": null,
+                "name": "金域醫學",
+                "ename": "金域醫學",
+                "weights": 0.08,
+                "qty": 2100
+            },
+            {
+                "code": "688114 CH",
+                "ym": null,
+                "name": "華大智造",
+                "ename": "華大智造",
+                "weights": 0.08,
+                "qty": 1800
+            },
+            {
+                "code": "688363 CH",
+                "ym": null,
+                "name": "華熙生物",
+                "ename": "華熙生物",
+                "weights": 0.08,
+                "qty": 2200
+            },
+            {
+                "code": "000703 CH",
+                "ym": null,
+                "name": "恒逸石化",
+                "ename": "恒逸石化",
+                "weights": 0.07,
+                "qty": 16416
+            },
+            {
+                "code": "000729 CH",
+                "ym": null,
+                "name": "燕京啤酒",
+                "ename": "燕京啤酒",
+                "weights": 0.07,
+                "qty": 12600
+            },
+            {
+                "code": "000800 CH",
+                "ym": null,
+                "name": "一汽解放",
+                "ename": "一汽解放",
+                "weights": 0.07,
+                "qty": 13800
+            },
+            {
+                "code": "000987 CH",
+                "ym": null,
+                "name": "越秀資本",
+                "ename": "越秀資本",
+                "weights": 0.07,
+                "qty": 18640
+            },
+            {
+                "code": "002185 CH",
+                "ym": null,
+                "name": "華天科技",
+                "ename": "華天科技",
+                "weights": 0.07,
+                "qty": 14300
+            },
+            {
+                "code": "002202 CH",
+                "ym": null,
+                "name": "金風科技",
+                "ename": "金風科技",
+                "weights": 0.07,
+                "qty": 15412
+            },
+            {
+                "code": "002340 CH",
+                "ym": null,
+                "name": "格林美",
+                "ename": "格林美",
+                "weights": 0.07,
+                "qty": 22900
+            },
+            {
+                "code": "002384 CH",
+                "ym": null,
+                "name": "東山精密",
+                "ename": "東山精密",
+                "weights": 0.07,
+                "qty": 7600
+            },
+            {
+                "code": "002430 CH",
+                "ym": null,
+                "name": "杭氧股份",
+                "ename": "杭氧股份",
+                "weights": 0.07,
+                "qty": 4400
+            },
+            {
+                "code": "002444 CH",
+                "ym": null,
+                "name": "巨星科技",
+                "ename": "巨星科技",
+                "weights": 0.07,
+                "qty": 5400
+            },
+            {
+                "code": "002517 CH",
+                "ym": null,
+                "name": "愷英網絡",
+                "ename": "愷英網絡",
+                "weights": 0.07,
+                "qty": 9600
+            },
+            {
+                "code": "002532 CH",
+                "ym": null,
+                "name": "天山鋁業",
+                "ename": "天山鋁業",
+                "weights": 0.07,
+                "qty": 20800
+            },
+            {
+                "code": "002595 CH",
+                "ym": null,
+                "name": "豪邁科技",
+                "ename": "豪邁科技",
+                "weights": 0.07,
+                "qty": 3600
+            },
+            {
+                "code": "002738 CH",
+                "ym": null,
+                "name": "中礦資源",
+                "ename": "中礦資源",
+                "weights": 0.07,
+                "qty": 3264
+            },
+            {
+                "code": "002841 CH",
+                "ym": null,
+                "name": "視源股份",
+                "ename": "視源股份",
+                "weights": 0.07,
+                "qty": 3100
+            },
+            {
+                "code": "002966 CH",
+                "ym": null,
+                "name": "蘇州銀行",
+                "ename": "蘇州銀行",
+                "weights": 0.07,
+                "qty": 16400
+            },
+            {
+                "code": "300207 CH",
+                "ym": null,
+                "name": "欣旺達",
+                "ename": "欣旺達",
+                "weights": 0.07,
+                "qty": 8300
+            },
+            {
+                "code": "300251 CH",
+                "ym": null,
+                "name": "光線傳媒",
+                "ename": "光線傳媒",
+                "weights": 0.07,
+                "qty": 13100
+            },
+            {
+                "code": "300601 CH",
+                "ym": null,
+                "name": "康泰生物",
+                "ename": "康泰生物",
+                "weights": 0.07,
+                "qty": 5020
+            },
+            {
+                "code": "300699 CH",
+                "ym": null,
+                "name": "光威復材",
+                "ename": "光威復材",
+                "weights": 0.07,
+                "qty": 3760
+            },
+            {
+                "code": "300763 CH",
+                "ym": null,
+                "name": "錦浪科技",
+                "ename": "錦浪科技",
+                "weights": 0.07,
+                "qty": 1800
+            },
+            {
+                "code": "600072 CH",
+                "ym": null,
+                "name": "中船科技",
+                "ename": "中船科技",
+                "weights": 0.07,
+                "qty": 6700
+            },
+            {
+                "code": "600298 CH",
+                "ym": null,
+                "name": "安琪酵母",
+                "ename": "安琪酵母",
+                "weights": 0.07,
+                "qty": 3900
+            },
+            {
+                "code": "600352 CH",
+                "ym": null,
+                "name": "浙江龍盛",
+                "ename": "浙江龍盛",
+                "weights": 0.07,
+                "qty": 14500
+            },
+            {
+                "code": "600369 CH",
+                "ym": null,
+                "name": "西南證券",
+                "ename": "西南證券",
+                "weights": 0.07,
+                "qty": 29700
+            },
+            {
+                "code": "600497 CH",
+                "ym": null,
+                "name": "馳宏鋅鍺",
+                "ename": "馳宏鋅鍺",
+                "weights": 0.07,
+                "qty": 22700
+            },
+            {
+                "code": "600549 CH",
+                "ym": null,
+                "name": "廈門鎢業",
+                "ename": "廈門鎢業",
+                "weights": 0.07,
+                "qty": 6300
+            },
+            {
+                "code": "600563 CH",
+                "ym": null,
+                "name": "法拉電子",
+                "ename": "法拉電子",
+                "weights": 0.07,
+                "qty": 1000
+            },
+            {
+                "code": "600637 CH",
+                "ym": null,
+                "name": "東方明珠",
+                "ename": "東方明珠",
+                "weights": 0.07,
+                "qty": 15300
+            },
+            {
+                "code": "600655 CH",
+                "ym": null,
+                "name": "豫園股份",
+                "ename": "豫園股份",
+                "weights": 0.07,
+                "qty": 17413
+            },
+            {
+                "code": "600705 CH",
+                "ym": null,
+                "name": "中航產融",
+                "ename": "中航產融",
+                "weights": 0.07,
+                "qty": 39400
+            },
+            {
+                "code": "600754 CH",
+                "ym": null,
+                "name": "錦江酒店",
+                "ename": "錦江酒店",
+                "weights": 0.07,
+                "qty": 4100
+            },
+            {
+                "code": "600779 CH",
+                "ym": null,
+                "name": "水井坊",
+                "ename": "水井坊",
+                "weights": 0.07,
+                "qty": 2200
+            },
+            {
+                "code": "600884 CH",
+                "ym": null,
+                "name": "杉杉股份",
+                "ename": "杉杉股份",
+                "weights": 0.07,
+                "qty": 10100
+            },
+            {
+                "code": "601162 CH",
+                "ym": null,
+                "name": "天風證券",
+                "ename": "天風證券",
+                "weights": 0.07,
+                "qty": 38700
+            },
+            {
+                "code": "601179 CH",
+                "ym": null,
+                "name": "中國西電",
+                "ename": "中國西電",
+                "weights": 0.07,
+                "qty": 22900
+            },
+            {
+                "code": "601198 CH",
+                "ym": null,
+                "name": "東興證券",
+                "ename": "東興證券",
+                "weights": 0.07,
+                "qty": 14400
+            },
+            {
+                "code": "601231 CH",
+                "ym": null,
+                "name": "環旭電子",
+                "ename": "環旭電子",
+                "weights": 0.07,
+                "qty": 8200
+            },
+            {
+                "code": "601880 CH",
+                "ym": null,
+                "name": "遼港股份",
+                "ename": "遼港股份",
+                "weights": 0.07,
+                "qty": 84100
+            },
+            {
+                "code": "601991 CH",
+                "ym": null,
+                "name": "大唐發電",
+                "ename": "大唐發電",
+                "weights": 0.07,
+                "qty": 46100
+            },
+            {
+                "code": "603233 CH",
+                "ym": null,
+                "name": "大參林",
+                "ename": "大參林",
+                "weights": 0.07,
+                "qty": 5070
+            },
+            {
+                "code": "603345 CH",
+                "ym": null,
+                "name": "安井食品",
+                "ename": "安井食品",
+                "weights": 0.07,
+                "qty": 1300
+            },
+            {
+                "code": "603529 CH",
+                "ym": null,
+                "name": "愛瑪科技",
+                "ename": "愛瑪科技",
+                "weights": 0.07,
+                "qty": 3900
+            },
+            {
+                "code": "603589 CH",
+                "ym": null,
+                "name": "口子窖",
+                "ename": "口子窖",
+                "weights": 0.07,
+                "qty": 2700
+            },
+            {
+                "code": "603596 CH",
+                "ym": null,
+                "name": "伯特利",
+                "ename": "伯特利",
+                "weights": 0.07,
+                "qty": 1900
+            },
+            {
+                "code": "603885 CH",
+                "ym": null,
+                "name": "吉祥航空",
+                "ename": "吉祥航空",
+                "weights": 0.07,
+                "qty": 9900
+            },
+            {
+                "code": "688065 CH",
+                "ym": null,
+                "name": "凱賽生物",
+                "ename": "凱賽生物",
+                "weights": 0.07,
+                "qty": 2600
+            },
+            {
+                "code": "688122 CH",
+                "ym": null,
+                "name": "西部超導",
+                "ename": "西部超導",
+                "weights": 0.07,
+                "qty": 2940
+            },
+            {
+                "code": "688538 CH",
+                "ym": null,
+                "name": "和輝光電",
+                "ename": "和輝光電",
+                "weights": 0.07,
+                "qty": 51500
+            },
+            {
+                "code": "000032 CH",
+                "ym": null,
+                "name": "深桑達A",
+                "ename": "深桑達A",
+                "weights": 0.06,
+                "qty": 5100
+            },
+            {
+                "code": "000513 CH",
+                "ym": null,
+                "name": "麗珠集團",
+                "ename": "麗珠集團",
+                "weights": 0.06,
+                "qty": 2700
+            },
+            {
+                "code": "000683 CH",
+                "ym": null,
+                "name": "遠興能源",
+                "ename": "遠興能源",
+                "weights": 0.06,
+                "qty": 16700
+            },
+            {
+                "code": "000709 CH",
+                "ym": null,
+                "name": "河鋼股份",
+                "ename": "河鋼股份",
+                "weights": 0.06,
+                "qty": 46200
+            },
+            {
+                "code": "000825 CH",
+                "ym": null,
+                "name": "太鋼不銹",
+                "ename": "太鋼不銹",
+                "weights": 0.06,
+                "qty": 25500
+            },
+            {
+                "code": "002056 CH",
+                "ym": null,
+                "name": "橫店東磁",
+                "ename": "橫店東磁",
+                "weights": 0.06,
+                "qty": 7300
+            },
+            {
+                "code": "002262 CH",
+                "ym": null,
+                "name": "恩華藥業",
+                "ename": "恩華藥業",
+                "weights": 0.06,
+                "qty": 4500
+            },
+            {
+                "code": "002508 CH",
+                "ym": null,
+                "name": "老板電器",
+                "ename": "老板電器",
+                "weights": 0.06,
+                "qty": 4200
+            },
+            {
+                "code": "002797 CH",
+                "ym": null,
+                "name": "第一創業",
+                "ename": "第一創業",
+                "weights": 0.06,
+                "qty": 18800
+            },
+            {
+                "code": "002831 CH",
+                "ym": null,
+                "name": "裕同科技",
+                "ename": "裕同科技",
+                "weights": 0.06,
+                "qty": 4200
+            },
+            {
+                "code": "300373 CH",
+                "ym": null,
+                "name": "揚杰科技",
+                "ename": "揚杰科技",
+                "weights": 0.06,
+                "qty": 2400
+            },
+            {
+                "code": "600004 CH",
+                "ym": null,
+                "name": "白云機場",
+                "ename": "白云機場",
+                "weights": 0.06,
+                "qty": 10600
+            },
+            {
+                "code": "600021 CH",
+                "ym": null,
+                "name": "上海電力",
+                "ename": "上海電力",
+                "weights": 0.06,
+                "qty": 12600
+            },
+            {
+                "code": "600129 CH",
+                "ym": null,
+                "name": "太極集團",
+                "ename": "太極集團",
+                "weights": 0.06,
+                "qty": 2500
+            },
+            {
+                "code": "600378 CH",
+                "ym": null,
+                "name": "昊華科技",
+                "ename": "昊華科技",
+                "weights": 0.06,
+                "qty": 3400
+            },
+            {
+                "code": "600380 CH",
+                "ym": null,
+                "name": "健康元",
+                "ename": "健康元",
+                "weights": 0.06,
+                "qty": 8300
+            },
+            {
+                "code": "600499 CH",
+                "ym": null,
+                "name": "科達制造",
+                "ename": "科達制造",
+                "weights": 0.06,
+                "qty": 8700
+            },
+            {
+                "code": "600511 CH",
+                "ym": null,
+                "name": "國藥股份",
+                "ename": "國藥股份",
+                "weights": 0.06,
+                "qty": 3400
+            },
+            {
+                "code": "600598 CH",
+                "ym": null,
+                "name": "北大荒",
+                "ename": "北大荒",
+                "weights": 0.06,
+                "qty": 7900
+            },
+            {
+                "code": "600673 CH",
+                "ym": null,
+                "name": "東陽光",
+                "ename": "東陽光",
+                "weights": 0.06,
+                "qty": 13500
+            },
+            {
+                "code": "600699 CH",
+                "ym": null,
+                "name": "均勝電子",
+                "ename": "均勝電子",
+                "weights": 0.06,
+                "qty": 6300
+            },
+            {
+                "code": "600704 CH",
+                "ym": null,
+                "name": "物產中大",
+                "ename": "物產中大",
+                "weights": 0.06,
+                "qty": 23200
+            },
+            {
+                "code": "600977 CH",
+                "ym": null,
+                "name": "中國電影",
+                "ename": "中國電影",
+                "weights": 0.06,
+                "qty": 8300
+            },
+            {
+                "code": "600988 CH",
+                "ym": null,
+                "name": "赤峰黃金",
+                "ename": "赤峰黃金",
+                "weights": 0.06,
+                "qty": 7400
+            },
+            {
+                "code": "601866 CH",
+                "ym": null,
+                "name": "中遠海發",
+                "ename": "中遠海發",
+                "weights": 0.06,
+                "qty": 44200
+            },
+            {
+                "code": "601933 CH",
+                "ym": null,
+                "name": "永輝超市",
+                "ename": "永輝超市",
+                "weights": 0.06,
+                "qty": 40500
+            },
+            {
+                "code": "603077 CH",
+                "ym": null,
+                "name": "和邦生物",
+                "ename": "和邦生物",
+                "weights": 0.06,
+                "qty": 39500
+            },
+            {
+                "code": "688099 CH",
+                "ym": null,
+                "name": "晶晨股份",
+                "ename": "晶晨股份",
+                "weights": 0.06,
+                "qty": 1900
+            },
+            {
+                "code": "688180 CH",
+                "ym": null,
+                "name": "君實生物",
+                "ename": "君實生物",
+                "weights": 0.06,
+                "qty": 3400
+            },
+            {
+                "code": "688220 CH",
+                "ym": null,
+                "name": "翱捷科技",
+                "ename": "翱捷科技",
+                "weights": 0.06,
+                "qty": 1900
+            },
+            {
+                "code": "688301 CH",
+                "ym": null,
+                "name": "奕瑞科技",
+                "ename": "奕瑞科技",
+                "weights": 0.06,
+                "qty": 460
+            },
+            {
+                "code": "688521 CH",
+                "ym": null,
+                "name": "芯原股份",
+                "ename": "芯原股份",
+                "weights": 0.06,
+                "qty": 2200
+            },
+            {
+                "code": "000893 CH",
+                "ym": null,
+                "name": "亞鉀國際",
+                "ename": "亞鉀國際",
+                "weights": 0.05,
+                "qty": 4100
+            },
+            {
+                "code": "002568 CH",
+                "ym": null,
+                "name": "百潤股份",
+                "ename": "百潤股份",
+                "weights": 0.05,
+                "qty": 4660
+            },
+            {
+                "code": "603707 CH",
+                "ym": null,
+                "name": "健友股份",
+                "ename": "健友股份",
+                "weights": 0.05,
+                "qty": 7200
+            },
+            {
+                "code": "603893 CH",
+                "ym": null,
+                "name": "瑞芯微",
+                "ename": "瑞芯微",
+                "weights": 0.05,
+                "qty": 1600
+            },
+            {
+                "code": "600893 CH",
+                "ym": null,
+                "name": "航發動力",
+                "ename": "航發動力",
+                "weights": 0.03,
+                "qty": 1200
+            },
+            {
+                "code": "600703 CH",
+                "ym": null,
+                "name": "三安光電",
+                "ename": "三安光電",
+                "weights": 0.02,
+                "qty": 2100
+            }
+        ],
+        "FutureWeights": [
+            {
+                "code": "CN",
+                "ym": "202403",
+                "name": "富時中國A50指數期貨",
+                "ename": "FTSE China A50 Index",
+                "weights": 4.09,
+                "qty": 79
+            }
+        ],
+        "ETFWeights": [],
+        "BondWeights": []
+    },
+    "Memo": null
+}

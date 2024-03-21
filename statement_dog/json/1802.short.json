@@ -6,11 +6,11 @@
         "main_business": "平板玻璃之製造與銷售<br>玻璃纖維布及玻璃纖維束之製造與銷售<br>玻璃器皿之製造與銷售",
         "website_url": "http://www.taiwanglass.com",
         "ceo": "林伯實",
-        "pe_ratio": -34,
+        "pe_ratio": 100,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 23,
-        "eps_negative_percentage": 30,
+        "eps_negative_percentage": 26,
         "eps_growth_avg": {
             "last_all": -20.51,
             "last_2y": 0,
@@ -58,20 +58,20 @@
             "at_2023_last_all": -20.51,
             "at_2024_last_all": -20.51
         },
-        "latest_eps": -0.53,
-        "latest_price": 17.8,
-        "latest_roe": -3.07,
-        "latest_gross_margin": 12.93,
-        "latest_equity": 51908707,
-        "latest_revenue": 12419347,
-        "latest_gross_profit": 1606220,
-        "latest_net_income": 326809,
-        "latest_debt_ratio": 44.24,
-        "latest_current_ratio": 115.28,
-        "latest_account_receivable_turnover_ratio": 0.96,
-        "latest_inventory_turnover_ratio": 0.87,
-        "latest_reinvestment_rate": -24.22,
-        "latest_research_to_sale_ratio": 2.32
+        "latest_eps": 0.01,
+        "latest_price": 17.25,
+        "latest_roe": 0.05,
+        "latest_gross_margin": 14.73,
+        "latest_equity": 50710582,
+        "latest_revenue": 12024543,
+        "latest_gross_profit": 1771452,
+        "latest_net_income": 615652,
+        "latest_debt_ratio": 43.95,
+        "latest_current_ratio": 135.59,
+        "latest_account_receivable_turnover_ratio": 0.92,
+        "latest_inventory_turnover_ratio": 0.88,
+        "latest_reinvestment_rate": -22.67,
+        "latest_research_to_sale_ratio": 2.8
     },
     "eps_dividends": {
         "1991": {
@@ -227,7 +227,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.18
+            "eps": 0.02
         }
     },
     "dividends": {
@@ -612,7 +612,10 @@
         "202309": "19.78",
         "202310": "18.65",
         "202311": "18.98",
-        "202312": "18.86"
+        "202312": "18.86",
+        "202401": "18.35",
+        "202402": "18.31",
+        "202403": "17.67"
     },
     "quarters": {
         "20011": {
@@ -3526,6 +3529,38 @@
             "eps_avg_yearly": 3.03,
             "eps_latest_yearly": 0.84,
             "eps_growth_yearly": 3.11
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": 0.2,
+            "eps_growth_year": null,
+            "eps_4q": 0.01,
+            "eps_4q_growth_year": null,
+            "roe": 1.2,
+            "roe_4q": 0.04999999999999982,
+            "gross_profit": 1771452,
+            "gross_margin": 14.73,
+            "gross_margin_4q_avg": 9.5,
+            "net_income": 615652,
+            "net_income_4q": null,
+            "revenue": 12024543,
+            "revenue_4q": null,
+            "common_shares": 29080608,
+            "book_valuer_per_share": 16.35,
+            "book_valuer_per_share_4q_avg": 16.38,
+            "equity": 50710582,
+            "current_ratio": 135.59,
+            "debt_ratio": 43.95,
+            "inventory_turnover_ratio": 0.88,
+            "account_receivable_turnover_ratio": 0.92,
+            "reinvestment_rate": -22.67,
+            "research_to_sale_ratio": 2.8,
+            "price_fair": 96.43,
+            "eps_avg_yearly": 2.76,
+            "eps_latest_yearly": 0.8,
+            "eps_growth_yearly": 43.63
         }
     },
     "months": {
@@ -4883,6 +4918,16 @@
             "month": "2023-12",
             "price": "18.86",
             "revenue": 3903173
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "18.35",
+            "revenue": 3941086
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "18.31",
+            "revenue": 2316131
         }
     }
 }

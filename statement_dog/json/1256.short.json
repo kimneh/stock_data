@@ -6,16 +6,16 @@
         "main_business": "果汁、果粒、果粉類等產品之生產與銷售",
         "website_url": "http://www.myfreshjuice.com",
         "ceo": "吳明憲",
-        "pe_ratio": 16,
+        "pe_ratio": 18,
         "report_year_from": 2010,
         "report_year_to": 2023,
         "age": 14,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 12.67,
-            "last_2y": -14.97,
-            "last_4y": 1.88,
-            "last_8y": 5.72,
+            "last_all": 12.39,
+            "last_2y": -15.98,
+            "last_4y": 1.27,
+            "last_8y": 5.38,
             "last_12y": null,
             "last_16y": null,
             "last_20y": null,
@@ -36,8 +36,8 @@
             "at_2020_last_3y": 29.35,
             "at_2021_last_3y": 21.89,
             "at_2022_last_3y": 0.56,
-            "at_2023_last_3y": -1.33,
-            "at_2024_last_3y": -1.33,
+            "at_2023_last_3y": -2.08,
+            "at_2024_last_3y": -2.08,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -55,23 +55,23 @@
             "at_2020_last_all": 23.03,
             "at_2021_last_all": 19.48,
             "at_2022_last_all": 13.22,
-            "at_2023_last_all": 12.67,
-            "at_2024_last_all": 12.67
+            "at_2023_last_all": 12.39,
+            "at_2024_last_all": 12.39
         },
-        "latest_eps": 14.75,
-        "latest_price": 240,
-        "latest_roe": 13.5,
-        "latest_gross_margin": 30.1,
-        "latest_equity": 4380823,
-        "latest_revenue": 1576662,
-        "latest_gross_profit": 474535,
-        "latest_net_income": 207796,
-        "latest_debt_ratio": 15.3,
-        "latest_current_ratio": 405.14,
-        "latest_account_receivable_turnover_ratio": 2.59,
-        "latest_inventory_turnover_ratio": 2.17,
-        "latest_reinvestment_rate": 20.94,
-        "latest_research_to_sale_ratio": 0.87
+        "latest_eps": 12.41,
+        "latest_price": 229.5,
+        "latest_roe": 11.45,
+        "latest_gross_margin": 21,
+        "latest_equity": 4280338,
+        "latest_revenue": 727148,
+        "latest_gross_profit": 152719,
+        "latest_net_income": -13389,
+        "latest_debt_ratio": 12.76,
+        "latest_current_ratio": 491.75,
+        "latest_account_receivable_turnover_ratio": 1.56,
+        "latest_inventory_turnover_ratio": 1.15,
+        "latest_reinvestment_rate": 11.65,
+        "latest_research_to_sale_ratio": 1.69
     },
     "eps_dividends": {
         "2001": {
@@ -187,7 +187,7 @@
         "2023": {
             "cash": 6.5,
             "stock": 0,
-            "eps": 12.76
+            "eps": 12.4
         },
         "2024": {
             "cash": 6.6,
@@ -525,7 +525,10 @@
         "202309": "272.27",
         "202310": "246.15",
         "202311": "240.25",
-        "202312": "247.20"
+        "202312": "247.20",
+        "202401": "234.45",
+        "202402": "253.00",
+        "202403": "239.93"
     },
     "quarters": {
         "20011": {
@@ -3439,6 +3442,38 @@
             "eps_avg_yearly": 17.79,
             "eps_latest_yearly": 21.32,
             "eps_growth_yearly": 596.53
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": -0.36,
+            "eps_growth_year": -117.96,
+            "eps_4q": 12.41,
+            "eps_4q_growth_year": 4.12,
+            "roe": -0.31,
+            "roe_4q": 11.549999999999999,
+            "gross_profit": 152719,
+            "gross_margin": 21,
+            "gross_margin_4q_avg": 27.09,
+            "net_income": -13389,
+            "net_income_4q": null,
+            "revenue": 727148,
+            "revenue_4q": null,
+            "common_shares": 338422,
+            "book_valuer_per_share": 111.8,
+            "book_valuer_per_share_4q_avg": 110.47,
+            "equity": 4280338,
+            "current_ratio": 491.75,
+            "debt_ratio": 12.76,
+            "inventory_turnover_ratio": 1.15,
+            "account_receivable_turnover_ratio": 1.56,
+            "reinvestment_rate": 11.65,
+            "research_to_sale_ratio": 1.69,
+            "price_fair": 640.27,
+            "eps_avg_yearly": 18.29,
+            "eps_latest_yearly": 21.32,
+            "eps_growth_yearly": 650.65
         }
     },
     "months": {
@@ -4121,6 +4156,16 @@
             "month": "2023-12",
             "price": "247.20",
             "revenue": 273921
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "234.45",
+            "revenue": 426241
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "253.00",
+            "revenue": 201498
         }
     }
 }

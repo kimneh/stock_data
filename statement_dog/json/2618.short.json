@@ -6,7 +6,7 @@
         "main_business": "國際航線之定期及不定期航空客貨運輸業務",
         "website_url": "http://www.evaair.com",
         "ceo": "孫嘉明",
-        "pe_ratio": 10,
+        "pe_ratio": 8,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 23,
@@ -58,19 +58,19 @@
             "at_2023_last_all": -13.17,
             "at_2024_last_all": -13.17
         },
-        "latest_eps": 3.17,
-        "latest_price": 32.05,
-        "latest_roe": 18.41,
-        "latest_gross_margin": 21.9,
-        "latest_equity": 109218581,
-        "latest_revenue": 53263337,
-        "latest_gross_profit": 11664868,
-        "latest_net_income": 6419137,
-        "latest_debt_ratio": 66.17,
-        "latest_current_ratio": 99.72,
-        "latest_account_receivable_turnover_ratio": 4.4,
-        "latest_inventory_turnover_ratio": 10.44,
-        "latest_reinvestment_rate": -14.34,
+        "latest_eps": 4,
+        "latest_price": 31.05,
+        "latest_roe": 21.67,
+        "latest_gross_margin": 20.53,
+        "latest_equity": 117020139,
+        "latest_revenue": 54058148,
+        "latest_gross_profit": 11096274,
+        "latest_net_income": 5466044,
+        "latest_debt_ratio": 64.56,
+        "latest_current_ratio": 100.36,
+        "latest_account_receivable_turnover_ratio": 4.37,
+        "latest_inventory_turnover_ratio": 10.61,
+        "latest_reinvestment_rate": -7.09,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -192,7 +192,12 @@
         "2023": {
             "cash": 0.8,
             "stock": 0,
-            "eps": 3.05
+            "eps": 4.01
+        },
+        "2024": {
+            "cash": 1.8,
+            "stock": 0,
+            "eps": 0
         }
     },
     "dividends": {
@@ -250,6 +255,10 @@
         },
         "2023-08-18": {
             "cash": 0.8,
+            "stock": 0
+        },
+        "2024-03-13": {
+            "cash": 1.8,
             "stock": 0
         }
     },
@@ -529,7 +538,10 @@
         "202309": "30.62",
         "202310": "27.94",
         "202311": "30.53",
-        "202312": "31.45"
+        "202312": "31.45",
+        "202401": "31.83",
+        "202402": "31.43",
+        "202403": "31.55"
     },
     "quarters": {
         "20011": {
@@ -3443,6 +3455,38 @@
             "eps_avg_yearly": 2.49,
             "eps_latest_yearly": 4.4,
             "eps_growth_yearly": 642.05
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": 0.96,
+            "eps_growth_year": 634.51,
+            "eps_4q": 4,
+            "eps_4q_growth_year": 202.25,
+            "roe": 4.83,
+            "roe_4q": 22.119999999999997,
+            "gross_profit": 11096274,
+            "gross_margin": 20.53,
+            "gross_margin_4q_avg": 21.61,
+            "net_income": 5466044,
+            "net_income_4q": null,
+            "revenue": 54058148,
+            "revenue_4q": null,
+            "common_shares": 54004443,
+            "book_valuer_per_share": 19.81,
+            "book_valuer_per_share_4q_avg": 18.12,
+            "equity": 117020139,
+            "current_ratio": 100.36,
+            "debt_ratio": 64.56,
+            "inventory_turnover_ratio": 10.61,
+            "account_receivable_turnover_ratio": 4.37,
+            "reinvestment_rate": -7.09,
+            "research_to_sale_ratio": null,
+            "price_fair": 98.28,
+            "eps_avg_yearly": 2.81,
+            "eps_latest_yearly": 3.84,
+            "eps_growth_yearly": 652.35
         }
     },
     "months": {
@@ -4785,6 +4829,16 @@
             "month": "2023-12",
             "price": "31.45",
             "revenue": 18742882
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "31.83",
+            "revenue": 17631214
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "31.43",
+            "revenue": 16564515
         }
     }
 }

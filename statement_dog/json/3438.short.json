@@ -6,11 +6,11 @@
         "main_business": "積體電路之設計",
         "website_url": "http://www.aat-ic.com",
         "ceo": "林登財",
-        "pe_ratio": -121,
+        "pe_ratio": 0,
         "report_year_from": 2004,
         "report_year_to": 2023,
         "age": 20,
-        "eps_negative_percentage": 25,
+        "eps_negative_percentage": 20,
         "eps_growth_avg": {
             "last_all": -15.36,
             "last_2y": -18.52,
@@ -58,20 +58,20 @@
             "at_2023_last_all": -15.36,
             "at_2024_last_all": -15.36
         },
-        "latest_eps": -0.66,
-        "latest_price": 79.6,
-        "latest_roe": -1.84,
-        "latest_gross_margin": 29.85,
-        "latest_equity": 1906840,
-        "latest_revenue": 221100,
-        "latest_gross_profit": 65998,
-        "latest_net_income": 6537,
-        "latest_debt_ratio": 12.05,
-        "latest_current_ratio": 669.1,
-        "latest_account_receivable_turnover_ratio": 0.9,
-        "latest_inventory_turnover_ratio": 0.76,
-        "latest_reinvestment_rate": -9.13,
-        "latest_research_to_sale_ratio": 26.71
+        "latest_eps": 0,
+        "latest_price": 90,
+        "latest_roe": 0,
+        "latest_gross_margin": 39.69,
+        "latest_equity": 1889440,
+        "latest_revenue": 207908,
+        "latest_gross_profit": 82510,
+        "latest_net_income": 1941,
+        "latest_debt_ratio": 11.48,
+        "latest_current_ratio": 720.89,
+        "latest_account_receivable_turnover_ratio": 0.98,
+        "latest_inventory_turnover_ratio": 0.77,
+        "latest_reinvestment_rate": -7.53,
+        "latest_research_to_sale_ratio": 25.41
     },
     "eps_dividends": {
         "2001": {
@@ -187,7 +187,12 @@
         "2023": {
             "cash": 1.4,
             "stock": 0,
-            "eps": -0.04
+            "eps": 0
+        },
+        "2024": {
+            "cash": 0.5,
+            "stock": 0,
+            "eps": 0
         }
     },
     "dividends": {
@@ -249,6 +254,10 @@
         },
         "2023-08-17": {
             "cash": 1.4,
+            "stock": 0
+        },
+        "2024-03-13": {
+            "cash": 0.5,
             "stock": 0
         }
     },
@@ -3442,6 +3451,38 @@
             "eps_avg_yearly": 3.16,
             "eps_latest_yearly": 0.56,
             "eps_growth_yearly": 263.83
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": 0.04,
+            "eps_growth_year": null,
+            "eps_4q": 0,
+            "eps_4q_growth_year": -99.96,
+            "roe": 0.1,
+            "roe_4q": -0.3600000000000001,
+            "gross_profit": 82510,
+            "gross_margin": 39.69,
+            "gross_margin_4q_avg": 30.75,
+            "net_income": 1941,
+            "net_income_4q": null,
+            "revenue": 207908,
+            "revenue_4q": null,
+            "common_shares": 471658,
+            "book_valuer_per_share": 40.06,
+            "book_valuer_per_share_4q_avg": 38.17,
+            "equity": 1889440,
+            "current_ratio": 720.89,
+            "debt_ratio": 11.48,
+            "inventory_turnover_ratio": 0.77,
+            "account_receivable_turnover_ratio": 0.98,
+            "reinvestment_rate": -7.53,
+            "research_to_sale_ratio": 25.41,
+            "price_fair": 110.71,
+            "eps_avg_yearly": 3.16,
+            "eps_latest_yearly": 0.16,
+            "eps_growth_yearly": 252.11
         }
     },
     "months": {

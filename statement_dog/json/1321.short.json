@@ -6,7 +6,7 @@
         "main_business": "塑膠原料之製造及銷售<br>塑膠製品之製造及銷售<br>塑膠工業附帶原料之製造及銷售",
         "website_url": "http://www.opc.com.tw",
         "ceo": "陳欽明",
-        "pe_ratio": 96,
+        "pe_ratio": 40,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 23,
@@ -58,19 +58,19 @@
             "at_2023_last_all": -38.42,
             "at_2024_last_all": -38.42
         },
-        "latest_eps": 0.37,
-        "latest_price": 35.65,
-        "latest_roe": 1.38,
-        "latest_gross_margin": 6.7,
-        "latest_equity": 5762509,
-        "latest_revenue": 1109232,
-        "latest_gross_profit": 74315,
-        "latest_net_income": 48689,
-        "latest_debt_ratio": 52.96,
-        "latest_current_ratio": 221.98,
-        "latest_account_receivable_turnover_ratio": 1.87,
-        "latest_inventory_turnover_ratio": 2.25,
-        "latest_reinvestment_rate": -26.7,
+        "latest_eps": 0.88,
+        "latest_price": 35,
+        "latest_roe": 3.19,
+        "latest_gross_margin": 11.79,
+        "latest_equity": 6194066,
+        "latest_revenue": 1306231,
+        "latest_gross_profit": 153970,
+        "latest_net_income": -5329,
+        "latest_debt_ratio": 48.09,
+        "latest_current_ratio": 191.45,
+        "latest_account_receivable_turnover_ratio": 2.12,
+        "latest_inventory_turnover_ratio": 2.38,
+        "latest_reinvestment_rate": -22.2,
         "latest_research_to_sale_ratio": 0.34
     },
     "eps_dividends": {
@@ -192,7 +192,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 0.9
+            "eps": 0.88
         }
     },
     "dividends": {
@@ -501,7 +501,10 @@
         "202309": "35.48",
         "202310": "35.13",
         "202311": "36.92",
-        "202312": "38.23"
+        "202312": "38.23",
+        "202401": "36.60",
+        "202402": "36.19",
+        "202403": "35.64"
     },
     "quarters": {
         "20011": {
@@ -3415,6 +3418,38 @@
             "eps_avg_yearly": 2.11,
             "eps_latest_yearly": 0.88,
             "eps_growth_yearly": 1109.85
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": -0.02,
+            "eps_growth_year": null,
+            "eps_4q": 0.88,
+            "eps_4q_growth_year": null,
+            "roe": -0.09,
+            "roe_4q": 3.34,
+            "gross_profit": 153970,
+            "gross_margin": 11.79,
+            "gross_margin_4q_avg": 8.16,
+            "net_income": -5329,
+            "net_income_4q": null,
+            "revenue": 1306231,
+            "revenue_4q": null,
+            "common_shares": 2272283,
+            "book_valuer_per_share": 28.07,
+            "book_valuer_per_share_4q_avg": 26.49,
+            "equity": 6194066,
+            "current_ratio": 191.45,
+            "debt_ratio": 48.09,
+            "inventory_turnover_ratio": 2.38,
+            "account_receivable_turnover_ratio": 2.12,
+            "reinvestment_rate": -22.2,
+            "research_to_sale_ratio": 0.34,
+            "price_fair": 74,
+            "eps_avg_yearly": 2.11,
+            "eps_latest_yearly": 0.88,
+            "eps_growth_yearly": 1109.85
         }
     },
     "months": {
@@ -4772,6 +4807,16 @@
             "month": "2023-12",
             "price": "38.23",
             "revenue": 343982
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "36.60",
+            "revenue": 412854
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "36.19",
+            "revenue": 257242
         }
     }
 }

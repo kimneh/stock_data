@@ -6,19 +6,19 @@
         "main_business": "麵粉，飼料，黃豆油，黃豆粉，大麥片，玉米粉之製造與銷售。<br>家畜，家禽之養殖及肉類之加工銷售。<br>一般進口貿易業務(許可業務除外)。",
         "website_url": "http://www.fopco.com.tw",
         "ceo": "張志賓",
-        "pe_ratio": 48,
+        "pe_ratio": 35,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 23,
         "eps_negative_percentage": 17,
         "eps_growth_avg": {
-            "last_all": -15.27,
-            "last_2y": -12.16,
-            "last_4y": 1.4,
-            "last_8y": 4.86,
-            "last_12y": -2.09,
-            "last_16y": -7.77,
-            "last_20y": -15.27,
+            "last_all": -13.36,
+            "last_2y": -0.72,
+            "last_4y": 8.26,
+            "last_8y": 8.67,
+            "last_12y": 0.55,
+            "last_16y": -5.48,
+            "last_20y": -13.36,
             "at_2006_last_3y": -52.78,
             "at_2007_last_3y": -100,
             "at_2008_last_3y": -100,
@@ -36,8 +36,8 @@
             "at_2020_last_3y": 2.89,
             "at_2021_last_3y": 16.83,
             "at_2022_last_3y": 11.36,
-            "at_2023_last_3y": -6.38,
-            "at_2024_last_3y": -6.38,
+            "at_2023_last_3y": 2.2,
+            "at_2024_last_3y": 2.2,
             "at_2006_last_all": -52.78,
             "at_2007_last_all": -52.78,
             "at_2008_last_all": -64.58,
@@ -55,23 +55,23 @@
             "at_2020_last_all": -15.89,
             "at_2021_last_all": -13.62,
             "at_2022_last_all": -13.9,
-            "at_2023_last_all": -15.27,
-            "at_2024_last_all": -15.27
+            "at_2023_last_all": -13.36,
+            "at_2024_last_all": -13.36
         },
-        "latest_eps": 1.14,
-        "latest_price": 55,
-        "latest_roe": 7.1,
-        "latest_gross_margin": 9.07,
-        "latest_equity": 3786209,
-        "latest_revenue": 3632729,
-        "latest_gross_profit": 329456,
-        "latest_net_income": 147359,
-        "latest_debt_ratio": 52.75,
-        "latest_current_ratio": 147.86,
-        "latest_account_receivable_turnover_ratio": 1.93,
-        "latest_inventory_turnover_ratio": 2.33,
-        "latest_reinvestment_rate": 78.4,
-        "latest_research_to_sale_ratio": 0.29
+        "latest_eps": 1.6,
+        "latest_price": 55.4,
+        "latest_roe": 10.51,
+        "latest_gross_margin": 9.76,
+        "latest_equity": 3932953,
+        "latest_revenue": 3631138,
+        "latest_gross_profit": 354518,
+        "latest_net_income": 151309,
+        "latest_debt_ratio": 54.9,
+        "latest_current_ratio": 155.43,
+        "latest_account_receivable_turnover_ratio": 1.92,
+        "latest_inventory_turnover_ratio": 2.07,
+        "latest_reinvestment_rate": 35.99,
+        "latest_research_to_sale_ratio": 0.32
     },
     "eps_dividends": {
         "1993": {
@@ -207,7 +207,12 @@
         "2023": {
             "cash": 1.5,
             "stock": 0.5,
-            "eps": 1.04
+            "eps": 1.62
+        },
+        "2024": {
+            "cash": 1.4,
+            "stock": 0,
+            "eps": 0
         }
     },
     "dividends": {
@@ -286,6 +291,10 @@
         "2023-10-02": {
             "cash": 1.5,
             "stock": 0.5
+        },
+        "2024-03-13": {
+            "cash": 1.4,
+            "stock": 0
         }
     },
     "prices": {
@@ -564,7 +573,10 @@
         "202309": "53.26",
         "202310": "54.02",
         "202311": "53.99",
-        "202312": "54.36"
+        "202312": "54.36",
+        "202401": "53.34",
+        "202402": "55.06",
+        "202403": "55.41"
     },
     "quarters": {
         "20011": {
@@ -3478,6 +3490,38 @@
             "eps_avg_yearly": 1.97,
             "eps_latest_yearly": 2.24,
             "eps_growth_yearly": 188.83
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": 0.58,
+            "eps_growth_year": 353.96,
+            "eps_4q": 1.6,
+            "eps_4q_growth_year": -5.05,
+            "roe": 3.92,
+            "roe_4q": 10.77,
+            "gross_profit": 354518,
+            "gross_margin": 9.76,
+            "gross_margin_4q_avg": 7.58,
+            "net_income": 151309,
+            "net_income_4q": null,
+            "revenue": 3631138,
+            "revenue_4q": null,
+            "common_shares": 2296382,
+            "book_valuer_per_share": 15.29,
+            "book_valuer_per_share_4q_avg": 15.26,
+            "equity": 3932953,
+            "current_ratio": 155.43,
+            "debt_ratio": 54.9,
+            "inventory_turnover_ratio": 2.07,
+            "account_receivable_turnover_ratio": 1.92,
+            "reinvestment_rate": 35.99,
+            "research_to_sale_ratio": 0.32,
+            "price_fair": 70.2,
+            "eps_avg_yearly": 2.01,
+            "eps_latest_yearly": 2.32,
+            "eps_growth_yearly": 188.49
         }
     },
     "months": {
@@ -4835,6 +4879,16 @@
             "month": "2023-12",
             "price": "54.36",
             "revenue": 1180913
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "53.34",
+            "revenue": 1283395
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "55.06",
+            "revenue": 909256
         }
     }
 }

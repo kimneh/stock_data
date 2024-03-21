@@ -6,19 +6,19 @@
         "main_business": "飼料<br>大宗油脂<br>肉品",
         "website_url": "http://www.dachan.com",
         "ceo": "韓芳豪",
-        "pe_ratio": 14,
+        "pe_ratio": 12,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 23,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 7.69,
-            "last_2y": 3.28,
-            "last_4y": 9.69,
-            "last_8y": 9.69,
-            "last_12y": 8.01,
-            "last_16y": 6.8,
-            "last_20y": 9.64,
+            "last_all": 9.62,
+            "last_2y": 17.44,
+            "last_4y": 18.18,
+            "last_8y": 14.41,
+            "last_12y": 11.28,
+            "last_16y": 9.3,
+            "last_20y": 11.67,
             "at_2006_last_3y": 21.73,
             "at_2007_last_3y": 26.08,
             "at_2008_last_3y": 34.12,
@@ -36,8 +36,8 @@
             "at_2020_last_3y": 8.6,
             "at_2021_last_3y": -3.75,
             "at_2022_last_3y": 2.52,
-            "at_2023_last_3y": 10.79,
-            "at_2024_last_3y": 10.79,
+            "at_2023_last_3y": 21.41,
+            "at_2024_last_3y": 21.41,
             "at_2006_last_all": 10.71,
             "at_2007_last_all": 12.99,
             "at_2008_last_all": 7.93,
@@ -55,22 +55,22 @@
             "at_2020_last_all": 8.39,
             "at_2021_last_all": 5.93,
             "at_2022_last_all": 6.23,
-            "at_2023_last_all": 7.69,
-            "at_2024_last_all": 7.69
+            "at_2023_last_all": 9.62,
+            "at_2024_last_all": 9.62
         },
-        "latest_eps": 4.39,
-        "latest_price": 59.4,
-        "latest_roe": 14.97,
-        "latest_gross_margin": 14.07,
-        "latest_equity": 31447030,
-        "latest_revenue": 28338364,
-        "latest_gross_profit": 3988038,
-        "latest_net_income": 1534152,
-        "latest_debt_ratio": 51.42,
-        "latest_current_ratio": 101.02,
-        "latest_account_receivable_turnover_ratio": 3.41,
-        "latest_inventory_turnover_ratio": 2.65,
-        "latest_reinvestment_rate": 70,
+        "latest_eps": 4.81,
+        "latest_price": 58.2,
+        "latest_roe": 15.82,
+        "latest_gross_margin": 14.27,
+        "latest_equity": 31816745,
+        "latest_revenue": 28099518,
+        "latest_gross_profit": 4008918,
+        "latest_net_income": 1076721,
+        "latest_debt_ratio": 50.92,
+        "latest_current_ratio": 101.2,
+        "latest_account_receivable_turnover_ratio": 3.28,
+        "latest_inventory_turnover_ratio": 2.54,
+        "latest_reinvestment_rate": 65.93,
         "latest_research_to_sale_ratio": 0.12
     },
     "eps_dividends": {
@@ -212,7 +212,12 @@
         "2023": {
             "cash": 1.5,
             "stock": 0,
-            "eps": 3.68
+            "eps": 4.81
+        },
+        "2024": {
+            "cash": 2.2,
+            "stock": 0,
+            "eps": 0
         }
     },
     "dividends": {
@@ -318,6 +323,10 @@
         },
         "2023-07-11": {
             "cash": 1.5,
+            "stock": 0
+        },
+        "2024-03-14": {
+            "cash": 2.2,
             "stock": 0
         }
     },
@@ -597,7 +606,10 @@
         "202309": "54.66",
         "202310": "52.16",
         "202311": "53.91",
-        "202312": "57.51"
+        "202312": "57.51",
+        "202401": "57.70",
+        "202402": "58.13",
+        "202403": "59.11"
     },
     "quarters": {
         "20011": {
@@ -3511,6 +3523,38 @@
             "eps_avg_yearly": 3.33,
             "eps_latest_yearly": 6.04,
             "eps_growth_yearly": 28.29
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": 1.13,
+            "eps_growth_year": 58.62,
+            "eps_4q": 4.81,
+            "eps_4q_growth_year": 85.55,
+            "roe": 3.4,
+            "roe_4q": 15.829999999999998,
+            "gross_profit": 4008918,
+            "gross_margin": 14.27,
+            "gross_margin_4q_avg": 13.45,
+            "net_income": 1076721,
+            "net_income_4q": null,
+            "revenue": 28099518,
+            "revenue_4q": null,
+            "common_shares": 8947673,
+            "book_valuer_per_share": 28.01,
+            "book_valuer_per_share_4q_avg": 26.55,
+            "equity": 31816745,
+            "current_ratio": 101.2,
+            "debt_ratio": 50.92,
+            "inventory_turnover_ratio": 2.54,
+            "account_receivable_turnover_ratio": 3.28,
+            "reinvestment_rate": 65.93,
+            "research_to_sale_ratio": 0.12,
+            "price_fair": 121.1,
+            "eps_avg_yearly": 3.46,
+            "eps_latest_yearly": 4.52,
+            "eps_growth_yearly": 31.28
         }
     },
     "months": {
@@ -4868,6 +4912,16 @@
             "month": "2023-12",
             "price": "57.51",
             "revenue": 9270160
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "57.70",
+            "revenue": 9474385
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "58.13",
+            "revenue": 7242006
         }
     }
 }

@@ -6,7 +6,7 @@
         "main_business": "住宅及大樓開發租售業務。<br>工業廠房開發租售業務。<br>纖維紡織品之加工及買賣。",
         "website_url": "http://www.ihwa.com.tw",
         "ceo": "黃士豪",
-        "pe_ratio": 23,
+        "pe_ratio": 100,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 23,
@@ -58,19 +58,19 @@
             "at_2023_last_all": 6.31,
             "at_2024_last_all": 6.31
         },
-        "latest_eps": 0.84,
-        "latest_price": 19.15,
-        "latest_roe": 5.13,
-        "latest_gross_margin": 34.14,
-        "latest_equity": 1580006,
-        "latest_revenue": 400312,
-        "latest_gross_profit": 136657,
-        "latest_net_income": -11216,
-        "latest_debt_ratio": 86.91,
-        "latest_current_ratio": 123.52,
-        "latest_account_receivable_turnover_ratio": 8.59,
-        "latest_inventory_turnover_ratio": 0.03,
-        "latest_reinvestment_rate": 14.28,
+        "latest_eps": 0.05,
+        "latest_price": 19.55,
+        "latest_roe": 0.33,
+        "latest_gross_margin": 34.16,
+        "latest_equity": 1532458,
+        "latest_revenue": 235597,
+        "latest_gross_profit": 80476,
+        "latest_net_income": -47611,
+        "latest_debt_ratio": 87.17,
+        "latest_current_ratio": 123.27,
+        "latest_account_receivable_turnover_ratio": 7.38,
+        "latest_inventory_turnover_ratio": 0.02,
+        "latest_reinvestment_rate": 15.1,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -207,7 +207,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 0.56
+            "eps": 0.05
         }
     },
     "dividends": {
@@ -508,7 +508,10 @@
         "202309": "16.32",
         "202310": "16.32",
         "202311": "16.32",
-        "202312": "16.67"
+        "202312": "16.67",
+        "202401": "16.74",
+        "202402": "16.79",
+        "202403": "20.58"
     },
     "quarters": {
         "20011": {
@@ -3422,6 +3425,38 @@
             "eps_avg_yearly": 4.85,
             "eps_latest_yearly": 5.16,
             "eps_growth_yearly": 12795.22
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": -0.51,
+            "eps_growth_year": -280.6,
+            "eps_4q": 0.05,
+            "eps_4q_growth_year": null,
+            "roe": -3.06,
+            "roe_4q": 0.31999999999999984,
+            "gross_profit": 80476,
+            "gross_margin": 34.16,
+            "gross_margin_4q_avg": 35.17,
+            "net_income": -47611,
+            "net_income_4q": null,
+            "revenue": 235597,
+            "revenue_4q": null,
+            "common_shares": 937200,
+            "book_valuer_per_share": 16.35,
+            "book_valuer_per_share_4q_avg": 16.47,
+            "equity": 1532458,
+            "current_ratio": 123.27,
+            "debt_ratio": 87.17,
+            "inventory_turnover_ratio": 0.02,
+            "account_receivable_turnover_ratio": 7.38,
+            "reinvestment_rate": 15.1,
+            "research_to_sale_ratio": null,
+            "price_fair": 169.75,
+            "eps_avg_yearly": 4.85,
+            "eps_latest_yearly": 5.16,
+            "eps_growth_yearly": 12795.22
         }
     },
     "months": {
@@ -4779,6 +4814,16 @@
             "month": "2023-12",
             "price": "16.67",
             "revenue": 66492
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "16.74",
+            "revenue": 34485
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "16.79",
+            "revenue": 167636
         }
     }
 }

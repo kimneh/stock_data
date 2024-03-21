@@ -1,0 +1,176 @@
+{
+    "PCF": {
+        "fundid": "1130",
+        "fundname": "元大標普500單日正向2倍基金",
+        "fullname": "元大標普500傘型證券投資信託基金之標普500單日正向2倍證券投資信託基金",
+        "ename": "Yuanta Daily S&P 500 Bull 2X ETF",
+        "markcd": "00647L",
+        "trandate": "20240308",
+        "totalav": 589242110,
+        "osunit": 7416000,
+        "nav": 79.46,
+        "baseunit": 500000,
+        "estcvalue": 39727758,
+        "estdvalue": -7757378,
+        "issuesdiff": 0,
+        "cashdiff": 0,
+        "preallot": 47680000,
+        "allot": 39752622,
+        "anndate": "20240312",
+        "upddate": "2024-03-11 14:10:11",
+        "preunit": 7416000,
+        "predate": "20240311",
+        "allot_charge_fee": 0,
+        "redem_charge_fee": 0,
+        "Beneficiary": {
+            "doc_ym": "20240229",
+            "bf_cnt_a": 757,
+            "upd_date": "2024-03-01T08:47:15"
+        }
+    },
+    "InKind": {
+        "FundComposition": null
+    },
+    "Cash": {
+        "TranDate": "20240308",
+        "CashPosition": [
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": 6.3398,
+                "amt": 37356737,
+                "trandate": "20240308"
+            },
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.2165,
+                "amt": 1275491.82,
+                "trandate": "20240308"
+            },
+            {
+                "code": "1220",
+                "name": "應收利息",
+                "ename": "INTEREST RECEIVEABLES",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": 0.0462,
+                "amt": 272523,
+                "trandate": "20240308"
+            },
+            {
+                "code": "1220",
+                "name": "應收利息",
+                "ename": "INTEREST RECEIVEABLES",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.0036,
+                "amt": 21144.08,
+                "trandate": "20240308"
+            }
+        ],
+        "MMF": [],
+        "Margin": [
+            {
+                "code": null,
+                "name": "保證金",
+                "ename": "Margin",
+                "crncy": "NTD",
+                "exrate": 1,
+                "rto": 0,
+                "amt": 186106245,
+                "trandate": "20240308"
+            },
+            {
+                "code": null,
+                "name": "保證金",
+                "ename": "Margin",
+                "crncy": "USD",
+                "exrate": 31.422,
+                "rto": 0,
+                "amt": 10344908.29,
+                "trandate": "20240308"
+            }
+        ],
+        "RP": [],
+        "ForwardExchange": [],
+        "Currency": [
+            {
+                "fundId": "1130",
+                "cDate": "20240308",
+                "crncy": "NTD",
+                "endRate": 31.422
+            },
+            {
+                "fundId": "1130",
+                "cDate": "20240308",
+                "crncy": "KRW",
+                "endRate": 1319.59
+            },
+            {
+                "fundId": "1130",
+                "cDate": "20240308",
+                "crncy": "JPY",
+                "endRate": 147.88
+            },
+            {
+                "fundId": "1130",
+                "cDate": "20240308",
+                "crncy": "HKD",
+                "endRate": 7.8207
+            },
+            {
+                "fundId": "1130",
+                "cDate": "20240308",
+                "crncy": "EUR",
+                "endRate": 0.9146
+            },
+            {
+                "fundId": "1130",
+                "cDate": "20240308",
+                "crncy": "CNY",
+                "endRate": 7.1888
+            },
+            {
+                "fundId": "1130",
+                "cDate": "20240308",
+                "crncy": "CNH",
+                "endRate": 7.198
+            }
+        ],
+        "CouponRate": [],
+        "InvestArea": [],
+        "CreditRating": []
+    },
+    "FundWeights": {
+        "Summary": {
+            "code": "1130",
+            "name": null,
+            "stkvalues": 0,
+            "futvalues": 1168434925.5,
+            "etfvalues": 0,
+            "bndvalues": 0,
+            "fundsize": 589242110
+        },
+        "StockWeights": [],
+        "FutureWeights": [
+            {
+                "code": "ES",
+                "ym": "202403",
+                "name": "小S&P500指數期貨",
+                "ename": "Mini S&P500 Index Futures",
+                "weights": 198.29,
+                "qty": 145
+            }
+        ],
+        "ETFWeights": [],
+        "BondWeights": []
+    },
+    "Memo": null
+}

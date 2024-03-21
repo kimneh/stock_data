@@ -6,7 +6,7 @@
         "main_business": "汽車<br>零件<br>保修及其他",
         "website_url": "http://www.yulon-motor.com.tw",
         "ceo": "姚振祥",
-        "pe_ratio": 89,
+        "pe_ratio": 15,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 23,
@@ -58,20 +58,20 @@
             "at_2023_last_all": 2.61,
             "at_2024_last_all": 2.61
         },
-        "latest_eps": 0.75,
-        "latest_price": 67.1,
-        "latest_roe": 6.08,
-        "latest_gross_margin": 35.89,
-        "latest_equity": 84660844,
-        "latest_revenue": 20499026,
-        "latest_gross_profit": 7356511,
-        "latest_net_income": 2285536,
-        "latest_debt_ratio": 78.11,
-        "latest_current_ratio": 106.35,
-        "latest_account_receivable_turnover_ratio": 0.1,
-        "latest_inventory_turnover_ratio": 1.02,
-        "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 0.34
+        "latest_eps": 4.41,
+        "latest_price": 67.7,
+        "latest_roe": 10.53,
+        "latest_gross_margin": 32.65,
+        "latest_equity": 88752250,
+        "latest_revenue": 23068092,
+        "latest_gross_profit": 7532662,
+        "latest_net_income": 1743876,
+        "latest_debt_ratio": 77.11,
+        "latest_current_ratio": 105.31,
+        "latest_account_receivable_turnover_ratio": 0.11,
+        "latest_inventory_turnover_ratio": 1.2,
+        "latest_reinvestment_rate": 192.47,
+        "latest_research_to_sale_ratio": -0.07
     },
     "eps_dividends": {
         "1990": {
@@ -222,7 +222,7 @@
         "2023": {
             "cash": 1,
             "stock": 0,
-            "eps": 3.55
+            "eps": 4.62
         },
         "2024": {
             "cash": 1.4,
@@ -624,7 +624,10 @@
         "202309": "83.49",
         "202310": "79.71",
         "202311": "78.09",
-        "202312": "75.40"
+        "202312": "75.40",
+        "202401": "70.50",
+        "202402": "70.34",
+        "202403": "69.36"
     },
     "quarters": {
         "20011": {
@@ -3538,6 +3541,38 @@
             "eps_avg_yearly": 4.65,
             "eps_latest_yearly": 4.8,
             "eps_growth_yearly": 171.38
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": 1.07,
+            "eps_growth_year": null,
+            "eps_4q": 4.41,
+            "eps_4q_growth_year": null,
+            "roe": 2.01,
+            "roe_4q": 10.64,
+            "gross_profit": 7532662,
+            "gross_margin": 32.65,
+            "gross_margin_4q_avg": 35.26,
+            "net_income": 1743876,
+            "net_income_4q": null,
+            "revenue": 23068092,
+            "revenue_4q": null,
+            "common_shares": 10700013,
+            "book_valuer_per_share": 56.39,
+            "book_valuer_per_share_4q_avg": 52.66,
+            "equity": 88752250,
+            "current_ratio": 105.31,
+            "debt_ratio": 77.11,
+            "inventory_turnover_ratio": 1.2,
+            "account_receivable_turnover_ratio": 0.11,
+            "reinvestment_rate": 192.47,
+            "research_to_sale_ratio": -0.07,
+            "price_fair": 161.51,
+            "eps_avg_yearly": 4.61,
+            "eps_latest_yearly": 4.28,
+            "eps_growth_yearly": 151.86
         }
     },
     "months": {
@@ -4895,6 +4930,16 @@
             "month": "2023-12",
             "price": "75.40",
             "revenue": 8265265
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "70.50",
+            "revenue": 7577792
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "70.34",
+            "revenue": 5905089
         }
     }
 }

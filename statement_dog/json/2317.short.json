@@ -6,19 +6,19 @@
         "main_business": "電腦系統設備及其週邊之連接器等<br>線纜組件及殼體,基座之開發、設計、製造及銷售等<br>精密模具之製造及銷售等",
         "website_url": "http://www.foxconn.com",
         "ceo": "劉揚偉",
-        "pe_ratio": 11,
+        "pe_ratio": 13,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 23,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 1.08,
-            "last_2y": 0.39,
-            "last_4y": -2.5,
-            "last_8y": -1.91,
-            "last_12y": 2.18,
-            "last_16y": -1.29,
-            "last_20y": 0.68,
+            "last_all": 2.79,
+            "last_2y": 12.91,
+            "last_4y": 5.01,
+            "last_8y": 2.26,
+            "last_12y": 5.07,
+            "last_16y": 0.92,
+            "last_20y": 2.47,
             "at_2006_last_3y": 9.06,
             "at_2007_last_3y": 8.05,
             "at_2008_last_3y": -2.34,
@@ -36,8 +36,8 @@
             "at_2020_last_3y": -4.03,
             "at_2021_last_3y": 7.27,
             "at_2022_last_3y": 6.14,
-            "at_2023_last_3y": -2.62,
-            "at_2024_last_3y": -2.62,
+            "at_2023_last_3y": 6.76,
+            "at_2024_last_3y": 6.76,
             "at_2006_last_all": 9.12,
             "at_2007_last_all": 8.85,
             "at_2008_last_all": 1.98,
@@ -55,23 +55,23 @@
             "at_2020_last_all": 1.19,
             "at_2021_last_all": 2.96,
             "at_2022_last_all": 2.89,
-            "at_2023_last_all": 1.08,
-            "at_2024_last_all": 1.08
+            "at_2023_last_all": 2.79,
+            "at_2024_last_all": 2.79
         },
-        "latest_eps": 9.3,
-        "latest_price": 105,
-        "latest_roe": 8.49,
-        "latest_gross_margin": 6.66,
-        "latest_equity": 1687137913,
-        "latest_revenue": 1543163653,
-        "latest_gross_profit": 102753497,
-        "latest_net_income": 47489904,
-        "latest_debt_ratio": 58.48,
-        "latest_current_ratio": 156.51,
-        "latest_account_receivable_turnover_ratio": 1.73,
-        "latest_inventory_turnover_ratio": 1.88,
-        "latest_reinvestment_rate": 29.61,
-        "latest_research_to_sale_ratio": 1.76
+        "latest_eps": 10.25,
+        "latest_price": 138,
+        "latest_roe": 9.28,
+        "latest_gross_margin": 6.12,
+        "latest_equity": 1686243646,
+        "latest_revenue": 1852072177,
+        "latest_gross_profit": 113282333,
+        "latest_net_income": 58257039,
+        "latest_debt_ratio": 57.2,
+        "latest_current_ratio": 159.01,
+        "latest_account_receivable_turnover_ratio": 1.99,
+        "latest_inventory_turnover_ratio": 2.31,
+        "latest_reinvestment_rate": 26.89,
+        "latest_research_to_sale_ratio": 1.77
     },
     "eps_dividends": {
         "1991": {
@@ -212,7 +212,12 @@
         "2023": {
             "cash": 5.3,
             "stock": 0,
-            "eps": 6.42
+            "eps": 10.25
+        },
+        "2024": {
+            "cash": 5.4,
+            "stock": 0,
+            "eps": 0
         }
     },
     "dividends": {
@@ -326,6 +331,10 @@
         },
         "2023-07-28": {
             "cash": 5.3,
+            "stock": 0
+        },
+        "2024-03-14": {
+            "cash": 5.4,
             "stock": 0
         }
     },
@@ -605,7 +614,10 @@
         "202309": "105.80",
         "202310": "102.62",
         "202311": "99.58",
-        "202312": "102.29"
+        "202312": "102.29",
+        "202401": "101.50",
+        "202402": "102.69",
+        "202403": "117.57"
     },
     "quarters": {
         "20011": {
@@ -3519,6 +3531,38 @@
             "eps_avg_yearly": 9.37,
             "eps_latest_yearly": 12.44,
             "eps_growth_yearly": 293.36
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": 3.83,
+            "eps_growth_year": 32.93,
+            "eps_4q": 10.25,
+            "eps_4q_growth_year": 0.44,
+            "roe": 3.45,
+            "roe_4q": 9.41,
+            "gross_profit": 113282333,
+            "gross_margin": 6.12,
+            "gross_margin_4q_avg": 6.31,
+            "net_income": 58257039,
+            "net_income_4q": null,
+            "revenue": 1852072177,
+            "revenue_4q": null,
+            "common_shares": 138629906,
+            "book_valuer_per_share": 107.72,
+            "book_valuer_per_share_4q_avg": 104.1,
+            "equity": 1686243646,
+            "current_ratio": 159.01,
+            "debt_ratio": 57.2,
+            "inventory_turnover_ratio": 2.31,
+            "account_receivable_turnover_ratio": 1.99,
+            "reinvestment_rate": 26.89,
+            "research_to_sale_ratio": 1.77,
+            "price_fair": 331.19,
+            "eps_avg_yearly": 9.46,
+            "eps_latest_yearly": 15.32,
+            "eps_growth_yearly": 285.12
         }
     },
     "months": {
@@ -4876,6 +4920,16 @@
             "month": "2023-12",
             "price": "102.29",
             "revenue": 460124625
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "101.50",
+            "revenue": 522141475
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "102.69",
+            "revenue": 352480676
         }
     }
 }

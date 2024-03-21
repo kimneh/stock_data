@@ -1,0 +1,2947 @@
+{
+    "PCF": {
+        "fundid": "1181",
+        "fundname": "元大20年期以上AAA至A級美元公司債券ETF基金",
+        "fullname": "元大20年期以上AAA至A級美元公司債券ETF證券投資信託基金",
+        "ename": "Yuanta US 20+ Year AAA-A Corporate Bond ETF",
+        "markcd": "00751B",
+        "trandate": "20240313",
+        "totalav": 138710819653,
+        "osunit": 3999603000,
+        "nav": 34.6811,
+        "baseunit": 500000,
+        "estcvalue": 17340574,
+        "estdvalue": -1464426,
+        "issuesdiff": 0,
+        "cashdiff": 0,
+        "preallot": 18740000,
+        "allot": 17345574,
+        "anndate": "20240315",
+        "upddate": "2024-03-14 14:33:45",
+        "preunit": 4027603000,
+        "predate": "20240314",
+        "allot_charge_fee": 0,
+        "redem_charge_fee": 0,
+        "Beneficiary": {
+            "doc_ym": "20240229",
+            "bf_cnt_a": 92433,
+            "upd_date": "2024-03-01T08:47:15"
+        }
+    },
+    "InKind": {
+        "FundComposition": null
+    },
+    "Cash": {
+        "TranDate": "20240313",
+        "CashPosition": [
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": 0.2007,
+                "amt": 278391027,
+                "trandate": "20240313"
+            },
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.008,
+                "amt": 11085696.96,
+                "trandate": "20240313"
+            },
+            {
+                "code": "1220",
+                "name": "應收利息",
+                "ename": "INTEREST RECEIVEABLES",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.0419,
+                "amt": 58113054.01,
+                "trandate": "20240313"
+            }
+        ],
+        "MMF": [],
+        "Margin": [],
+        "RP": [],
+        "ForwardExchange": [],
+        "Currency": [
+            {
+                "fundId": "1181",
+                "cDate": "20240313",
+                "crncy": "NTD",
+                "endRate": 31.47
+            },
+            {
+                "fundId": "1181",
+                "cDate": "20240313",
+                "crncy": "KRW",
+                "endRate": 1316.18
+            },
+            {
+                "fundId": "1181",
+                "cDate": "20240313",
+                "crncy": "JPY",
+                "endRate": 147.68
+            },
+            {
+                "fundId": "1181",
+                "cDate": "20240313",
+                "crncy": "HKD",
+                "endRate": 7.8234
+            },
+            {
+                "fundId": "1181",
+                "cDate": "20240313",
+                "crncy": "EUR",
+                "endRate": 0.9152
+            },
+            {
+                "fundId": "1181",
+                "cDate": "20240313",
+                "crncy": "CNY",
+                "endRate": 7.1929
+            },
+            {
+                "fundId": "1181",
+                "cDate": "20240313",
+                "crncy": "CNH",
+                "endRate": 7.1989
+            }
+        ],
+        "CouponRate": [
+            {
+                "ConstituentCount": 365,
+                "CurrentWeight": 100,
+                "YieldtoMaturity": 5.24,
+                "avgCouponRate": 4.02,
+                "EffectiveDuration": 15.02,
+                "YearstoMaturity": 27.85,
+                "avgOASWorst": 0.82
+            },
+            {
+                "ConstituentCount": 338,
+                "CurrentWeight": 99.56,
+                "YieldtoMaturity": 5.21,
+                "avgCouponRate": 4.02,
+                "EffectiveDuration": 14.96,
+                "YearstoMaturity": 27.78,
+                "avgOASWorst": 0.81
+            }
+        ],
+        "InvestArea": [
+            {
+                "TRAN_DATE": "20240313",
+                "FUND_ID": "1181",
+                "name": "美國",
+                "ename": "USA",
+                "HOLD_RTO": 89.18,
+                "CNT": 305
+            },
+            {
+                "TRAN_DATE": "20240313",
+                "FUND_ID": "1181",
+                "name": "比利時",
+                "ename": "BELGIUM",
+                "HOLD_RTO": 2.91,
+                "CNT": 7
+            },
+            {
+                "TRAN_DATE": "20240313",
+                "FUND_ID": "1181",
+                "name": "荷蘭",
+                "ename": "NETHERLANDS",
+                "HOLD_RTO": 2.26,
+                "CNT": 5
+            },
+            {
+                "TRAN_DATE": "20240313",
+                "FUND_ID": "1181",
+                "name": "澳洲",
+                "ename": "Australia",
+                "HOLD_RTO": 0.95,
+                "CNT": 3
+            },
+            {
+                "TRAN_DATE": "20240313",
+                "FUND_ID": "1181",
+                "name": "法國",
+                "ename": "FRANCE",
+                "HOLD_RTO": 0.92,
+                "CNT": 3
+            },
+            {
+                "TRAN_DATE": "20240313",
+                "FUND_ID": "1181",
+                "name": "瑞士",
+                "ename": "Switzerland",
+                "HOLD_RTO": 0.53,
+                "CNT": 3
+            },
+            {
+                "TRAN_DATE": "20240313",
+                "FUND_ID": "1181",
+                "name": "其他",
+                "ename": "other",
+                "HOLD_RTO": 1.5,
+                "CNT": 12
+            },
+            {
+                "TRAN_DATE": "20240313",
+                "FUND_ID": "1181",
+                "name": "現金",
+                "ename": "Cash",
+                "HOLD_RTO": 1.75,
+                "CNT": 0
+            }
+        ],
+        "CreditRating": [
+            {
+                "FUND_ID": "1181",
+                "NAV_DATE": "20240313",
+                "CREDIT_NAME": "AAA",
+                "CREDIT_RATIO": 7.39,
+                "CREDIT_COUNT": 31
+            },
+            {
+                "FUND_ID": "1181",
+                "NAV_DATE": "20240313",
+                "CREDIT_NAME": "AA",
+                "CREDIT_RATIO": 25.4,
+                "CREDIT_COUNT": 68
+            },
+            {
+                "FUND_ID": "1181",
+                "NAV_DATE": "20240313",
+                "CREDIT_NAME": "A",
+                "CREDIT_RATIO": 65.46,
+                "CREDIT_COUNT": 239
+            }
+        ]
+    },
+    "FundWeights": {
+        "Summary": {
+            "code": "1181",
+            "name": null,
+            "stkvalues": 0,
+            "futvalues": 0,
+            "etfvalues": 0,
+            "bndvalues": 138105659434.12,
+            "fundsize": 138710819653
+        },
+        "StockWeights": [],
+        "FutureWeights": [],
+        "ETFWeights": [],
+        "BondWeights": [
+            {
+                "code": "ZS2126580",
+                "name": "ANHEUSER-BUSCH CO/INBEV 4.9% 02/01/2046",
+                "ename": "ANHEUSER-BUSCH CO/INBEV 4.9% 02/01/2046",
+                "weights": 1.16,
+                "FACE_AMT": 53000000,
+                "qty": 51164757.22
+            },
+            {
+                "code": "BW1257268",
+                "name": "COMCAST CORP 2.937% 11/01/2056",
+                "ename": "COMCAST CORP 2.937% 11/01/2056",
+                "weights": 1.02,
+                "FACE_AMT": 70550000,
+                "qty": 45145691.65
+            },
+            {
+                "code": "BZ9564338",
+                "name": "UNITEDHEALTH GROUP INC 5.875% 02/15/2053",
+                "ename": "UNITEDHEALTH GROUP INC 5.875% 02/15/2053",
+                "weights": 0.99,
+                "FACE_AMT": 39950000,
+                "qty": 43479288.42
+            },
+            {
+                "code": "AS5533722",
+                "name": "AMAZON.COM INC 4.05% 08/22/2047",
+                "ename": "AMAZON.COM INC 4.05% 08/22/2047",
+                "weights": 0.93,
+                "FACE_AMT": 46976000,
+                "qty": 41061956.48
+            },
+            {
+                "code": "ZK6870404",
+                "name": "PFIZER INVESTMENT ENTER 5.3% 05/19/2053",
+                "ename": "PFIZER INVESTMENT ENTER 5.3% 05/19/2053",
+                "weights": 0.87,
+                "FACE_AMT": 38000000,
+                "qty": 38544561.11
+            },
+            {
+                "code": "ZK4623896",
+                "name": "META PLATFORMS INC 5.6% 05/15/2053",
+                "ename": "META PLATFORMS INC 5.6% 05/15/2053",
+                "weights": 0.86,
+                "FACE_AMT": 35300000,
+                "qty": 37906591.22
+            },
+            {
+                "code": "BV8764441",
+                "name": "AMAZON.COM INC 3.95% 04/13/2052",
+                "ename": "AMAZON.COM INC 3.95% 04/13/2052",
+                "weights": 0.82,
+                "FACE_AMT": 42150000,
+                "qty": 36010770.54
+            },
+            {
+                "code": "BP4734524",
+                "name": "AMAZON.COM INC 3.1% 05/12/2051",
+                "ename": "AMAZON.COM INC 3.1% 05/12/2051",
+                "weights": 0.8,
+                "FACE_AMT": 48700000,
+                "qty": 35302413.56
+            },
+            {
+                "code": "ZK4624241",
+                "name": "COMCAST CORP 5.35% 05/15/2053",
+                "ename": "COMCAST CORP 5.35% 05/15/2053",
+                "weights": 0.8,
+                "FACE_AMT": 34800000,
+                "qty": 35102228.33
+            },
+            {
+                "code": "EK7154298",
+                "name": "MORGAN STANLEY 4.3% 01/27/2045",
+                "ename": "MORGAN STANLEY 4.3% 01/27/2045",
+                "weights": 0.78,
+                "FACE_AMT": 39041000,
+                "qty": 34519032.8
+            },
+            {
+                "code": "EK9008781",
+                "name": "SHELL INTERNATIONAL FIN 4.375% 05/11/2045",
+                "ename": "SHELL INTERNATIONAL FIN 4.375% 05/11/2045",
+                "weights": 0.78,
+                "FACE_AMT": 37792000,
+                "qty": 34277643.19
+            },
+            {
+                "code": "BW1235009",
+                "name": "COMCAST CORP 2.887% 11/01/2051",
+                "ename": "COMCAST CORP 2.887% 11/01/2051",
+                "weights": 0.76,
+                "FACE_AMT": 50900000,
+                "qty": 33442107.33
+            },
+            {
+                "code": "BG9862825",
+                "name": "EXXON MOBIL CORPORATION 4.327% 03/19/2050",
+                "ename": "EXXON MOBIL CORPORATION 4.327% 03/19/2050",
+                "weights": 0.74,
+                "FACE_AMT": 36466000,
+                "qty": 32808971.74
+            },
+            {
+                "code": "BZ9564346",
+                "name": "UNITEDHEALTH GROUP INC 6.05% 02/15/2063",
+                "ename": "UNITEDHEALTH GROUP INC 6.05% 02/15/2063",
+                "weights": 0.73,
+                "FACE_AMT": 29150000,
+                "qty": 32286062.26
+            },
+            {
+                "code": "BM0493411",
+                "name": "ABBVIE INC 4.25% 11/21/2049",
+                "ename": "ABBVIE INC 4.25% 11/21/2049",
+                "weights": 0.72,
+                "FACE_AMT": 36000000,
+                "qty": 31798090
+            },
+            {
+                "code": "ZL8067114",
+                "name": "UNITEDHEALTH GROUP INC 5.05% 04/15/2053",
+                "ename": "UNITEDHEALTH GROUP INC 5.05% 04/15/2053",
+                "weights": 0.72,
+                "FACE_AMT": 31800000,
+                "qty": 31515752.17
+            },
+            {
+                "code": "ZK4623904",
+                "name": "META PLATFORMS INC 5.75% 05/15/2063",
+                "ename": "META PLATFORMS INC 5.75% 05/15/2063",
+                "weights": 0.71,
+                "FACE_AMT": 29000000,
+                "qty": 31466941.39
+            },
+            {
+                "code": "JV2336271",
+                "name": "VISA INC 4.3% 12/14/2045",
+                "ename": "VISA INC 4.3% 12/14/2045",
+                "weights": 0.68,
+                "FACE_AMT": 32866000,
+                "qty": 30142394.58
+            },
+            {
+                "code": "AW6446933",
+                "name": "ANHEUSER-BUSCH INBEV WOR 5.55% 01/23/2049",
+                "ename": "ANHEUSER-BUSCH INBEV WOR 5.55% 01/23/2049",
+                "weights": 0.67,
+                "FACE_AMT": 28100000,
+                "qty": 29518558.25
+            },
+            {
+                "code": "BO4213621",
+                "name": "MICROSOFT CORP 2.921% 03/17/2052",
+                "ename": "MICROSOFT CORP 2.921% 03/17/2052",
+                "weights": 0.65,
+                "FACE_AMT": 39860000,
+                "qty": 28759451.71
+            },
+            {
+                "code": "QJ2158120",
+                "name": "GOLDMAN SACHS GROUP INC 4.75% 10/21/2045",
+                "ename": "GOLDMAN SACHS GROUP INC 4.75% 10/21/2045",
+                "weights": 0.65,
+                "FACE_AMT": 30400000,
+                "qty": 28741924.89
+            },
+            {
+                "code": "BH7860621",
+                "name": "EXXON MOBIL CORPORATION 3.452% 04/15/2051",
+                "ename": "EXXON MOBIL CORPORATION 3.452% 04/15/2051",
+                "weights": 0.65,
+                "FACE_AMT": 37026000,
+                "qty": 28459570.02
+            },
+            {
+                "code": "BJ4239726",
+                "name": "WALT DISNEY COMPANY/THE 3.6% 01/13/2051",
+                "ename": "WALT DISNEY COMPANY/THE 3.6% 01/13/2051",
+                "weights": 0.64,
+                "FACE_AMT": 36250000,
+                "qty": 28136887.5
+            },
+            {
+                "code": "ZL8067189",
+                "name": "UNITEDHEALTH GROUP INC 5.2% 04/15/2063",
+                "ename": "UNITEDHEALTH GROUP INC 5.2% 04/15/2063",
+                "weights": 0.63,
+                "FACE_AMT": 28000000,
+                "qty": 27796222.22
+            },
+            {
+                "code": "BV0463422",
+                "name": "BERKSHIRE HATHAWAY FIN 3.85% 03/15/2052",
+                "ename": "BERKSHIRE HATHAWAY FIN 3.85% 03/15/2052",
+                "weights": 0.63,
+                "FACE_AMT": 33500000,
+                "qty": 27638272.36
+            },
+            {
+                "code": "AT9566858",
+                "name": "BERKSHIRE HATHAWAY FIN 4.2% 08/15/2048",
+                "ename": "BERKSHIRE HATHAWAY FIN 4.2% 08/15/2048",
+                "weights": 0.62,
+                "FACE_AMT": 30899000,
+                "qty": 27298751.52
+            },
+            {
+                "code": "JK2929772",
+                "name": "EXXON MOBIL CORPORATION 4.114% 03/01/2046",
+                "ename": "EXXON MOBIL CORPORATION 4.114% 03/01/2046",
+                "weights": 0.62,
+                "FACE_AMT": 31611000,
+                "qty": 27287424.79
+            },
+            {
+                "code": "JK1380555",
+                "name": "APPLE INC 4.65% 02/23/2046",
+                "ename": "APPLE INC 4.65% 02/23/2046",
+                "weights": 0.62,
+                "FACE_AMT": 28300000,
+                "qty": 27281553.75
+            },
+            {
+                "code": "AS5533870",
+                "name": "AMAZON.COM INC 4.25% 08/22/2057",
+                "ename": "AMAZON.COM INC 4.25% 08/22/2057",
+                "weights": 0.62,
+                "FACE_AMT": 31240000,
+                "qty": 27208391.22
+            },
+            {
+                "code": "BJ7191973",
+                "name": "TOTALENERGIES CAP INTL 3.127% 05/29/2050",
+                "ename": "TOTALENERGIES CAP INTL 3.127% 05/29/2050",
+                "weights": 0.6,
+                "FACE_AMT": 36871000,
+                "qty": 26558565.37
+            },
+            {
+                "code": "ZN7148762",
+                "name": "META PLATFORMS INC 4.45% 08/15/2052",
+                "ename": "META PLATFORMS INC 4.45% 08/15/2052",
+                "weights": 0.6,
+                "FACE_AMT": 29700000,
+                "qty": 26515112.25
+            },
+            {
+                "code": "ZK8924886",
+                "name": "BURLINGTN NORTH SANTA FE 5.2% 04/15/2054",
+                "ename": "BURLINGTN NORTH SANTA FE 5.2% 04/15/2054",
+                "weights": 0.6,
+                "FACE_AMT": 26200000,
+                "qty": 26478302.22
+            },
+            {
+                "code": "ZK6870412",
+                "name": "PFIZER INVESTMENT ENTER 5.34% 05/19/2063",
+                "ename": "PFIZER INVESTMENT ENTER 5.34% 05/19/2063",
+                "weights": 0.59,
+                "FACE_AMT": 26000000,
+                "qty": 25984096.67
+            },
+            {
+                "code": "BZ0061318",
+                "name": "HOME DEPOT INC 4.95% 09/15/2052",
+                "ename": "HOME DEPOT INC 4.95% 09/15/2052",
+                "weights": 0.59,
+                "FACE_AMT": 26350000,
+                "qty": 25964038.38
+            },
+            {
+                "code": "BK1099831",
+                "name": "BRISTOL-MYERS SQUIBB CO 4.25% 10/26/2049",
+                "ename": "BRISTOL-MYERS SQUIBB CO 4.25% 10/26/2049",
+                "weights": 0.58,
+                "FACE_AMT": 29350000,
+                "qty": 25527211.42
+            },
+            {
+                "code": "BW6484859",
+                "name": "UNITEDHEALTH GROUP INC 4.75% 05/15/2052",
+                "ename": "UNITEDHEALTH GROUP INC 4.75% 05/15/2052",
+                "weights": 0.57,
+                "FACE_AMT": 26650000,
+                "qty": 25096608.51
+            },
+            {
+                "code": "ZM9267091",
+                "name": "INTEL CORP 5.7% 02/10/2053",
+                "ename": "INTEL CORP 5.7% 02/10/2053",
+                "weights": 0.57,
+                "FACE_AMT": 24100000,
+                "qty": 24976597.33
+            },
+            {
+                "code": "AW4842497",
+                "name": "BERKSHIRE HATHAWAY FIN 4.25% 01/15/2049",
+                "ename": "BERKSHIRE HATHAWAY FIN 4.25% 01/15/2049",
+                "weights": 0.56,
+                "FACE_AMT": 27510000,
+                "qty": 24729159.29
+            },
+            {
+                "code": "BJ6848615",
+                "name": "MICROSOFT CORP 2.525% 06/01/2050",
+                "ename": "MICROSOFT CORP 2.525% 06/01/2050",
+                "weights": 0.54,
+                "FACE_AMT": 35474000,
+                "qty": 23657053.86
+            },
+            {
+                "code": "AU7980876",
+                "name": "COMCAST CORP 4.7% 10/15/2048",
+                "ename": "COMCAST CORP 4.7% 10/15/2048",
+                "weights": 0.54,
+                "FACE_AMT": 25250000,
+                "qty": 23606547.64
+            },
+            {
+                "code": "ZK4624258",
+                "name": "COMCAST CORP 5.5% 05/15/2064",
+                "ename": "COMCAST CORP 5.5% 05/15/2064",
+                "weights": 0.53,
+                "FACE_AMT": 23000000,
+                "qty": 23362262.78
+            },
+            {
+                "code": "ZI7834883",
+                "name": "MARSH & MCLENNAN COS INC 5.7% 09/15/2053",
+                "ename": "MARSH & MCLENNAN COS INC 5.7% 09/15/2053",
+                "weights": 0.52,
+                "FACE_AMT": 21500000,
+                "qty": 23014997.5
+            },
+            {
+                "code": "ZK1754769",
+                "name": "WALMART INC 4.5% 04/15/2053",
+                "ename": "WALMART INC 4.5% 04/15/2053",
+                "weights": 0.52,
+                "FACE_AMT": 24250000,
+                "qty": 22836588.75
+            },
+            {
+                "code": "BH1198440",
+                "name": "WALT DISNEY COMPANY/THE 4.7% 03/23/2050",
+                "ename": "WALT DISNEY COMPANY/THE 4.7% 03/23/2050",
+                "weights": 0.51,
+                "FACE_AMT": 23631000,
+                "qty": 22572213.04
+            },
+            {
+                "code": "AL3302604",
+                "name": "ABBOTT LABORATORIES 4.9% 11/30/2046",
+                "ename": "ABBOTT LABORATORIES 4.9% 11/30/2046",
+                "weights": 0.51,
+                "FACE_AMT": 22600000,
+                "qty": 22490967.56
+            },
+            {
+                "code": "AQ0912750",
+                "name": "COMCAST CORP 3.969% 11/01/2047",
+                "ename": "COMCAST CORP 3.969% 11/01/2047",
+                "weights": 0.51,
+                "FACE_AMT": 27120000,
+                "qty": 22333950.54
+            },
+            {
+                "code": "ZI2680075",
+                "name": "CONOCOPHILLIPS COMPANY 5.55% 03/15/2054",
+                "ename": "CONOCOPHILLIPS COMPANY 5.55% 03/15/2054",
+                "weights": 0.5,
+                "FACE_AMT": 20800000,
+                "qty": 22099220
+            },
+            {
+                "code": "UV3151908",
+                "name": "UNITEDHEALTH GROUP INC 4.75% 07/15/2045",
+                "ename": "UNITEDHEALTH GROUP INC 4.75% 07/15/2045",
+                "weights": 0.5,
+                "FACE_AMT": 23054000,
+                "qty": 21854378.71
+            },
+            {
+                "code": "ZN7148879",
+                "name": "META PLATFORMS INC 4.65% 08/15/2062",
+                "ename": "META PLATFORMS INC 4.65% 08/15/2062",
+                "weights": 0.49,
+                "FACE_AMT": 24000000,
+                "qty": 21645500
+            },
+            {
+                "code": "AR0699629",
+                "name": "ENTERPRISE PRODUCTS OPER 4.25% 02/15/2048",
+                "ename": "ENTERPRISE PRODUCTS OPER 4.25% 02/15/2048",
+                "weights": 0.49,
+                "FACE_AMT": 25000000,
+                "qty": 21440840.28
+            },
+            {
+                "code": "LW0429388",
+                "name": "SHELL INTERNATIONAL FIN 4% 05/10/2046",
+                "ename": "SHELL INTERNATIONAL FIN 4% 05/10/2046",
+                "weights": 0.48,
+                "FACE_AMT": 24740000,
+                "qty": 21176148.02
+            },
+            {
+                "code": "BJ2447297",
+                "name": "UNION PACIFIC CORP 3.839% 03/20/2060",
+                "ename": "UNION PACIFIC CORP 3.839% 03/20/2060",
+                "weights": 0.47,
+                "FACE_AMT": 26730000,
+                "qty": 20837242.31
+            },
+            {
+                "code": "BV5189501",
+                "name": "HOME DEPOT INC 3.625% 04/15/2052",
+                "ename": "HOME DEPOT INC 3.625% 04/15/2052",
+                "weights": 0.47,
+                "FACE_AMT": 26250000,
+                "qty": 20568278.65
+            },
+            {
+                "code": "BJ6388067",
+                "name": "COMCAST CORP 2.8% 01/15/2051",
+                "ename": "COMCAST CORP 2.8% 01/15/2051",
+                "weights": 0.46,
+                "FACE_AMT": 31650000,
+                "qty": 20356928.33
+            },
+            {
+                "code": "BW1257011",
+                "name": "COMCAST CORP 2.987% 11/01/2063",
+                "ename": "COMCAST CORP 2.987% 11/01/2063",
+                "weights": 0.45,
+                "FACE_AMT": 32150000,
+                "qty": 20006151.07
+            },
+            {
+                "code": "BJ8088996",
+                "name": "AMAZON.COM INC 2.5% 06/03/2050",
+                "ename": "AMAZON.COM INC 2.5% 06/03/2050",
+                "weights": 0.44,
+                "FACE_AMT": 30386000,
+                "qty": 19560194.09
+            },
+            {
+                "code": "ZG2726393",
+                "name": "CON EDISON CO OF NY INC 5.9% 11/15/2053",
+                "ename": "CON EDISON CO OF NY INC 5.9% 11/15/2053",
+                "weights": 0.44,
+                "FACE_AMT": 18000000,
+                "qty": 19474840
+            },
+            {
+                "code": "BH5118394",
+                "name": "SHELL INTERNATIONAL FIN 3.25% 04/06/2050",
+                "ename": "SHELL INTERNATIONAL FIN 3.25% 04/06/2050",
+                "weights": 0.44,
+                "FACE_AMT": 26250000,
+                "qty": 19423527.08
+            },
+            {
+                "code": "BW5385651",
+                "name": "INTERCONTINENTALEXCHANGE 4.95% 06/15/2052",
+                "ename": "INTERCONTINENTALEXCHANGE 4.95% 06/15/2052",
+                "weights": 0.44,
+                "FACE_AMT": 20300000,
+                "qty": 19409185.25
+            },
+            {
+                "code": "BJ8089002",
+                "name": "AMAZON.COM INC 2.7% 06/03/2060",
+                "ename": "AMAZON.COM INC 2.7% 06/03/2060",
+                "weights": 0.44,
+                "FACE_AMT": 30890000,
+                "qty": 19355828.45
+            },
+            {
+                "code": "AT2292593",
+                "name": "WALMART INC 4.05% 06/29/2048",
+                "ename": "WALMART INC 4.05% 06/29/2048",
+                "weights": 0.44,
+                "FACE_AMT": 22033000,
+                "qty": 19347122.22
+            },
+            {
+                "code": "BZ8520554",
+                "name": "LOCKHEED MARTIN CORP 5.7% 11/15/2054",
+                "ename": "LOCKHEED MARTIN CORP 5.7% 11/15/2054",
+                "weights": 0.44,
+                "FACE_AMT": 17850000,
+                "qty": 19338541.25
+            },
+            {
+                "code": "AQ0913378",
+                "name": "COMCAST CORP 4.049% 11/01/2052",
+                "ename": "COMCAST CORP 4.049% 11/01/2052",
+                "weights": 0.44,
+                "FACE_AMT": 23550000,
+                "qty": 19302258.37
+            },
+            {
+                "code": "BG1706210",
+                "name": "BP CAP MARKETS AMERICA 3% 02/24/2050",
+                "ename": "BP CAP MARKETS AMERICA 3% 02/24/2050",
+                "weights": 0.44,
+                "FACE_AMT": 28300000,
+                "qty": 19267677.67
+            },
+            {
+                "code": "ZI7602678",
+                "name": "MIDAMERICAN ENERGY CO 5.85% 09/15/2054",
+                "ename": "MIDAMERICAN ENERGY CO 5.85% 09/15/2054",
+                "weights": 0.43,
+                "FACE_AMT": 17500000,
+                "qty": 19042231.25
+            },
+            {
+                "code": "ZM5084995",
+                "name": "TARGET CORP 4.8% 01/15/2053",
+                "ename": "TARGET CORP 4.8% 01/15/2053",
+                "weights": 0.43,
+                "FACE_AMT": 19700000,
+                "qty": 18733058.33
+            },
+            {
+                "code": "ZM2156440",
+                "name": "DUKE ENERGY CAROLINAS 5.35% 01/15/2053",
+                "ename": "DUKE ENERGY CAROLINAS 5.35% 01/15/2053",
+                "weights": 0.42,
+                "FACE_AMT": 18750000,
+                "qty": 18648338.54
+            },
+            {
+                "code": "BZ8520612",
+                "name": "LOCKHEED MARTIN CORP 5.9% 11/15/2063",
+                "ename": "LOCKHEED MARTIN CORP 5.9% 11/15/2063",
+                "weights": 0.42,
+                "FACE_AMT": 16850000,
+                "qty": 18631597.31
+            },
+            {
+                "code": "BP4734532",
+                "name": "AMAZON.COM INC 3.25% 05/12/2061",
+                "ename": "AMAZON.COM INC 3.25% 05/12/2061",
+                "weights": 0.42,
+                "FACE_AMT": 25950000,
+                "qty": 18395536.92
+            },
+            {
+                "code": "AQ0913139",
+                "name": "COMCAST CORP 3.999% 11/01/2049",
+                "ename": "COMCAST CORP 3.999% 11/01/2049",
+                "weights": 0.42,
+                "FACE_AMT": 22326000,
+                "qty": 18370370.48
+            },
+            {
+                "code": "BM8581712",
+                "name": "BP CAP MARKETS AMERICA 2.939% 06/04/2051",
+                "ename": "BP CAP MARKETS AMERICA 2.939% 06/04/2051",
+                "weights": 0.42,
+                "FACE_AMT": 27250000,
+                "qty": 18364698.47
+            },
+            {
+                "code": "ZL2716054",
+                "name": "UNITED PARCEL SERVICE 5.05% 03/03/2053",
+                "ename": "UNITED PARCEL SERVICE 5.05% 03/03/2053",
+                "weights": 0.41,
+                "FACE_AMT": 18500000,
+                "qty": 18162431.53
+            },
+            {
+                "code": "BY9033881",
+                "name": "WALMART INC 4.5% 09/09/2052",
+                "ename": "WALMART INC 4.5% 09/09/2052",
+                "weights": 0.41,
+                "FACE_AMT": 19550000,
+                "qty": 18089126.25
+            },
+            {
+                "code": "BH3948552",
+                "name": "HOME DEPOT INC 3.35% 04/15/2050",
+                "ename": "HOME DEPOT INC 3.35% 04/15/2050",
+                "weights": 0.41,
+                "FACE_AMT": 24108000,
+                "qty": 18075582.4
+            },
+            {
+                "code": "AV9069841",
+                "name": "HOME DEPOT INC 4.5% 12/06/2048",
+                "ename": "HOME DEPOT INC 4.5% 12/06/2048",
+                "weights": 0.41,
+                "FACE_AMT": 19789000,
+                "qty": 17963068.97
+            },
+            {
+                "code": "AW6446941",
+                "name": "ANHEUSER-BUSCH INBEV WOR 5.8% 01/23/2059",
+                "ename": "ANHEUSER-BUSCH INBEV WOR 5.8% 01/23/2059",
+                "weights": 0.41,
+                "FACE_AMT": 16500000,
+                "qty": 17952110
+            },
+            {
+                "code": "ZQ3564551",
+                "name": "COMCAST CORP 3.45% 02/01/2050",
+                "ename": "COMCAST CORP 3.45% 02/01/2050",
+                "weights": 0.4,
+                "FACE_AMT": 24200000,
+                "qty": 17807590.17
+            },
+            {
+                "code": "EK8976012",
+                "name": "ABBVIE INC 4.7% 05/14/2045",
+                "ename": "ABBVIE INC 4.7% 05/14/2045",
+                "weights": 0.4,
+                "FACE_AMT": 18500000,
+                "qty": 17609903.33
+            },
+            {
+                "code": "BN8959379",
+                "name": "BP CAP MARKETS AMERICA 3.379% 02/08/2061",
+                "ename": "BP CAP MARKETS AMERICA 3.379% 02/08/2061",
+                "weights": 0.4,
+                "FACE_AMT": 25400000,
+                "qty": 17496002.6
+            },
+            {
+                "code": "BU4067577",
+                "name": "UNION PACIFIC CORP 3.5% 02/14/2053",
+                "ename": "UNION PACIFIC CORP 3.5% 02/14/2053",
+                "weights": 0.39,
+                "FACE_AMT": 22850000,
+                "qty": 17208030.33
+            },
+            {
+                "code": "ZM2149346",
+                "name": "METLIFE INC 5.25% 01/15/2054",
+                "ename": "METLIFE INC 5.25% 01/15/2054",
+                "weights": 0.39,
+                "FACE_AMT": 17450000,
+                "qty": 17203853.21
+            },
+            {
+                "code": "ZS5426680",
+                "name": "IBM CORP 4.25% 05/15/2049",
+                "ename": "IBM CORP 4.25% 05/15/2049",
+                "weights": 0.39,
+                "FACE_AMT": 19700000,
+                "qty": 17039093.64
+            },
+            {
+                "code": "ZK7548900",
+                "name": "TRAVELERS COS INC 5.45% 05/25/2053",
+                "ename": "TRAVELERS COS INC 5.45% 05/25/2053",
+                "weights": 0.38,
+                "FACE_AMT": 16000000,
+                "qty": 16768502.22
+            },
+            {
+                "code": "BW0565216",
+                "name": "LOCKHEED MARTIN CORP 4.15% 06/15/2053",
+                "ename": "LOCKHEED MARTIN CORP 4.15% 06/15/2053",
+                "weights": 0.38,
+                "FACE_AMT": 19750000,
+                "qty": 16746414.51
+            },
+            {
+                "code": "ZP7461210",
+                "name": "UNION PACIFIC CORP 3.25% 02/05/2050",
+                "ename": "UNION PACIFIC CORP 3.25% 02/05/2050",
+                "weights": 0.38,
+                "FACE_AMT": 22850000,
+                "qty": 16712280.54
+            },
+            {
+                "code": "BJ4239734",
+                "name": "WALT DISNEY COMPANY/THE 3.8% 05/13/2060",
+                "ename": "WALT DISNEY COMPANY/THE 3.8% 05/13/2060",
+                "weights": 0.37,
+                "FACE_AMT": 21000000,
+                "qty": 16472656.67
+            },
+            {
+                "code": "ZL8765873",
+                "name": "PUBLIC SERVICE COLORADO 5.25% 04/01/2053",
+                "ename": "PUBLIC SERVICE COLORADO 5.25% 04/01/2053",
+                "weights": 0.37,
+                "FACE_AMT": 17000000,
+                "qty": 16455334.17
+            },
+            {
+                "code": "ZK6610545",
+                "name": "PACIFICORP 5.5% 05/15/2054",
+                "ename": "PACIFICORP 5.5% 05/15/2054",
+                "weights": 0.37,
+                "FACE_AMT": 17000000,
+                "qty": 16402799.44
+            },
+            {
+                "code": "BY8547436",
+                "name": "CONOCOPHILLIPS COMPANY 4.025% 03/15/2062",
+                "ename": "CONOCOPHILLIPS COMPANY 4.025% 03/15/2062",
+                "weights": 0.37,
+                "FACE_AMT": 20300000,
+                "qty": 16371405.85
+            },
+            {
+                "code": "AP3417577",
+                "name": "LOCKHEED MARTIN CORP 4.09% 09/15/2052",
+                "ename": "LOCKHEED MARTIN CORP 4.09% 09/15/2052",
+                "weights": 0.37,
+                "FACE_AMT": 18770000,
+                "qty": 16103653.72
+            },
+            {
+                "code": "BV8764508",
+                "name": "AMAZON.COM INC 4.1% 04/13/2062",
+                "ename": "AMAZON.COM INC 4.1% 04/13/2062",
+                "weights": 0.36,
+                "FACE_AMT": 18700000,
+                "qty": 16001725.06
+            },
+            {
+                "code": "EK6361225",
+                "name": "AMAZON.COM INC 4.95% 12/05/2044",
+                "ename": "AMAZON.COM INC 4.95% 12/05/2044",
+                "weights": 0.36,
+                "FACE_AMT": 15490000,
+                "qty": 15698379.23
+            },
+            {
+                "code": "ZK5648496",
+                "name": "CONOCOPHILLIPS COMPANY 5.3% 05/15/2053",
+                "ename": "CONOCOPHILLIPS COMPANY 5.3% 05/15/2053",
+                "weights": 0.36,
+                "FACE_AMT": 15500000,
+                "qty": 15690021.39
+            },
+            {
+                "code": "ZO8008781",
+                "name": "BERKSHIRE HATHAWAY FIN 2.85% 10/15/2050",
+                "ename": "BERKSHIRE HATHAWAY FIN 2.85% 10/15/2050",
+                "weights": 0.35,
+                "FACE_AMT": 22500000,
+                "qty": 15396881.25
+            },
+            {
+                "code": "AU7982567",
+                "name": "COMCAST CORP 4.95% 10/15/2058",
+                "ename": "COMCAST CORP 4.95% 10/15/2058",
+                "weights": 0.35,
+                "FACE_AMT": 16000000,
+                "qty": 15328760
+            },
+            {
+                "code": "AT9389293",
+                "name": "INTERCONTINENTALEXCHANGE 4.25% 09/21/2048",
+                "ename": "INTERCONTINENTALEXCHANGE 4.25% 09/21/2048",
+                "weights": 0.35,
+                "FACE_AMT": 17500000,
+                "qty": 15273013.19
+            },
+            {
+                "code": "BH3453884",
+                "name": "NIKE INC 3.375% 03/27/2050",
+                "ename": "NIKE INC 3.375% 03/27/2050",
+                "weights": 0.35,
+                "FACE_AMT": 19508000,
+                "qty": 15247769.81
+            },
+            {
+                "code": "BX7307206",
+                "name": "METLIFE INC 5% 07/15/2052",
+                "ename": "METLIFE INC 5% 07/15/2052",
+                "weights": 0.35,
+                "FACE_AMT": 16050000,
+                "qty": 15209051.33
+            },
+            {
+                "code": "ZR4465384",
+                "name": "WALT DISNEY COMPANY/THE 2.75% 09/01/2049",
+                "ename": "WALT DISNEY COMPANY/THE 2.75% 09/01/2049",
+                "weights": 0.34,
+                "FACE_AMT": 22984000,
+                "qty": 15119634.95
+            },
+            {
+                "code": "ZI7595682",
+                "name": "BHP BILLITON FIN USA LTD 5.5% 09/08/2053",
+                "ename": "BHP BILLITON FIN USA LTD 5.5% 09/08/2053",
+                "weights": 0.34,
+                "FACE_AMT": 14500000,
+                "qty": 15010496.67
+            },
+            {
+                "code": "ZL4494619",
+                "name": "RIO TINTO FIN USA PLC 5.125% 03/09/2053",
+                "ename": "RIO TINTO FIN USA PLC 5.125% 03/09/2053",
+                "weights": 0.34,
+                "FACE_AMT": 15200000,
+                "qty": 14874899.44
+            },
+            {
+                "code": "BW5385677",
+                "name": "INTERCONTINENTALEXCHANGE 5.2% 06/15/2062",
+                "ename": "INTERCONTINENTALEXCHANGE 5.2% 06/15/2062",
+                "weights": 0.34,
+                "FACE_AMT": 15000000,
+                "qty": 14784083.33
+            },
+            {
+                "code": "ZO0399832",
+                "name": "INTERCONTINENTALEXCHANGE 3% 09/15/2060",
+                "ename": "INTERCONTINENTALEXCHANGE 3% 09/15/2060",
+                "weights": 0.33,
+                "FACE_AMT": 22750000,
+                "qty": 14731004.17
+            },
+            {
+                "code": "ZQ4446139",
+                "name": "SHELL INTERNATIONAL FIN 3.125% 11/07/2049",
+                "ename": "SHELL INTERNATIONAL FIN 3.125% 11/07/2049",
+                "weights": 0.33,
+                "FACE_AMT": 20500000,
+                "qty": 14726878.26
+            },
+            {
+                "code": "QJ4176781",
+                "name": "CHUBB INA HOLDINGS INC 4.35% 11/03/2045",
+                "ename": "CHUBB INA HOLDINGS INC 4.35% 11/03/2045",
+                "weights": 0.33,
+                "FACE_AMT": 16182000,
+                "qty": 14679811.46
+            },
+            {
+                "code": "BH3937811",
+                "name": "NVIDIA CORP 3.5% 04/01/2050",
+                "ename": "NVIDIA CORP 3.5% 04/01/2050",
+                "weights": 0.33,
+                "FACE_AMT": 17928000,
+                "qty": 14542247.4
+            },
+            {
+                "code": "AS1392834",
+                "name": "PRUDENTIAL FINANCIAL INC 3.935% 12/07/2049",
+                "ename": "PRUDENTIAL FINANCIAL INC 3.935% 12/07/2049",
+                "weights": 0.33,
+                "FACE_AMT": 18036000,
+                "qty": 14469428.6
+            },
+            {
+                "code": "AW2275963",
+                "name": "UNITEDHEALTH GROUP INC 4.45% 12/15/2048",
+                "ename": "UNITEDHEALTH GROUP INC 4.45% 12/15/2048",
+                "weights": 0.33,
+                "FACE_AMT": 16080000,
+                "qty": 14439379.93
+            },
+            {
+                "code": "ZK5365463",
+                "name": "APPLE INC 4.85% 05/10/2053",
+                "ename": "APPLE INC 4.85% 05/10/2053",
+                "weights": 0.33,
+                "FACE_AMT": 14300000,
+                "qty": 14372723.44
+            },
+            {
+                "code": "AR5419932",
+                "name": "SOUTHERN CAL EDISON 4.125% 03/01/2048",
+                "ename": "SOUTHERN CAL EDISON 4.125% 03/01/2048",
+                "weights": 0.33,
+                "FACE_AMT": 17744000,
+                "qty": 14330401.89
+            },
+            {
+                "code": "EK9593337",
+                "name": "WW GRAINGER INC 4.6% 06/15/2045",
+                "ename": "WW GRAINGER INC 4.6% 06/15/2045",
+                "weights": 0.32,
+                "FACE_AMT": 15178000,
+                "qty": 14309245.01
+            },
+            {
+                "code": "AR0636613",
+                "name": "COMCAST CORP 4% 03/01/2048",
+                "ename": "COMCAST CORP 4% 03/01/2048",
+                "weights": 0.32,
+                "FACE_AMT": 17495000,
+                "qty": 14246081.31
+            },
+            {
+                "code": "BP5576098",
+                "name": "UNITEDHEALTH GROUP INC 3.25% 05/15/2051",
+                "ename": "UNITEDHEALTH GROUP INC 3.25% 05/15/2051",
+                "weights": 0.32,
+                "FACE_AMT": 19600000,
+                "qty": 14233383.89
+            },
+            {
+                "code": "BO4217317",
+                "name": "MICROSOFT CORP 3.041% 03/17/2062",
+                "ename": "MICROSOFT CORP 3.041% 03/17/2062",
+                "weights": 0.32,
+                "FACE_AMT": 19737000,
+                "qty": 14053367.36
+            },
+            {
+                "code": "AU5268761",
+                "name": "ABBVIE INC 4.875% 11/14/2048",
+                "ename": "ABBVIE INC 4.875% 11/14/2048",
+                "weights": 0.32,
+                "FACE_AMT": 14500000,
+                "qty": 14032230
+            },
+            {
+                "code": "ZL3253578",
+                "name": "PPL ELECTRIC UTILITIES 5.25% 05/15/2053",
+                "ename": "PPL ELECTRIC UTILITIES 5.25% 05/15/2053",
+                "weights": 0.32,
+                "FACE_AMT": 14050000,
+                "qty": 14018586.54
+            },
+            {
+                "code": "ZH8171295",
+                "name": "BRISTOL-MYERS SQUIBB CO 6.4% 11/15/2063",
+                "ename": "BRISTOL-MYERS SQUIBB CO 6.4% 11/15/2063",
+                "weights": 0.32,
+                "FACE_AMT": 12000000,
+                "qty": 13958173.33
+            },
+            {
+                "code": "QZ0952965",
+                "name": "MICROSOFT CORP 3.7% 08/08/2046",
+                "ename": "MICROSOFT CORP 3.7% 08/08/2046",
+                "weights": 0.31,
+                "FACE_AMT": 16222000,
+                "qty": 13853425.78
+            },
+            {
+                "code": "ZR1056145",
+                "name": "EXXON MOBIL CORPORATION 3.095% 08/16/2049",
+                "ename": "EXXON MOBIL CORPORATION 3.095% 08/16/2049",
+                "weights": 0.31,
+                "FACE_AMT": 19446000,
+                "qty": 13838497.42
+            },
+            {
+                "code": "ZN6870614",
+                "name": "PACIFICORP 5.35% 12/01/2053",
+                "ename": "PACIFICORP 5.35% 12/01/2053",
+                "weights": 0.31,
+                "FACE_AMT": 14600000,
+                "qty": 13670519.39
+            },
+            {
+                "code": "UV4493036",
+                "name": "MEDTRONIC INC 4.625% 03/15/2045",
+                "ename": "MEDTRONIC INC 4.625% 03/15/2045",
+                "weights": 0.31,
+                "FACE_AMT": 13930000,
+                "qty": 13469565.13
+            },
+            {
+                "code": "BN3038765",
+                "name": "HOME DEPOT INC 2.375% 03/15/2051",
+                "ename": "HOME DEPOT INC 2.375% 03/15/2051",
+                "weights": 0.3,
+                "FACE_AMT": 21950000,
+                "qty": 13360724.16
+            },
+            {
+                "code": "ZM9267109",
+                "name": "INTEL CORP 5.9% 02/10/2063",
+                "ename": "INTEL CORP 5.9% 02/10/2063",
+                "weights": 0.3,
+                "FACE_AMT": 12500000,
+                "qty": 13328402.78
+            },
+            {
+                "code": "EK9443111",
+                "name": "HOME DEPOT INC 4.25% 04/01/2046",
+                "ename": "HOME DEPOT INC 4.25% 04/01/2046",
+                "weights": 0.3,
+                "FACE_AMT": 14995000,
+                "qty": 13280517.52
+            },
+            {
+                "code": "QJ8046287",
+                "name": "LOCKHEED MARTIN CORP 4.7% 05/15/2046",
+                "ename": "LOCKHEED MARTIN CORP 4.7% 05/15/2046",
+                "weights": 0.3,
+                "FACE_AMT": 13888000,
+                "qty": 13216044.55
+            },
+            {
+                "code": "BR4503792",
+                "name": "BP CAP MARKETS AMERICA 3.001% 03/17/2052",
+                "ename": "BP CAP MARKETS AMERICA 3.001% 03/17/2052",
+                "weights": 0.3,
+                "FACE_AMT": 19200000,
+                "qty": 13198750.4
+            },
+            {
+                "code": "AQ5965100",
+                "name": "BAKER HUGHES LLC/CO-OBL 4.08% 12/15/2047",
+                "ename": "BAKER HUGHES LLC/CO-OBL 4.08% 12/15/2047",
+                "weights": 0.3,
+                "FACE_AMT": 15850000,
+                "qty": 13194755.17
+            },
+            {
+                "code": "BJ6848607",
+                "name": "MICROSOFT CORP 2.675% 06/01/2060",
+                "ename": "MICROSOFT CORP 2.675% 06/01/2060",
+                "weights": 0.3,
+                "FACE_AMT": 20150000,
+                "qty": 13185826.97
+            },
+            {
+                "code": "AZ7738687",
+                "name": "UNITEDHEALTH GROUP INC 3.875% 08/15/2059",
+                "ename": "UNITEDHEALTH GROUP INC 3.875% 08/15/2059",
+                "weights": 0.3,
+                "FACE_AMT": 16950000,
+                "qty": 13132038.4
+            },
+            {
+                "code": "BK8926622",
+                "name": "COMCAST CORP 2.45% 08/15/2052",
+                "ename": "COMCAST CORP 2.45% 08/15/2052",
+                "weights": 0.3,
+                "FACE_AMT": 22320000,
+                "qty": 13094555
+            },
+            {
+                "code": "ZL3476914",
+                "name": "FLORIDA POWER & LIGHT CO 5.3% 04/01/2053",
+                "ename": "FLORIDA POWER & LIGHT CO 5.3% 04/01/2053",
+                "weights": 0.3,
+                "FACE_AMT": 12750000,
+                "qty": 13017969.58
+            },
+            {
+                "code": "ZP3013411",
+                "name": "HOME DEPOT INC 3.125% 12/15/2049",
+                "ename": "HOME DEPOT INC 3.125% 12/15/2049",
+                "weights": 0.3,
+                "FACE_AMT": 18240000,
+                "qty": 13014891.07
+            },
+            {
+                "code": "ZL2713838",
+                "name": "ELI LILLY & CO 4.95% 02/27/2063",
+                "ename": "ELI LILLY & CO 4.95% 02/27/2063",
+                "weights": 0.29,
+                "FACE_AMT": 13300000,
+                "qty": 12922512.75
+            },
+            {
+                "code": "LW8641695",
+                "name": "COMCAST CORP 3.4% 07/15/2046",
+                "ename": "COMCAST CORP 3.4% 07/15/2046",
+                "weights": 0.29,
+                "FACE_AMT": 17136000,
+                "qty": 12869002.72
+            },
+            {
+                "code": "BH1775445",
+                "name": "INTEL CORP 4.75% 03/25/2050",
+                "ename": "INTEL CORP 4.75% 03/25/2050",
+                "weights": 0.29,
+                "FACE_AMT": 13770000,
+                "qty": 12758298.98
+            },
+            {
+                "code": "BS4853567",
+                "name": "CHUBB INA HOLDINGS INC 3.05% 12/15/2061",
+                "ename": "CHUBB INA HOLDINGS INC 3.05% 12/15/2061",
+                "weights": 0.29,
+                "FACE_AMT": 18750000,
+                "qty": 12694317.71
+            },
+            {
+                "code": "BN9136308",
+                "name": "BERKSHIRE HATHAWAY ENERG 2.85% 05/15/2051",
+                "ename": "BERKSHIRE HATHAWAY ENERG 2.85% 05/15/2051",
+                "weights": 0.28,
+                "FACE_AMT": 19100000,
+                "qty": 12509369.92
+            },
+            {
+                "code": "QJ3800753",
+                "name": "NIKE INC 3.875% 11/01/2045",
+                "ename": "NIKE INC 3.875% 11/01/2045",
+                "weights": 0.28,
+                "FACE_AMT": 14471000,
+                "qty": 12369607.8
+            },
+            {
+                "code": "ZI8731583",
+                "name": "INTUIT INC 5.5% 09/15/2053",
+                "ename": "INTUIT INC 5.5% 09/15/2053",
+                "weights": 0.28,
+                "FACE_AMT": 11500000,
+                "qty": 12314053.06
+            },
+            {
+                "code": "ZQ6689603",
+                "name": "INTEL CORP 3.25% 11/15/2049",
+                "ename": "INTEL CORP 3.25% 11/15/2049",
+                "weights": 0.28,
+                "FACE_AMT": 17250000,
+                "qty": 12306375.21
+            },
+            {
+                "code": "BN8494971",
+                "name": "APPLE INC 2.65% 02/08/2051",
+                "ename": "APPLE INC 2.65% 02/08/2051",
+                "weights": 0.28,
+                "FACE_AMT": 18650000,
+                "qty": 12275243.5
+            },
+            {
+                "code": "AN7416729",
+                "name": "HOME DEPOT INC 3.9% 06/15/2047",
+                "ename": "HOME DEPOT INC 3.9% 06/15/2047",
+                "weights": 0.28,
+                "FACE_AMT": 14792000,
+                "qty": 12249723.61
+            },
+            {
+                "code": "ZN2252684",
+                "name": "QUALCOMM INC 6% 05/20/2053",
+                "ename": "QUALCOMM INC 6% 05/20/2053",
+                "weights": 0.28,
+                "FACE_AMT": 10750000,
+                "qty": 12157282.5
+            },
+            {
+                "code": "BS1981668",
+                "name": "RIO TINTO FIN USA LTD 2.75% 11/02/2051",
+                "ename": "RIO TINTO FIN USA LTD 2.75% 11/02/2051",
+                "weights": 0.27,
+                "FACE_AMT": 18300000,
+                "qty": 12003397
+            },
+            {
+                "code": "QZ4929738",
+                "name": "SHELL INTERNATIONAL FIN 3.75% 09/12/2046",
+                "ename": "SHELL INTERNATIONAL FIN 3.75% 09/12/2046",
+                "weights": 0.27,
+                "FACE_AMT": 14880000,
+                "qty": 11993106.4
+            },
+            {
+                "code": "ZK5382500",
+                "name": "MERCK & CO INC 5% 05/17/2053",
+                "ename": "MERCK & CO INC 5% 05/17/2053",
+                "weights": 0.27,
+                "FACE_AMT": 12000000,
+                "qty": 11954160
+            },
+            {
+                "code": "BY1954480",
+                "name": "APPLE INC 3.95% 08/08/2052",
+                "ename": "APPLE INC 3.95% 08/08/2052",
+                "weights": 0.27,
+                "FACE_AMT": 14030000,
+                "qty": 11833463.2
+            },
+            {
+                "code": "AT1111273",
+                "name": "UNITEDHEALTH GROUP INC 4.25% 06/15/2048",
+                "ename": "UNITEDHEALTH GROUP INC 4.25% 06/15/2048",
+                "weights": 0.27,
+                "FACE_AMT": 13491000,
+                "qty": 11765190.06
+            },
+            {
+                "code": "QZ0677398",
+                "name": "APPLE INC 3.85% 08/04/2046",
+                "ename": "APPLE INC 3.85% 08/04/2046",
+                "weights": 0.27,
+                "FACE_AMT": 13794000,
+                "qty": 11738801.29
+            },
+            {
+                "code": "BH2474816",
+                "name": "GENERAL DYNAMICS CORP 4.25% 04/01/2050",
+                "ename": "GENERAL DYNAMICS CORP 4.25% 04/01/2050",
+                "weights": 0.26,
+                "FACE_AMT": 13050000,
+                "qty": 11634114.88
+            },
+            {
+                "code": "AW5806202",
+                "name": "MARSH & MCLENNAN COS INC 4.9% 03/15/2049",
+                "ename": "MARSH & MCLENNAN COS INC 4.9% 03/15/2049",
+                "weights": 0.26,
+                "FACE_AMT": 12096000,
+                "qty": 11570354.88
+            },
+            {
+                "code": "ZP3020317",
+                "name": "SOUTHERN CAL EDISON 3.65% 02/01/2050",
+                "ename": "SOUTHERN CAL EDISON 3.65% 02/01/2050",
+                "weights": 0.26,
+                "FACE_AMT": 15400000,
+                "qty": 11450203.72
+            },
+            {
+                "code": "EK8950603",
+                "name": "ENTERPRISE PRODUCTS OPER 4.9% 05/15/2046",
+                "ename": "ENTERPRISE PRODUCTS OPER 4.9% 05/15/2046",
+                "weights": 0.26,
+                "FACE_AMT": 12000000,
+                "qty": 11416646.67
+            },
+            {
+                "code": "ZL8069466",
+                "name": "PROLOGIS LP 5.25% 06/15/2053",
+                "ename": "PROLOGIS LP 5.25% 06/15/2053",
+                "weights": 0.26,
+                "FACE_AMT": 11500000,
+                "qty": 11404655.42
+            },
+            {
+                "code": "BH6951595",
+                "name": "EOG RESOURCES INC 4.95% 04/15/2050",
+                "ename": "EOG RESOURCES INC 4.95% 04/15/2050",
+                "weights": 0.26,
+                "FACE_AMT": 11750000,
+                "qty": 11397470.63
+            },
+            {
+                "code": "EK7855944",
+                "name": "EXXON MOBIL CORPORATION 3.567% 03/06/2045",
+                "ename": "EXXON MOBIL CORPORATION 3.567% 03/06/2045",
+                "weights": 0.26,
+                "FACE_AMT": 14270000,
+                "qty": 11353107.35
+            },
+            {
+                "code": "ZK6094740",
+                "name": "TEXAS INSTRUMENTS INC 5.05% 05/18/2063",
+                "ename": "TEXAS INSTRUMENTS INC 5.05% 05/18/2063",
+                "weights": 0.26,
+                "FACE_AMT": 11500000,
+                "qty": 11346730.56
+            },
+            {
+                "code": "AW5448112",
+                "name": "MIDAMERICAN ENERGY CO 4.25% 07/15/2049",
+                "ename": "MIDAMERICAN ENERGY CO 4.25% 07/15/2049",
+                "weights": 0.26,
+                "FACE_AMT": 13300000,
+                "qty": 11341379.19
+            },
+            {
+                "code": "BH5892600",
+                "name": "CATERPILLAR INC 3.25% 04/09/2050",
+                "ename": "CATERPILLAR INC 3.25% 04/09/2050",
+                "weights": 0.26,
+                "FACE_AMT": 14889000,
+                "qty": 11329830.04
+            },
+            {
+                "code": "AZ5719770",
+                "name": "TOTALENERGIES CAP INTL 3.461% 07/12/2049",
+                "ename": "TOTALENERGIES CAP INTL 3.461% 07/12/2049",
+                "weights": 0.26,
+                "FACE_AMT": 14800000,
+                "qty": 11312389.04
+            },
+            {
+                "code": "EK7324198",
+                "name": "APPLE INC 3.45% 02/09/2045",
+                "ename": "APPLE INC 3.45% 02/09/2045",
+                "weights": 0.26,
+                "FACE_AMT": 13970000,
+                "qty": 11292288.61
+            },
+            {
+                "code": "ZL2713820",
+                "name": "ELI LILLY & CO 4.875% 02/27/2053",
+                "ename": "ELI LILLY & CO 4.875% 02/27/2053",
+                "weights": 0.26,
+                "FACE_AMT": 11500000,
+                "qty": 11271403.96
+            },
+            {
+                "code": "BM8599201",
+                "name": "VIRGINIA ELEC & POWER CO 2.45% 12/15/2050",
+                "ename": "VIRGINIA ELEC & POWER CO 2.45% 12/15/2050",
+                "weights": 0.25,
+                "FACE_AMT": 18990000,
+                "qty": 11207270.28
+            },
+            {
+                "code": "AR4929998",
+                "name": "FLORIDA POWER & LIGHT CO 3.95% 03/01/2048",
+                "ename": "FLORIDA POWER & LIGHT CO 3.95% 03/01/2048",
+                "weights": 0.25,
+                "FACE_AMT": 13535000,
+                "qty": 11102576.27
+            },
+            {
+                "code": "ZH0006564",
+                "name": "KENVUE INC 5.05% 03/22/2053",
+                "ename": "KENVUE INC 5.05% 03/22/2053",
+                "weights": 0.25,
+                "FACE_AMT": 11000000,
+                "qty": 11080165.56
+            },
+            {
+                "code": "JK2606917",
+                "name": "JOHNSON & JOHNSON 3.7% 03/01/2046",
+                "ename": "JOHNSON & JOHNSON 3.7% 03/01/2046",
+                "weights": 0.25,
+                "FACE_AMT": 13309000,
+                "qty": 11075831.13
+            },
+            {
+                "code": "BJ5756876",
+                "name": "INTERCONTINENTALEXCHANGE 3% 06/15/2050",
+                "ename": "INTERCONTINENTALEXCHANGE 3% 06/15/2050",
+                "weights": 0.25,
+                "FACE_AMT": 16050000,
+                "qty": 10974134
+            },
+            {
+                "code": "AS4488704",
+                "name": "TEXAS INSTRUMENTS INC 4.15% 05/15/2048",
+                "ename": "TEXAS INSTRUMENTS INC 4.15% 05/15/2048",
+                "weights": 0.25,
+                "FACE_AMT": 12506000,
+                "qty": 10915587.66
+            },
+            {
+                "code": "EK9148108",
+                "name": "QUALCOMM INC 4.8% 05/20/2045",
+                "ename": "QUALCOMM INC 4.8% 05/20/2045",
+                "weights": 0.24,
+                "FACE_AMT": 11077000,
+                "qty": 10742363.83
+            },
+            {
+                "code": "BU5808946",
+                "name": "BRISTOL-MYERS SQUIBB CO 3.7% 03/15/2052",
+                "ename": "BRISTOL-MYERS SQUIBB CO 3.7% 03/15/2052",
+                "weights": 0.24,
+                "FACE_AMT": 13550000,
+                "qty": 10682375.86
+            },
+            {
+                "code": "BJ2622188",
+                "name": "APPLE INC 2.65% 05/11/2050",
+                "ename": "APPLE INC 2.65% 05/11/2050",
+                "weights": 0.24,
+                "FACE_AMT": 15900000,
+                "qty": 10668330.25
+            },
+            {
+                "code": "AX5270746",
+                "name": "MERCK & CO INC 4% 03/07/2049",
+                "ename": "MERCK & CO INC 4% 03/07/2049",
+                "weights": 0.24,
+                "FACE_AMT": 12530000,
+                "qty": 10579802.96
+            },
+            {
+                "code": "ZM3736034",
+                "name": "BERKSHIRE HATHAWAY ENERG 4.6% 05/01/2053",
+                "ename": "BERKSHIRE HATHAWAY ENERG 4.6% 05/01/2053",
+                "weights": 0.24,
+                "FACE_AMT": 12000000,
+                "qty": 10546493.33
+            },
+            {
+                "code": "ZO6214811",
+                "name": "BROOKFIELD FINANCE INC 3.5% 03/30/2051",
+                "ename": "BROOKFIELD FINANCE INC 3.5% 03/30/2051",
+                "weights": 0.24,
+                "FACE_AMT": 14100000,
+                "qty": 10358486.67
+            },
+            {
+                "code": "EK9006868",
+                "name": "APPLE INC 4.375% 05/13/2045",
+                "ename": "APPLE INC 4.375% 05/13/2045",
+                "weights": 0.23,
+                "FACE_AMT": 10955000,
+                "qty": 10295781.35
+            },
+            {
+                "code": "BQ3167443",
+                "name": "SALESFORCE INC 2.9% 07/15/2051",
+                "ename": "SALESFORCE INC 2.9% 07/15/2051",
+                "weights": 0.23,
+                "FACE_AMT": 15150000,
+                "qty": 10273863.08
+            },
+            {
+                "code": "ZR4655778",
+                "name": "SIMON PROPERTY GROUP LP 3.25% 09/13/2049",
+                "ename": "SIMON PROPERTY GROUP LP 3.25% 09/13/2049",
+                "weights": 0.23,
+                "FACE_AMT": 14600000,
+                "qty": 10234166.06
+            },
+            {
+                "code": "ZR6401320",
+                "name": "CATERPILLAR INC 3.25% 09/19/2049",
+                "ename": "CATERPILLAR INC 3.25% 09/19/2049",
+                "weights": 0.23,
+                "FACE_AMT": 13450000,
+                "qty": 10197233.32
+            },
+            {
+                "code": "BJ3690572",
+                "name": "CHEVRON CORP 3.078% 05/11/2050",
+                "ename": "CHEVRON CORP 3.078% 05/11/2050",
+                "weights": 0.23,
+                "FACE_AMT": 14050000,
+                "qty": 10182688.33
+            },
+            {
+                "code": "BN9135714",
+                "name": "BERKSHIRE HATHAWAY ENERG 4.25% 10/15/2050",
+                "ename": "BERKSHIRE HATHAWAY ENERG 4.25% 10/15/2050",
+                "weights": 0.23,
+                "FACE_AMT": 12200000,
+                "qty": 10106727.39
+            },
+            {
+                "code": "BR5146310",
+                "name": "UNION PACIFIC CORP 3.799% 04/06/2071",
+                "ename": "UNION PACIFIC CORP 3.799% 04/06/2071",
+                "weights": 0.23,
+                "FACE_AMT": 13360000,
+                "qty": 10097666.88
+            },
+            {
+                "code": "BW6485112",
+                "name": "UNITEDHEALTH GROUP INC 4.95% 05/15/2062",
+                "ename": "UNITEDHEALTH GROUP INC 4.95% 05/15/2062",
+                "weights": 0.23,
+                "FACE_AMT": 10630000,
+                "qty": 10081837.48
+            },
+            {
+                "code": "EK7886352",
+                "name": "BURLINGTN NORTH SANTA FE 4.15% 04/01/2045",
+                "ename": "BURLINGTN NORTH SANTA FE 4.15% 04/01/2045",
+                "weights": 0.23,
+                "FACE_AMT": 11490000,
+                "qty": 10047088.99
+            },
+            {
+                "code": "EK0812140",
+                "name": "NOVARTIS CAPITAL CORP 4.4% 05/06/2044",
+                "ename": "NOVARTIS CAPITAL CORP 4.4% 05/06/2044",
+                "weights": 0.23,
+                "FACE_AMT": 10704000,
+                "qty": 10039115.09
+            },
+            {
+                "code": "LW8106269",
+                "name": "RAYMOND JAMES FINANCIAL 4.95% 07/15/2046",
+                "ename": "RAYMOND JAMES FINANCIAL 4.95% 07/15/2046",
+                "weights": 0.23,
+                "FACE_AMT": 10650000,
+                "qty": 10038716.63
+            },
+            {
+                "code": "BS5042368",
+                "name": "FLORIDA POWER & LIGHT CO 2.875% 12/04/2051",
+                "ename": "FLORIDA POWER & LIGHT CO 2.875% 12/04/2051",
+                "weights": 0.23,
+                "FACE_AMT": 15100000,
+                "qty": 10002936.28
+            },
+            {
+                "code": "BJ4799828",
+                "name": "UNITEDHEALTH GROUP INC 3.125% 05/15/2060",
+                "ename": "UNITEDHEALTH GROUP INC 3.125% 05/15/2060",
+                "weights": 0.22,
+                "FACE_AMT": 14879000,
+                "qty": 9911048.62
+            },
+            {
+                "code": "BU5808953",
+                "name": "BRISTOL-MYERS SQUIBB CO 3.9% 03/15/2062",
+                "ename": "BRISTOL-MYERS SQUIBB CO 3.9% 03/15/2062",
+                "weights": 0.22,
+                "FACE_AMT": 12700000,
+                "qty": 9876938.17
+            },
+            {
+                "code": "ZL9054798",
+                "name": "VIRGINIA ELEC & POWER CO 5.45% 04/01/2053",
+                "ename": "VIRGINIA ELEC & POWER CO 5.45% 04/01/2053",
+                "weights": 0.22,
+                "FACE_AMT": 9700000,
+                "qty": 9812096.97
+            },
+            {
+                "code": "QJ5044350",
+                "name": "MICROSOFT CORP 4.45% 11/03/2045",
+                "ename": "MICROSOFT CORP 4.45% 11/03/2045",
+                "weights": 0.22,
+                "FACE_AMT": 10000000,
+                "qty": 9806330.56
+            },
+            {
+                "code": "AM3324358",
+                "name": "MICROSOFT CORP 4.25% 02/06/2047",
+                "ename": "MICROSOFT CORP 4.25% 02/06/2047",
+                "weights": 0.22,
+                "FACE_AMT": 10350000,
+                "qty": 9804825.25
+            },
+            {
+                "code": "ZK4624647",
+                "name": "NORTHERN STATES PWR-MINN 5.1% 05/15/2053",
+                "ename": "NORTHERN STATES PWR-MINN 5.1% 05/15/2053",
+                "weights": 0.22,
+                "FACE_AMT": 10000000,
+                "qty": 9762783.33
+            },
+            {
+                "code": "EK6736376",
+                "name": "BERKSHIRE HATHAWAY ENERG 4.5% 02/01/2045",
+                "ename": "BERKSHIRE HATHAWAY ENERG 4.5% 02/01/2045",
+                "weights": 0.22,
+                "FACE_AMT": 10690000,
+                "qty": 9669051.55
+            },
+            {
+                "code": "EK7825723",
+                "name": "METLIFE INC 4.05% 03/01/2045",
+                "ename": "METLIFE INC 4.05% 03/01/2045",
+                "weights": 0.22,
+                "FACE_AMT": 11594000,
+                "qty": 9657946.92
+            },
+            {
+                "code": "AW2328283",
+                "name": "BERKSHIRE HATHAWAY ENERG 4.45% 01/15/2049",
+                "ename": "BERKSHIRE HATHAWAY ENERG 4.45% 01/15/2049",
+                "weights": 0.22,
+                "FACE_AMT": 11260000,
+                "qty": 9617876.01
+            },
+            {
+                "code": "QJ8247554",
+                "name": "NOVARTIS CAPITAL CORP 4% 11/20/2045",
+                "ename": "NOVARTIS CAPITAL CORP 4% 11/20/2045",
+                "weights": 0.22,
+                "FACE_AMT": 10892000,
+                "qty": 9563248.61
+            },
+            {
+                "code": "BS9042729",
+                "name": "MERCK & CO INC 2.9% 12/10/2061",
+                "ename": "MERCK & CO INC 2.9% 12/10/2061",
+                "weights": 0.22,
+                "FACE_AMT": 14900000,
+                "qty": 9505935.11
+            },
+            {
+                "code": "AL8151907",
+                "name": "UNION PACIFIC CORP 3.799% 10/01/2051",
+                "ename": "UNION PACIFIC CORP 3.799% 10/01/2051",
+                "weights": 0.21,
+                "FACE_AMT": 11500000,
+                "qty": 9347786.82
+            },
+            {
+                "code": "BR3596748",
+                "name": "WALMART INC 2.65% 09/22/2051",
+                "ename": "WALMART INC 2.65% 09/22/2051",
+                "weights": 0.21,
+                "FACE_AMT": 13850000,
+                "qty": 9333530.39
+            },
+            {
+                "code": "BJ4291081",
+                "name": "PAYPAL HOLDINGS INC 3.25% 06/01/2050",
+                "ename": "PAYPAL HOLDINGS INC 3.25% 06/01/2050",
+                "weights": 0.21,
+                "FACE_AMT": 13000000,
+                "qty": 9323191.94
+            },
+            {
+                "code": "AO4418908",
+                "name": "ANHEUSER-BUSCH INBEV WOR 4.439% 10/06/2048",
+                "ename": "ANHEUSER-BUSCH INBEV WOR 4.439% 10/06/2048",
+                "weights": 0.21,
+                "FACE_AMT": 10250000,
+                "qty": 9315325.85
+            },
+            {
+                "code": "BN3428131",
+                "name": "BERKSHIRE HATHAWAY FIN 2.5% 01/15/2051",
+                "ename": "BERKSHIRE HATHAWAY FIN 2.5% 01/15/2051",
+                "weights": 0.21,
+                "FACE_AMT": 14600000,
+                "qty": 9250519.44
+            },
+            {
+                "code": "AS6087769",
+                "name": "INTEL CORP 3.734% 12/08/2047",
+                "ename": "INTEL CORP 3.734% 12/08/2047",
+                "weights": 0.21,
+                "FACE_AMT": 11710000,
+                "qty": 9205785.27
+            },
+            {
+                "code": "EK5889523",
+                "name": "CONOCOPHILLIPS COMPANY 4.3% 11/15/2044",
+                "ename": "CONOCOPHILLIPS COMPANY 4.3% 11/15/2044",
+                "weights": 0.21,
+                "FACE_AMT": 10300000,
+                "qty": 9163847.06
+            },
+            {
+                "code": "LW0654365",
+                "name": "ABBVIE INC 4.45% 05/14/2046",
+                "ename": "ABBVIE INC 4.45% 05/14/2046",
+                "weights": 0.21,
+                "FACE_AMT": 10000000,
+                "qty": 9134833.33
+            },
+            {
+                "code": "AR8139800",
+                "name": "CONNECTICUT LIGHT & PWR 4% 04/01/2048",
+                "ename": "CONNECTICUT LIGHT & PWR 4% 04/01/2048",
+                "weights": 0.21,
+                "FACE_AMT": 10880000,
+                "qty": 9118648.89
+            },
+            {
+                "code": "EK3235034",
+                "name": "HOME DEPOT INC 4.4% 03/15/2045",
+                "ename": "HOME DEPOT INC 4.4% 03/15/2045",
+                "weights": 0.2,
+                "FACE_AMT": 9850000,
+                "qty": 9008197.11
+            },
+            {
+                "code": "BH2971597",
+                "name": "MASTERCARD INC 3.85% 03/26/2050",
+                "ename": "MASTERCARD INC 3.85% 03/26/2050",
+                "weights": 0.2,
+                "FACE_AMT": 10600000,
+                "qty": 8972546.67
+            },
+            {
+                "code": "BO3389729",
+                "name": "COCA-COLA CO/THE 3% 03/05/2051",
+                "ename": "COCA-COLA CO/THE 3% 03/05/2051",
+                "weights": 0.2,
+                "FACE_AMT": 12550000,
+                "qty": 8909998
+            },
+            {
+                "code": "BH3964310",
+                "name": "CON EDISON CO OF NY INC 3.95% 04/01/2050",
+                "ename": "CON EDISON CO OF NY INC 3.95% 04/01/2050",
+                "weights": 0.2,
+                "FACE_AMT": 10700000,
+                "qty": 8862967.53
+            },
+            {
+                "code": "BH3453629",
+                "name": "DEERE & COMPANY 3.75% 04/15/2050",
+                "ename": "DEERE & COMPANY 3.75% 04/15/2050",
+                "weights": 0.2,
+                "FACE_AMT": 10510000,
+                "qty": 8855524.56
+            },
+            {
+                "code": "BJ1469722",
+                "name": "AIR PRODUCTS & CHEMICALS 2.8% 05/15/2050",
+                "ename": "AIR PRODUCTS & CHEMICALS 2.8% 05/15/2050",
+                "weights": 0.2,
+                "FACE_AMT": 12989000,
+                "qty": 8844282.26
+            },
+            {
+                "code": "AZ7738679",
+                "name": "UNITEDHEALTH GROUP INC 3.7% 08/15/2049",
+                "ename": "UNITEDHEALTH GROUP INC 3.7% 08/15/2049",
+                "weights": 0.2,
+                "FACE_AMT": 11284000,
+                "qty": 8838876.31
+            },
+            {
+                "code": "BU7163175",
+                "name": "CONOCOPHILLIPS COMPANY 3.8% 03/15/2052",
+                "ename": "CONOCOPHILLIPS COMPANY 3.8% 03/15/2052",
+                "weights": 0.2,
+                "FACE_AMT": 11070000,
+                "qty": 8837783.7
+            },
+            {
+                "code": "BK8778353",
+                "name": "CHEVRON USA INC 2.343% 08/12/2050",
+                "ename": "CHEVRON USA INC 2.343% 08/12/2050",
+                "weights": 0.2,
+                "FACE_AMT": 14500000,
+                "qty": 8832278.67
+            },
+            {
+                "code": "AS1392800",
+                "name": "PRUDENTIAL FINANCIAL INC 3.905% 12/07/2047",
+                "ename": "PRUDENTIAL FINANCIAL INC 3.905% 12/07/2047",
+                "weights": 0.2,
+                "FACE_AMT": 10912000,
+                "qty": 8818006.9
+            },
+            {
+                "code": "BK7674603",
+                "name": "ALPHABET INC 2.05% 08/15/2050",
+                "ename": "ALPHABET INC 2.05% 08/15/2050",
+                "weights": 0.2,
+                "FACE_AMT": 14700000,
+                "qty": 8795912.42
+            },
+            {
+                "code": "BY2217846",
+                "name": "INTEL CORP 4.9% 08/05/2052",
+                "ename": "INTEL CORP 4.9% 08/05/2052",
+                "weights": 0.2,
+                "FACE_AMT": 9350000,
+                "qty": 8773743.92
+            },
+            {
+                "code": "JV6469441",
+                "name": "ANHEUSER-BUSCH INBEV FIN 4.9% 02/01/2046",
+                "ename": "ANHEUSER-BUSCH INBEV FIN 4.9% 02/01/2046",
+                "weights": 0.2,
+                "FACE_AMT": 9143000,
+                "qty": 8715315.86
+            },
+            {
+                "code": "EK7534408",
+                "name": "LOCKHEED MARTIN CORP 3.8% 03/01/2045",
+                "ename": "LOCKHEED MARTIN CORP 3.8% 03/01/2045",
+                "weights": 0.2,
+                "FACE_AMT": 10550000,
+                "qty": 8668008.94
+            },
+            {
+                "code": "EK5814802",
+                "name": "PHILIP MORRIS INTL INC 4.25% 11/10/2044",
+                "ename": "PHILIP MORRIS INTL INC 4.25% 11/10/2044",
+                "weights": 0.2,
+                "FACE_AMT": 10195000,
+                "qty": 8657276.82
+            },
+            {
+                "code": "BK9300454",
+                "name": "APPLE INC 2.55% 08/20/2060",
+                "ename": "APPLE INC 2.55% 08/20/2060",
+                "weights": 0.2,
+                "FACE_AMT": 13750000,
+                "qty": 8617262.5
+            },
+            {
+                "code": "BY1954563",
+                "name": "APPLE INC 4.1% 08/08/2062",
+                "ename": "APPLE INC 4.1% 08/08/2062",
+                "weights": 0.19,
+                "FACE_AMT": 10100000,
+                "qty": 8580051
+            },
+            {
+                "code": "EK3027274",
+                "name": "TWDC ENTERPRISES 18 CORP 4.125% 06/01/2044",
+                "ename": "TWDC ENTERPRISES 18 CORP 4.125% 06/01/2044",
+                "weights": 0.19,
+                "FACE_AMT": 9723000,
+                "qty": 8574831.19
+            },
+            {
+                "code": "BS9042604",
+                "name": "MERCK & CO INC 2.75% 12/10/2051",
+                "ename": "MERCK & CO INC 2.75% 12/10/2051",
+                "weights": 0.19,
+                "FACE_AMT": 12900000,
+                "qty": 8558125.17
+            },
+            {
+                "code": "BK4048066",
+                "name": "SIMON PROPERTY GROUP LP 3.8% 07/15/2050",
+                "ename": "SIMON PROPERTY GROUP LP 3.8% 07/15/2050",
+                "weights": 0.19,
+                "FACE_AMT": 11000000,
+                "qty": 8493845.56
+            },
+            {
+                "code": "EK5326930",
+                "name": "ATMOS ENERGY CORP 4.125% 10/15/2044",
+                "ename": "ATMOS ENERGY CORP 4.125% 10/15/2044",
+                "weights": 0.19,
+                "FACE_AMT": 9570000,
+                "qty": 8436270.01
+            },
+            {
+                "code": "JK3091507",
+                "name": "MANULIFE FINANCIAL CORP 5.375% 03/04/2046",
+                "ename": "MANULIFE FINANCIAL CORP 5.375% 03/04/2046",
+                "weights": 0.19,
+                "FACE_AMT": 8495000,
+                "qty": 8389518.06
+            },
+            {
+                "code": "BQ3167492",
+                "name": "SALESFORCE INC 3.05% 07/15/2061",
+                "ename": "SALESFORCE INC 3.05% 07/15/2061",
+                "weights": 0.19,
+                "FACE_AMT": 12700000,
+                "qty": 8359376.36
+            },
+            {
+                "code": "BN8494989",
+                "name": "APPLE INC 2.8% 02/08/2061",
+                "ename": "APPLE INC 2.8% 02/08/2061",
+                "weights": 0.19,
+                "FACE_AMT": 12900000,
+                "qty": 8335077
+            },
+            {
+                "code": "BX3430655",
+                "name": "KLA CORP 4.95% 07/15/2052",
+                "ename": "KLA CORP 4.95% 07/15/2052",
+                "weights": 0.19,
+                "FACE_AMT": 8550000,
+                "qty": 8280781.88
+            },
+            {
+                "code": "AM6819156",
+                "name": "JOHNSON & JOHNSON 3.75% 03/03/2047",
+                "ename": "JOHNSON & JOHNSON 3.75% 03/03/2047",
+                "weights": 0.18,
+                "FACE_AMT": 9770000,
+                "qty": 8145208.29
+            },
+            {
+                "code": "BK7674702",
+                "name": "ALPHABET INC 2.25% 08/15/2060",
+                "ename": "ALPHABET INC 2.25% 08/15/2060",
+                "weights": 0.18,
+                "FACE_AMT": 14040000,
+                "qty": 8140286.7
+            },
+            {
+                "code": "ZR5517936",
+                "name": "FLORIDA POWER & LIGHT CO 3.15% 10/01/2049",
+                "ename": "FLORIDA POWER & LIGHT CO 3.15% 10/01/2049",
+                "weights": 0.18,
+                "FACE_AMT": 11300000,
+                "qty": 8083709.25
+            },
+            {
+                "code": "LW1166930",
+                "name": "INTEL CORP 4.1% 05/19/2046",
+                "ename": "INTEL CORP 4.1% 05/19/2046",
+                "weights": 0.18,
+                "FACE_AMT": 9405000,
+                "qty": 8073319.93
+            },
+            {
+                "code": "QJ7158307",
+                "name": "METLIFE INC 4.6% 05/13/2046",
+                "ename": "METLIFE INC 4.6% 05/13/2046",
+                "weights": 0.18,
+                "FACE_AMT": 8750000,
+                "qty": 8072322.22
+            },
+            {
+                "code": "EK7402309",
+                "name": "MERCK & CO INC 3.7% 02/10/2045",
+                "ename": "MERCK & CO INC 3.7% 02/10/2045",
+                "weights": 0.18,
+                "FACE_AMT": 9658000,
+                "qty": 7954178.56
+            },
+            {
+                "code": "ZS1918516",
+                "name": "AMERICA MOVIL SAB DE CV 4.375% 04/22/2049",
+                "ename": "AMERICA MOVIL SAB DE CV 4.375% 04/22/2049",
+                "weights": 0.18,
+                "FACE_AMT": 9009000,
+                "qty": 7896901.51
+            },
+            {
+                "code": "BK1099815",
+                "name": "BRISTOL-MYERS SQUIBB CO 4.55% 02/20/2048",
+                "ename": "BRISTOL-MYERS SQUIBB CO 4.55% 02/20/2048",
+                "weights": 0.18,
+                "FACE_AMT": 8600000,
+                "qty": 7741146.67
+            },
+            {
+                "code": "BT6362466",
+                "name": "TARGET CORP 2.95% 01/15/2052",
+                "ename": "TARGET CORP 2.95% 01/15/2052",
+                "weights": 0.17,
+                "FACE_AMT": 11150000,
+                "qty": 7608701.15
+            },
+            {
+                "code": "BR3414983",
+                "name": "HOME DEPOT INC 2.75% 09/15/2051",
+                "ename": "HOME DEPOT INC 2.75% 09/15/2051",
+                "weights": 0.17,
+                "FACE_AMT": 11500000,
+                "qty": 7596366.53
+            },
+            {
+                "code": "QJ7515456",
+                "name": "ASTRAZENECA PLC 4.375% 11/16/2045",
+                "ename": "ASTRAZENECA PLC 4.375% 11/16/2045",
+                "weights": 0.17,
+                "FACE_AMT": 8250000,
+                "qty": 7523672.29
+            },
+            {
+                "code": "QZ4800798",
+                "name": "HOME DEPOT INC 3.5% 09/15/2056",
+                "ename": "HOME DEPOT INC 3.5% 09/15/2056",
+                "weights": 0.17,
+                "FACE_AMT": 9835000,
+                "qty": 7467841.17
+            },
+            {
+                "code": "BQ7918163",
+                "name": "APPLE INC 2.7% 08/05/2051",
+                "ename": "APPLE INC 2.7% 08/05/2051",
+                "weights": 0.17,
+                "FACE_AMT": 11250000,
+                "qty": 7456218.75
+            },
+            {
+                "code": "BW3722830",
+                "name": "QUALCOMM INC 4.5% 05/20/2052",
+                "ename": "QUALCOMM INC 4.5% 05/20/2052",
+                "weights": 0.17,
+                "FACE_AMT": 8200000,
+                "qty": 7452980
+            },
+            {
+                "code": "ZR4622232",
+                "name": "APPLE INC 2.95% 09/11/2049",
+                "ename": "APPLE INC 2.95% 09/11/2049",
+                "weights": 0.17,
+                "FACE_AMT": 10500000,
+                "qty": 7424821.25
+            },
+            {
+                "code": "AR2654176",
+                "name": "COMMONWEALTH EDISON CO 4% 03/01/2048",
+                "ename": "COMMONWEALTH EDISON CO 4% 03/01/2048",
+                "weights": 0.17,
+                "FACE_AMT": 9120000,
+                "qty": 7420528.53
+            },
+            {
+                "code": "BY2217853",
+                "name": "INTEL CORP 5.05% 08/05/2062",
+                "ename": "INTEL CORP 5.05% 08/05/2062",
+                "weights": 0.17,
+                "FACE_AMT": 7750000,
+                "qty": 7342666.46
+            },
+            {
+                "code": "BQ7918189",
+                "name": "APPLE INC 2.85% 08/05/2061",
+                "ename": "APPLE INC 2.85% 08/05/2061",
+                "weights": 0.17,
+                "FACE_AMT": 11290000,
+                "qty": 7319730.38
+            },
+            {
+                "code": "BS8797380",
+                "name": "ECOLAB INC 2.7% 12/15/2051",
+                "ename": "ECOLAB INC 2.7% 12/15/2051",
+                "weights": 0.17,
+                "FACE_AMT": 11200000,
+                "qty": 7295064
+            },
+            {
+                "code": "BX3430663",
+                "name": "KLA CORP 5.25% 07/15/2062",
+                "ename": "KLA CORP 5.25% 07/15/2062",
+                "weights": 0.16,
+                "FACE_AMT": 7300000,
+                "qty": 7252945.42
+            },
+            {
+                "code": "ZD2443392",
+                "name": "ABBVIE INC 5.4% 03/15/2054",
+                "ename": "ABBVIE INC 5.4% 03/15/2054",
+                "weights": 0.16,
+                "FACE_AMT": 7000000,
+                "qty": 7220640
+            },
+            {
+                "code": "AL2532367",
+                "name": "PFIZER INC 4.125% 12/15/2046",
+                "ename": "PFIZER INC 4.125% 12/15/2046",
+                "weights": 0.16,
+                "FACE_AMT": 8270000,
+                "qty": 7173049.97
+            },
+            {
+                "code": "ZL0484721",
+                "name": "S&P GLOBAL INC 3.7% 03/01/2052",
+                "ename": "S&P GLOBAL INC 3.7% 03/01/2052",
+                "weights": 0.16,
+                "FACE_AMT": 9000000,
+                "qty": 7077475
+            },
+            {
+                "code": "ZO1044197",
+                "name": "JOHNSON & JOHNSON 2.45% 09/01/2060",
+                "ename": "JOHNSON & JOHNSON 2.45% 09/01/2060",
+                "weights": 0.16,
+                "FACE_AMT": 11814000,
+                "qty": 7059157.07
+            },
+            {
+                "code": "BP9277396",
+                "name": "CON EDISON CO OF NY INC 3.6% 06/15/2061",
+                "ename": "CON EDISON CO OF NY INC 3.6% 06/15/2061",
+                "weights": 0.16,
+                "FACE_AMT": 9500000,
+                "qty": 7008720
+            },
+            {
+                "code": "AX5019291",
+                "name": "PFIZER INC 4% 03/15/2049",
+                "ename": "PFIZER INC 4% 03/15/2049",
+                "weights": 0.16,
+                "FACE_AMT": 8150000,
+                "qty": 7004182.44
+            },
+            {
+                "code": "ZF6679046",
+                "name": "IBM INTERNAT CAPITAL 5.3% 02/05/2054",
+                "ename": "IBM INTERNAT CAPITAL 5.3% 02/05/2054",
+                "weights": 0.16,
+                "FACE_AMT": 7000000,
+                "qty": 6908941.67
+            },
+            {
+                "code": "BK8926648",
+                "name": "COMCAST CORP 2.65% 08/15/2062",
+                "ename": "COMCAST CORP 2.65% 08/15/2062",
+                "weights": 0.16,
+                "FACE_AMT": 12153000,
+                "qty": 6908430.24
+            },
+            {
+                "code": "ZF1242337",
+                "name": "PACIFICORP 5.8% 01/15/2055",
+                "ename": "PACIFICORP 5.8% 01/15/2055",
+                "weights": 0.16,
+                "FACE_AMT": 7000000,
+                "qty": 6894766.67
+            },
+            {
+                "code": "AM7610919",
+                "name": "BURLINGTN NORTH SANTA FE 4.125% 06/15/2047",
+                "ename": "BURLINGTN NORTH SANTA FE 4.125% 06/15/2047",
+                "weights": 0.15,
+                "FACE_AMT": 7940000,
+                "qty": 6815441.26
+            },
+            {
+                "code": "AR8348690",
+                "name": "ANHEUSER-BUSCH INBEV WOR 4.6% 04/15/2048",
+                "ename": "ANHEUSER-BUSCH INBEV WOR 4.6% 04/15/2048",
+                "weights": 0.15,
+                "FACE_AMT": 7286000,
+                "qty": 6797611.32
+            },
+            {
+                "code": "AU0580426",
+                "name": "ASTRAZENECA PLC 4.375% 08/17/2048",
+                "ename": "ASTRAZENECA PLC 4.375% 08/17/2048",
+                "weights": 0.15,
+                "FACE_AMT": 7500000,
+                "qty": 6757584.38
+            },
+            {
+                "code": "BJ1944344",
+                "name": "COCA-COLA CO/THE 2.6% 06/01/2050",
+                "ename": "COCA-COLA CO/THE 2.6% 06/01/2050",
+                "weights": 0.15,
+                "FACE_AMT": 10235000,
+                "qty": 6756009.78
+            },
+            {
+                "code": "AP8911160",
+                "name": "APPLE INC 3.75% 11/13/2047",
+                "ename": "APPLE INC 3.75% 11/13/2047",
+                "weights": 0.15,
+                "FACE_AMT": 8069000,
+                "qty": 6754512.83
+            },
+            {
+                "code": "AU3780957",
+                "name": "PFIZER INC 4.2% 09/15/2048",
+                "ename": "PFIZER INC 4.2% 09/15/2048",
+                "weights": 0.15,
+                "FACE_AMT": 7619000,
+                "qty": 6733849.98
+            },
+            {
+                "code": "QJ1469841",
+                "name": "PEPSICO INC 4.45% 04/14/2046",
+                "ename": "PEPSICO INC 4.45% 04/14/2046",
+                "weights": 0.15,
+                "FACE_AMT": 7076000,
+                "qty": 6673316.63
+            },
+            {
+                "code": "BK1039324",
+                "name": "MERCK & CO INC 2.45% 06/24/2050",
+                "ename": "MERCK & CO INC 2.45% 06/24/2050",
+                "weights": 0.15,
+                "FACE_AMT": 10620000,
+                "qty": 6670256.8
+            },
+            {
+                "code": "ZO7118359",
+                "name": "DANAHER CORP 2.6% 10/01/2050",
+                "ename": "DANAHER CORP 2.6% 10/01/2050",
+                "weights": 0.15,
+                "FACE_AMT": 10250000,
+                "qty": 6599382.78
+            },
+            {
+                "code": "BJ4799760",
+                "name": "UNITEDHEALTH GROUP INC 2.9% 05/15/2050",
+                "ename": "UNITEDHEALTH GROUP INC 2.9% 05/15/2050",
+                "weights": 0.15,
+                "FACE_AMT": 9650000,
+                "qty": 6585218.97
+            },
+            {
+                "code": "BW6119349",
+                "name": "PAYPAL HOLDINGS INC 5.05% 06/01/2052",
+                "ename": "PAYPAL HOLDINGS INC 5.05% 06/01/2052",
+                "weights": 0.15,
+                "FACE_AMT": 6750000,
+                "qty": 6498013.13
+            },
+            {
+                "code": "BV9810979",
+                "name": "TSMC ARIZONA CORP 4.5% 04/22/2052",
+                "ename": "TSMC ARIZONA CORP 4.5% 04/22/2052",
+                "weights": 0.15,
+                "FACE_AMT": 6550000,
+                "qty": 6438977.5
+            },
+            {
+                "code": "ZR9972848",
+                "name": "PEPSICO INC 2.875% 10/15/2049",
+                "ename": "PEPSICO INC 2.875% 10/15/2049",
+                "weights": 0.15,
+                "FACE_AMT": 9083000,
+                "qty": 6438841.56
+            },
+            {
+                "code": "BJ1944393",
+                "name": "COCA-COLA CO/THE 2.75% 06/01/2060",
+                "ename": "COCA-COLA CO/THE 2.75% 06/01/2060",
+                "weights": 0.14,
+                "FACE_AMT": 9690000,
+                "qty": 6356814.96
+            },
+            {
+                "code": "BS4852189",
+                "name": "VIRGINIA ELEC & POWER CO 2.95% 11/15/2051",
+                "ename": "VIRGINIA ELEC & POWER CO 2.95% 11/15/2051",
+                "weights": 0.14,
+                "FACE_AMT": 9550000,
+                "qty": 6314759.76
+            },
+            {
+                "code": "AN0469717",
+                "name": "APPLIED MATERIALS INC 4.35% 04/01/2047",
+                "ename": "APPLIED MATERIALS INC 4.35% 04/01/2047",
+                "weights": 0.14,
+                "FACE_AMT": 6688000,
+                "qty": 6173865.57
+            },
+            {
+                "code": "BJ5025827",
+                "name": "HONEYWELL INTERNATIONAL 2.8% 06/01/2050",
+                "ename": "HONEYWELL INTERNATIONAL 2.8% 06/01/2050",
+                "weights": 0.14,
+                "FACE_AMT": 8720000,
+                "qty": 6151184.89
+            },
+            {
+                "code": "BO6620526",
+                "name": "RAYMOND JAMES FINANCIAL 3.75% 04/01/2051",
+                "ename": "RAYMOND JAMES FINANCIAL 3.75% 04/01/2051",
+                "weights": 0.13,
+                "FACE_AMT": 7650000,
+                "qty": 5873587.13
+            },
+            {
+                "code": "AS0903334",
+                "name": "BERKSHIRE HATHAWAY ENERG 3.8% 07/15/2048",
+                "ename": "BERKSHIRE HATHAWAY ENERG 3.8% 07/15/2048",
+                "weights": 0.13,
+                "FACE_AMT": 7600000,
+                "qty": 5868323.11
+            },
+            {
+                "code": "AN6938996",
+                "name": "QUALCOMM INC 4.3% 05/20/2047",
+                "ename": "QUALCOMM INC 4.3% 05/20/2047",
+                "weights": 0.13,
+                "FACE_AMT": 6486000,
+                "qty": 5812018.12
+            },
+            {
+                "code": "AX3340780",
+                "name": "ELI LILLY & CO 3.95% 03/15/2049",
+                "ename": "ELI LILLY & CO 3.95% 03/15/2049",
+                "weights": 0.13,
+                "FACE_AMT": 6674000,
+                "qty": 5775014.05
+            },
+            {
+                "code": "ZQ3564791",
+                "name": "DH EUROPE FINANCE II 3.4% 11/15/2049",
+                "ename": "DH EUROPE FINANCE II 3.4% 11/15/2049",
+                "weights": 0.13,
+                "FACE_AMT": 7450000,
+                "qty": 5681585.22
+            },
+            {
+                "code": "AR8348823",
+                "name": "ANHEUSER-BUSCH INBEV WOR 4.75% 04/15/2058",
+                "ename": "ANHEUSER-BUSCH INBEV WOR 4.75% 04/15/2058",
+                "weights": 0.13,
+                "FACE_AMT": 6000000,
+                "qty": 5653018.33
+            },
+            {
+                "code": "AP0335723",
+                "name": "APPLE INC 3.75% 09/12/2047",
+                "ename": "APPLE INC 3.75% 09/12/2047",
+                "weights": 0.13,
+                "FACE_AMT": 6750000,
+                "qty": 5565431.25
+            },
+            {
+                "code": "AN5170864",
+                "name": "INTEL CORP 4.1% 05/11/2047",
+                "ename": "INTEL CORP 4.1% 05/11/2047",
+                "weights": 0.13,
+                "FACE_AMT": 6500000,
+                "qty": 5525769.17
+            },
+            {
+                "code": "ZP7461244",
+                "name": "UNION PACIFIC CORP 3.75% 02/05/2070",
+                "ename": "UNION PACIFIC CORP 3.75% 02/05/2070",
+                "weights": 0.12,
+                "FACE_AMT": 7300000,
+                "qty": 5378731.25
+            },
+            {
+                "code": "BR3441242",
+                "name": "ARCHER-DANIELS-MIDLAND C 2.7% 09/15/2051",
+                "ename": "ARCHER-DANIELS-MIDLAND C 2.7% 09/15/2051",
+                "weights": 0.12,
+                "FACE_AMT": 8250000,
+                "qty": 5370378.75
+            },
+            {
+                "code": "BR3425617",
+                "name": "UNION PACIFIC CORP 2.95% 03/10/2052",
+                "ename": "UNION PACIFIC CORP 2.95% 03/10/2052",
+                "weights": 0.12,
+                "FACE_AMT": 7800000,
+                "qty": 5259912.67
+            },
+            {
+                "code": "AQ2325597",
+                "name": "ALIBABA GROUP HOLDING 4.2% 12/06/2047",
+                "ename": "ALIBABA GROUP HOLDING 4.2% 12/06/2047",
+                "weights": 0.12,
+                "FACE_AMT": 6358000,
+                "qty": 5240857.01
+            },
+            {
+                "code": "AO5919680",
+                "name": "COMCAST CORP 4% 08/15/2047",
+                "ename": "COMCAST CORP 4% 08/15/2047",
+                "weights": 0.12,
+                "FACE_AMT": 6250000,
+                "qty": 5103451.39
+            },
+            {
+                "code": "ZO4799557",
+                "name": "COCA-COLA CO/THE 2.5% 03/15/2051",
+                "ename": "COCA-COLA CO/THE 2.5% 03/15/2051",
+                "weights": 0.11,
+                "FACE_AMT": 7750000,
+                "qty": 5005574.31
+            },
+            {
+                "code": "BK1099625",
+                "name": "BRISTOL-MYERS SQUIBB CO 4.35% 11/15/2047",
+                "ename": "BRISTOL-MYERS SQUIBB CO 4.35% 11/15/2047",
+                "weights": 0.11,
+                "FACE_AMT": 5600000,
+                "qty": 4939587.33
+            },
+            {
+                "code": "BH1775478",
+                "name": "INTEL CORP 4.95% 03/25/2060",
+                "ename": "INTEL CORP 4.95% 03/25/2060",
+                "weights": 0.11,
+                "FACE_AMT": 5200000,
+                "qty": 4937543
+            },
+            {
+                "code": "EK2708494",
+                "name": "PFIZER INC 4.4% 05/15/2044",
+                "ename": "PFIZER INC 4.4% 05/15/2044",
+                "weights": 0.11,
+                "FACE_AMT": 5264000,
+                "qty": 4891911.24
+            },
+            {
+                "code": "EI6747972",
+                "name": "MASS INSTITUTE OF TECH 5.6% 07/01/2111",
+                "ename": "MASS INSTITUTE OF TECH 5.6% 07/01/2111",
+                "weights": 0.11,
+                "FACE_AMT": 4300000,
+                "qty": 4756511.89
+            },
+            {
+                "code": "AO7302802",
+                "name": "THERMO FISHER SCIENTIFIC 4.1% 08/15/2047",
+                "ename": "THERMO FISHER SCIENTIFIC 4.1% 08/15/2047",
+                "weights": 0.11,
+                "FACE_AMT": 5500000,
+                "qty": 4677820.28
+            },
+            {
+                "code": "BQ9662397",
+                "name": "INTEL CORP 3.05% 08/12/2051",
+                "ename": "INTEL CORP 3.05% 08/12/2051",
+                "weights": 0.11,
+                "FACE_AMT": 6850000,
+                "qty": 4632731.11
+            },
+            {
+                "code": "BG0200108",
+                "name": "NOVARTIS CAPITAL CORP 2.75% 08/14/2050",
+                "ename": "NOVARTIS CAPITAL CORP 2.75% 08/14/2050",
+                "weights": 0.1,
+                "FACE_AMT": 6750000,
+                "qty": 4581641.25
+            },
+            {
+                "code": "QZ7661445",
+                "name": "PEPSICO INC 3.45% 10/06/2046",
+                "ename": "PEPSICO INC 3.45% 10/06/2046",
+                "weights": 0.1,
+                "FACE_AMT": 5631000,
+                "qty": 4517310.21
+            },
+            {
+                "code": "BP9278618",
+                "name": "TRAVELERS COS INC 3.05% 06/08/2051",
+                "ename": "TRAVELERS COS INC 3.05% 06/08/2051",
+                "weights": 0.1,
+                "FACE_AMT": 6350000,
+                "qty": 4452895.17
+            },
+            {
+                "code": "ZR0836240",
+                "name": "DUKE ENERGY CAROLINAS 3.2% 08/15/2049",
+                "ename": "DUKE ENERGY CAROLINAS 3.2% 08/15/2049",
+                "weights": 0.1,
+                "FACE_AMT": 6300000,
+                "qty": 4412065
+            },
+            {
+                "code": "AX4012701",
+                "name": "LAM RESEARCH CORP 4.875% 03/15/2049",
+                "ename": "LAM RESEARCH CORP 4.875% 03/15/2049",
+                "weights": 0.1,
+                "FACE_AMT": 4500000,
+                "qty": 4386643.13
+            },
+            {
+                "code": "BN3409040",
+                "name": "SOUTHERN CAL EDISON 2.95% 02/01/2051",
+                "ename": "SOUTHERN CAL EDISON 2.95% 02/01/2051",
+                "weights": 0.1,
+                "FACE_AMT": 6700000,
+                "qty": 4376330.19
+            },
+            {
+                "code": "ZS8846397",
+                "name": "MASTERCARD INC 3.65% 06/01/2049",
+                "ename": "MASTERCARD INC 3.65% 06/01/2049",
+                "weights": 0.1,
+                "FACE_AMT": 5362000,
+                "qty": 4361574.42
+            },
+            {
+                "code": "BR8255035",
+                "name": "PEPSICO INC 2.75% 10/21/2051",
+                "ename": "PEPSICO INC 2.75% 10/21/2051",
+                "weights": 0.1,
+                "FACE_AMT": 6350000,
+                "qty": 4291797.43
+            },
+            {
+                "code": "ZO1044189",
+                "name": "JOHNSON & JOHNSON 2.25% 09/01/2050",
+                "ename": "JOHNSON & JOHNSON 2.25% 09/01/2050",
+                "weights": 0.1,
+                "FACE_AMT": 6835000,
+                "qty": 4269363.14
+            },
+            {
+                "code": "AQ2326835",
+                "name": "ALIBABA GROUP HOLDING 4.4% 12/06/2057",
+                "ename": "ALIBABA GROUP HOLDING 4.4% 12/06/2057",
+                "weights": 0.1,
+                "FACE_AMT": 5100000,
+                "qty": 4217076.67
+            },
+            {
+                "code": "BP4773464",
+                "name": "UNION PACIFIC CORP 2.973% 09/16/2062",
+                "ename": "UNION PACIFIC CORP 2.973% 09/16/2062",
+                "weights": 0.09,
+                "FACE_AMT": 6450000,
+                "qty": 4133739.43
+            },
+            {
+                "code": "BJ2285440",
+                "name": "LAM RESEARCH CORP 2.875% 06/15/2050",
+                "ename": "LAM RESEARCH CORP 2.875% 06/15/2050",
+                "weights": 0.09,
+                "FACE_AMT": 5959000,
+                "qty": 4111517.16
+            },
+            {
+                "code": "ZD2443400",
+                "name": "ABBVIE INC 5.5% 03/15/2064",
+                "ename": "ABBVIE INC 5.5% 03/15/2064",
+                "weights": 0.09,
+                "FACE_AMT": 4000000,
+                "qty": 4110080
+            },
+            {
+                "code": "ZD0505374",
+                "name": "CUMMINS INC 5.45% 02/20/2054",
+                "ename": "CUMMINS INC 5.45% 02/20/2054",
+                "weights": 0.09,
+                "FACE_AMT": 4000000,
+                "qty": 4089773.33
+            },
+            {
+                "code": "ZF9004606",
+                "name": "ELI LILLY & CO 5% 02/09/2054",
+                "ename": "ELI LILLY & CO 5% 02/09/2054",
+                "weights": 0.09,
+                "FACE_AMT": 4000000,
+                "qty": 3979604.44
+            },
+            {
+                "code": "ZF5959225",
+                "name": "LOCKHEED MARTIN CORP 5.2% 02/15/2064",
+                "ename": "LOCKHEED MARTIN CORP 5.2% 02/15/2064",
+                "weights": 0.09,
+                "FACE_AMT": 4000000,
+                "qty": 3957560
+            },
+            {
+                "code": "AM3834166",
+                "name": "APPLE INC 4.25% 02/09/2047",
+                "ename": "APPLE INC 4.25% 02/09/2047",
+                "weights": 0.09,
+                "FACE_AMT": 4300000,
+                "qty": 3948053.36
+            },
+            {
+                "code": "BK2338048",
+                "name": "TOTALENERGIES CAP INTL 3.386% 06/29/2060",
+                "ename": "TOTALENERGIES CAP INTL 3.386% 06/29/2060",
+                "weights": 0.09,
+                "FACE_AMT": 5320000,
+                "qty": 3781105.77
+            },
+            {
+                "code": "BJ7186072",
+                "name": "APPLIED MATERIALS INC 2.75% 06/01/2050",
+                "ename": "APPLIED MATERIALS INC 2.75% 06/01/2050",
+                "weights": 0.08,
+                "FACE_AMT": 5260000,
+                "qty": 3637069.37
+            },
+            {
+                "code": "AM3324390",
+                "name": "MICROSOFT CORP 4.5% 02/06/2057",
+                "ename": "MICROSOFT CORP 4.5% 02/06/2057",
+                "weights": 0.08,
+                "FACE_AMT": 3750000,
+                "qty": 3631237.5
+            },
+            {
+                "code": "BS0508728",
+                "name": "TSMC ARIZONA CORP 3.25% 10/25/2051",
+                "ename": "TSMC ARIZONA CORP 3.25% 10/25/2051",
+                "weights": 0.08,
+                "FACE_AMT": 4550000,
+                "qty": 3538938.18
+            },
+            {
+                "code": "ZK5382583",
+                "name": "MERCK & CO INC 5.15% 05/17/2063",
+                "ename": "MERCK & CO INC 5.15% 05/17/2063",
+                "weights": 0.08,
+                "FACE_AMT": 3500000,
+                "qty": 3521831.25
+            },
+            {
+                "code": "BR6760622",
+                "name": "ANALOG DEVICES INC 2.95% 10/01/2051",
+                "ename": "ANALOG DEVICES INC 2.95% 10/01/2051",
+                "weights": 0.08,
+                "FACE_AMT": 5000000,
+                "qty": 3460484.72
+            },
+            {
+                "code": "BJ5743429",
+                "name": "PFIZER INC 2.7% 05/28/2050",
+                "ename": "PFIZER INC 2.7% 05/28/2050",
+                "weights": 0.07,
+                "FACE_AMT": 4850000,
+                "qty": 3284711
+            },
+            {
+                "code": "BG1719700",
+                "name": "KLA CORP 3.3% 03/01/2050",
+                "ename": "KLA CORP 3.3% 03/01/2050",
+                "weights": 0.07,
+                "FACE_AMT": 4300000,
+                "qty": 3145414.17
+            },
+            {
+                "code": "ZD2126096",
+                "name": "CISCO SYSTEMS INC 5.3% 02/26/2054",
+                "ename": "CISCO SYSTEMS INC 5.3% 02/26/2054",
+                "weights": 0.07,
+                "FACE_AMT": 3000000,
+                "qty": 3078750
+            },
+            {
+                "code": "BQ9662413",
+                "name": "INTEL CORP 3.2% 08/12/2061",
+                "ename": "INTEL CORP 3.2% 08/12/2061",
+                "weights": 0.07,
+                "FACE_AMT": 4650000,
+                "qty": 3041213.67
+            },
+            {
+                "code": "ZK9797372",
+                "name": "DUKE ENERGY CAROLINAS 5.4% 01/15/2054",
+                "ename": "DUKE ENERGY CAROLINAS 5.4% 01/15/2054",
+                "weights": 0.07,
+                "FACE_AMT": 3000000,
+                "qty": 2989200
+            },
+            {
+                "code": "BK8777561",
+                "name": "VISA INC 2% 08/15/2050",
+                "ename": "VISA INC 2% 08/15/2050",
+                "weights": 0.07,
+                "FACE_AMT": 4950000,
+                "qty": 2934167.5
+            },
+            {
+                "code": "ZN9513708",
+                "name": "ONCOR ELECTRIC DELIVERY 4.95% 09/15/2052",
+                "ename": "ONCOR ELECTRIC DELIVERY 4.95% 09/15/2052",
+                "weights": 0.07,
+                "FACE_AMT": 3000000,
+                "qty": 2894317.5
+            },
+            {
+                "code": "BM0474270",
+                "name": "ABBVIE INC 4.75% 03/15/2045",
+                "ename": "ABBVIE INC 4.75% 03/15/2045",
+                "weights": 0.07,
+                "FACE_AMT": 3000000,
+                "qty": 2889804.17
+            },
+            {
+                "code": "BX9844495",
+                "name": "IBM CORP 4.9% 07/27/2052",
+                "ename": "IBM CORP 4.9% 07/27/2052",
+                "weights": 0.07,
+                "FACE_AMT": 3050000,
+                "qty": 2871231.03
+            },
+            {
+                "code": "BJ3322614",
+                "name": "QUALCOMM INC 3.25% 05/20/2050",
+                "ename": "QUALCOMM INC 3.25% 05/20/2050",
+                "weights": 0.06,
+                "FACE_AMT": 3400000,
+                "qty": 2544361.67
+            },
+            {
+                "code": "BN9142926",
+                "name": "ALIBABA GROUP HOLDING 3.15% 02/09/2051",
+                "ename": "ALIBABA GROUP HOLDING 3.15% 02/09/2051",
+                "weights": 0.06,
+                "FACE_AMT": 3750000,
+                "qty": 2482734.38
+            },
+            {
+                "code": "AL8126818",
+                "name": "UNITEDHEALTH GROUP INC 4.2% 01/15/2047",
+                "ename": "UNITEDHEALTH GROUP INC 4.2% 01/15/2047",
+                "weights": 0.05,
+                "FACE_AMT": 2750000,
+                "qty": 2380106.67
+            },
+            {
+                "code": "AP9426390",
+                "name": "JOHNSON & JOHNSON 3.5% 01/15/2048",
+                "ename": "JOHNSON & JOHNSON 3.5% 01/15/2048",
+                "weights": 0.05,
+                "FACE_AMT": 2942000,
+                "qty": 2366945.24
+            },
+            {
+                "code": "ZD3216763",
+                "name": "BROOKFIELD FINANCE INC 5.968% 03/04/2054",
+                "ename": "BROOKFIELD FINANCE INC 5.968% 03/04/2054",
+                "weights": 0.05,
+                "FACE_AMT": 2000000,
+                "qty": 2073275.56
+            },
+            {
+                "code": "AP6463859",
+                "name": "UNITEDHEALTH GROUP INC 3.75% 10/15/2047",
+                "ename": "UNITEDHEALTH GROUP INC 3.75% 10/15/2047",
+                "weights": 0.05,
+                "FACE_AMT": 2500000,
+                "qty": 2020077.08
+            },
+            {
+                "code": "BN9142934",
+                "name": "ALIBABA GROUP HOLDING 3.25% 02/09/2061",
+                "ename": "ALIBABA GROUP HOLDING 3.25% 02/09/2061",
+                "weights": 0.04,
+                "FACE_AMT": 2500000,
+                "qty": 1590924.31
+            },
+            {
+                "code": "ZI9931323",
+                "name": "KENVUE INC 5.2% 03/22/2063",
+                "ename": "KENVUE INC 5.2% 03/22/2063",
+                "weights": 0.03,
+                "FACE_AMT": 1500000,
+                "qty": 1516701.67
+            },
+            {
+                "code": "BJ5480923",
+                "name": "LOCKHEED MARTIN CORP 2.8% 06/15/2050",
+                "ename": "LOCKHEED MARTIN CORP 2.8% 06/15/2050",
+                "weights": 0.03,
+                "FACE_AMT": 2000000,
+                "qty": 1331824.44
+            }
+        ]
+    },
+    "Memo": null
+}

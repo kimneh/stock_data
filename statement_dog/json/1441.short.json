@@ -6,7 +6,7 @@
         "main_business": "棉紗，混紡紗，化纖紗<br>布<br>營建",
         "website_url": "http://www.tahtong.com.tw",
         "ceo": "陳建州",
-        "pe_ratio": -2,
+        "pe_ratio": -3,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 23,
@@ -58,20 +58,20 @@
             "at_2023_last_all": -81.29,
             "at_2024_last_all": -81.29
         },
-        "latest_eps": -5.6,
-        "latest_price": 13.75,
-        "latest_roe": -61.65,
-        "latest_gross_margin": -11.29,
-        "latest_equity": 440099,
-        "latest_revenue": 301638,
-        "latest_gross_profit": -34056,
-        "latest_net_income": -84408,
-        "latest_debt_ratio": 77.19,
-        "latest_current_ratio": 52.49,
-        "latest_account_receivable_turnover_ratio": 4.53,
-        "latest_inventory_turnover_ratio": 0.86,
+        "latest_eps": -4.76,
+        "latest_price": 13.55,
+        "latest_roe": -64.17,
+        "latest_gross_margin": 0.58,
+        "latest_equity": 346083,
+        "latest_revenue": 281570,
+        "latest_gross_profit": 1645,
+        "latest_net_income": -85869,
+        "latest_debt_ratio": 81.92,
+        "latest_current_ratio": 52.8,
+        "latest_account_receivable_turnover_ratio": 4.2,
+        "latest_inventory_turnover_ratio": 0.84,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 0.51
+        "latest_research_to_sale_ratio": 0.54
     },
     "eps_dividends": {
         "1991": {
@@ -197,7 +197,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -2.5
+            "eps": -3.76
         }
     },
     "dividends": {
@@ -498,7 +498,10 @@
         "202309": "13.14",
         "202310": "13.33",
         "202311": "13.22",
-        "202312": "13.94"
+        "202312": "13.94",
+        "202401": "13.88",
+        "202402": "13.82",
+        "202403": "13.73"
     },
     "quarters": {
         "20011": {
@@ -3412,6 +3415,38 @@
             "eps_avg_yearly": 0,
             "eps_latest_yearly": 0,
             "eps_growth_yearly": 0
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": -1.26,
+            "eps_growth_year": null,
+            "eps_4q": -4.76,
+            "eps_4q_growth_year": null,
+            "roe": -21.84,
+            "roe_4q": -66.57000000000001,
+            "gross_profit": 1645,
+            "gross_margin": 0.58,
+            "gross_margin_4q_avg": -12.86,
+            "net_income": -85869,
+            "net_income_4q": null,
+            "revenue": 281570,
+            "revenue_4q": null,
+            "common_shares": 632952,
+            "book_valuer_per_share": 5.22,
+            "book_valuer_per_share_4q_avg": 6.19,
+            "equity": 346083,
+            "current_ratio": 52.8,
+            "debt_ratio": 81.92,
+            "inventory_turnover_ratio": 0.84,
+            "account_receivable_turnover_ratio": 4.2,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 0.54,
+            "price_fair": 0,
+            "eps_avg_yearly": 0,
+            "eps_latest_yearly": 0,
+            "eps_growth_yearly": 0
         }
     },
     "months": {
@@ -4769,6 +4804,16 @@
             "month": "2023-12",
             "price": "13.94",
             "revenue": 74979
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "13.88",
+            "revenue": 83230
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "13.82",
+            "revenue": 57190
         }
     }
 }

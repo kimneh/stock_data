@@ -6,16 +6,16 @@
         "main_business": "專業特殊應用積體電路(Application Specific IC, ASIC)<br>系統單晶片(System-on-Chip; SoC)設計及製造生產",
         "website_url": "http://www.alchip.com",
         "ceo": "沈翔霖",
-        "pe_ratio": 100,
+        "pe_ratio": 75,
         "report_year_from": 2010,
         "report_year_to": 2023,
         "age": 14,
         "eps_negative_percentage": 8,
         "eps_growth_avg": {
-            "last_all": 9.81,
-            "last_2y": 31.72,
-            "last_4y": 51.43,
-            "last_8y": 11.74,
+            "last_all": 15.67,
+            "last_2y": 51.27,
+            "last_4y": 63.15,
+            "last_8y": 19.07,
             "last_12y": null,
             "last_16y": null,
             "last_20y": null,
@@ -36,8 +36,8 @@
             "at_2020_last_3y": 47.95,
             "at_2021_last_3y": 50.19,
             "at_2022_last_3y": 59.8,
-            "at_2023_last_3y": 46.01,
-            "at_2024_last_3y": 46.01,
+            "at_2023_last_3y": 60.67,
+            "at_2024_last_3y": 60.67,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -55,23 +55,23 @@
             "at_2020_last_all": 0.42,
             "at_2021_last_all": 7.48,
             "at_2022_last_all": 8.91,
-            "at_2023_last_all": 9.81,
-            "at_2024_last_all": 9.81
+            "at_2023_last_all": 15.67,
+            "at_2024_last_all": 15.67
         },
-        "latest_eps": 36.71,
-        "latest_price": 3825,
-        "latest_roe": 17.91,
-        "latest_gross_margin": 23.7,
-        "latest_equity": 17554832,
-        "latest_revenue": 7609996,
-        "latest_gross_profit": 1803682,
-        "latest_net_income": 885057,
-        "latest_debt_ratio": 35.42,
-        "latest_current_ratio": 259.62,
-        "latest_account_receivable_turnover_ratio": 2.54,
+        "latest_eps": 44.74,
+        "latest_price": 3375,
+        "latest_roe": 21.4,
+        "latest_gross_margin": 22.76,
+        "latest_equity": 18034417,
+        "latest_revenue": 9226676,
+        "latest_gross_profit": 2100077,
+        "latest_net_income": 1120168,
+        "latest_debt_ratio": 44.44,
+        "latest_current_ratio": 206.49,
+        "latest_account_receivable_turnover_ratio": 3.57,
         "latest_inventory_turnover_ratio": 0.62,
-        "latest_reinvestment_rate": 12.69,
-        "latest_research_to_sale_ratio": 6.13
+        "latest_reinvestment_rate": 11.05,
+        "latest_research_to_sale_ratio": 4.43
     },
     "eps_dividends": {
         "2001": {
@@ -187,7 +187,7 @@
         "2023": {
             "cash": 12.92,
             "stock": 0,
-            "eps": 30.28
+            "eps": 45.34
         },
         "2024": {
             "cash": 22.71,
@@ -521,7 +521,10 @@
         "202309": "2534.50",
         "202310": "2653.75",
         "202311": "3074.77",
-        "202312": "3353.33"
+        "202312": "3353.33",
+        "202401": "3666.36",
+        "202402": "4067.31",
+        "202403": "3786.07"
     },
     "quarters": {
         "20011": {
@@ -3435,6 +3438,38 @@
             "eps_avg_yearly": 23.31,
             "eps_latest_yearly": 48.12,
             "eps_growth_yearly": 52.07
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": 15.06,
+            "eps_growth_year": 110.68,
+            "eps_4q": 44.74,
+            "eps_4q_growth_year": 75.44,
+            "roe": 6.3,
+            "roe_4q": 21.58,
+            "gross_profit": 2100077,
+            "gross_margin": 22.76,
+            "gross_margin_4q_avg": 22.19,
+            "net_income": 1120168,
+            "net_income_4q": null,
+            "revenue": 9226676,
+            "revenue_4q": null,
+            "common_shares": 743187,
+            "book_valuer_per_share": 242.39,
+            "book_valuer_per_share_4q_avg": 215.05,
+            "equity": 18034417,
+            "current_ratio": 206.49,
+            "debt_ratio": 44.44,
+            "inventory_turnover_ratio": 0.62,
+            "account_receivable_turnover_ratio": 3.57,
+            "reinvestment_rate": 11.05,
+            "research_to_sale_ratio": 4.43,
+            "price_fair": 927.15,
+            "eps_avg_yearly": 26.49,
+            "eps_latest_yearly": 60.24,
+            "eps_growth_yearly": 53.06
         }
     },
     "months": {
@@ -4187,6 +4222,16 @@
             "month": "2023-12",
             "price": "3353.33",
             "revenue": 3510037
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "3666.36",
+            "revenue": 3374338
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "4067.31",
+            "revenue": 3243256
         }
     }
 }

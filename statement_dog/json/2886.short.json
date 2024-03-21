@@ -6,17 +6,17 @@
         "main_business": "金融控股公司業",
         "website_url": "http://www.megaholdings.com.tw",
         "ceo": "蕭玉美",
-        "pe_ratio": 18,
+        "pe_ratio": 17,
         "report_year_from": 2002,
         "report_year_to": 2023,
         "age": 22,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 4.7,
-            "last_2y": 6.07,
-            "last_4y": 1.7,
-            "last_8y": -0.27,
-            "last_12y": 4.7,
+            "last_all": 7.24,
+            "last_2y": 17.09,
+            "last_4y": 8.31,
+            "last_8y": 3.41,
+            "last_12y": 7.24,
             "last_16y": null,
             "last_20y": null,
             "at_2006_last_3y": null,
@@ -36,8 +36,8 @@
             "at_2020_last_3y": 3.32,
             "at_2021_last_3y": 0.51,
             "at_2022_last_3y": -9.16,
-            "at_2023_last_3y": 1.15,
-            "at_2024_last_3y": 1.15,
+            "at_2023_last_3y": 9.42,
+            "at_2024_last_3y": 9.42,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -55,22 +55,22 @@
             "at_2020_last_all": 4.29,
             "at_2021_last_all": 4.15,
             "at_2022_last_all": 1.33,
-            "at_2023_last_all": 4.7,
-            "at_2024_last_all": 4.7
+            "at_2023_last_all": 7.24,
+            "at_2024_last_all": 7.24
         },
-        "latest_eps": 2.26,
-        "latest_price": 39.9,
-        "latest_roe": 10.37,
+        "latest_eps": 2.34,
+        "latest_price": 40.15,
+        "latest_roe": 10.46,
         "latest_gross_margin": null,
-        "latest_equity": 318370993,
-        "latest_revenue": 18893626,
+        "latest_equity": 335811088,
+        "latest_revenue": 19666994,
         "latest_gross_profit": null,
-        "latest_net_income": 8260995,
-        "latest_debt_ratio": 92.5,
+        "latest_net_income": 6219171,
+        "latest_debt_ratio": 92.36,
         "latest_current_ratio": null,
         "latest_account_receivable_turnover_ratio": null,
         "latest_inventory_turnover_ratio": null,
-        "latest_reinvestment_rate": 1.36,
+        "latest_reinvestment_rate": 2.56,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -187,7 +187,7 @@
         "2023": {
             "cash": 1.24,
             "stock": 0.08,
-            "eps": 1.93
+            "eps": 2.37
         }
     },
     "dividends": {
@@ -556,7 +556,10 @@
         "202309": "37.00",
         "202310": "37.66",
         "202311": "38.90",
-        "202312": "39.00"
+        "202312": "39.00",
+        "202401": "38.48",
+        "202402": "38.18",
+        "202403": "39.85"
     },
     "quarters": {
         "20011": {
@@ -3470,6 +3473,38 @@
             "eps_avg_yearly": 1.86,
             "eps_latest_yearly": 2.36,
             "eps_growth_yearly": 120.51
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": 0.44,
+            "eps_growth_year": 30.69,
+            "eps_4q": 2.34,
+            "eps_4q_growth_year": 78.13,
+            "roe": 1.9,
+            "roe_4q": 10.57,
+            "gross_profit": null,
+            "gross_margin": null,
+            "gross_margin_4q_avg": 0,
+            "net_income": 6219171,
+            "net_income_4q": null,
+            "revenue": 19666994,
+            "revenue_4q": null,
+            "common_shares": 140513382,
+            "book_valuer_per_share": 23.83,
+            "book_valuer_per_share_4q_avg": 22.86,
+            "equity": 335811088,
+            "current_ratio": null,
+            "debt_ratio": 92.36,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": null,
+            "reinvestment_rate": 2.56,
+            "research_to_sale_ratio": null,
+            "price_fair": 65.01,
+            "eps_avg_yearly": 1.86,
+            "eps_latest_yearly": 1.76,
+            "eps_growth_yearly": 117.86
         }
     },
     "months": {
@@ -4787,6 +4822,16 @@
             "month": "2023-12",
             "price": "39.00",
             "revenue": 7094692
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "38.48",
+            "revenue": 7914405
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "38.18",
+            "revenue": 6852145
         }
     }
 }

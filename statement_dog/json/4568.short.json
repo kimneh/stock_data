@@ -6,7 +6,7 @@
         "main_business": "氣泵、電磁閥、精密儀器及醫療器材等生產及銷售",
         "website_url": "https://www.koge.com/?nclang=t",
         "ceo": "潘建成",
-        "pe_ratio": 87,
+        "pe_ratio": 0,
         "report_year_from": 2015,
         "report_year_to": 2023,
         "age": 9,
@@ -58,20 +58,20 @@
             "at_2023_last_all": -18.68,
             "at_2024_last_all": -18.68
         },
-        "latest_eps": 0.65,
-        "latest_price": 56.8,
-        "latest_roe": 1.81,
-        "latest_gross_margin": 31.02,
-        "latest_equity": 1100901,
-        "latest_revenue": 322669,
-        "latest_gross_profit": 100088,
-        "latest_net_income": 29092,
-        "latest_debt_ratio": 33.3,
-        "latest_current_ratio": 269.44,
-        "latest_account_receivable_turnover_ratio": 1.09,
-        "latest_inventory_turnover_ratio": 1.94,
-        "latest_reinvestment_rate": 21.93,
-        "latest_research_to_sale_ratio": 8.68
+        "latest_eps": 0,
+        "latest_price": 57,
+        "latest_roe": 0,
+        "latest_gross_margin": null,
+        "latest_equity": null,
+        "latest_revenue": null,
+        "latest_gross_profit": null,
+        "latest_net_income": null,
+        "latest_debt_ratio": null,
+        "latest_current_ratio": 336.83,
+        "latest_account_receivable_turnover_ratio": null,
+        "latest_inventory_turnover_ratio": null,
+        "latest_reinvestment_rate": null,
+        "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
         "2001": {
@@ -188,6 +188,11 @@
             "cash": 3.8,
             "stock": 0,
             "eps": 0.99
+        },
+        "2024": {
+            "cash": 2.5,
+            "stock": 0,
+            "eps": 0
         }
     },
     "dividends": {
@@ -221,6 +226,10 @@
         },
         "2023-05-19": {
             "cash": 3.8,
+            "stock": 0
+        },
+        "2024-03-14": {
+            "cash": 2.5,
             "stock": 0
         }
     },
@@ -3414,6 +3423,38 @@
             "eps_avg_yearly": 5.19,
             "eps_latest_yearly": 3.68,
             "eps_growth_yearly": 134.93
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": null,
+            "eps_growth_year": null,
+            "eps_4q": null,
+            "eps_4q_growth_year": null,
+            "roe": null,
+            "roe_4q": 2.95,
+            "gross_profit": null,
+            "gross_margin": null,
+            "gross_margin_4q_avg": 23,
+            "net_income": null,
+            "net_income_4q": null,
+            "revenue": null,
+            "revenue_4q": null,
+            "common_shares": null,
+            "book_valuer_per_share": 33.9,
+            "book_valuer_per_share_4q_avg": 33.52,
+            "equity": null,
+            "current_ratio": 336.83,
+            "debt_ratio": null,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": null,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": null,
+            "price_fair": 188.18,
+            "eps_avg_yearly": 5.38,
+            "eps_latest_yearly": 3.68,
+            "eps_growth_yearly": 161.52
         }
     },
     "months": {

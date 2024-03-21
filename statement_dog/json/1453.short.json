@@ -6,7 +6,7 @@
         "main_business": "營建<br>紡織",
         "website_url": "http://www.tajiang.com.tw",
         "ceo": "林靜怡",
-        "pe_ratio": 100,
+        "pe_ratio": 26,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 23,
@@ -58,19 +58,19 @@
             "at_2023_last_all": -58.01,
             "at_2024_last_all": -58.01
         },
-        "latest_eps": 0.03,
-        "latest_price": 14.8,
-        "latest_roe": 0.25,
-        "latest_gross_margin": 26.47,
-        "latest_equity": 1391347,
-        "latest_revenue": 170,
-        "latest_gross_profit": 45,
-        "latest_net_income": -8234,
-        "latest_debt_ratio": 34.73,
-        "latest_current_ratio": 333.45,
+        "latest_eps": 0.57,
+        "latest_price": 14.65,
+        "latest_roe": 4.29,
+        "latest_gross_margin": 31.85,
+        "latest_equity": 1447769,
+        "latest_revenue": 203359,
+        "latest_gross_profit": 64778,
+        "latest_net_income": 56422,
+        "latest_debt_ratio": 30.09,
+        "latest_current_ratio": 405.62,
         "latest_account_receivable_turnover_ratio": null,
-        "latest_inventory_turnover_ratio": 0,
-        "latest_reinvestment_rate": -79.06,
+        "latest_inventory_turnover_ratio": 0.11,
+        "latest_reinvestment_rate": -23.14,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -212,7 +212,12 @@
         "2023": {
             "cash": 0,
             "stock": 0.3,
-            "eps": 0.04
+            "eps": 0.57
+        },
+        "2024": {
+            "cash": 0,
+            "stock": 0.3,
+            "eps": 0
         }
     },
     "dividends": {
@@ -269,6 +274,10 @@
             "stock": 0.3
         },
         "2023-03-22": {
+            "cash": 0,
+            "stock": 0.3
+        },
+        "2024-03-13": {
             "cash": 0,
             "stock": 0.3
         }
@@ -549,7 +558,10 @@
         "202309": "13.24",
         "202310": "13.89",
         "202311": "14.23",
-        "202312": "15.03"
+        "202312": "15.03",
+        "202401": "14.72",
+        "202402": "14.69",
+        "202403": "14.97"
     },
     "quarters": {
         "20011": {
@@ -3463,6 +3475,38 @@
             "eps_avg_yearly": 1.3,
             "eps_latest_yearly": 1.44,
             "eps_growth_yearly": -185.1
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": 0.53,
+            "eps_growth_year": null,
+            "eps_4q": 0.57,
+            "eps_4q_growth_year": null,
+            "roe": 3.97,
+            "roe_4q": 4.29,
+            "gross_profit": 64778,
+            "gross_margin": 31.85,
+            "gross_margin_4q_avg": 64.58,
+            "net_income": 56422,
+            "net_income_4q": null,
+            "revenue": 203359,
+            "revenue_4q": null,
+            "common_shares": 1067425,
+            "book_valuer_per_share": 13.44,
+            "book_valuer_per_share_4q_avg": 13.25,
+            "equity": 1447769,
+            "current_ratio": 405.62,
+            "debt_ratio": 30.09,
+            "inventory_turnover_ratio": 0.11,
+            "account_receivable_turnover_ratio": null,
+            "reinvestment_rate": -23.14,
+            "research_to_sale_ratio": null,
+            "price_fair": 3.9,
+            "eps_avg_yearly": 1.3,
+            "eps_latest_yearly": 1.44,
+            "eps_growth_yearly": -185.1
         }
     },
     "months": {
@@ -4820,6 +4864,16 @@
             "month": "2023-12",
             "price": "15.03",
             "revenue": 203129
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "14.72",
+            "revenue": 115
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "14.69",
+            "revenue": 115
         }
     }
 }

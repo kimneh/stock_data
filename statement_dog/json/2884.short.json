@@ -6,17 +6,17 @@
         "main_business": "金融控股公司業",
         "website_url": "http://www.esunfhc.com.tw",
         "ceo": "陳茂欽",
-        "pe_ratio": 20,
+        "pe_ratio": 19,
         "report_year_from": 2002,
         "report_year_to": 2023,
         "age": 22,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 2.14,
-            "last_2y": -9.05,
-            "last_4y": -6.81,
-            "last_8y": -3.81,
-            "last_12y": 2.14,
+            "last_all": 4.68,
+            "last_2y": 1.96,
+            "last_4y": -0.2,
+            "last_8y": -0.14,
+            "last_12y": 4.68,
             "last_16y": null,
             "last_20y": null,
             "at_2006_last_3y": null,
@@ -36,8 +36,8 @@
             "at_2020_last_3y": -0.92,
             "at_2021_last_3y": 1.14,
             "at_2022_last_3y": -6.95,
-            "at_2023_last_3y": -11.16,
-            "at_2024_last_3y": -11.16,
+            "at_2023_last_3y": -2.91,
+            "at_2024_last_3y": -2.91,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -55,22 +55,22 @@
             "at_2020_last_all": 5.5,
             "at_2021_last_all": 5.75,
             "at_2022_last_all": 2.84,
-            "at_2023_last_all": 2.14,
-            "at_2024_last_all": 2.14
+            "at_2023_last_all": 4.68,
+            "at_2024_last_all": 4.68
         },
-        "latest_eps": 1.28,
-        "latest_price": 25.3,
-        "latest_roe": 9.66,
+        "latest_eps": 1.39,
+        "latest_price": 26.5,
+        "latest_roe": 10.03,
         "latest_gross_margin": null,
-        "latest_equity": 228695036,
-        "latest_revenue": 16877187,
+        "latest_equity": 236423847,
+        "latest_revenue": 18514087,
         "latest_gross_profit": null,
-        "latest_net_income": 5342137,
-        "latest_debt_ratio": 93.63,
+        "latest_net_income": 5855761,
+        "latest_debt_ratio": 93.5,
         "latest_current_ratio": null,
         "latest_account_receivable_turnover_ratio": null,
         "latest_inventory_turnover_ratio": null,
-        "latest_reinvestment_rate": 1.94,
+        "latest_reinvestment_rate": 1.73,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -187,7 +187,12 @@
         "2023": {
             "cash": 0.19,
             "stock": 0.38,
-            "eps": 1.05
+            "eps": 1.42
+        },
+        "2024": {
+            "cash": 1.2,
+            "stock": 0.2,
+            "eps": 0
         }
     },
     "dividends": {
@@ -270,6 +275,10 @@
         "2023-08-30": {
             "cash": 0.19,
             "stock": 0.38
+        },
+        "2024-03-15": {
+            "cash": 1.2,
+            "stock": 0.2
         }
     },
     "prices": {
@@ -548,7 +557,10 @@
         "202309": "24.33",
         "202310": "24.19",
         "202311": "24.93",
-        "202312": "25.53"
+        "202312": "25.53",
+        "202401": "25.11",
+        "202402": "24.72",
+        "202403": "25.77"
     },
     "quarters": {
         "20011": {
@@ -3462,6 +3474,38 @@
             "eps_avg_yearly": 1.4,
             "eps_latest_yearly": 1.36,
             "eps_growth_yearly": 4.91
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": 0.37,
+            "eps_growth_year": 29.56,
+            "eps_4q": 1.39,
+            "eps_4q_growth_year": 25.64,
+            "roe": 2.52,
+            "roe_4q": 10.01,
+            "gross_profit": null,
+            "gross_margin": null,
+            "gross_margin_4q_avg": 0,
+            "net_income": 5855761,
+            "net_income_4q": null,
+            "revenue": 18514087,
+            "revenue_4q": null,
+            "common_shares": 156640000,
+            "book_valuer_per_share": 15.08,
+            "book_valuer_per_share_4q_avg": 14.69,
+            "equity": 236423847,
+            "current_ratio": null,
+            "debt_ratio": 93.5,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": null,
+            "reinvestment_rate": 1.73,
+            "research_to_sale_ratio": null,
+            "price_fair": 31.87,
+            "eps_avg_yearly": 1.4,
+            "eps_latest_yearly": 1.48,
+            "eps_growth_yearly": 12.85
         }
     },
     "months": {
@@ -4784,6 +4828,16 @@
             "month": "2023-12",
             "price": "25.53",
             "revenue": 5922452
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "25.11",
+            "revenue": 6682255
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "24.72",
+            "revenue": 4599860
         }
     }
 }

@@ -1,0 +1,507 @@
+{
+    "PCF": {
+        "fundid": "1164",
+        "fundname": "元大台灣高股息低波動ETF基金",
+        "fullname": "元大台灣高股息低波動ETF證券投資信託基金",
+        "ename": "Yuanta Taiwan High Dividend Low Volatility ETF",
+        "markcd": "00713",
+        "trandate": "20240311",
+        "totalav": 57554959066,
+        "osunit": 1090012000,
+        "nav": 52.8,
+        "baseunit": 500000,
+        "estcvalue": 26401067,
+        "estdvalue": -2507532,
+        "issuesdiff": 2000000,
+        "cashdiff": 0,
+        "preallot": 29050000,
+        "allot": 26432468,
+        "anndate": "20240312",
+        "upddate": "2024-03-11 16:37:46",
+        "preunit": 1090012000,
+        "predate": "20240311",
+        "allot_charge_fee": 0,
+        "redem_charge_fee": 0,
+        "Beneficiary": {
+            "doc_ym": "20240229",
+            "bf_cnt_a": 221469,
+            "upd_date": "2024-03-01T08:47:15"
+        }
+    },
+    "InKind": {
+        "FundComposition": null
+    },
+    "Cash": {
+        "TranDate": "20240311",
+        "CashPosition": [],
+        "MMF": [],
+        "Margin": [
+            {
+                "code": null,
+                "name": "保證金",
+                "ename": "Margin",
+                "crncy": "NTD",
+                "exrate": 1,
+                "rto": 0,
+                "amt": 416748877,
+                "trandate": "20240311"
+            }
+        ],
+        "RP": [],
+        "ForwardExchange": [],
+        "Currency": [
+            {
+                "fundId": "1164",
+                "cDate": "20240311",
+                "crncy": "NTD",
+                "endRate": 31.467
+            }
+        ],
+        "CouponRate": [],
+        "InvestArea": [
+            {
+                "TRAN_DATE": "20240311",
+                "FUND_ID": "1164",
+                "name": "台灣",
+                "ename": "TAIWAN",
+                "HOLD_RTO": 97.93,
+                "CNT": 50
+            },
+            {
+                "TRAN_DATE": "20240311",
+                "FUND_ID": "1164",
+                "name": "現金",
+                "ename": "Cash",
+                "HOLD_RTO": 2.07,
+                "CNT": 0
+            }
+        ],
+        "CreditRating": []
+    },
+    "FundWeights": {
+        "Summary": {
+            "code": "1164",
+            "name": null,
+            "stkvalues": 56365397132,
+            "futvalues": 1206619200,
+            "etfvalues": 0,
+            "bndvalues": 0,
+            "fundsize": 57554959066
+        },
+        "StockWeights": [
+            {
+                "code": "1216",
+                "ym": null,
+                "name": "統一",
+                "ename": "UNI-PRESIDENT ENTERPRISES CORP.",
+                "weights": 9.38,
+                "qty": 70455000
+            },
+            {
+                "code": "3045",
+                "ym": null,
+                "name": "台灣大",
+                "ename": "TAIWAN  MOBILE  CO. LTD.",
+                "weights": 6.46,
+                "qty": 37623000
+            },
+            {
+                "code": "4904",
+                "ym": null,
+                "name": "遠傳",
+                "ename": "Far EasTone Telecommunications Co. Ltd.",
+                "weights": 5.81,
+                "qty": 42609000
+            },
+            {
+                "code": "2474",
+                "ym": null,
+                "name": "可成",
+                "ename": "CATCHER TECHNOLOGY CO. LTD.",
+                "weights": 4.6,
+                "qty": 13305000
+            },
+            {
+                "code": "2324",
+                "ym": null,
+                "name": "仁寶",
+                "ename": "Compal Electronics Inc.",
+                "weights": 4.58,
+                "qty": 71412000
+            },
+            {
+                "code": "2317",
+                "ym": null,
+                "name": "鴻海",
+                "ename": "HON HAI PRECISION IND. CO. LTD.",
+                "weights": 3.79,
+                "qty": 19919000
+            },
+            {
+                "code": "2912",
+                "ym": null,
+                "name": "統一超",
+                "ename": "PRESIDENT CHAIN STORE CORPORATION",
+                "weights": 3.67,
+                "qty": 7874000
+            },
+            {
+                "code": "6176",
+                "ym": null,
+                "name": "瑞儀",
+                "ename": "RADIANT OPTO-ELECTRONICS CORP.",
+                "weights": 2.95,
+                "qty": 10127000
+            },
+            {
+                "code": "9939",
+                "ym": null,
+                "name": "宏全",
+                "ename": "Taiwan Hon Chuan Enterprise Co. Ltd.",
+                "weights": 2.6,
+                "qty": 10247000
+            },
+            {
+                "code": "9904",
+                "ym": null,
+                "name": "寶成",
+                "ename": "Pou Chen Corporation",
+                "weights": 2.49,
+                "qty": 46012000
+            },
+            {
+                "code": "2211",
+                "ym": null,
+                "name": "長榮鋼",
+                "ename": "EVERGREEN STEEL CORP.",
+                "weights": 2.38,
+                "qty": 11219000
+            },
+            {
+                "code": "2845",
+                "ym": null,
+                "name": "遠東銀",
+                "ename": "FAR EASTERN INTERNATIONAL BANK",
+                "weights": 2.21,
+                "qty": 90579000
+            },
+            {
+                "code": "4766",
+                "ym": null,
+                "name": "南寶",
+                "ename": "NAN PAO RESINS CHEMICAL CO. LTD.",
+                "weights": 2.1,
+                "qty": 4131000
+            },
+            {
+                "code": "2607",
+                "ym": null,
+                "name": "榮運",
+                "ename": "EVERGREEN INTERNATIONAL STORAGE & TRANSPORT",
+                "weights": 2.09,
+                "qty": 35066000
+            },
+            {
+                "code": "2903",
+                "ym": null,
+                "name": "遠百",
+                "ename": "Far Eastern Department Stores Ltd.",
+                "weights": 1.97,
+                "qty": 45224000
+            },
+            {
+                "code": "6239",
+                "ym": null,
+                "name": "力成",
+                "ename": "Powertech Technology Inc.",
+                "weights": 1.89,
+                "qty": 6406000
+            },
+            {
+                "code": "1215",
+                "ym": null,
+                "name": "卜蜂",
+                "ename": "CHAROEN POKPH ENTERPRISE(TAIWAN) CO. LTD.",
+                "weights": 1.85,
+                "qty": 10726000
+            },
+            {
+                "code": "2006",
+                "ym": null,
+                "name": "東和鋼鐵",
+                "ename": "Tung Ho Steel Enterprise Corp.",
+                "weights": 1.72,
+                "qty": 12766000
+            },
+            {
+                "code": "2454",
+                "ym": null,
+                "name": "聯發科",
+                "ename": "MediaTek Inc.",
+                "weights": 1.68,
+                "qty": 787000
+            },
+            {
+                "code": "2301",
+                "ym": null,
+                "name": "光寶科",
+                "ename": "LITE-ON TECHNOLOGY CORP.",
+                "weights": 1.63,
+                "qty": 8263000
+            },
+            {
+                "code": "2504",
+                "ym": null,
+                "name": "國產",
+                "ename": "Goldsun Building Materials Co. Ltd.",
+                "weights": 1.53,
+                "qty": 24320000
+            },
+            {
+                "code": "2451",
+                "ym": null,
+                "name": "創見",
+                "ename": "Transcend Information Inc.",
+                "weights": 1.46,
+                "qty": 10059000
+            },
+            {
+                "code": "2303",
+                "ym": null,
+                "name": "聯電",
+                "ename": "UNITED MICROELECTRONICS CORP.",
+                "weights": 1.4,
+                "qty": 15615000
+            },
+            {
+                "code": "9917",
+                "ym": null,
+                "name": "中保科",
+                "ename": "TAIWAN SECOM CO.LTD.",
+                "weights": 1.34,
+                "qty": 6368000
+            },
+            {
+                "code": "6412",
+                "ym": null,
+                "name": "群電",
+                "ename": "Chicony Power Technology Co. Ltd.",
+                "weights": 1.25,
+                "qty": 4328000
+            },
+            {
+                "code": "2385",
+                "ym": null,
+                "name": "群光",
+                "ename": "CHICONY ELECTRONICS CO. LTD.",
+                "weights": 1.23,
+                "qty": 3224000
+            },
+            {
+                "code": "1723",
+                "ym": null,
+                "name": "中碳",
+                "ename": "CHINA STEEL CHEMICAL CO.",
+                "weights": 1.19,
+                "qty": 6128000
+            },
+            {
+                "code": "2449",
+                "ym": null,
+                "name": "京元電子",
+                "ename": "KING YUAN ELECTRONICS CO. LTD.",
+                "weights": 1.17,
+                "qty": 6212000
+            },
+            {
+                "code": "3711",
+                "ym": null,
+                "name": "日月光投控",
+                "ename": "ASE Technology Holding Co. Ltd.",
+                "weights": 1.11,
+                "qty": 4162000
+            },
+            {
+                "code": "6691",
+                "ym": null,
+                "name": "洋基工程",
+                "ename": "YANKEY ENGINEERING Co. LTD.",
+                "weights": 1.1,
+                "qty": 1633000
+            },
+            {
+                "code": "8112",
+                "ym": null,
+                "name": "至上",
+                "ename": "Supreme Electronics Co. Ltd.",
+                "weights": 1.1,
+                "qty": 9201000
+            },
+            {
+                "code": "2247",
+                "ym": null,
+                "name": "汎德永業",
+                "ename": "Pan German Universal Motors Ltd.",
+                "weights": 1.06,
+                "qty": 2023000
+            },
+            {
+                "code": "4915",
+                "ym": null,
+                "name": "致伸",
+                "ename": "Primax Electronics Ltd.",
+                "weights": 1.06,
+                "qty": 8212000
+            },
+            {
+                "code": "5876",
+                "ym": null,
+                "name": "上海商銀",
+                "ename": "THE SHANGHAI COMMERCIAL & SAVINGS BANK LTD.",
+                "weights": 1.06,
+                "qty": 13698000
+            },
+            {
+                "code": "4938",
+                "ym": null,
+                "name": "和碩",
+                "ename": "Pegatron Corporation",
+                "weights": 1.03,
+                "qty": 6971000
+            },
+            {
+                "code": "5434",
+                "ym": null,
+                "name": "崇越",
+                "ename": "TOPCO SCIENTIFIC CO.LTD.",
+                "weights": 1.03,
+                "qty": 2810678
+            },
+            {
+                "code": "2885",
+                "ym": null,
+                "name": "元大金",
+                "ename": "Yuanta Financial Holding Co. Ltd",
+                "weights": 0.98,
+                "qty": 19781000
+            },
+            {
+                "code": "2015",
+                "ym": null,
+                "name": "豐興",
+                "ename": "FENG HSIN STEEL CO.LTD",
+                "weights": 0.97,
+                "qty": 7792000
+            },
+            {
+                "code": "6285",
+                "ym": null,
+                "name": "啟碁",
+                "ename": "Wistron NeWeb Corporation",
+                "weights": 0.97,
+                "qty": 3895218
+            },
+            {
+                "code": "1477",
+                "ym": null,
+                "name": "聚陽",
+                "ename": "Makalot Industrial Co. Ltd.",
+                "weights": 0.96,
+                "qty": 1506000
+            },
+            {
+                "code": "3044",
+                "ym": null,
+                "name": "健鼎",
+                "ename": "Tripod Technology Corporation",
+                "weights": 0.96,
+                "qty": 2682000
+            },
+            {
+                "code": "6214",
+                "ym": null,
+                "name": "精誠",
+                "ename": "SYSTEX  CORPORATION",
+                "weights": 0.96,
+                "qty": 4852000
+            },
+            {
+                "code": "6257",
+                "ym": null,
+                "name": "矽格",
+                "ename": "SIGURD MICROELECTRONICS CORP.",
+                "weights": 0.96,
+                "qty": 8061000
+            },
+            {
+                "code": "6278",
+                "ym": null,
+                "name": "台表科",
+                "ename": "Taiwan Surface Mounting Technology Corp.",
+                "weights": 0.94,
+                "qty": 5286000
+            },
+            {
+                "code": "3596",
+                "ym": null,
+                "name": "智易",
+                "ename": "Arcadyan Technology Corporation",
+                "weights": 0.93,
+                "qty": 3146000
+            },
+            {
+                "code": "3042",
+                "ym": null,
+                "name": "晶技",
+                "ename": "TXC CORPORATION",
+                "weights": 0.92,
+                "qty": 4994000
+            },
+            {
+                "code": "6269",
+                "ym": null,
+                "name": "台郡",
+                "ename": "FLEXIUM INTERCONNECT INC",
+                "weights": 0.89,
+                "qty": 5871000
+            },
+            {
+                "code": "4958",
+                "ym": null,
+                "name": "臻鼎-KY",
+                "ename": "Zhen Ding Technology Holding Limited",
+                "weights": 0.87,
+                "qty": 4969000
+            },
+            {
+                "code": "5469",
+                "ym": null,
+                "name": "瀚宇博",
+                "ename": "HannStar Board Corp.",
+                "weights": 0.84,
+                "qty": 9055000
+            },
+            {
+                "code": "6191",
+                "ym": null,
+                "name": "精成科",
+                "ename": "GLOBAL BRS MANUFACTURE LTD.",
+                "weights": 0.82,
+                "qty": 7454000
+            }
+        ],
+        "FutureWeights": [
+            {
+                "code": "TX",
+                "ym": "202403",
+                "name": "臺股期貨",
+                "ename": "TAIEX FUTURE",
+                "weights": 2.1,
+                "qty": 306
+            }
+        ],
+        "ETFWeights": [],
+        "BondWeights": []
+    },
+    "Memo": null
+}

@@ -1,0 +1,309 @@
+{
+    "PCF": {
+        "fundid": "1176",
+        "fundname": "元大中國國債及政策性金融債3至5年期債券ETF基金",
+        "fullname": "元大多元債券ETF傘型證券投資信託基金之元大中國國債及政策性金融債3至5年期債券ETF證券投資信託基金",
+        "ename": "Yuanta China Treasury + Policy Bank 3-5 Year Bond ETF",
+        "markcd": "00721B",
+        "trandate": "20240312",
+        "totalav": 211528957,
+        "osunit": 4622000,
+        "nav": 45.7657,
+        "baseunit": 500000,
+        "estcvalue": 22882838,
+        "estdvalue": -1115297,
+        "issuesdiff": 0,
+        "cashdiff": 0,
+        "preallot": 24040000,
+        "allot": 22894703,
+        "anndate": "20240314",
+        "upddate": "2024-03-13 14:13:26",
+        "preunit": 4622000,
+        "predate": "20240313",
+        "allot_charge_fee": 0,
+        "redem_charge_fee": 0,
+        "Beneficiary": {
+            "doc_ym": "20240229",
+            "bf_cnt_a": 419,
+            "upd_date": "2024-03-01T08:47:15"
+        }
+    },
+    "InKind": {
+        "FundComposition": null
+    },
+    "Cash": {
+        "TranDate": "20240312",
+        "CashPosition": [
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "CNH",
+                "exrate": 0,
+                "rto": 0.485,
+                "amt": 1025988.11,
+                "trandate": "20240312"
+            },
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": 0.0134,
+                "amt": 28333,
+                "trandate": "20240312"
+            },
+            {
+                "code": "1220",
+                "name": "應收利息",
+                "ename": "INTEREST RECEIVEABLES",
+                "crncy": "CNH",
+                "exrate": 0,
+                "rto": 0.3518,
+                "amt": 744176.76,
+                "trandate": "20240312"
+            }
+        ],
+        "MMF": [],
+        "Margin": [],
+        "RP": [],
+        "ForwardExchange": [],
+        "Currency": [
+            {
+                "fundId": "1176",
+                "cDate": "20240312",
+                "crncy": "NTD",
+                "endRate": 31.416
+            },
+            {
+                "fundId": "1176",
+                "cDate": "20240312",
+                "crncy": "KRW",
+                "endRate": 1308.97
+            },
+            {
+                "fundId": "1176",
+                "cDate": "20240312",
+                "crncy": "JPY",
+                "endRate": 147.33
+            },
+            {
+                "fundId": "1176",
+                "cDate": "20240312",
+                "crncy": "HKD",
+                "endRate": 7.8234
+            },
+            {
+                "fundId": "1176",
+                "cDate": "20240312",
+                "crncy": "EUR",
+                "endRate": 0.9147
+            },
+            {
+                "fundId": "1176",
+                "cDate": "20240312",
+                "crncy": "CNY",
+                "endRate": 7.1749
+            },
+            {
+                "fundId": "1176",
+                "cDate": "20240312",
+                "crncy": "CNH",
+                "endRate": 7.1795
+            }
+        ],
+        "CouponRate": [
+            {
+                "ConstituentCount": 54,
+                "CurrentWeight": 100,
+                "YieldtoMaturity": 2.25,
+                "avgCouponRate": 3.17,
+                "EffectiveDuration": 3.66,
+                "YearstoMaturity": 3.96,
+                "avgOASWorst": 0
+            },
+            {
+                "ConstituentCount": 16,
+                "CurrentWeight": 99.34,
+                "YieldtoMaturity": 2.29,
+                "avgCouponRate": 3.02,
+                "EffectiveDuration": 3.72,
+                "YearstoMaturity": 3.99,
+                "avgOASWorst": 0
+            }
+        ],
+        "InvestArea": [
+            {
+                "TRAN_DATE": "20240312",
+                "FUND_ID": "1176",
+                "name": "中國",
+                "ename": "CHINA",
+                "HOLD_RTO": 97.8,
+                "CNT": 16
+            },
+            {
+                "TRAN_DATE": "20240312",
+                "FUND_ID": "1176",
+                "name": "現金",
+                "ename": "Cash",
+                "HOLD_RTO": 2.2,
+                "CNT": 0
+            }
+        ],
+        "CreditRating": [
+            {
+                "FUND_ID": "1176",
+                "NAV_DATE": "20240312",
+                "CREDIT_NAME": "A",
+                "CREDIT_RATIO": 97.8,
+                "CREDIT_COUNT": 16
+            }
+        ]
+    },
+    "FundWeights": {
+        "Summary": {
+            "code": "1176",
+            "name": null,
+            "stkvalues": 0,
+            "futvalues": 0,
+            "etfvalues": 0,
+            "bndvalues": 210140530.18,
+            "fundsize": 211528957
+        },
+        "StockWeights": [],
+        "FutureWeights": [],
+        "ETFWeights": [],
+        "BondWeights": [
+            {
+                "code": "AW4371570",
+                "name": "CHINA DEVELOPMENT BANK 3.48% 01/08/2029",
+                "ename": "CHINA DEVELOPMENT BANK 3.48% 01/08/2029",
+                "weights": 8.75,
+                "FACE_AMT": 4000000,
+                "qty": 4228321.31
+            },
+            {
+                "code": "ZJ6881099",
+                "name": "CHINA GOVERNMENT BOND 2.4% 07/15/2028",
+                "ename": "CHINA GOVERNMENT BOND 2.4% 07/15/2028",
+                "weights": 8.45,
+                "FACE_AMT": 4000000,
+                "qty": 4087115.41
+            },
+            {
+                "code": "AS5338536",
+                "name": "AGRICUL DEV BANK CHINA 4.65% 05/11/2028",
+                "ename": "AGRICUL DEV BANK CHINA 4.65% 05/11/2028",
+                "weights": 7.01,
+                "FACE_AMT": 3000000,
+                "qty": 3386442.3
+            },
+            {
+                "code": "BQ8760572",
+                "name": "CHINA DEVELOPMENT BANK 3.09% 08/09/2028",
+                "ename": "CHINA DEVELOPMENT BANK 3.09% 08/09/2028",
+                "weights": 6.52,
+                "FACE_AMT": 3000000,
+                "qty": 3150001.48
+            },
+            {
+                "code": "BN2975017",
+                "name": "CHINA DEVELOPMENT BANK 3.4% 01/08/2028",
+                "ename": "CHINA DEVELOPMENT BANK 3.4% 01/08/2028",
+                "weights": 6.49,
+                "FACE_AMT": 3000000,
+                "qty": 3139494.75
+            },
+            {
+                "code": "BN3336797",
+                "name": "EXPORT-IMPORT BANK CHINA 3.4% 01/11/2028",
+                "ename": "EXPORT-IMPORT BANK CHINA 3.4% 01/11/2028",
+                "weights": 6.48,
+                "FACE_AMT": 3000000,
+                "qty": 3132958.69
+            },
+            {
+                "code": "BR8688722",
+                "name": "CHINA GOVERNMENT BOND 2.91% 10/14/2028",
+                "ename": "CHINA GOVERNMENT BOND 2.91% 10/14/2028",
+                "weights": 6.46,
+                "FACE_AMT": 3000000,
+                "qty": 3123137.21
+            },
+            {
+                "code": "BX2433957",
+                "name": "EXPORT-IMPORT BANK CHINA 2.82% 06/17/2027",
+                "ename": "EXPORT-IMPORT BANK CHINA 2.82% 06/17/2027",
+                "weights": 6.44,
+                "FACE_AMT": 3000000,
+                "qty": 3110829.84
+            },
+            {
+                "code": "BX1801014",
+                "name": "CHINA DEVELOPMENT BANK 2.69% 06/16/2027",
+                "ename": "CHINA DEVELOPMENT BANK 2.69% 06/16/2027",
+                "weights": 6.41,
+                "FACE_AMT": 3000000,
+                "qty": 3096533.28
+            },
+            {
+                "code": "ZK8568667",
+                "name": "AGRICUL DEV BANK CHINA 2.63% 06/07/2028",
+                "ename": "AGRICUL DEV BANK CHINA 2.63% 06/07/2028",
+                "weights": 6.39,
+                "FACE_AMT": 3000000,
+                "qty": 3090270.66
+            },
+            {
+                "code": "ZK7587544",
+                "name": "CHINA DEVELOPMENT BANK 2.52% 05/25/2028",
+                "ename": "CHINA DEVELOPMENT BANK 2.52% 05/25/2028",
+                "weights": 6.38,
+                "FACE_AMT": 3000000,
+                "qty": 3083441.31
+            },
+            {
+                "code": "ZM3226382",
+                "name": "CHINA DEVELOPMENT BANK 2.73% 01/11/2028",
+                "ename": "CHINA DEVELOPMENT BANK 2.73% 01/11/2028",
+                "weights": 6.32,
+                "FACE_AMT": 3000000,
+                "qty": 3056923.77
+            },
+            {
+                "code": "AN0889195",
+                "name": "CHINA DEVELOPMENT BANK 4.04% 04/10/2027",
+                "ename": "CHINA DEVELOPMENT BANK 4.04% 04/10/2027",
+                "weights": 4.51,
+                "FACE_AMT": 2000000,
+                "qty": 2177858.58
+            },
+            {
+                "code": "ZK1346822",
+                "name": "CHINA GOVERNMENT BOND 2.62% 04/15/2028",
+                "ename": "CHINA GOVERNMENT BOND 2.62% 04/15/2028",
+                "weights": 4.29,
+                "FACE_AMT": 2000000,
+                "qty": 2074675.41
+            },
+            {
+                "code": "ZM7690187",
+                "name": "EXPORT-IMPORT BANK CHINA 2.87% 02/06/2028",
+                "ename": "EXPORT-IMPORT BANK CHINA 2.87% 02/06/2028",
+                "weights": 4.23,
+                "FACE_AMT": 2000000,
+                "qty": 2043925.9
+            },
+            {
+                "code": "BY5479385",
+                "name": "AGRICUL DEV BANK CHINA 2.5% 08/24/2027",
+                "ename": "AGRICUL DEV BANK CHINA 2.5% 08/24/2027",
+                "weights": 4.22,
+                "FACE_AMT": 2000000,
+                "qty": 2041495.63
+            }
+        ]
+    },
+    "Memo": null
+}

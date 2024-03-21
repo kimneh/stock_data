@@ -6,7 +6,7 @@
         "main_business": "電腦主機及儲存設備<br>網通設備<br>工程收入",
         "website_url": "http://www.azion.com.tw",
         "ceo": "廖文鐸",
-        "pe_ratio": 18,
+        "pe_ratio": 0,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 23,
@@ -58,20 +58,20 @@
             "at_2023_last_all": -31.65,
             "at_2024_last_all": -31.65
         },
-        "latest_eps": 1.77,
-        "latest_price": 32.6,
-        "latest_roe": 15.18,
-        "latest_gross_margin": 36.18,
-        "latest_equity": 574385,
-        "latest_revenue": 172038,
-        "latest_gross_profit": 62235,
-        "latest_net_income": 18069,
-        "latest_debt_ratio": 54.24,
-        "latest_current_ratio": 167.46,
-        "latest_account_receivable_turnover_ratio": 0.53,
-        "latest_inventory_turnover_ratio": 1.27,
-        "latest_reinvestment_rate": 3.19,
-        "latest_research_to_sale_ratio": 0.49
+        "latest_eps": 0,
+        "latest_price": 31.85,
+        "latest_roe": 0,
+        "latest_gross_margin": null,
+        "latest_equity": null,
+        "latest_revenue": null,
+        "latest_gross_profit": null,
+        "latest_net_income": null,
+        "latest_debt_ratio": null,
+        "latest_current_ratio": 158.97,
+        "latest_account_receivable_turnover_ratio": null,
+        "latest_inventory_turnover_ratio": null,
+        "latest_reinvestment_rate": null,
+        "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
         "2000": {
@@ -193,6 +193,11 @@
             "cash": 0.75,
             "stock": 0,
             "eps": 1.27
+        },
+        "2024": {
+            "cash": 1.2,
+            "stock": 0,
+            "eps": 0
         }
     },
     "dividends": {
@@ -234,6 +239,10 @@
         },
         "2023-05-08": {
             "cash": 0.75,
+            "stock": 0
+        },
+        "2024-05-02": {
+            "cash": 1.2,
             "stock": 0
         }
     },
@@ -3427,6 +3436,38 @@
             "eps_avg_yearly": 1.18,
             "eps_latest_yearly": 1.56,
             "eps_growth_yearly": 270.64
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": null,
+            "eps_growth_year": null,
+            "eps_4q": null,
+            "eps_4q_growth_year": null,
+            "roe": null,
+            "roe_4q": 10.76,
+            "gross_profit": null,
+            "gross_margin": null,
+            "gross_margin_4q_avg": 21.09,
+            "net_income": null,
+            "net_income_4q": null,
+            "revenue": null,
+            "revenue_4q": null,
+            "common_shares": null,
+            "book_valuer_per_share": 12.68,
+            "book_valuer_per_share_4q_avg": 12.03,
+            "equity": null,
+            "current_ratio": 158.97,
+            "debt_ratio": null,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": null,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": null,
+            "price_fair": 41.68,
+            "eps_avg_yearly": 1.19,
+            "eps_latest_yearly": 1.56,
+            "eps_growth_yearly": 276.98
         }
     },
     "months": {

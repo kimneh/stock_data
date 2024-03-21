@@ -6,16 +6,16 @@
         "main_business": "金融控股公司業",
         "website_url": "http://www.tcfhc.com.tw",
         "ceo": "陳美足",
-        "pe_ratio": 19,
+        "pe_ratio": 22,
         "report_year_from": 2011,
         "report_year_to": 2023,
         "age": 13,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 0.36,
-            "last_2y": -4.71,
-            "last_4y": -2.6,
-            "last_8y": -0.35,
+            "last_all": 1.54,
+            "last_2y": -0.37,
+            "last_4y": 0,
+            "last_8y": 1.1,
             "last_12y": null,
             "last_16y": null,
             "last_20y": null,
@@ -36,8 +36,8 @@
             "at_2020_last_3y": 1.97,
             "at_2021_last_3y": 6.7,
             "at_2022_last_3y": 4.46,
-            "at_2023_last_3y": -4.85,
-            "at_2024_last_3y": -4.85,
+            "at_2023_last_3y": -1.6,
+            "at_2024_last_3y": -1.6,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -55,22 +55,22 @@
             "at_2020_last_all": 2.26,
             "at_2021_last_all": 4.3,
             "at_2022_last_all": 3.48,
-            "at_2023_last_all": 0.36,
-            "at_2024_last_all": 0.36
+            "at_2023_last_all": 1.54,
+            "at_2024_last_all": 1.54
         },
-        "latest_eps": 1.36,
-        "latest_price": 25.85,
-        "latest_roe": 9.29,
+        "latest_eps": 1.17,
+        "latest_price": 25.65,
+        "latest_roe": 7.66,
         "latest_gross_margin": null,
-        "latest_equity": 234624979,
-        "latest_revenue": 15696299,
+        "latest_equity": 245778659,
+        "latest_revenue": 15337076,
         "latest_gross_profit": null,
-        "latest_net_income": 5152993,
-        "latest_debt_ratio": 94.96,
+        "latest_net_income": 2888598,
+        "latest_debt_ratio": 94.88,
         "latest_current_ratio": null,
         "latest_account_receivable_turnover_ratio": null,
         "latest_inventory_turnover_ratio": null,
-        "latest_reinvestment_rate": -1.57,
+        "latest_reinvestment_rate": -1.76,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -187,7 +187,7 @@
         "2023": {
             "cash": 0.5,
             "stock": 0.5,
-            "eps": 1.01
+            "eps": 1.2
         }
     },
     "dividends": {
@@ -516,7 +516,10 @@
         "202309": "26.08",
         "202310": "25.56",
         "202311": "26.18",
-        "202312": "26.60"
+        "202312": "26.60",
+        "202401": "25.83",
+        "202402": "25.77",
+        "202403": "25.85"
     },
     "quarters": {
         "20011": {
@@ -3430,6 +3433,38 @@
             "eps_avg_yearly": 1.4,
             "eps_latest_yearly": 1.36,
             "eps_growth_yearly": 1.64
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": 0.19,
+            "eps_growth_year": -51.81,
+            "eps_4q": 1.17,
+            "eps_4q_growth_year": -18.8,
+            "roe": 1.2,
+            "roe_4q": 7.700000000000001,
+            "gross_profit": null,
+            "gross_margin": null,
+            "gross_margin_4q_avg": 0,
+            "net_income": 2888598,
+            "net_income_4q": null,
+            "revenue": 15337076,
+            "revenue_4q": null,
+            "common_shares": 147093822,
+            "book_valuer_per_share": 16.31,
+            "book_valuer_per_share_4q_avg": 16.07,
+            "equity": 245778659,
+            "current_ratio": null,
+            "debt_ratio": 94.88,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": null,
+            "reinvestment_rate": -1.76,
+            "research_to_sale_ratio": null,
+            "price_fair": 4.08,
+            "eps_avg_yearly": 1.36,
+            "eps_latest_yearly": 0.76,
+            "eps_growth_yearly": -7.31
         }
     },
     "months": {
@@ -4157,6 +4192,16 @@
             "month": "2023-12",
             "price": "26.60",
             "revenue": 5089571
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "25.83",
+            "revenue": 6022265
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "25.77",
+            "revenue": 4574116
         }
     }
 }

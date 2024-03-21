@@ -12,10 +12,10 @@
         "age": 16,
         "eps_negative_percentage": 15,
         "eps_growth_avg": {
-            "last_all": -3.71,
-            "last_2y": 12.43,
-            "last_4y": 6.37,
-            "last_8y": 20.36,
+            "last_all": -2.4,
+            "last_2y": 16.8,
+            "last_4y": 8.99,
+            "last_8y": 22,
             "last_12y": null,
             "last_16y": null,
             "last_20y": null,
@@ -36,8 +36,8 @@
             "at_2020_last_3y": 6.4,
             "at_2021_last_3y": 35.8,
             "at_2022_last_3y": 21.39,
-            "at_2023_last_3y": 9.98,
-            "at_2024_last_3y": 9.98,
+            "at_2023_last_3y": 13.26,
+            "at_2024_last_3y": 13.26,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -55,23 +55,23 @@
             "at_2020_last_all": -10.63,
             "at_2021_last_all": 1.38,
             "at_2022_last_all": 1.84,
-            "at_2023_last_all": -3.71,
-            "at_2024_last_all": -3.71
+            "at_2023_last_all": -2.4,
+            "at_2024_last_all": -2.4
         },
-        "latest_eps": 1.31,
-        "latest_price": 30.5,
-        "latest_roe": 9.41,
-        "latest_gross_margin": 30.8,
-        "latest_equity": 543435,
-        "latest_revenue": 204848,
-        "latest_gross_profit": 63096,
-        "latest_net_income": 18308,
-        "latest_debt_ratio": 38.89,
-        "latest_current_ratio": 204.68,
-        "latest_account_receivable_turnover_ratio": 1.05,
-        "latest_inventory_turnover_ratio": 0.94,
-        "latest_reinvestment_rate": 26,
-        "latest_research_to_sale_ratio": 2.58
+        "latest_eps": 1.35,
+        "latest_price": 30.6,
+        "latest_roe": 9.71,
+        "latest_gross_margin": 30.4,
+        "latest_equity": 536991,
+        "latest_revenue": 208130,
+        "latest_gross_profit": 63281,
+        "latest_net_income": 11666,
+        "latest_debt_ratio": 39.61,
+        "latest_current_ratio": 199.8,
+        "latest_account_receivable_turnover_ratio": 1.09,
+        "latest_inventory_turnover_ratio": 0.87,
+        "latest_reinvestment_rate": 23.62,
+        "latest_research_to_sale_ratio": 4.45
     },
     "eps_dividends": {
         "2001": {
@@ -187,7 +187,12 @@
         "2023": {
             "cash": 2.07,
             "stock": 0,
-            "eps": 1.06
+            "eps": 1.36
+        },
+        "2024": {
+            "cash": 1.5,
+            "stock": 0,
+            "eps": 0
         }
     },
     "dividends": {
@@ -249,6 +254,10 @@
         },
         "2023-09-14": {
             "cash": 2.07,
+            "stock": 0
+        },
+        "2024-03-15": {
+            "cash": 1.5,
             "stock": 0
         }
     },
@@ -3442,6 +3451,38 @@
             "eps_avg_yearly": 1.85,
             "eps_latest_yearly": 1.88,
             "eps_growth_yearly": 521.21
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": 0.3,
+            "eps_growth_year": 15.84,
+            "eps_4q": 1.35,
+            "eps_4q_growth_year": -40.81,
+            "roe": 2.16,
+            "roe_4q": 9.870000000000001,
+            "gross_profit": 63281,
+            "gross_margin": 30.4,
+            "gross_margin_4q_avg": 29.03,
+            "net_income": 11666,
+            "net_income_4q": null,
+            "revenue": 208130,
+            "revenue_4q": null,
+            "common_shares": 392974,
+            "book_valuer_per_share": 13.66,
+            "book_valuer_per_share_4q_avg": 13.75,
+            "equity": 536991,
+            "current_ratio": 199.8,
+            "debt_ratio": 39.61,
+            "inventory_turnover_ratio": 0.87,
+            "account_receivable_turnover_ratio": 1.09,
+            "reinvestment_rate": 23.62,
+            "research_to_sale_ratio": 4.45,
+            "price_fair": 61.16,
+            "eps_avg_yearly": 1.75,
+            "eps_latest_yearly": 1.2,
+            "eps_growth_yearly": 496.47
         }
     },
     "months": {

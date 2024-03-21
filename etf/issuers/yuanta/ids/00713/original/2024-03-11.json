@@ -33,7 +33,18 @@
     },
     "Cash": {
         "TranDate": "20240308",
-        "CashPosition": [],
+        "CashPosition": [
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": 1.696,
+                "amt": 970636054,
+                "trandate": "20240308"
+            }
+        ],
         "MMF": [],
         "Margin": [
             {
@@ -54,7 +65,43 @@
                 "fundId": "1164",
                 "cDate": "20240308",
                 "crncy": "NTD",
-                "endRate": 31.483
+                "endRate": 31.438
+            },
+            {
+                "fundId": "1164",
+                "cDate": "20240308",
+                "crncy": "KRW",
+                "endRate": 1316.26
+            },
+            {
+                "fundId": "1164",
+                "cDate": "20240308",
+                "crncy": "JPY",
+                "endRate": 147.06
+            },
+            {
+                "fundId": "1164",
+                "cDate": "20240308",
+                "crncy": "HKD",
+                "endRate": 7.8202
+            },
+            {
+                "fundId": "1164",
+                "cDate": "20240308",
+                "crncy": "EUR",
+                "endRate": 0.9141
+            },
+            {
+                "fundId": "1164",
+                "cDate": "20240308",
+                "crncy": "CNY",
+                "endRate": 7.1855
+            },
+            {
+                "fundId": "1164",
+                "cDate": "20240308",
+                "crncy": "CNH",
+                "endRate": 7.2
             }
         ],
         "CouponRate": [],

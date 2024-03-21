@@ -6,16 +6,16 @@
         "main_business": "PCB",
         "website_url": "http://www.zdtco.com",
         "ceo": "沈慶芳",
-        "pe_ratio": 13,
+        "pe_ratio": 17,
         "report_year_from": 2010,
         "report_year_to": 2023,
         "age": 14,
         "eps_negative_percentage": 0,
         "eps_growth_avg": {
-            "last_all": 13.32,
-            "last_2y": -5.8,
-            "last_4y": -6.94,
-            "last_8y": 3.25,
+            "last_all": 15.38,
+            "last_2y": 2.43,
+            "last_4y": -2,
+            "last_8y": 6,
             "last_12y": null,
             "last_16y": null,
             "last_20y": null,
@@ -36,8 +36,8 @@
             "at_2020_last_3y": 23.88,
             "at_2021_last_3y": 15.61,
             "at_2022_last_3y": 11.6,
-            "at_2023_last_3y": -6.84,
-            "at_2024_last_3y": -6.84,
+            "at_2023_last_3y": -0.67,
+            "at_2024_last_3y": -0.67,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -55,23 +55,23 @@
             "at_2020_last_all": 19.69,
             "at_2021_last_all": 19.37,
             "at_2022_last_all": 21.9,
-            "at_2023_last_all": 13.32,
-            "at_2024_last_all": 13.32
+            "at_2023_last_all": 15.38,
+            "at_2024_last_all": 15.38
         },
-        "latest_eps": 7.82,
-        "latest_price": 99.2,
-        "latest_roe": 8.55,
-        "latest_gross_margin": 20.47,
-        "latest_equity": 134470844,
-        "latest_revenue": 41919467,
-        "latest_gross_profit": 8582596,
-        "latest_net_income": 3348784,
-        "latest_debt_ratio": 45.73,
-        "latest_current_ratio": 140.81,
-        "latest_account_receivable_turnover_ratio": 1.72,
-        "latest_inventory_turnover_ratio": 1.85,
-        "latest_reinvestment_rate": 171.95,
-        "latest_research_to_sale_ratio": 6.11
+        "latest_eps": 6.55,
+        "latest_price": 111,
+        "latest_roe": 7.06,
+        "latest_gross_margin": 21.47,
+        "latest_equity": 134325848,
+        "latest_revenue": 54396328,
+        "latest_gross_profit": 11678846,
+        "latest_net_income": 5069629,
+        "latest_debt_ratio": 44.67,
+        "latest_current_ratio": 144.47,
+        "latest_account_receivable_turnover_ratio": 1.79,
+        "latest_inventory_turnover_ratio": 2.26,
+        "latest_reinvestment_rate": 160.61,
+        "latest_research_to_sale_ratio": 5.27
     },
     "eps_dividends": {
         "2001": {
@@ -187,7 +187,12 @@
         "2023": {
             "cash": 6,
             "stock": 0,
-            "eps": 2.84
+            "eps": 6.55
+        },
+        "2024": {
+            "cash": 3.28,
+            "stock": 0,
+            "eps": 0
         }
     },
     "dividends": {
@@ -237,6 +242,10 @@
         },
         "2023-07-10": {
             "cash": 6,
+            "stock": 0
+        },
+        "2024-03-12": {
+            "cash": 3.28,
             "stock": 0
         }
     },
@@ -516,7 +525,10 @@
         "202309": "98.86",
         "202310": "98.70",
         "202311": "102.87",
-        "202312": "106.07"
+        "202312": "106.07",
+        "202401": "103.74",
+        "202402": "99.35",
+        "202403": "103.72"
     },
     "quarters": {
         "20011": {
@@ -3430,6 +3442,38 @@
             "eps_avg_yearly": 11.03,
             "eps_latest_yearly": 2.12,
             "eps_growth_yearly": 113.52
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": 3.71,
+            "eps_growth_year": -25.53,
+            "eps_4q": 6.55,
+            "eps_4q_growth_year": -56.41,
+            "roe": 3.77,
+            "roe_4q": 7.13,
+            "gross_profit": 11678846,
+            "gross_margin": 21.47,
+            "gross_margin_4q_avg": 16.76,
+            "net_income": 5069629,
+            "net_income_4q": null,
+            "revenue": 54396328,
+            "revenue_4q": null,
+            "common_shares": 9470492,
+            "book_valuer_per_share": 101.27,
+            "book_valuer_per_share_4q_avg": 98.88,
+            "equity": 134325848,
+            "current_ratio": 144.47,
+            "debt_ratio": 44.67,
+            "inventory_turnover_ratio": 2.26,
+            "account_receivable_turnover_ratio": 1.79,
+            "reinvestment_rate": 160.61,
+            "research_to_sale_ratio": 5.27,
+            "price_fair": 382.2,
+            "eps_avg_yearly": 10.92,
+            "eps_latest_yearly": 14.84,
+            "eps_growth_yearly": 127.01
         }
     },
     "months": {
@@ -4157,6 +4201,16 @@
             "month": "2023-12",
             "price": "106.07",
             "revenue": 14842173
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "103.74",
+            "revenue": 12774631
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "99.35",
+            "revenue": 8642371
         }
     }
 }

@@ -6,7 +6,7 @@
         "main_business": "石油化學產品CPL  AN  之製造及銷售",
         "website_url": "http://www.cpdc.com.tw",
         "ceo": "陳穎俊(代理)",
-        "pe_ratio": -12,
+        "pe_ratio": -33,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 23,
@@ -58,20 +58,20 @@
             "at_2023_last_all": -16.16,
             "at_2024_last_all": -16.16
         },
-        "latest_eps": -0.79,
-        "latest_price": 9.19,
-        "latest_roe": -3.82,
-        "latest_gross_margin": -2.77,
-        "latest_equity": 77756554,
-        "latest_revenue": 6931115,
-        "latest_gross_profit": -191995,
-        "latest_net_income": -570326,
-        "latest_debt_ratio": 46.38,
-        "latest_current_ratio": 241.21,
-        "latest_account_receivable_turnover_ratio": 2.23,
-        "latest_inventory_turnover_ratio": 0.15,
-        "latest_reinvestment_rate": 118.13,
-        "latest_research_to_sale_ratio": 1.05
+        "latest_eps": -0.28,
+        "latest_price": 9.35,
+        "latest_roe": -1.37,
+        "latest_gross_margin": -1.23,
+        "latest_equity": 78766142,
+        "latest_revenue": 7374655,
+        "latest_gross_profit": -90665,
+        "latest_net_income": 1322199,
+        "latest_debt_ratio": 45.94,
+        "latest_current_ratio": 220.27,
+        "latest_account_receivable_turnover_ratio": 2.35,
+        "latest_inventory_turnover_ratio": 0.16,
+        "latest_reinvestment_rate": 58.26,
+        "latest_research_to_sale_ratio": 1.3
     },
     "eps_dividends": {
         "1990": {
@@ -222,7 +222,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.63
+            "eps": -0.28
         }
     },
     "dividends": {
@@ -559,7 +559,10 @@
         "202309": "9.56",
         "202310": "9.91",
         "202311": "9.95",
-        "202312": "9.76"
+        "202312": "9.76",
+        "202401": "9.58",
+        "202402": "9.51",
+        "202403": "9.26"
     },
     "quarters": {
         "20011": {
@@ -3473,6 +3476,38 @@
             "eps_avg_yearly": 1.04,
             "eps_latest_yearly": 0.24,
             "eps_growth_yearly": 226.82
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": 0.35,
+            "eps_growth_year": null,
+            "eps_4q": -0.28,
+            "eps_4q_growth_year": -554.73,
+            "roe": 1.69,
+            "roe_4q": -1.37,
+            "gross_profit": -90665,
+            "gross_margin": -1.23,
+            "gross_margin_4q_avg": -4.62,
+            "net_income": 1322199,
+            "net_income_4q": null,
+            "revenue": 7374655,
+            "revenue_4q": null,
+            "common_shares": 37848502,
+            "book_valuer_per_share": 20.78,
+            "book_valuer_per_share_4q_avg": 20.65,
+            "equity": 78766142,
+            "current_ratio": 220.27,
+            "debt_ratio": 45.94,
+            "inventory_turnover_ratio": 0.16,
+            "account_receivable_turnover_ratio": 2.35,
+            "reinvestment_rate": 58.26,
+            "research_to_sale_ratio": 1.3,
+            "price_fair": 38.15,
+            "eps_avg_yearly": 1.09,
+            "eps_latest_yearly": 0.24,
+            "eps_growth_yearly": 33.53
         }
     },
     "months": {
@@ -4830,6 +4865,16 @@
             "month": "2023-12",
             "price": "9.76",
             "revenue": 2821743
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "9.58",
+            "revenue": 2914717
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "9.51",
+            "revenue": 2547610
         }
     }
 }

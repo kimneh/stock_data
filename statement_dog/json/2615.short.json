@@ -6,7 +6,7 @@
         "main_business": "船舶運送業、船務代理業、其他批發業零售業、船舶及其零件批發業<br>船舶及其零件零售業、貨櫃集散站經營業、船舶及貨櫃出租業<br>船舶貨物裝卸承攬業、除許可業務外得經營法令非禁止或限制之業務",
         "website_url": "http://tw.wanhai.com/",
         "ceo": "謝福隆",
-        "pe_ratio": -70,
+        "pe_ratio": -22,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 23,
@@ -58,19 +58,19 @@
             "at_2023_last_all": 5.63,
             "at_2024_last_all": 5.63
         },
-        "latest_eps": -0.7,
-        "latest_price": 48.65,
-        "latest_roe": -0.86,
-        "latest_gross_margin": 1.57,
-        "latest_equity": 218769025,
-        "latest_revenue": 25047544,
-        "latest_gross_profit": 393988,
-        "latest_net_income": 2546242,
-        "latest_debt_ratio": 37.33,
-        "latest_current_ratio": 414.64,
-        "latest_account_receivable_turnover_ratio": 6.79,
-        "latest_inventory_turnover_ratio": 5.57,
-        "latest_reinvestment_rate": 49.7,
+        "latest_eps": -2.07,
+        "latest_price": 45,
+        "latest_roe": -2.68,
+        "latest_gross_margin": 1.9,
+        "latest_equity": 206364074,
+        "latest_revenue": 25144422,
+        "latest_gross_profit": 478944,
+        "latest_net_income": -3878403,
+        "latest_debt_ratio": 37.95,
+        "latest_current_ratio": 403.75,
+        "latest_account_receivable_turnover_ratio": 6.8,
+        "latest_inventory_turnover_ratio": 5.58,
+        "latest_reinvestment_rate": 54.71,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -212,7 +212,12 @@
         "2023": {
             "cash": 5,
             "stock": 0,
-            "eps": -0.68
+            "eps": -2.06
+        },
+        "2024": {
+            "cash": 1.5,
+            "stock": 0,
+            "eps": 0
         }
     },
     "dividends": {
@@ -314,6 +319,10 @@
         },
         "2023-07-25": {
             "cash": 5,
+            "stock": 0
+        },
+        "2024-03-13": {
+            "cash": 1.5,
             "stock": 0
         }
     },
@@ -593,7 +602,10 @@
         "202309": "48.12",
         "202310": "45.56",
         "202311": "46.52",
-        "202312": "53.16"
+        "202312": "53.16",
+        "202401": "52.09",
+        "202402": "48.66",
+        "202403": "47.96"
     },
     "quarters": {
         "20011": {
@@ -3507,6 +3519,38 @@
             "eps_avg_yearly": 28.24,
             "eps_latest_yearly": 31.88,
             "eps_growth_yearly": 757.12
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": -1.38,
+            "eps_growth_year": null,
+            "eps_4q": -2.07,
+            "eps_4q_growth_year": -106.23,
+            "roe": -1.82,
+            "roe_4q": -2.6500000000000004,
+            "gross_profit": 478944,
+            "gross_margin": 1.9,
+            "gross_margin_4q_avg": -1.49,
+            "net_income": -3878403,
+            "net_income_4q": null,
+            "revenue": 25144422,
+            "revenue_4q": null,
+            "common_shares": 28061464,
+            "book_valuer_per_share": 73.41,
+            "book_valuer_per_share_4q_avg": 76.26,
+            "equity": 206364074,
+            "current_ratio": 403.75,
+            "debt_ratio": 37.95,
+            "inventory_turnover_ratio": 5.58,
+            "account_receivable_turnover_ratio": 6.8,
+            "reinvestment_rate": 54.71,
+            "research_to_sale_ratio": null,
+            "price_fair": 1071.51,
+            "eps_avg_yearly": 30.61,
+            "eps_latest_yearly": 31.88,
+            "eps_growth_yearly": 795.86
         }
     },
     "months": {
@@ -4864,6 +4908,16 @@
             "month": "2023-12",
             "price": "53.16",
             "revenue": 8356023
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "52.09",
+            "revenue": 9252389
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "48.66",
+            "revenue": 8864344
         }
     }
 }
