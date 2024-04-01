@@ -1,0 +1,971 @@
+{
+    "PCF": {
+        "fundid": "1190",
+        "fundname": "元大10年期以上美元投資級銀行債券ETF基金",
+        "fullname": "元大產業債券ETF傘型證券投資信託基金之元大10年期以上美元投資級銀行債券ETF證券投資信託基金",
+        "ename": "Yuanta US 10plus Investment Grade Bank Bond ETF",
+        "markcd": "00786B",
+        "trandate": "20240321",
+        "totalav": 1124026140,
+        "osunit": 33066000,
+        "nav": 33.9934,
+        "baseunit": 500000,
+        "estcvalue": 16996706,
+        "estdvalue": -1278294,
+        "issuesdiff": 0,
+        "cashdiff": 0,
+        "preallot": 18370000,
+        "allot": 17001706,
+        "anndate": "20240325",
+        "upddate": "2024-03-22 14:03:18",
+        "preunit": 33066000,
+        "predate": "20240322",
+        "allot_charge_fee": 0,
+        "redem_charge_fee": 0,
+        "Beneficiary": {
+            "doc_ym": "20240229",
+            "bf_cnt_a": 2151,
+            "upd_date": "2024-03-01T08:47:15"
+        }
+    },
+    "InKind": {
+        "FundComposition": null
+    },
+    "Cash": {
+        "TranDate": "20240321",
+        "CashPosition": [
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": 0.3519,
+                "amt": 3955553,
+                "trandate": "20240321"
+            },
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.0116,
+                "amt": 130795.96,
+                "trandate": "20240321"
+            },
+            {
+                "code": "1220",
+                "name": "應收利息",
+                "ename": "INTEREST RECEIVEABLES",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.0416,
+                "amt": 467932.45,
+                "trandate": "20240321"
+            }
+        ],
+        "MMF": [],
+        "Margin": [],
+        "RP": [],
+        "ForwardExchange": [],
+        "Currency": [
+            {
+                "fundId": "1190",
+                "cDate": "20240321",
+                "crncy": "NTD",
+                "endRate": 31.866
+            },
+            {
+                "fundId": "1190",
+                "cDate": "20240321",
+                "crncy": "KRW",
+                "endRate": 1325.95
+            },
+            {
+                "fundId": "1190",
+                "cDate": "20240321",
+                "crncy": "JPY",
+                "endRate": 151.22
+            },
+            {
+                "fundId": "1190",
+                "cDate": "20240321",
+                "crncy": "HKD",
+                "endRate": 7.8206
+            },
+            {
+                "fundId": "1190",
+                "cDate": "20240321",
+                "crncy": "EUR",
+                "endRate": 0.915
+            },
+            {
+                "fundId": "1190",
+                "cDate": "20240321",
+                "crncy": "CNY",
+                "endRate": 7.1994
+            },
+            {
+                "fundId": "1190",
+                "cDate": "20240321",
+                "crncy": "CNH",
+                "endRate": 7.2124
+            }
+        ],
+        "CouponRate": [
+            {
+                "ConstituentCount": 94,
+                "CurrentWeight": 99.3,
+                "YieldtoMaturity": 5.48,
+                "avgCouponRate": 4.72,
+                "EffectiveDuration": 11.9,
+                "YearstoMaturity": 19.52,
+                "avgOASWorst": 1.03
+            },
+            {
+                "ConstituentCount": 116,
+                "CurrentWeight": 100,
+                "YieldtoMaturity": 5.56,
+                "avgCouponRate": 4.71,
+                "EffectiveDuration": 11.79,
+                "YearstoMaturity": 19.4,
+                "avgOASWorst": 1.1
+            }
+        ],
+        "InvestArea": [
+            {
+                "TRAN_DATE": "20240321",
+                "FUND_ID": "1190",
+                "name": "美國",
+                "ename": "USA",
+                "HOLD_RTO": 83,
+                "CNT": 78
+            },
+            {
+                "TRAN_DATE": "20240321",
+                "FUND_ID": "1190",
+                "name": "英國",
+                "ename": "LONDON",
+                "HOLD_RTO": 10.93,
+                "CNT": 10
+            },
+            {
+                "TRAN_DATE": "20240321",
+                "FUND_ID": "1190",
+                "name": "日本",
+                "ename": "JAPAN",
+                "HOLD_RTO": 2.17,
+                "CNT": 4
+            },
+            {
+                "TRAN_DATE": "20240321",
+                "FUND_ID": "1190",
+                "name": "荷蘭",
+                "ename": "NETHERLANDS",
+                "HOLD_RTO": 1.87,
+                "CNT": 2
+            },
+            {
+                "TRAN_DATE": "20240321",
+                "FUND_ID": "1190",
+                "name": "現金",
+                "ename": "Cash",
+                "HOLD_RTO": 2.03,
+                "CNT": 0
+            }
+        ],
+        "CreditRating": [
+            {
+                "FUND_ID": "1190",
+                "NAV_DATE": "20240321",
+                "CREDIT_NAME": "AA",
+                "CREDIT_RATIO": 34.4,
+                "CREDIT_COUNT": 33
+            },
+            {
+                "FUND_ID": "1190",
+                "NAV_DATE": "20240321",
+                "CREDIT_NAME": "A",
+                "CREDIT_RATIO": 55.2,
+                "CREDIT_COUNT": 53
+            },
+            {
+                "FUND_ID": "1190",
+                "NAV_DATE": "20240321",
+                "CREDIT_NAME": "BBB",
+                "CREDIT_RATIO": 8.37,
+                "CREDIT_COUNT": 8
+            }
+        ]
+    },
+    "FundWeights": {
+        "Summary": {
+            "code": "1190",
+            "name": null,
+            "stkvalues": 0,
+            "futvalues": 0,
+            "etfvalues": 0,
+            "bndvalues": 1116160789.7,
+            "fundsize": 1124026140
+        },
+        "StockWeights": [],
+        "FutureWeights": [],
+        "ETFWeights": [],
+        "BondWeights": [
+            {
+                "code": "BH2539774",
+                "name": "WELLS FARGO & COMPANY 5.013% 04/04/2051",
+                "ename": "WELLS FARGO & COMPANY 5.013% 04/04/2051",
+                "weights": 3.7,
+                "FACE_AMT": 1370000,
+                "qty": 1305556.57
+            },
+            {
+                "code": "BG9922686",
+                "name": "BANK OF AMERICA CORP 4.083% 03/20/2051",
+                "ename": "BANK OF AMERICA CORP 4.083% 03/20/2051",
+                "weights": 2.63,
+                "FACE_AMT": 1140000,
+                "qty": 926403.71
+            },
+            {
+                "code": "EG8763831",
+                "name": "GOLDMAN SACHS GROUP INC 6.75% 10/01/2037",
+                "ename": "GOLDMAN SACHS GROUP INC 6.75% 10/01/2037",
+                "weights": 2.42,
+                "FACE_AMT": 760000,
+                "qty": 851996.1
+            },
+            {
+                "code": "ZL3866627",
+                "name": "HSBC HOLDINGS PLC 6.332% 03/09/2044",
+                "ename": "HSBC HOLDINGS PLC 6.332% 03/09/2044",
+                "weights": 2.41,
+                "FACE_AMT": 800000,
+                "qty": 849452.44
+            },
+            {
+                "code": "EK0384629",
+                "name": "JPMORGAN CHASE & CO 4.85% 02/01/2044",
+                "ename": "JPMORGAN CHASE & CO 4.85% 02/01/2044",
+                "weights": 2.31,
+                "FACE_AMT": 850000,
+                "qty": 815286.71
+            },
+            {
+                "code": "AM2015247",
+                "name": "BANK OF AMERICA CORP 4.443% 01/20/2048",
+                "ename": "BANK OF AMERICA CORP 4.443% 01/20/2048",
+                "weights": 1.97,
+                "FACE_AMT": 790000,
+                "qty": 694870.44
+            },
+            {
+                "code": "AS3088489",
+                "name": "MORGAN STANLEY 4.457% 04/22/2039",
+                "ename": "MORGAN STANLEY 4.457% 04/22/2039",
+                "weights": 1.94,
+                "FACE_AMT": 740000,
+                "qty": 684277.88
+            },
+            {
+                "code": "EJ2931172",
+                "name": "MORGAN STANLEY 6.375% 07/24/2042",
+                "ename": "MORGAN STANLEY 6.375% 07/24/2042",
+                "weights": 1.86,
+                "FACE_AMT": 580000,
+                "qty": 655765.3
+            },
+            {
+                "code": "AX6463084",
+                "name": "BANK OF AMERICA CORP 4.33% 03/15/2050",
+                "ename": "BANK OF AMERICA CORP 4.33% 03/15/2050",
+                "weights": 1.82,
+                "FACE_AMT": 750000,
+                "qty": 642071.21
+            },
+            {
+                "code": "AS3000153",
+                "name": "GOLDMAN SACHS GROUP INC 4.411% 04/23/2039",
+                "ename": "GOLDMAN SACHS GROUP INC 4.411% 04/23/2039",
+                "weights": 1.75,
+                "FACE_AMT": 680000,
+                "qty": 617356.79
+            },
+            {
+                "code": "BV9796418",
+                "name": "WELLS FARGO & COMPANY 4.611% 04/25/2053",
+                "ename": "WELLS FARGO & COMPANY 4.611% 04/25/2053",
+                "weights": 1.7,
+                "FACE_AMT": 670000,
+                "qty": 597912.19
+            },
+            {
+                "code": "EH4155923",
+                "name": "HSBC BANK USA NA 7% 01/15/2039",
+                "ename": "HSBC BANK USA NA 7% 01/15/2039",
+                "weights": 1.65,
+                "FACE_AMT": 500000,
+                "qty": 581095.89
+            },
+            {
+                "code": "EK0290420",
+                "name": "BANK OF AMERICA CORP 5% 01/21/2044",
+                "ename": "BANK OF AMERICA CORP 5% 01/21/2044",
+                "weights": 1.6,
+                "FACE_AMT": 580000,
+                "qty": 563033.39
+            },
+            {
+                "code": "EI5482142",
+                "name": "GOLDMAN SACHS GROUP INC 6.25% 02/01/2041",
+                "ename": "GOLDMAN SACHS GROUP INC 6.25% 02/01/2041",
+                "weights": 1.58,
+                "FACE_AMT": 510000,
+                "qty": 557113.89
+            },
+            {
+                "code": "EK8800295",
+                "name": "WELLS FARGO & COMPANY 3.9% 05/01/2045",
+                "ename": "WELLS FARGO & COMPANY 3.9% 05/01/2045",
+                "weights": 1.54,
+                "FACE_AMT": 660000,
+                "qty": 544536.3
+            },
+            {
+                "code": "AT6279596",
+                "name": "CITIGROUP INC 4.65% 07/23/2048",
+                "ename": "CITIGROUP INC 4.65% 07/23/2048",
+                "weights": 1.46,
+                "FACE_AMT": 570000,
+                "qty": 515735.34
+            },
+            {
+                "code": "EI4379083",
+                "name": "JPMORGAN CHASE & CO 5.5% 10/15/2040",
+                "ename": "JPMORGAN CHASE & CO 5.5% 10/15/2040",
+                "weights": 1.46,
+                "FACE_AMT": 490000,
+                "qty": 513906.66
+            },
+            {
+                "code": "EJ8964250",
+                "name": "WELLS FARGO & COMPANY 5.375% 11/02/2043",
+                "ename": "WELLS FARGO & COMPANY 5.375% 11/02/2043",
+                "weights": 1.44,
+                "FACE_AMT": 520000,
+                "qty": 508350.84
+            },
+            {
+                "code": "EK0124538",
+                "name": "WELLS FARGO & COMPANY 5.606% 01/15/2044",
+                "ename": "WELLS FARGO & COMPANY 5.606% 01/15/2044",
+                "weights": 1.44,
+                "FACE_AMT": 510000,
+                "qty": 507151.85
+            },
+            {
+                "code": "AQ6096855",
+                "name": "LLOYDS BANKING GROUP PLC 4.344% 01/09/2048",
+                "ename": "LLOYDS BANKING GROUP PLC 4.344% 01/09/2048",
+                "weights": 1.35,
+                "FACE_AMT": 600000,
+                "qty": 475300
+            },
+            {
+                "code": "EK9257180",
+                "name": "GOLDMAN SACHS GROUP INC 5.15% 05/22/2045",
+                "ename": "GOLDMAN SACHS GROUP INC 5.15% 05/22/2045",
+                "weights": 1.33,
+                "FACE_AMT": 480000,
+                "qty": 468150.56
+            },
+            {
+                "code": "QJ7156251",
+                "name": "WELLS FARGO & COMPANY 4.9% 11/17/2045",
+                "ename": "WELLS FARGO & COMPANY 4.9% 11/17/2045",
+                "weights": 1.32,
+                "FACE_AMT": 510000,
+                "qty": 464109.63
+            },
+            {
+                "code": "AN2791324",
+                "name": "BANK OF AMERICA CORP 4.244% 04/24/2038",
+                "ename": "BANK OF AMERICA CORP 4.244% 04/24/2038",
+                "weights": 1.29,
+                "FACE_AMT": 500000,
+                "qty": 455608.28
+            },
+            {
+                "code": "EK3611572",
+                "name": "GOLDMAN SACHS GROUP INC 4.8% 07/08/2044",
+                "ename": "GOLDMAN SACHS GROUP INC 4.8% 07/08/2044",
+                "weights": 1.29,
+                "FACE_AMT": 490000,
+                "qty": 453946.62
+            },
+            {
+                "code": "EH3718317",
+                "name": "JPMORGAN CHASE & CO 6.4% 05/15/2038",
+                "ename": "JPMORGAN CHASE & CO 6.4% 05/15/2038",
+                "weights": 1.27,
+                "FACE_AMT": 390000,
+                "qty": 447126.33
+            },
+            {
+                "code": "BH1211219",
+                "name": "CITIGROUP INC 5.316% 03/26/2041",
+                "ename": "CITIGROUP INC 5.316% 03/26/2041",
+                "weights": 1.26,
+                "FACE_AMT": 440000,
+                "qty": 444402.79
+            },
+            {
+                "code": "BP1170391",
+                "name": "GOLDMAN SACHS GROUP INC 3.21% 04/22/2042",
+                "ename": "GOLDMAN SACHS GROUP INC 3.21% 04/22/2042",
+                "weights": 1.26,
+                "FACE_AMT": 580000,
+                "qty": 443335.76
+            },
+            {
+                "code": "EI7518380",
+                "name": "JPMORGAN CHASE & CO 5.6% 07/15/2041",
+                "ename": "JPMORGAN CHASE & CO 5.6% 07/15/2041",
+                "weights": 1.25,
+                "FACE_AMT": 420000,
+                "qty": 440909.37
+            },
+            {
+                "code": "AM2015510",
+                "name": "MORGAN STANLEY 4.375% 01/22/2047",
+                "ename": "MORGAN STANLEY 4.375% 01/22/2047",
+                "weights": 1.25,
+                "FACE_AMT": 500000,
+                "qty": 439778.83
+            },
+            {
+                "code": "EH3548276",
+                "name": "BANK OF AMERICA CORP 7.75% 05/14/2038",
+                "ename": "BANK OF AMERICA CORP 7.75% 05/14/2038",
+                "weights": 1.23,
+                "FACE_AMT": 350000,
+                "qty": 432302.69
+            },
+            {
+                "code": "EK9317273",
+                "name": "JPMORGAN CHASE & CO 4.95% 06/01/2045",
+                "ename": "JPMORGAN CHASE & CO 4.95% 06/01/2045",
+                "weights": 1.22,
+                "FACE_AMT": 450000,
+                "qty": 431338.28
+            },
+            {
+                "code": "EH1002276",
+                "name": "WELLS FARGO BANK NA 6.6% 01/15/2038",
+                "ename": "WELLS FARGO BANK NA 6.6% 01/15/2038",
+                "weights": 1.21,
+                "FACE_AMT": 390000,
+                "qty": 428057.89
+            },
+            {
+                "code": "EI6821868",
+                "name": "COOPERATIEVE RABOBANK UA 5.25% 05/24/2041",
+                "ename": "COOPERATIEVE RABOBANK UA 5.25% 05/24/2041",
+                "weights": 1.2,
+                "FACE_AMT": 410000,
+                "qty": 424250.1
+            },
+            {
+                "code": "QJ2158120",
+                "name": "GOLDMAN SACHS GROUP INC 4.75% 10/21/2045",
+                "ename": "GOLDMAN SACHS GROUP INC 4.75% 10/21/2045",
+                "weights": 1.19,
+                "FACE_AMT": 450000,
+                "qty": 420878.53
+            },
+            {
+                "code": "BP1127060",
+                "name": "JPMORGAN CHASE & CO 3.328% 04/22/2052",
+                "ename": "JPMORGAN CHASE & CO 3.328% 04/22/2052",
+                "weights": 1.16,
+                "FACE_AMT": 560000,
+                "qty": 409574.85
+            },
+            {
+                "code": "BT6313519",
+                "name": "GOLDMAN SACHS GROUP INC 3.436% 02/24/2043",
+                "ename": "GOLDMAN SACHS GROUP INC 3.436% 02/24/2043",
+                "weights": 1.13,
+                "FACE_AMT": 520000,
+                "qty": 400206.27
+            },
+            {
+                "code": "BH1511725",
+                "name": "MORGAN STANLEY 5.597% 03/24/2051",
+                "ename": "MORGAN STANLEY 5.597% 03/24/2051",
+                "weights": 1.12,
+                "FACE_AMT": 370000,
+                "qty": 394681.24
+            },
+            {
+                "code": "AP8710430",
+                "name": "JPMORGAN CHASE & CO 3.964% 11/15/2048",
+                "ename": "JPMORGAN CHASE & CO 3.964% 11/15/2048",
+                "weights": 1.08,
+                "FACE_AMT": 460000,
+                "qty": 381626.63
+            },
+            {
+                "code": "QZ8423480",
+                "name": "LLOYDS BANKING GROUP PLC 5.3% 12/01/2045",
+                "ename": "LLOYDS BANKING GROUP PLC 5.3% 12/01/2045",
+                "weights": 1.07,
+                "FACE_AMT": 400000,
+                "qty": 378647.47
+            },
+            {
+                "code": "EK1105460",
+                "name": "HSBC HOLDINGS PLC 5.25% 03/14/2044",
+                "ename": "HSBC HOLDINGS PLC 5.25% 03/14/2044",
+                "weights": 1.07,
+                "FACE_AMT": 400000,
+                "qty": 378234.27
+            },
+            {
+                "code": "EH9116177",
+                "name": "CITIGROUP INC 8.125% 07/15/2039",
+                "ename": "CITIGROUP INC 8.125% 07/15/2039",
+                "weights": 1.06,
+                "FACE_AMT": 290000,
+                "qty": 373307
+            },
+            {
+                "code": "AM0180167",
+                "name": "BARCLAYS PLC 4.95% 01/10/2047",
+                "ename": "BARCLAYS PLC 4.95% 01/10/2047",
+                "weights": 1.04,
+                "FACE_AMT": 400000,
+                "qty": 366918.8
+            },
+            {
+                "code": "AP7112620",
+                "name": "GOLDMAN SACHS GROUP INC 4.017% 10/31/2038",
+                "ename": "GOLDMAN SACHS GROUP INC 4.017% 10/31/2038",
+                "weights": 1.04,
+                "FACE_AMT": 420000,
+                "qty": 366735.53
+            },
+            {
+                "code": "LW0969888",
+                "name": "CITIGROUP INC 4.75% 05/18/2046",
+                "ename": "CITIGROUP INC 4.75% 05/18/2046",
+                "weights": 1.02,
+                "FACE_AMT": 400000,
+                "qty": 359080.04
+            },
+            {
+                "code": "LW3683676",
+                "name": "WELLS FARGO & COMPANY 4.4% 06/14/2046",
+                "ename": "WELLS FARGO & COMPANY 4.4% 06/14/2046",
+                "weights": 1,
+                "FACE_AMT": 420000,
+                "qty": 352781.85
+            },
+            {
+                "code": "AZ6185658",
+                "name": "MITSUBISHI UFJ FIN GRP 3.751% 07/18/2039",
+                "ename": "MITSUBISHI UFJ FIN GRP 3.751% 07/18/2039",
+                "weights": 0.98,
+                "FACE_AMT": 400000,
+                "qty": 344499.78
+            },
+            {
+                "code": "EI9113180",
+                "name": "JPMORGAN CHASE & CO 5.4% 01/06/2042",
+                "ename": "JPMORGAN CHASE & CO 5.4% 01/06/2042",
+                "weights": 0.93,
+                "FACE_AMT": 320000,
+                "qty": 328625.6
+            },
+            {
+                "code": "EI8773414",
+                "name": "HSBC HOLDINGS PLC 6.1% 01/14/2042",
+                "ename": "HSBC HOLDINGS PLC 6.1% 01/14/2042",
+                "weights": 0.92,
+                "FACE_AMT": 300000,
+                "qty": 326063.77
+            },
+            {
+                "code": "EG8100448",
+                "name": "HSBC HOLDINGS PLC 6.5% 09/15/2037",
+                "ename": "HSBC HOLDINGS PLC 6.5% 09/15/2037",
+                "weights": 0.9,
+                "FACE_AMT": 300000,
+                "qty": 318589.17
+            },
+            {
+                "code": "AL5221828",
+                "name": "WELLS FARGO & COMPANY 4.75% 12/07/2046",
+                "ename": "WELLS FARGO & COMPANY 4.75% 12/07/2046",
+                "weights": 0.88,
+                "FACE_AMT": 350000,
+                "qty": 308749.41
+            },
+            {
+                "code": "EJ7929668",
+                "name": "JPMORGAN CHASE & CO 5.625% 08/16/2043",
+                "ename": "JPMORGAN CHASE & CO 5.625% 08/16/2043",
+                "weights": 0.85,
+                "FACE_AMT": 290000,
+                "qty": 301200.96
+            },
+            {
+                "code": "EI9932092",
+                "name": "CITIGROUP INC 5.875% 01/30/2042",
+                "ename": "CITIGROUP INC 5.875% 01/30/2042",
+                "weights": 0.84,
+                "FACE_AMT": 280000,
+                "qty": 297328.95
+            },
+            {
+                "code": "BS5293631",
+                "name": "BARCLAYS PLC 3.33% 11/24/2042",
+                "ename": "BARCLAYS PLC 3.33% 11/24/2042",
+                "weights": 0.84,
+                "FACE_AMT": 400000,
+                "qty": 295857.6
+            },
+            {
+                "code": "BK1005408",
+                "name": "BANK OF AMERICA CORP 2.676% 06/19/2041",
+                "ename": "BANK OF AMERICA CORP 2.676% 06/19/2041",
+                "weights": 0.83,
+                "FACE_AMT": 410000,
+                "qty": 292715.4
+            },
+            {
+                "code": "BN6536500",
+                "name": "MORGAN STANLEY 2.802% 01/25/2052",
+                "ename": "MORGAN STANLEY 2.802% 01/25/2052",
+                "weights": 0.83,
+                "FACE_AMT": 450000,
+                "qty": 291725.33
+            },
+            {
+                "code": "AO3977813",
+                "name": "JPMORGAN CHASE & CO 4.032% 07/24/2048",
+                "ename": "JPMORGAN CHASE & CO 4.032% 07/24/2048",
+                "weights": 0.82,
+                "FACE_AMT": 350000,
+                "qty": 290950.45
+            },
+            {
+                "code": "AM5181970",
+                "name": "JPMORGAN CHASE & CO 4.26% 02/22/2048",
+                "ename": "JPMORGAN CHASE & CO 4.26% 02/22/2048",
+                "weights": 0.8,
+                "FACE_AMT": 330000,
+                "qty": 283932
+            },
+            {
+                "code": "BH8408222",
+                "name": "JPMORGAN CHASE & CO 3.109% 04/22/2051",
+                "ename": "JPMORGAN CHASE & CO 3.109% 04/22/2051",
+                "weights": 0.8,
+                "FACE_AMT": 400000,
+                "qty": 283011.27
+            },
+            {
+                "code": "UV3539888",
+                "name": "CITIGROUP INC 4.65% 07/30/2045",
+                "ename": "CITIGROUP INC 4.65% 07/30/2045",
+                "weights": 0.8,
+                "FACE_AMT": 310000,
+                "qty": 281001.88
+            },
+            {
+                "code": "EK7154298",
+                "name": "MORGAN STANLEY 4.3% 01/27/2045",
+                "ename": "MORGAN STANLEY 4.3% 01/27/2045",
+                "weights": 0.8,
+                "FACE_AMT": 320000,
+                "qty": 280989.26
+            },
+            {
+                "code": "UV4871793",
+                "name": "BARCLAYS PLC 5.25% 08/17/2045",
+                "ename": "BARCLAYS PLC 5.25% 08/17/2045",
+                "weights": 0.79,
+                "FACE_AMT": 290000,
+                "qty": 277975.49
+            },
+            {
+                "code": "BQ5698270",
+                "name": "BANK OF AMERICA CORP 2.972% 07/21/2052",
+                "ename": "BANK OF AMERICA CORP 2.972% 07/21/2052",
+                "weights": 0.78,
+                "FACE_AMT": 410000,
+                "qty": 274955.79
+            },
+            {
+                "code": "BP1356842",
+                "name": "BANK OF AMERICA CORP 3.311% 04/22/2042",
+                "ename": "BANK OF AMERICA CORP 3.311% 04/22/2042",
+                "weights": 0.77,
+                "FACE_AMT": 350000,
+                "qty": 272666.04
+            },
+            {
+                "code": "EF7941455",
+                "name": "BANK OF AMERICA NA 6% 10/15/2036",
+                "ename": "BANK OF AMERICA NA 6% 10/15/2036",
+                "weights": 0.76,
+                "FACE_AMT": 250000,
+                "qty": 268753.17
+            },
+            {
+                "code": "EJ0111868",
+                "name": "BANK OF AMERICA CORP 5.875% 02/07/2042",
+                "ename": "BANK OF AMERICA CORP 5.875% 02/07/2042",
+                "weights": 0.76,
+                "FACE_AMT": 250000,
+                "qty": 266975.69
+            },
+            {
+                "code": "EK5722476",
+                "name": "WELLS FARGO & COMPANY 4.65% 11/04/2044",
+                "ename": "WELLS FARGO & COMPANY 4.65% 11/04/2044",
+                "weights": 0.76,
+                "FACE_AMT": 300000,
+                "qty": 266342.4
+            },
+            {
+                "code": "AN2650710",
+                "name": "CITIGROUP INC 4.281% 04/24/2048",
+                "ename": "CITIGROUP INC 4.281% 04/24/2048",
+                "weights": 0.74,
+                "FACE_AMT": 300000,
+                "qty": 259969.4
+            },
+            {
+                "code": "UV3847794",
+                "name": "COOPERATIEVE RABOBANK UA 5.25% 08/04/2045",
+                "ename": "COOPERATIEVE RABOBANK UA 5.25% 08/04/2045",
+                "weights": 0.69,
+                "FACE_AMT": 250000,
+                "qty": 244538
+            },
+            {
+                "code": "BO4647281",
+                "name": "BANK OF AMERICA CORP 3.483% 03/13/2052",
+                "ename": "BANK OF AMERICA CORP 3.483% 03/13/2052",
+                "weights": 0.69,
+                "FACE_AMT": 330000,
+                "qty": 241734.16
+            },
+            {
+                "code": "ZO9994559",
+                "name": "BANK OF AMERICA CORP 2.831% 10/24/2051",
+                "ename": "BANK OF AMERICA CORP 2.831% 10/24/2051",
+                "weights": 0.67,
+                "FACE_AMT": 360000,
+                "qty": 235895.24
+            },
+            {
+                "code": "AQ8340525",
+                "name": "CITIGROUP INC 3.878% 01/24/2039",
+                "ename": "CITIGROUP INC 3.878% 01/24/2039",
+                "weights": 0.65,
+                "FACE_AMT": 270000,
+                "qty": 231003.06
+            },
+            {
+                "code": "AQ8141139",
+                "name": "JPMORGAN CHASE & CO 3.897% 01/23/2049",
+                "ename": "JPMORGAN CHASE & CO 3.897% 01/23/2049",
+                "weights": 0.64,
+                "FACE_AMT": 280000,
+                "qty": 226912.21
+            },
+            {
+                "code": "AO3977805",
+                "name": "JPMORGAN CHASE & CO 3.882% 07/24/2038",
+                "ename": "JPMORGAN CHASE & CO 3.882% 07/24/2038",
+                "weights": 0.64,
+                "FACE_AMT": 260000,
+                "qty": 225772.13
+            },
+            {
+                "code": "EH3747852",
+                "name": "HSBC HOLDINGS PLC 6.8% 06/01/2038",
+                "ename": "HSBC HOLDINGS PLC 6.8% 06/01/2038",
+                "weights": 0.64,
+                "FACE_AMT": 200000,
+                "qty": 224686.13
+            },
+            {
+                "code": "BP1587271",
+                "name": "MORGAN STANLEY 3.217% 04/22/2042",
+                "ename": "MORGAN STANLEY 3.217% 04/22/2042",
+                "weights": 0.64,
+                "FACE_AMT": 290000,
+                "qty": 224159.9
+            },
+            {
+                "code": "BP1127052",
+                "name": "JPMORGAN CHASE & CO 3.157% 04/22/2042",
+                "ename": "JPMORGAN CHASE & CO 3.157% 04/22/2042",
+                "weights": 0.63,
+                "FACE_AMT": 290000,
+                "qty": 222557.36
+            },
+            {
+                "code": "EJ8253621",
+                "name": "CITIGROUP INC 6.675% 09/13/2043",
+                "ename": "CITIGROUP INC 6.675% 09/13/2043",
+                "weights": 0.63,
+                "FACE_AMT": 200000,
+                "qty": 221723.75
+            },
+            {
+                "code": "AT6333369",
+                "name": "MITSUBISHI UFJ FIN GRP 4.286% 07/26/2038",
+                "ename": "MITSUBISHI UFJ FIN GRP 4.286% 07/26/2038",
+                "weights": 0.63,
+                "FACE_AMT": 240000,
+                "qty": 221632.83
+            },
+            {
+                "code": "EK1510297",
+                "name": "BANK OF AMERICA CORP 4.875% 04/01/2044",
+                "ename": "BANK OF AMERICA CORP 4.875% 04/01/2044",
+                "weights": 0.63,
+                "FACE_AMT": 230000,
+                "qty": 221175.42
+            },
+            {
+                "code": "EG1338144",
+                "name": "BANK OF AMERICA CORP 6.11% 01/29/2037",
+                "ename": "BANK OF AMERICA CORP 6.11% 01/29/2037",
+                "weights": 0.6,
+                "FACE_AMT": 200000,
+                "qty": 212948.06
+            },
+            {
+                "code": "BJ0901881",
+                "name": "WELLS FARGO & COMPANY 3.068% 04/30/2041",
+                "ename": "WELLS FARGO & COMPANY 3.068% 04/30/2041",
+                "weights": 0.58,
+                "FACE_AMT": 270000,
+                "qty": 203929.53
+            },
+            {
+                "code": "ZS2425693",
+                "name": "BANK OF AMERICA CORP 4.078% 04/23/2040",
+                "ename": "BANK OF AMERICA CORP 4.078% 04/23/2040",
+                "weights": 0.57,
+                "FACE_AMT": 230000,
+                "qty": 201765.75
+            },
+            {
+                "code": "EK2485044",
+                "name": "CITIGROUP INC 5.3% 05/06/2044",
+                "ename": "CITIGROUP INC 5.3% 05/06/2044",
+                "weights": 0.55,
+                "FACE_AMT": 200000,
+                "qty": 195417.44
+            },
+            {
+                "code": "BH8408214",
+                "name": "JPMORGAN CHASE & CO 3.109% 04/22/2041",
+                "ename": "JPMORGAN CHASE & CO 3.109% 04/22/2041",
+                "weights": 0.55,
+                "FACE_AMT": 250000,
+                "qty": 193392.04
+            },
+            {
+                "code": "AO4381155",
+                "name": "MORGAN STANLEY 3.971% 07/22/2038",
+                "ename": "MORGAN STANLEY 3.971% 07/22/2038",
+                "weights": 0.51,
+                "FACE_AMT": 210000,
+                "qty": 181048.63
+            },
+            {
+                "code": "EF0393282",
+                "name": "WACHOVIA CORP 5.5% 08/01/2035",
+                "ename": "WACHOVIA CORP 5.5% 08/01/2035",
+                "weights": 0.43,
+                "FACE_AMT": 150000,
+                "qty": 150908.95
+            },
+            {
+                "code": "AQ8593073",
+                "name": "BANK OF AMERICA CORP 3.946% 01/23/2049",
+                "ename": "BANK OF AMERICA CORP 3.946% 01/23/2049",
+                "weights": 0.42,
+                "FACE_AMT": 180000,
+                "qty": 146716.03
+            },
+            {
+                "code": "ZJ6580782",
+                "name": "SUMITOMO MITSUI FINL GRP 6.184% 07/13/2043",
+                "ename": "SUMITOMO MITSUI FINL GRP 6.184% 07/13/2043",
+                "weights": 0.38,
+                "FACE_AMT": 120000,
+                "qty": 133360.76
+            },
+            {
+                "code": "BQ5521753",
+                "name": "GOLDMAN SACHS GROUP INC 2.908% 07/21/2042",
+                "ename": "GOLDMAN SACHS GROUP INC 2.908% 07/21/2042",
+                "weights": 0.31,
+                "FACE_AMT": 150000,
+                "qty": 107996.47
+            },
+            {
+                "code": "BS1764627",
+                "name": "CITIGROUP INC 2.904% 11/03/2042",
+                "ename": "CITIGROUP INC 2.904% 11/03/2042",
+                "weights": 0.27,
+                "FACE_AMT": 130000,
+                "qty": 94232.28
+            },
+            {
+                "code": "BM4512521",
+                "name": "JPMORGAN CHASE & CO 2.525% 11/19/2041",
+                "ename": "JPMORGAN CHASE & CO 2.525% 11/19/2041",
+                "weights": 0.22,
+                "FACE_AMT": 110000,
+                "qty": 77209.23
+            },
+            {
+                "code": "EK8668023",
+                "name": "BANK OF AMERICA CORP 4.75% 04/21/2045",
+                "ename": "BANK OF AMERICA CORP 4.75% 04/21/2045",
+                "weights": 0.21,
+                "FACE_AMT": 80000,
+                "qty": 75152.13
+            },
+            {
+                "code": "BR4152624",
+                "name": "SUMITOMO MITSUI FINL GRP 2.93% 09/17/2041",
+                "ename": "SUMITOMO MITSUI FINL GRP 2.93% 09/17/2041",
+                "weights": 0.21,
+                "FACE_AMT": 100000,
+                "qty": 74665.39
+            },
+            {
+                "code": "EH2354239",
+                "name": "FIFTH THIRD BANCORP 8.25% 03/01/2038",
+                "ename": "FIFTH THIRD BANCORP 8.25% 03/01/2038",
+                "weights": 0.17,
+                "FACE_AMT": 50000,
+                "qty": 60124.18
+            }
+        ]
+    },
+    "Memo": null
+}

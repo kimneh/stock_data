@@ -6,19 +6,19 @@
         "main_business": "電腦主機板<br>工業電腦<br>電腦VGA 卡",
         "website_url": "http://www.biostar.com.tw",
         "ceo": "王明正",
-        "pe_ratio": -178,
+        "pe_ratio": -36,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 23,
-        "eps_negative_percentage": 26,
+        "eps_negative_percentage": 30,
         "eps_growth_avg": {
-            "last_all": -1.89,
-            "last_2y": 20.19,
-            "last_4y": 40.14,
-            "last_8y": 12.11,
-            "last_12y": -7.22,
-            "last_16y": -0.89,
-            "last_20y": -1.89,
+            "last_all": -11.71,
+            "last_2y": -32.19,
+            "last_4y": 0.86,
+            "last_8y": -19.31,
+            "last_12y": -24.68,
+            "last_16y": -12.98,
+            "last_20y": -11.71,
             "at_2006_last_3y": -6.22,
             "at_2007_last_3y": -15.16,
             "at_2008_last_3y": -1.01,
@@ -36,8 +36,8 @@
             "at_2020_last_3y": 0,
             "at_2021_last_3y": 33.33,
             "at_2022_last_3y": 34.48,
-            "at_2023_last_3y": 40.14,
-            "at_2024_last_3y": 40.14,
+            "at_2023_last_3y": 0.86,
+            "at_2024_last_3y": 0.86,
             "at_2006_last_all": -6.22,
             "at_2007_last_all": 6.51,
             "at_2008_last_all": -6.3,
@@ -55,23 +55,23 @@
             "at_2020_last_all": -6.99,
             "at_2021_last_all": 0.66,
             "at_2022_last_all": -5.83,
-            "at_2023_last_all": -1.89,
-            "at_2024_last_all": -1.89
+            "at_2023_last_all": -11.71,
+            "at_2024_last_all": -11.71
         },
-        "latest_eps": -0.13,
-        "latest_price": 23.15,
-        "latest_roe": -1.05,
-        "latest_gross_margin": 6.2,
-        "latest_equity": 2268861,
-        "latest_revenue": 549824,
-        "latest_gross_profit": 34099,
-        "latest_net_income": -25800,
-        "latest_debt_ratio": 19.99,
-        "latest_current_ratio": 432.91,
-        "latest_account_receivable_turnover_ratio": 2.65,
-        "latest_inventory_turnover_ratio": 0.61,
-        "latest_reinvestment_rate": -18.98,
-        "latest_research_to_sale_ratio": 3.26
+        "latest_eps": -0.64,
+        "latest_price": 23.2,
+        "latest_roe": -5.16,
+        "latest_gross_margin": -1.64,
+        "latest_equity": 2145539,
+        "latest_revenue": 563613,
+        "latest_gross_profit": -9219,
+        "latest_net_income": -132379,
+        "latest_debt_ratio": 23.08,
+        "latest_current_ratio": 377.49,
+        "latest_account_receivable_turnover_ratio": 2.75,
+        "latest_inventory_turnover_ratio": 0.69,
+        "latest_reinvestment_rate": -60.68,
+        "latest_research_to_sale_ratio": 3.36
     },
     "eps_dividends": {
         "1997": {
@@ -207,7 +207,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 0.11
+            "eps": -0.63
         }
     },
     "dividends": {
@@ -556,7 +556,11 @@
         "202309": "23.70",
         "202310": "23.80",
         "202311": "23.99",
-        "202312": "24.35"
+        "202312": "24.35",
+        "202401": "23.55",
+        "202402": "24.53",
+        "202403": "23.80",
+        "202404": "無"
     },
     "quarters": {
         "20011": {
@@ -3470,6 +3474,38 @@
             "eps_avg_yearly": 1.45,
             "eps_latest_yearly": 0.4,
             "eps_growth_yearly": 175.36
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": -0.74,
+            "eps_growth_year": null,
+            "eps_4q": -0.64,
+            "eps_4q_growth_year": -982.11,
+            "roe": -6,
+            "roe_4q": -5.16,
+            "gross_profit": -9219,
+            "gross_margin": -1.64,
+            "gross_margin_4q_avg": 5.58,
+            "net_income": -132379,
+            "net_income_4q": null,
+            "revenue": 563613,
+            "revenue_4q": null,
+            "common_shares": 1781000,
+            "book_valuer_per_share": 12.05,
+            "book_valuer_per_share_4q_avg": 12.61,
+            "equity": 2145539,
+            "current_ratio": 377.49,
+            "debt_ratio": 23.08,
+            "inventory_turnover_ratio": 0.69,
+            "account_receivable_turnover_ratio": 2.75,
+            "reinvestment_rate": -60.68,
+            "research_to_sale_ratio": 3.36,
+            "price_fair": 53.2,
+            "eps_avg_yearly": 1.52,
+            "eps_latest_yearly": 0.4,
+            "eps_growth_yearly": 63.94
         }
     },
     "months": {
@@ -4827,6 +4863,16 @@
             "month": "2023-12",
             "price": "24.35",
             "revenue": 145300
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "23.55",
+            "revenue": 263932
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "24.53",
+            "revenue": 180958
         }
     }
 }

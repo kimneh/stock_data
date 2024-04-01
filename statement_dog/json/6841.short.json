@@ -6,7 +6,7 @@
         "main_business": "醫療人工智慧<br>雲端生醫平台<br>醫療大數據",
         "website_url": "https://www.everfortuneai.com.tw/",
         "ceo": "李友錚",
-        "pe_ratio": 60,
+        "pe_ratio": -200,
         "report_year_from": 2021,
         "report_year_to": 2023,
         "age": 3,
@@ -58,20 +58,20 @@
             "at_2023_last_all": null,
             "at_2024_last_all": null
         },
-        "latest_eps": 1.41,
-        "latest_price": 84.3,
-        "latest_roe": 7.87,
-        "latest_gross_margin": 60.99,
-        "latest_equity": 2007995,
-        "latest_revenue": 19816,
-        "latest_gross_profit": 12086,
-        "latest_net_income": -44761,
-        "latest_debt_ratio": 1.86,
-        "latest_current_ratio": 5341.76,
-        "latest_account_receivable_turnover_ratio": 1.5,
-        "latest_inventory_turnover_ratio": 14.13,
+        "latest_eps": -0.44,
+        "latest_price": 87.9,
+        "latest_roe": -2.4,
+        "latest_gross_margin": 41.14,
+        "latest_equity": 1998427,
+        "latest_revenue": 46274,
+        "latest_gross_profit": 19037,
+        "latest_net_income": -617,
+        "latest_debt_ratio": 4.22,
+        "latest_current_ratio": 1909.81,
+        "latest_account_receivable_turnover_ratio": 1.79,
+        "latest_inventory_turnover_ratio": 3.03,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 92.36
+        "latest_research_to_sale_ratio": 59.09
     },
     "eps_dividends": {
         "2001": {
@@ -187,10 +187,20 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.44
+            "eps": -0.43
+        },
+        "2024": {
+            "cash": 1,
+            "stock": 0,
+            "eps": 0
         }
     },
-    "dividends": [],
+    "dividends": {
+        "2024-03-28": {
+            "cash": 1,
+            "stock": 0
+        }
+    },
     "prices": {
         "200101": "無",
         "200102": "無",
@@ -467,7 +477,11 @@
         "202309": "98.49",
         "202310": "95.32",
         "202311": "99.30",
-        "202312": "96.06"
+        "202312": "96.06",
+        "202401": "92.23",
+        "202402": "86.44",
+        "202403": "87.55",
+        "202404": "無"
     },
     "quarters": {
         "20011": {
@@ -3381,6 +3395,38 @@
             "eps_avg_yearly": 0.12,
             "eps_latest_yearly": 0.12,
             "eps_growth_yearly": -394.09
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": 0.01,
+            "eps_growth_year": -99.4,
+            "eps_4q": -0.44,
+            "eps_4q_growth_year": -128.33,
+            "roe": -0.03,
+            "roe_4q": -2.14,
+            "gross_profit": 19037,
+            "gross_margin": 41.14,
+            "gross_margin_4q_avg": 53.62,
+            "net_income": -617,
+            "net_income_4q": null,
+            "revenue": 46274,
+            "revenue_4q": null,
+            "common_shares": 985195,
+            "book_valuer_per_share": 20.06,
+            "book_valuer_per_share_4q_avg": 21.25,
+            "equity": 1998427,
+            "current_ratio": 1909.81,
+            "debt_ratio": 4.22,
+            "inventory_turnover_ratio": 3.03,
+            "account_receivable_turnover_ratio": 1.79,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 59.09,
+            "price_fair": 0.36,
+            "eps_avg_yearly": 0.12,
+            "eps_latest_yearly": 0.12,
+            "eps_growth_yearly": -394.09
         }
     },
     "months": {
@@ -3523,6 +3569,16 @@
             "month": "2023-12",
             "price": "96.06",
             "revenue": 17369
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "92.23",
+            "revenue": 11265
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "86.44",
+            "revenue": 20486
         }
     }
 }

@@ -6,19 +6,19 @@
         "main_business": "自黏標籤<br>自黏膠帶<br>離型紙和紙",
         "website_url": "http://www.koanhao.com",
         "ceo": "李永坤",
-        "pe_ratio": 28,
+        "pe_ratio": 19,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 23,
         "eps_negative_percentage": 9,
         "eps_growth_avg": {
-            "last_all": -8.04,
-            "last_2y": 12.78,
-            "last_4y": -16.7,
-            "last_8y": 4.67,
-            "last_12y": 0.7,
-            "last_16y": -14.52,
-            "last_20y": -8.04,
+            "last_all": -9.49,
+            "last_2y": 3.63,
+            "last_4y": -22.19,
+            "last_8y": 1.62,
+            "last_12y": -1.58,
+            "last_16y": -16.35,
+            "last_20y": -9.49,
             "at_2006_last_3y": 16.23,
             "at_2007_last_3y": -6.43,
             "at_2008_last_3y": -40.57,
@@ -36,8 +36,8 @@
             "at_2020_last_3y": 13.22,
             "at_2021_last_3y": 13.22,
             "at_2022_last_3y": -22.11,
-            "at_2023_last_3y": -6.73,
-            "at_2024_last_3y": -6.73,
+            "at_2023_last_3y": -13.59,
+            "at_2024_last_3y": -13.59,
             "at_2006_last_all": 16.23,
             "at_2007_last_all": 7.5,
             "at_2008_last_all": -10.2,
@@ -55,23 +55,23 @@
             "at_2020_last_all": -11.95,
             "at_2021_last_all": -5.36,
             "at_2022_last_all": -8.76,
-            "at_2023_last_all": -8.04,
-            "at_2024_last_all": -8.04
+            "at_2023_last_all": -9.49,
+            "at_2024_last_all": -9.49
         },
-        "latest_eps": 0.53,
-        "latest_price": 15.05,
-        "latest_roe": 2.07,
-        "latest_gross_margin": 13.76,
-        "latest_equity": 2049477,
-        "latest_revenue": 161980,
-        "latest_gross_profit": 22283,
-        "latest_net_income": 58423,
-        "latest_debt_ratio": 54.23,
-        "latest_current_ratio": 114.67,
-        "latest_account_receivable_turnover_ratio": 0.98,
-        "latest_inventory_turnover_ratio": 0.98,
-        "latest_reinvestment_rate": -51.21,
-        "latest_research_to_sale_ratio": 1.25
+        "latest_eps": 0.79,
+        "latest_price": 14.7,
+        "latest_roe": 3.11,
+        "latest_gross_margin": 11.3,
+        "latest_equity": 2007858,
+        "latest_revenue": 148269,
+        "latest_gross_profit": 16754,
+        "latest_net_income": -22085,
+        "latest_debt_ratio": 54.34,
+        "latest_current_ratio": 112.51,
+        "latest_account_receivable_turnover_ratio": 0.87,
+        "latest_inventory_turnover_ratio": 0.87,
+        "latest_reinvestment_rate": -55.46,
+        "latest_research_to_sale_ratio": 1.36
     },
     "eps_dividends": {
         "2001": {
@@ -187,7 +187,7 @@
         "2023": {
             "cash": 0.3,
             "stock": 0,
-            "eps": 1.07
+            "eps": 0.79
         },
         "2024": {
             "cash": 0.3,
@@ -557,7 +557,11 @@
         "202309": "14.42",
         "202310": "14.18",
         "202311": "14.15",
-        "202312": "16.14"
+        "202312": "16.14",
+        "202401": "15.81",
+        "202402": "16.27",
+        "202403": "15.45",
+        "202404": "無"
     },
     "quarters": {
         "20011": {
@@ -3471,6 +3475,38 @@
             "eps_avg_yearly": 1.68,
             "eps_latest_yearly": 3,
             "eps_growth_yearly": 397.64
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": -0.28,
+            "eps_growth_year": null,
+            "eps_4q": 0.79,
+            "eps_4q_growth_year": -22.56,
+            "roe": -1.09,
+            "roe_4q": 3.09,
+            "gross_profit": 16754,
+            "gross_margin": 11.3,
+            "gross_margin_4q_avg": 12.03,
+            "net_income": -22085,
+            "net_income_4q": null,
+            "revenue": 148269,
+            "revenue_4q": null,
+            "common_shares": 785323,
+            "book_valuer_per_share": 25.57,
+            "book_valuer_per_share_4q_avg": 25.49,
+            "equity": 2007858,
+            "current_ratio": 112.51,
+            "debt_ratio": 54.34,
+            "inventory_turnover_ratio": 0.87,
+            "account_receivable_turnover_ratio": 0.87,
+            "reinvestment_rate": -55.46,
+            "research_to_sale_ratio": 1.36,
+            "price_fair": 58.8,
+            "eps_avg_yearly": 1.68,
+            "eps_latest_yearly": 3,
+            "eps_growth_yearly": 397.64
         }
     },
     "months": {
@@ -4683,6 +4719,16 @@
             "month": "2023-12",
             "price": "16.14",
             "revenue": 48280
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "15.81",
+            "revenue": 63856
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "16.27",
+            "revenue": 38597
         }
     }
 }

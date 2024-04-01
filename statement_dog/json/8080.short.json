@@ -6,18 +6,18 @@
         "main_business": "營建剩餘土石方資源處理",
         "website_url": "http://www.ost.com.tw",
         "ceo": "謝明圜",
-        "pe_ratio": 27,
+        "pe_ratio": 64,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 23,
         "eps_negative_percentage": 52,
         "eps_growth_avg": {
-            "last_all": -50.48,
-            "last_2y": -95.95,
-            "last_4y": -95.95,
-            "last_8y": -95.95,
-            "last_12y": -98.65,
-            "last_16y": -67.31,
+            "last_all": -50.49,
+            "last_2y": -96.09,
+            "last_4y": -96.09,
+            "last_8y": -96.09,
+            "last_12y": -98.7,
+            "last_16y": -67.33,
             "last_20y": null,
             "at_2006_last_3y": null,
             "at_2007_last_3y": -5.69,
@@ -36,8 +36,8 @@
             "at_2020_last_3y": null,
             "at_2021_last_3y": null,
             "at_2022_last_3y": null,
-            "at_2023_last_3y": -95.95,
-            "at_2024_last_3y": -95.95,
+            "at_2023_last_3y": -96.09,
+            "at_2024_last_3y": -96.09,
             "at_2006_last_all": -16.82,
             "at_2007_last_all": -5.69,
             "at_2008_last_all": -11.67,
@@ -55,22 +55,22 @@
             "at_2020_last_all": -44.8,
             "at_2021_last_all": -44.8,
             "at_2022_last_all": -44.8,
-            "at_2023_last_all": -50.48,
-            "at_2024_last_all": -50.48
+            "at_2023_last_all": -50.49,
+            "at_2024_last_all": -50.49
         },
-        "latest_eps": 0.65,
-        "latest_price": 17.45,
-        "latest_roe": 8.28,
-        "latest_gross_margin": 17.98,
-        "latest_equity": 186931,
-        "latest_revenue": 48246,
-        "latest_gross_profit": 8675,
-        "latest_net_income": 383,
-        "latest_debt_ratio": 56.08,
-        "latest_current_ratio": 124.48,
+        "latest_eps": 0.27,
+        "latest_price": 17.15,
+        "latest_roe": 3.42,
+        "latest_gross_margin": 20,
+        "latest_equity": 184398,
+        "latest_revenue": 32120,
+        "latest_gross_profit": 6424,
+        "latest_net_income": -295,
+        "latest_debt_ratio": 43.13,
+        "latest_current_ratio": 146.71,
         "latest_account_receivable_turnover_ratio": 1.06,
-        "latest_inventory_turnover_ratio": 7.03,
-        "latest_reinvestment_rate": -109.85,
+        "latest_inventory_turnover_ratio": 2.52,
+        "latest_reinvestment_rate": -40.46,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -187,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 0.29
+            "eps": 0.28
         }
     },
     "dividends": {
@@ -504,7 +504,11 @@
         "202309": "9.12",
         "202310": "9.01",
         "202311": "無",
-        "202312": "無"
+        "202312": "無",
+        "202401": "11.56",
+        "202402": "16.96",
+        "202403": "17.92",
+        "202404": "無"
     },
     "quarters": {
         "20011": {
@@ -3418,6 +3422,38 @@
             "eps_avg_yearly": 0.7,
             "eps_latest_yearly": 0.08,
             "eps_growth_yearly": 20.77
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": -0.01,
+            "eps_growth_year": -103.47,
+            "eps_4q": 0.27,
+            "eps_4q_growth_year": -96.18,
+            "roe": -0.16,
+            "roe_4q": 3.4000000000000004,
+            "gross_profit": 6424,
+            "gross_margin": 20,
+            "gross_margin_4q_avg": 16.84,
+            "net_income": -295,
+            "net_income_4q": null,
+            "revenue": 32120,
+            "revenue_4q": null,
+            "common_shares": 231639,
+            "book_valuer_per_share": 7.96,
+            "book_valuer_per_share_4q_avg": 8.05,
+            "equity": 184398,
+            "current_ratio": 146.71,
+            "debt_ratio": 43.13,
+            "inventory_turnover_ratio": 2.52,
+            "account_receivable_turnover_ratio": 1.06,
+            "reinvestment_rate": -40.46,
+            "research_to_sale_ratio": null,
+            "price_fair": 21.42,
+            "eps_avg_yearly": 0.7,
+            "eps_latest_yearly": 0.08,
+            "eps_growth_yearly": 20.77
         }
     },
     "months": {
@@ -4595,6 +4631,16 @@
             "month": "2023-10",
             "price": "9.01",
             "revenue": 6430
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "11.56",
+            "revenue": 10439
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "16.96",
+            "revenue": 3881
         }
     }
 }

@@ -1,0 +1,182 @@
+{
+    "PCF": {
+        "fundid": "1090",
+        "fundname": "元大標智滬深300基金",
+        "fullname": "元大標智滬深300證券投資信託基金",
+        "ename": "W.I.S.E. Yuanta/P-shares CSI 300 ETF",
+        "markcd": "0061",
+        "trandate": "20240325",
+        "totalav": 2273826114,
+        "osunit": 134116000,
+        "nav": 16.95,
+        "baseunit": 500000,
+        "estcvalue": 8477087,
+        "estdvalue": -893427,
+        "issuesdiff": 0,
+        "cashdiff": 0,
+        "preallot": 9348446,
+        "allot": 8499041,
+        "anndate": "20240326",
+        "upddate": "2024-03-25 17:30:07",
+        "preunit": 134116000,
+        "predate": "20240325",
+        "allot_charge_fee": 0,
+        "redem_charge_fee": 0,
+        "Beneficiary": {
+            "doc_ym": "20240229",
+            "bf_cnt_a": 8497,
+            "upd_date": "2024-03-01T08:47:15"
+        }
+    },
+    "InKind": {
+        "FundComposition": null
+    },
+    "Cash": {
+        "TranDate": "20240325",
+        "CashPosition": [
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "HKD",
+                "exrate": 0,
+                "rto": 0.3585,
+                "amt": 8150860.42,
+                "trandate": "20240325"
+            },
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": 0.7341,
+                "amt": 16691637,
+                "trandate": "20240325"
+            }
+        ],
+        "MMF": [],
+        "Margin": [
+            {
+                "code": null,
+                "name": "保證金",
+                "ename": "Margin",
+                "crncy": "NTD",
+                "exrate": 1,
+                "rto": 0,
+                "amt": 8508,
+                "trandate": "20240325"
+            },
+            {
+                "code": null,
+                "name": "保證金",
+                "ename": "Margin",
+                "crncy": "USD",
+                "exrate": 31.866,
+                "rto": 0,
+                "amt": 771109.6,
+                "trandate": "20240325"
+            }
+        ],
+        "RP": [],
+        "ForwardExchange": [],
+        "Currency": [
+            {
+                "fundId": "1090",
+                "cDate": "20240325",
+                "crncy": "NTD",
+                "endRate": 31.866
+            },
+            {
+                "fundId": "1090",
+                "cDate": "20240325",
+                "crncy": "KRW",
+                "endRate": 1339.11
+            },
+            {
+                "fundId": "1090",
+                "cDate": "20240325",
+                "crncy": "JPY",
+                "endRate": 151.32
+            },
+            {
+                "fundId": "1090",
+                "cDate": "20240325",
+                "crncy": "HKD",
+                "endRate": 7.821
+            },
+            {
+                "fundId": "1090",
+                "cDate": "20240325",
+                "crncy": "EUR",
+                "endRate": 0.9247
+            },
+            {
+                "fundId": "1090",
+                "cDate": "20240325",
+                "crncy": "CNY",
+                "endRate": 7.2066
+            },
+            {
+                "fundId": "1090",
+                "cDate": "20240325",
+                "crncy": "CNH",
+                "endRate": 7.2473
+            }
+        ],
+        "CouponRate": [],
+        "InvestArea": [
+            {
+                "TRAN_DATE": "20240325",
+                "FUND_ID": "1090",
+                "name": "香港",
+                "ename": "HK",
+                "HOLD_RTO": 96.73,
+                "CNT": 1
+            },
+            {
+                "TRAN_DATE": "20240325",
+                "FUND_ID": "1090",
+                "name": "現金",
+                "ename": "Cash",
+                "HOLD_RTO": 3.27,
+                "CNT": 0
+            }
+        ],
+        "CreditRating": []
+    },
+    "FundWeights": {
+        "Summary": {
+            "code": "1090",
+            "name": null,
+            "stkvalues": 0,
+            "futvalues": 75343173.75,
+            "etfvalues": 2199523282,
+            "bndvalues": 0,
+            "fundsize": 2273826114
+        },
+        "StockWeights": [],
+        "FutureWeights": [
+            {
+                "code": "CN",
+                "ym": "202403",
+                "name": "富時中國A50指數期貨",
+                "ename": "FTSE China A50 Index",
+                "weights": 3.31,
+                "qty": 195
+            }
+        ],
+        "ETFWeights": [
+            {
+                "code": "2827 HK",
+                "ym": null,
+                "name": "BOCI-PRUDENTIAL-W.I.S.E -HKD",
+                "ename": "BOCI-Prudential - W.I.S.E. - CSI China Tracker Fund",
+                "weights": 96.73,
+                "qty": 16723600
+            }
+        ],
+        "BondWeights": []
+    },
+    "Memo": null
+}

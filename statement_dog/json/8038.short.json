@@ -6,7 +6,7 @@
         "main_business": "研發及生產鋰二次電池正極材料<br>各類高容量鋰電池模組與應用系統<br>鋰電池及高分子電池製造技術移轉顧問服務業",
         "website_url": "http://www.caec.com.tw",
         "ceo": "張惇杰",
-        "pe_ratio": 99,
+        "pe_ratio": 0,
         "report_year_from": 2002,
         "report_year_to": 2023,
         "age": 22,
@@ -58,20 +58,20 @@
             "at_2023_last_all": 0,
             "at_2024_last_all": 0
         },
-        "latest_eps": 0.3,
-        "latest_price": 29.55,
-        "latest_roe": 4.22,
-        "latest_gross_margin": 7.78,
-        "latest_equity": 565225,
-        "latest_revenue": 29211,
-        "latest_gross_profit": 2273,
-        "latest_net_income": -16079,
-        "latest_debt_ratio": 49.88,
-        "latest_current_ratio": 145.53,
-        "latest_account_receivable_turnover_ratio": 0.2,
-        "latest_inventory_turnover_ratio": 0.22,
+        "latest_eps": 0,
+        "latest_price": 30,
+        "latest_roe": 0.37,
+        "latest_gross_margin": 22.22,
+        "latest_equity": 555001,
+        "latest_revenue": 62894,
+        "latest_gross_profit": 13978,
+        "latest_net_income": -9325,
+        "latest_debt_ratio": 50.52,
+        "latest_current_ratio": 143.32,
+        "latest_account_receivable_turnover_ratio": 0.74,
+        "latest_inventory_turnover_ratio": 0.38,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 17
+        "latest_research_to_sale_ratio": 12.27
     },
     "eps_dividends": {
         "2001": {
@@ -187,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 0.15
+            "eps": 0.01
         }
     },
     "dividends": [],
@@ -467,7 +467,11 @@
         "202309": "38.41",
         "202310": "35.42",
         "202311": "34.98",
-        "202312": "37.71"
+        "202312": "37.71",
+        "202401": "34.33",
+        "202402": "33.05",
+        "202403": "30.58",
+        "202404": "無"
     },
     "quarters": {
         "20011": {
@@ -3381,6 +3385,38 @@
             "eps_avg_yearly": 0.8,
             "eps_latest_yearly": 0.96,
             "eps_growth_yearly": 77.78
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": -0.14,
+            "eps_growth_year": -177.34,
+            "eps_4q": 0,
+            "eps_4q_growth_year": null,
+            "roe": -1.66,
+            "roe_4q": 0.9700000000000002,
+            "gross_profit": 13978,
+            "gross_margin": 22.22,
+            "gross_margin_4q_avg": 22.74,
+            "net_income": -9325,
+            "net_income_4q": null,
+            "revenue": 62894,
+            "revenue_4q": null,
+            "common_shares": 628742,
+            "book_valuer_per_share": 8.01,
+            "book_valuer_per_share_4q_avg": 7.91,
+            "equity": 555001,
+            "current_ratio": 143.32,
+            "debt_ratio": 50.52,
+            "inventory_turnover_ratio": 0.38,
+            "account_receivable_turnover_ratio": 0.74,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 12.27,
+            "price_fair": 28,
+            "eps_avg_yearly": 0.8,
+            "eps_latest_yearly": 0.96,
+            "eps_growth_yearly": 77.78
         }
     },
     "months": {
@@ -4543,6 +4579,16 @@
             "month": "2023-12",
             "price": "37.71",
             "revenue": 2111
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "34.33",
+            "revenue": 12556
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "33.05",
+            "revenue": 2112
         }
     }
 }

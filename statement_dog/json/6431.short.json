@@ -6,7 +6,7 @@
         "main_business": "化妝品及保養品製造銷售<br>光學玻璃專業加工服務",
         "website_url": "http://www.kl-holdings.com/",
         "ceo": "張清璉",
-        "pe_ratio": -11,
+        "pe_ratio": -7,
         "report_year_from": 2014,
         "report_year_to": 2023,
         "age": 10,
@@ -58,20 +58,20 @@
             "at_2023_last_all": -100,
             "at_2024_last_all": -100
         },
-        "latest_eps": -1.36,
-        "latest_price": 14.8,
-        "latest_roe": -11.98,
-        "latest_gross_margin": 12.05,
-        "latest_equity": 605473,
-        "latest_revenue": 57122,
-        "latest_gross_profit": 6882,
-        "latest_net_income": -33023,
-        "latest_debt_ratio": 45.03,
-        "latest_current_ratio": 116.41,
-        "latest_account_receivable_turnover_ratio": 0.7,
-        "latest_inventory_turnover_ratio": 1.01,
+        "latest_eps": -1.82,
+        "latest_price": 12.35,
+        "latest_roe": -16.93,
+        "latest_gross_margin": 20.53,
+        "latest_equity": 557922,
+        "latest_revenue": 76379,
+        "latest_gross_profit": 15679,
+        "latest_net_income": -36102,
+        "latest_debt_ratio": 46.52,
+        "latest_current_ratio": 107.98,
+        "latest_account_receivable_turnover_ratio": 1.16,
+        "latest_inventory_turnover_ratio": 1.19,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 14
+        "latest_research_to_sale_ratio": 10.9
     },
     "eps_dividends": {
         "2001": {
@@ -187,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -1.19
+            "eps": -1.82
         }
     },
     "dividends": {
@@ -476,7 +476,11 @@
         "202309": "18.25",
         "202310": "17.70",
         "202311": "16.34",
-        "202312": "16.25"
+        "202312": "16.25",
+        "202401": "16.45",
+        "202402": "16.03",
+        "202403": "14.77",
+        "202404": "無"
     },
     "quarters": {
         "20011": {
@@ -3390,6 +3394,38 @@
             "eps_avg_yearly": 0,
             "eps_latest_yearly": 0,
             "eps_growth_yearly": 0
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": -0.63,
+            "eps_growth_year": null,
+            "eps_4q": -1.82,
+            "eps_4q_growth_year": null,
+            "roe": -6.21,
+            "roe_4q": -16.96,
+            "gross_profit": 15679,
+            "gross_margin": 20.53,
+            "gross_margin_4q_avg": 21.11,
+            "net_income": -36102,
+            "net_income_4q": null,
+            "revenue": 76379,
+            "revenue_4q": null,
+            "common_shares": 572388,
+            "book_valuer_per_share": 8.14,
+            "book_valuer_per_share_4q_avg": 8.87,
+            "equity": 557922,
+            "current_ratio": 107.98,
+            "debt_ratio": 46.52,
+            "inventory_turnover_ratio": 1.19,
+            "account_receivable_turnover_ratio": 1.16,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 10.9,
+            "price_fair": 0,
+            "eps_avg_yearly": 0,
+            "eps_latest_yearly": 0,
+            "eps_growth_yearly": 0
         }
     },
     "months": {
@@ -3932,6 +3968,16 @@
             "month": "2023-12",
             "price": "16.25",
             "revenue": 16323
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "16.45",
+            "revenue": 23234
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "16.03",
+            "revenue": 9733
         }
     }
 }

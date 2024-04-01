@@ -1,0 +1,2033 @@
+{
+    "PCF": {
+        "fundid": "1145",
+        "fundname": "元大日經225基金",
+        "fullname": "元大已開發國家傘型證券投資信託基金之元大日經225證券投資信託基金",
+        "ename": "Yuanta Nikkei 225 ETF",
+        "markcd": "00661",
+        "trandate": "20240328",
+        "totalav": 3265074329,
+        "osunit": 63425000,
+        "nav": 51.48,
+        "baseunit": 500000,
+        "estcvalue": 25739648,
+        "estdvalue": -2781595,
+        "issuesdiff": 1500000,
+        "cashdiff": 0,
+        "preallot": 28320000,
+        "allot": 25788405,
+        "anndate": "20240329",
+        "upddate": "2024-03-28 17:16:53",
+        "preunit": 63425000,
+        "predate": "20240328",
+        "allot_charge_fee": 2000,
+        "redem_charge_fee": 2000,
+        "Beneficiary": {
+            "doc_ym": "20240229",
+            "bf_cnt_a": 3928,
+            "upd_date": "2024-03-01T08:47:15"
+        }
+    },
+    "InKind": {
+        "FundComposition": null
+    },
+    "Cash": {
+        "TranDate": "20240328",
+        "CashPosition": [
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "JPY",
+                "exrate": 0,
+                "rto": 22.9612,
+                "amt": 749700204,
+                "trandate": "20240328"
+            },
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": 5.3733,
+                "amt": 175442094,
+                "trandate": "20240328"
+            },
+            {
+                "code": "1210",
+                "name": "應收股利",
+                "ename": "DIVIDENDS RECEIVABLES",
+                "crncy": "JPY",
+                "exrate": 0,
+                "rto": 2.5133,
+                "amt": 82062364,
+                "trandate": "20240328"
+            },
+            {
+                "code": "1220",
+                "name": "應收利息",
+                "ename": "INTEREST RECEIVEABLES",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": 0.0106,
+                "amt": 344641,
+                "trandate": "20240328"
+            },
+            {
+                "code": "3300",
+                "name": "應付受益權單位買回款",
+                "ename": "PAYABLES FOR UNITS REDEEMED",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": -2.3621,
+                "amt": -77125227,
+                "trandate": "20240328"
+            },
+            {
+                "code": "3301",
+                "name": "應付申購預收款",
+                "ename": "PAYABLES",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": -0.256,
+                "amt": -8359785,
+                "trandate": "20240328"
+            }
+        ],
+        "MMF": [],
+        "Margin": [
+            {
+                "code": null,
+                "name": "保證金",
+                "ename": "Margin",
+                "crncy": "JPY",
+                "exrate": 0.2113,
+                "rto": 0,
+                "amt": 197005000,
+                "trandate": "20240328"
+            },
+            {
+                "code": null,
+                "name": "保證金",
+                "ename": "Margin",
+                "crncy": "NTD",
+                "exrate": 1,
+                "rto": 0,
+                "amt": 8516038,
+                "trandate": "20240328"
+            },
+            {
+                "code": null,
+                "name": "保證金",
+                "ename": "Margin",
+                "crncy": "USD",
+                "exrate": 31.996,
+                "rto": 0,
+                "amt": 49.5,
+                "trandate": "20240328"
+            }
+        ],
+        "RP": [],
+        "ForwardExchange": [
+            {
+                "Cname": "遠匯",
+                "Ename": "ForwardExchange",
+                "SAL_CRNCY": "JPY",
+                "SAL_AMT": "12679000000",
+                "End_Rate": 0.2113,
+                "HedgeRatio": "84.41"
+            }
+        ],
+        "Currency": [
+            {
+                "fundId": "1145",
+                "cDate": "20240328",
+                "crncy": "NTD",
+                "endRate": 31.996
+            },
+            {
+                "fundId": "1145",
+                "cDate": "20240328",
+                "crncy": "KRW",
+                "endRate": 1348.63
+            },
+            {
+                "fundId": "1145",
+                "cDate": "20240328",
+                "crncy": "JPY",
+                "endRate": 151.44
+            },
+            {
+                "fundId": "1145",
+                "cDate": "20240328",
+                "crncy": "HKD",
+                "endRate": 7.8236
+            },
+            {
+                "fundId": "1145",
+                "cDate": "20240328",
+                "crncy": "EUR",
+                "endRate": 0.9259
+            },
+            {
+                "fundId": "1145",
+                "cDate": "20240328",
+                "crncy": "CNY",
+                "endRate": 7.2264
+            },
+            {
+                "fundId": "1145",
+                "cDate": "20240328",
+                "crncy": "CNH",
+                "endRate": 7.257
+            }
+        ],
+        "CouponRate": [],
+        "InvestArea": [
+            {
+                "TRAN_DATE": "20240328",
+                "FUND_ID": "1145",
+                "name": "日本",
+                "ename": "JAPAN",
+                "HOLD_RTO": 92.71,
+                "CNT": 225
+            },
+            {
+                "TRAN_DATE": "20240328",
+                "FUND_ID": "1145",
+                "name": "現金",
+                "ename": "Cash",
+                "HOLD_RTO": 7.29,
+                "CNT": 0
+            }
+        ],
+        "CreditRating": []
+    },
+    "FundWeights": {
+        "Summary": {
+            "code": "1145",
+            "name": null,
+            "stkvalues": 3026938194,
+            "futvalues": 224934901.28,
+            "etfvalues": 0,
+            "bndvalues": 0,
+            "fundsize": 3265074329
+        },
+        "StockWeights": [
+            {
+                "code": "9983 JT",
+                "ym": null,
+                "name": "FAST RETAILING CO LTD",
+                "ename": "Fast Retailing Co Ltd",
+                "weights": 10.76,
+                "qty": 35600
+            },
+            {
+                "code": "8035 JT",
+                "ym": null,
+                "name": "TOKYO ELECTRON LTD",
+                "ename": "Tokyo Electron Ltd",
+                "weights": 9.04,
+                "qty": 35600
+            },
+            {
+                "code": "9984 JT",
+                "ym": null,
+                "name": "SOFTBANK GROUP CORP",
+                "ename": "SoftBank Group Corp",
+                "weights": 4.13,
+                "qty": 71300
+            },
+            {
+                "code": "6857 JT",
+                "ym": null,
+                "name": "ADVANTEST CORP",
+                "ename": "Advantest Corp",
+                "weights": 4.12,
+                "qty": 95000
+            },
+            {
+                "code": "4063 JT",
+                "ym": null,
+                "name": "SHIN-ETSU CHEMICAL CO LTD",
+                "ename": "Shin-Etsu Chemical Co Ltd",
+                "weights": 2.54,
+                "qty": 59400
+            },
+            {
+                "code": "9433 JT",
+                "ym": null,
+                "name": "KDDI CORP",
+                "ename": "KDDI Corp",
+                "weights": 2.06,
+                "qty": 71200
+            },
+            {
+                "code": "4543 JT",
+                "ym": null,
+                "name": "TERUMO CORP",
+                "ename": "Terumo Corp",
+                "weights": 1.7,
+                "qty": 95000
+            },
+            {
+                "code": "6762 JT",
+                "ym": null,
+                "name": "TDK CORP",
+                "ename": "TDK Corp",
+                "weights": 1.7,
+                "qty": 35600
+            },
+            {
+                "code": "6954 JT",
+                "ym": null,
+                "name": "FANUC CORP",
+                "ename": "FANUC Corp",
+                "weights": 1.62,
+                "qty": 59400
+            },
+            {
+                "code": "6367 JT",
+                "ym": null,
+                "name": "DAIKIN INDUSTRIES LTD",
+                "ename": "Daikin Industries Ltd",
+                "weights": 1.59,
+                "qty": 11900
+            },
+            {
+                "code": "6098 JT",
+                "ym": null,
+                "name": "RECRUIT HOLDINGS CO LTD",
+                "ename": "Recruit Holdings Co Ltd",
+                "weights": 1.53,
+                "qty": 35600
+            },
+            {
+                "code": "7203 JT",
+                "ym": null,
+                "name": "TOYOTA MOTOR CORP",
+                "ename": "Toyota Motor Corp",
+                "weights": 1.46,
+                "qty": 59400
+            },
+            {
+                "code": "4519 JT",
+                "ym": null,
+                "name": "CHUGAI PHARMACEUTICAL CO LTD",
+                "ename": "Chugai Pharmaceutical Co Ltd",
+                "weights": 1.33,
+                "qty": 35600
+            },
+            {
+                "code": "6920 JT",
+                "ym": null,
+                "name": "LASERTEC CORP",
+                "ename": "Lasertec Corp",
+                "weights": 1.33,
+                "qty": 4800
+            },
+            {
+                "code": "6971 JT",
+                "ym": null,
+                "name": "KYOCERA CORP",
+                "ename": "Kyocera Corp",
+                "weights": 1.24,
+                "qty": 95000
+            },
+            {
+                "code": "4568 JT",
+                "ym": null,
+                "name": "DAIICHI SANKYO CO LTD",
+                "ename": "Daiichi Sankyo Co Ltd",
+                "weights": 1.11,
+                "qty": 35600
+            },
+            {
+                "code": "6988 JT",
+                "ym": null,
+                "name": "NITTO DENKO CORP",
+                "ename": "Nitto Denko Corp",
+                "weights": 1.06,
+                "qty": 11900
+            },
+            {
+                "code": "6758 JT",
+                "ym": null,
+                "name": "SONY GROUP CORP",
+                "ename": "Sony Group Corp",
+                "weights": 1,
+                "qty": 11900
+            },
+            {
+                "code": "9613 JT",
+                "ym": null,
+                "name": "NTT DATA GROUP CORP",
+                "ename": "NTT Data Group Corp",
+                "weights": 0.92,
+                "qty": 59400
+            },
+            {
+                "code": "6902 JT",
+                "ym": null,
+                "name": "DENSO CORP",
+                "ename": "Denso Corp",
+                "weights": 0.89,
+                "qty": 47500
+            },
+            {
+                "code": "7267 JT",
+                "ym": null,
+                "name": "HONDA MOTOR CO LTD",
+                "ename": "Honda Motor Co Ltd",
+                "weights": 0.86,
+                "qty": 71300
+            },
+            {
+                "code": "9735 JT",
+                "ym": null,
+                "name": "SECOM CO LTD",
+                "ename": "Secom Co Ltd",
+                "weights": 0.84,
+                "qty": 11900
+            },
+            {
+                "code": "8015 JT",
+                "ym": null,
+                "name": "TOYOTA TSUSHO CORP",
+                "ename": "Toyota Tsusho Corp",
+                "weights": 0.8,
+                "qty": 11900
+            },
+            {
+                "code": "8058 JT",
+                "ym": null,
+                "name": "MITSUBISHI CORP",
+                "ename": "Mitsubishi Corp",
+                "weights": 0.8,
+                "qty": 35600
+            },
+            {
+                "code": "9766 JT",
+                "ym": null,
+                "name": "KONAMI GROUP CORP",
+                "ename": "Konami Group Corp",
+                "weights": 0.79,
+                "qty": 11900
+            },
+            {
+                "code": "4901 JT",
+                "ym": null,
+                "name": "FUJIFILM HOLDINGS CORP",
+                "ename": "FUJIFILM Holdings Corp",
+                "weights": 0.78,
+                "qty": 35700
+            },
+            {
+                "code": "2801 JT",
+                "ym": null,
+                "name": "KIKKOMAN CORP",
+                "ename": "Kikkoman Corp",
+                "weights": 0.75,
+                "qty": 59500
+            },
+            {
+                "code": "7741 JT",
+                "ym": null,
+                "name": "HOYA CORP",
+                "ename": "Hoya Corp",
+                "weights": 0.72,
+                "qty": 5900
+            },
+            {
+                "code": "7733 JT",
+                "ym": null,
+                "name": "OLYMPUS CORP",
+                "ename": "Olympus Corp",
+                "weights": 0.67,
+                "qty": 47500
+            },
+            {
+                "code": "6273 JT",
+                "ym": null,
+                "name": "SMC CORP",
+                "ename": "SMC Corp",
+                "weights": 0.66,
+                "qty": 1200
+            },
+            {
+                "code": "7832 JT",
+                "ym": null,
+                "name": "BANDAI NAMCO HOLDINGS INC",
+                "ename": "Bandai Namco Holdings Inc",
+                "weights": 0.64,
+                "qty": 35600
+            },
+            {
+                "code": "7974 JT",
+                "ym": null,
+                "name": "NINTENDO CO LTD",
+                "ename": "Nintendo Co Ltd",
+                "weights": 0.64,
+                "qty": 11900
+            },
+            {
+                "code": "4503 JT",
+                "ym": null,
+                "name": "ASTELLAS PHARMA INC",
+                "ename": "Astellas Pharma Inc",
+                "weights": 0.62,
+                "qty": 59400
+            },
+            {
+                "code": "7735 JT",
+                "ym": null,
+                "name": "SCREEN HOLDINGS CO LTD",
+                "ename": "SCREEN Holdings Co Ltd",
+                "weights": 0.61,
+                "qty": 4800
+            },
+            {
+                "code": "4507 JT",
+                "ym": null,
+                "name": "SHIONOGI & CO LTD",
+                "ename": "Shionogi & Co Ltd",
+                "weights": 0.6,
+                "qty": 11900
+            },
+            {
+                "code": "4704 JT",
+                "ym": null,
+                "name": "TREND MICRO INC",
+                "ename": "Trend Micro Inc/Japan",
+                "weights": 0.59,
+                "qty": 11900
+            },
+            {
+                "code": "6861 JT",
+                "ym": null,
+                "name": "KEYENCE CORP",
+                "ename": "Keyence Corp",
+                "weights": 0.54,
+                "qty": 1200
+            },
+            {
+                "code": "8031 JT",
+                "ym": null,
+                "name": "MITSUI & CO LTD",
+                "ename": "Mitsui & Co Ltd",
+                "weights": 0.54,
+                "qty": 11900
+            },
+            {
+                "code": "8766 JT",
+                "ym": null,
+                "name": "TOKIO MARINE HOLDINGS INC",
+                "ename": "Tokio Marine Holdings Inc",
+                "weights": 0.54,
+                "qty": 17700
+            },
+            {
+                "code": "7269 JT",
+                "ym": null,
+                "name": "SUZUKI MOTOR CORP",
+                "ename": "Suzuki Motor Corp",
+                "weights": 0.53,
+                "qty": 47600
+            },
+            {
+                "code": "9843 JT",
+                "ym": null,
+                "name": "NITORI HOLDINGS CO LTD",
+                "ename": "Nitori Holdings Co Ltd",
+                "weights": 0.53,
+                "qty": 3600
+            },
+            {
+                "code": "5108 JT",
+                "ym": null,
+                "name": "BRIDGESTONE CORP",
+                "ename": "Bridgestone Corp",
+                "weights": 0.52,
+                "qty": 11900
+            },
+            {
+                "code": "6981 JT",
+                "ym": null,
+                "name": "MURATA MANUFACTURING CO LTD",
+                "ename": "Murata Manufacturing Co Ltd",
+                "weights": 0.52,
+                "qty": 28500
+            },
+            {
+                "code": "7751 JT",
+                "ym": null,
+                "name": "CANON INC",
+                "ename": "Canon Inc",
+                "weights": 0.52,
+                "qty": 17800
+            },
+            {
+                "code": "3382 JT",
+                "ym": null,
+                "name": "SEVEN & I HOLDINGS CO LTD",
+                "ename": "Seven & i Holdings Co Ltd",
+                "weights": 0.51,
+                "qty": 35600
+            },
+            {
+                "code": "8001 JT",
+                "ym": null,
+                "name": "ITOCHU CORP",
+                "ename": "ITOCHU Corp",
+                "weights": 0.5,
+                "qty": 11900
+            },
+            {
+                "code": "6506 JT",
+                "ym": null,
+                "name": "YASKAWA ELECTRIC CORP",
+                "ename": "Yaskawa Electric Corp",
+                "weights": 0.49,
+                "qty": 11900
+            },
+            {
+                "code": "4523 JT",
+                "ym": null,
+                "name": "EISAI CO LTD",
+                "ename": "Eisai Co Ltd",
+                "weights": 0.48,
+                "qty": 11900
+            },
+            {
+                "code": "4578 JT",
+                "ym": null,
+                "name": "OTSUKA HOLDINGS CO LTD",
+                "ename": "Otsuka Holdings Co Ltd",
+                "weights": 0.48,
+                "qty": 11900
+            },
+            {
+                "code": "4021 JT",
+                "ym": null,
+                "name": "NISSAN CHEMICAL CORP",
+                "ename": "Nissan Chemical Corp",
+                "weights": 0.44,
+                "qty": 11900
+            },
+            {
+                "code": "4452 JT",
+                "ym": null,
+                "name": "KAO CORP",
+                "ename": "Kao Corp",
+                "weights": 0.44,
+                "qty": 11900
+            },
+            {
+                "code": "2502 JT",
+                "ym": null,
+                "name": "ASAHI GROUP HOLDINGS LTD",
+                "ename": "Asahi Group Holdings Ltd",
+                "weights": 0.43,
+                "qty": 11900
+            },
+            {
+                "code": "2802 JT",
+                "ym": null,
+                "name": "AJINOMOTO CO INC",
+                "ename": "Ajinomoto Co Inc",
+                "weights": 0.43,
+                "qty": 11900
+            },
+            {
+                "code": "8830 JT",
+                "ym": null,
+                "name": "SUMITOMO REALTY & DEVELOPMEN",
+                "ename": "Sumitomo Realty & Development Co Ltd",
+                "weights": 0.43,
+                "qty": 11800
+            },
+            {
+                "code": "6645 JT",
+                "ym": null,
+                "name": "OMRON CORP",
+                "ename": "Omron Corp",
+                "weights": 0.42,
+                "qty": 11900
+            },
+            {
+                "code": "6724 JT",
+                "ym": null,
+                "name": "SEIKO EPSON CORP",
+                "ename": "Seiko Epson Corp",
+                "weights": 0.41,
+                "qty": 23800
+            },
+            {
+                "code": "2413 JT",
+                "ym": null,
+                "name": "M3 INC",
+                "ename": "M3 Inc",
+                "weights": 0.4,
+                "qty": 28500
+            },
+            {
+                "code": "3659 JT",
+                "ym": null,
+                "name": "NEXON CO LTD",
+                "ename": "Nexon Co Ltd",
+                "weights": 0.39,
+                "qty": 23800
+            },
+            {
+                "code": "6594 JT",
+                "ym": null,
+                "name": "NIDEC CORP",
+                "ename": "NIDEC CORP",
+                "weights": 0.38,
+                "qty": 9500
+            },
+            {
+                "code": "4661 JT",
+                "ym": null,
+                "name": "ORIENTAL LAND CO LTD",
+                "ename": "Oriental Land Co Ltd/Japan",
+                "weights": 0.37,
+                "qty": 11900
+            },
+            {
+                "code": "8801 JT",
+                "ym": null,
+                "name": "MITSUI FUDOSAN CO LTD",
+                "ename": "Mitsui Fudosan Co Ltd",
+                "weights": 0.37,
+                "qty": 35400
+            },
+            {
+                "code": "1925 JT",
+                "ym": null,
+                "name": "DAIWA HOUSE INDUSTRY CO LTD",
+                "ename": "Daiwa House Industry Co Ltd",
+                "weights": 0.35,
+                "qty": 11900
+            },
+            {
+                "code": "6305 JT",
+                "ym": null,
+                "name": "HITACHI CONSTRUCTION MACHINE",
+                "ename": "Hitachi Construction Machinery Co Ltd",
+                "weights": 0.35,
+                "qty": 11900
+            },
+            {
+                "code": "6301 JT",
+                "ym": null,
+                "name": "KOMATSU LTD",
+                "ename": "Komatsu Ltd",
+                "weights": 0.34,
+                "qty": 11900
+            },
+            {
+                "code": "4324 JT",
+                "ym": null,
+                "name": "DENTSU GROUP INC",
+                "ename": "Dentsu Group Inc",
+                "weights": 0.32,
+                "qty": 11900
+            },
+            {
+                "code": "4502 JT",
+                "ym": null,
+                "name": "TAKEDA PHARMACEUTICAL CO LTD",
+                "ename": "Takeda Pharmaceutical Co Ltd",
+                "weights": 0.32,
+                "qty": 11900
+            },
+            {
+                "code": "4911 JT",
+                "ym": null,
+                "name": "SHISEIDO CO LTD",
+                "ename": "Shiseido Co Ltd",
+                "weights": 0.32,
+                "qty": 11900
+            },
+            {
+                "code": "7272 JT",
+                "ym": null,
+                "name": "YAMAHA MOTOR CO LTD",
+                "ename": "Yamaha Motor Co Ltd",
+                "weights": 0.32,
+                "qty": 35600
+            },
+            {
+                "code": "2914 JT",
+                "ym": null,
+                "name": "JAPAN TOBACCO INC",
+                "ename": "Japan Tobacco Inc",
+                "weights": 0.31,
+                "qty": 11900
+            },
+            {
+                "code": "8697 JT",
+                "ym": null,
+                "name": "JAPAN EXCHANGE GROUP INC",
+                "ename": "Japan Exchange Group Inc",
+                "weights": 0.31,
+                "qty": 11800
+            },
+            {
+                "code": "8053 JT",
+                "ym": null,
+                "name": "SUMITOMO CORP",
+                "ename": "Sumitomo Corp",
+                "weights": 0.28,
+                "qty": 11900
+            },
+            {
+                "code": "8267 JT",
+                "ym": null,
+                "name": "AEON CO LTD",
+                "ename": "Aeon Co Ltd",
+                "weights": 0.28,
+                "qty": 11900
+            },
+            {
+                "code": "1721 JT",
+                "ym": null,
+                "name": "COMSYS HOLDINGS CORP",
+                "ename": "COMSYS Holdings Corp",
+                "weights": 0.27,
+                "qty": 11900
+            },
+            {
+                "code": "6841 JT",
+                "ym": null,
+                "name": "YOKOGAWA ELECTRIC CORP",
+                "ename": "Yokogawa Electric Corp",
+                "weights": 0.27,
+                "qty": 11900
+            },
+            {
+                "code": "6976 JT",
+                "ym": null,
+                "name": "TAIYO YUDEN CO LTD",
+                "ename": "Taiyo Yuden Co Ltd",
+                "weights": 0.27,
+                "qty": 11900
+            },
+            {
+                "code": "1928 JT",
+                "ym": null,
+                "name": "SEKISUI HOUSE LTD",
+                "ename": "Sekisui House Ltd",
+                "weights": 0.26,
+                "qty": 11900
+            },
+            {
+                "code": "7270 JT",
+                "ym": null,
+                "name": "SUBARU CORP",
+                "ename": "Subaru Corp",
+                "weights": 0.26,
+                "qty": 11900
+            },
+            {
+                "code": "7951 JT",
+                "ym": null,
+                "name": "YAMAHA CORP",
+                "ename": "Yamaha Corp",
+                "weights": 0.25,
+                "qty": 11900
+            },
+            {
+                "code": "8591 JT",
+                "ym": null,
+                "name": "ORIX CORP",
+                "ename": "ORIX Corp",
+                "weights": 0.25,
+                "qty": 11800
+            },
+            {
+                "code": "8253 JT",
+                "ym": null,
+                "name": "CREDIT SAISON CO LTD",
+                "ename": "Credit Saison Co Ltd",
+                "weights": 0.24,
+                "qty": 11900
+            },
+            {
+                "code": "6479 JT",
+                "ym": null,
+                "name": "MINEBEA MITSUMI INC",
+                "ename": "MINEBEA MITSUMI Inc",
+                "weights": 0.23,
+                "qty": 11900
+            },
+            {
+                "code": "9009 JT",
+                "ym": null,
+                "name": "KEISEI ELECTRIC RAILWAY CO",
+                "ename": "Keisei Electric Railway Co Ltd",
+                "weights": 0.23,
+                "qty": 5800
+            },
+            {
+                "code": "9201 JT",
+                "ym": null,
+                "name": "JAPAN AIRLINES CO LTD",
+                "ename": "Japan Airlines Co Ltd",
+                "weights": 0.22,
+                "qty": 11800
+            },
+            {
+                "code": "4151 JT",
+                "ym": null,
+                "name": "KYOWA KIRIN CO LTD",
+                "ename": "Kyowa Kirin Co Ltd",
+                "weights": 0.21,
+                "qty": 11900
+            },
+            {
+                "code": "6361 JT",
+                "ym": null,
+                "name": "EBARA CORP",
+                "ename": "Ebara Corp",
+                "weights": 0.21,
+                "qty": 2400
+            },
+            {
+                "code": "6501 JT",
+                "ym": null,
+                "name": "HITACHI LTD",
+                "ename": "Hitachi Ltd",
+                "weights": 0.21,
+                "qty": 2400
+            },
+            {
+                "code": "6723 JT",
+                "ym": null,
+                "name": "RENESAS ELECTRONICS CORP",
+                "ename": "Renesas Electronics Corp",
+                "weights": 0.21,
+                "qty": 11900
+            },
+            {
+                "code": "8802 JT",
+                "ym": null,
+                "name": "MITSUBISHI ESTATE CO LTD",
+                "ename": "Mitsubishi Estate Co Ltd",
+                "weights": 0.21,
+                "qty": 11800
+            },
+            {
+                "code": "8002 JT",
+                "ym": null,
+                "name": "MARUBENI CORP",
+                "ename": "Marubeni Corp",
+                "weights": 0.2,
+                "qty": 11900
+            },
+            {
+                "code": "2282 JT",
+                "ym": null,
+                "name": "NH FOODS LTD",
+                "ename": "NH Foods Ltd",
+                "weights": 0.19,
+                "qty": 5900
+            },
+            {
+                "code": "3099 JT",
+                "ym": null,
+                "name": "ISETAN MITSUKOSHI HOLDINGS L",
+                "ename": "Isetan Mitsukoshi Holdings Ltd",
+                "weights": 0.19,
+                "qty": 11900
+            },
+            {
+                "code": "6503 JT",
+                "ym": null,
+                "name": "MITSUBISHI ELECTRIC CORP",
+                "ename": "Mitsubishi Electric Corp",
+                "weights": 0.19,
+                "qty": 11900
+            },
+            {
+                "code": "6702 JT",
+                "ym": null,
+                "name": "FUJITSU LIMITED",
+                "ename": "Fujitsu Ltd",
+                "weights": 0.19,
+                "qty": 12000
+            },
+            {
+                "code": "8252 JT",
+                "ym": null,
+                "name": "MARUI GROUP CO LTD",
+                "ename": "Marui Group Co Ltd",
+                "weights": 0.19,
+                "qty": 11900
+            },
+            {
+                "code": "5802 JT",
+                "ym": null,
+                "name": "SUMITOMO ELECTRIC INDUSTRIES",
+                "ename": "Sumitomo Electric Industries Ltd",
+                "weights": 0.18,
+                "qty": 11900
+            },
+            {
+                "code": "6326 JT",
+                "ym": null,
+                "name": "KUBOTA CORP",
+                "ename": "Kubota Corp",
+                "weights": 0.18,
+                "qty": 11900
+            },
+            {
+                "code": "7912 JT",
+                "ym": null,
+                "name": "DAI NIPPON PRINTING CO LTD",
+                "ename": "Dai Nippon Printing Co Ltd",
+                "weights": 0.18,
+                "qty": 5900
+            },
+            {
+                "code": "8725 JT",
+                "ym": null,
+                "name": "MS&AD INSURANCE GROUP HOLDIN",
+                "ename": "MS&AD Insurance Group Holdings Inc",
+                "weights": 0.18,
+                "qty": 10500
+            },
+            {
+                "code": "9301 JT",
+                "ym": null,
+                "name": "MITSUBISHI LOGISTICS CORP",
+                "ename": "Mitsubishi Logistics Corp",
+                "weights": 0.18,
+                "qty": 5800
+            },
+            {
+                "code": "5713 JT",
+                "ym": null,
+                "name": "SUMITOMO METAL MINING CO LTD",
+                "ename": "Sumitomo Metal Mining Co Ltd",
+                "weights": 0.17,
+                "qty": 5900
+            },
+            {
+                "code": "5803 JT",
+                "ym": null,
+                "name": "FUJIKURA LTD",
+                "ename": "Fujikura Ltd",
+                "weights": 0.17,
+                "qty": 11900
+            },
+            {
+                "code": "9064 JT",
+                "ym": null,
+                "name": "YAMATO HOLDINGS CO LTD",
+                "ename": "Yamato Holdings Co Ltd",
+                "weights": 0.17,
+                "qty": 11800
+            },
+            {
+                "code": "2002 JT",
+                "ym": null,
+                "name": "NISSHIN SEIFUN GROUP INC",
+                "ename": "Nisshin Seifun Group Inc",
+                "weights": 0.16,
+                "qty": 11900
+            },
+            {
+                "code": "2503 JT",
+                "ym": null,
+                "name": "KIRIN HOLDINGS CO LTD",
+                "ename": "Kirin Holdings Co Ltd",
+                "weights": 0.16,
+                "qty": 11900
+            },
+            {
+                "code": "2871 JT",
+                "ym": null,
+                "name": "NICHIREI CORP",
+                "ename": "Nichirei Corp",
+                "weights": 0.16,
+                "qty": 5900
+            },
+            {
+                "code": "5019 JT",
+                "ym": null,
+                "name": "IDEMITSU KOSAN CO LTD",
+                "ename": "Idemitsu Kosan Co Ltd",
+                "weights": 0.16,
+                "qty": 23800
+            },
+            {
+                "code": "5101 JT",
+                "ym": null,
+                "name": "YOKOHAMA RUBBER CO LTD",
+                "ename": "Yokohama Rubber Co Ltd/The",
+                "weights": 0.16,
+                "qty": 5900
+            },
+            {
+                "code": "5332 JT",
+                "ym": null,
+                "name": "TOTO LTD",
+                "ename": "TOTO Ltd",
+                "weights": 0.16,
+                "qty": 5900
+            },
+            {
+                "code": "5333 JT",
+                "ym": null,
+                "name": "NGK INSULATORS LTD",
+                "ename": "NGK Insulators Ltd",
+                "weights": 0.16,
+                "qty": 11900
+            },
+            {
+                "code": "6504 JT",
+                "ym": null,
+                "name": "FUJI ELECTRIC CO LTD",
+                "ename": "Fuji Electric Co Ltd",
+                "weights": 0.16,
+                "qty": 2400
+            },
+            {
+                "code": "4385 JT",
+                "ym": null,
+                "name": "MERCARI INC",
+                "ename": "Mercari Inc",
+                "weights": 0.15,
+                "qty": 11900
+            },
+            {
+                "code": "9434 JT",
+                "ym": null,
+                "name": "SOFTBANK CORP",
+                "ename": "SoftBank Corp",
+                "weights": 0.15,
+                "qty": 11800
+            },
+            {
+                "code": "1802 JT",
+                "ym": null,
+                "name": "OBAYASHI CORP",
+                "ename": "Obayashi Corp",
+                "weights": 0.14,
+                "qty": 11900
+            },
+            {
+                "code": "7911 JT",
+                "ym": null,
+                "name": "TOPPAN HOLDINGS INC",
+                "ename": "TOPPAN Holdings Inc",
+                "weights": 0.14,
+                "qty": 5900
+            },
+            {
+                "code": "8630 JT",
+                "ym": null,
+                "name": "SOMPO HOLDINGS INC",
+                "ename": "Sompo Holdings Inc",
+                "weights": 0.14,
+                "qty": 6900
+            },
+            {
+                "code": "9022 JT",
+                "ym": null,
+                "name": "CENTRAL JAPAN RAILWAY CO",
+                "ename": "Central Japan Railway Co",
+                "weights": 0.14,
+                "qty": 5800
+            },
+            {
+                "code": "9107 JT",
+                "ym": null,
+                "name": "KAWASAKI KISEN KAISHA LTD",
+                "ename": "Kawasaki Kisen Kaisha Ltd",
+                "weights": 0.14,
+                "qty": 10500
+            },
+            {
+                "code": "9432 JT",
+                "ym": null,
+                "name": "NIPPON TELEGRAPH & TELEPHONE",
+                "ename": "Nippon Telegraph & Telephone Corp",
+                "weights": 0.14,
+                "qty": 118700
+            },
+            {
+                "code": "6113 JT",
+                "ym": null,
+                "name": "AMADA CO LTD",
+                "ename": "Amada Co Ltd",
+                "weights": 0.13,
+                "qty": 11900
+            },
+            {
+                "code": "1812 JT",
+                "ym": null,
+                "name": "KAJIMA CORP",
+                "ename": "Kajima Corp",
+                "weights": 0.12,
+                "qty": 5900
+            },
+            {
+                "code": "3405 JT",
+                "ym": null,
+                "name": "KURARAY CO LTD",
+                "ename": "Kuraray Co Ltd",
+                "weights": 0.12,
+                "qty": 11900
+            },
+            {
+                "code": "6178 JT",
+                "ym": null,
+                "name": "JAPAN POST HOLDINGS CO LTD",
+                "ename": "Japan Post Holdings Co Ltd",
+                "weights": 0.12,
+                "qty": 11900
+            },
+            {
+                "code": "7731 JT",
+                "ym": null,
+                "name": "NIKON CORP",
+                "ename": "Nikon Corp",
+                "weights": 0.12,
+                "qty": 11900
+            },
+            {
+                "code": "8306 JT",
+                "ym": null,
+                "name": "MITSUBISHI UFJ FINANCIAL GRO",
+                "ename": "Mitsubishi UFJ Financial Group Inc",
+                "weights": 0.12,
+                "qty": 11900
+            },
+            {
+                "code": "1963 JT",
+                "ym": null,
+                "name": "JGC HOLDINGS CORP",
+                "ename": "JGC Holdings Corp",
+                "weights": 0.11,
+                "qty": 11900
+            },
+            {
+                "code": "5831 JT",
+                "ym": null,
+                "name": "SHIZUOKA FINANCIAL GROUP INC",
+                "ename": "Shizuoka Financial Group Inc",
+                "weights": 0.11,
+                "qty": 11900
+            },
+            {
+                "code": "6103 JT",
+                "ym": null,
+                "name": "OKUMA CORP",
+                "ename": "OKUMA Corp",
+                "weights": 0.11,
+                "qty": 2400
+            },
+            {
+                "code": "6473 JT",
+                "ym": null,
+                "name": "JTEKT CORP",
+                "ename": "JTEKT Corp",
+                "weights": 0.11,
+                "qty": 11900
+            },
+            {
+                "code": "6752 JT",
+                "ym": null,
+                "name": "PANASONIC HOLDINGS CORP",
+                "ename": "Panasonic Holdings Corp",
+                "weights": 0.11,
+                "qty": 11900
+            },
+            {
+                "code": "7011 JT",
+                "ym": null,
+                "name": "MITSUBISHI HEAVY INDUSTRIES",
+                "ename": "Mitsubishi Heavy Industries Ltd",
+                "weights": 0.11,
+                "qty": 12000
+            },
+            {
+                "code": "2269 JT",
+                "ym": null,
+                "name": "MEIJI HOLDINGS CO LTD",
+                "ename": "MEIJI Holdings Co Ltd",
+                "weights": 0.1,
+                "qty": 4800
+            },
+            {
+                "code": "6952 JT",
+                "ym": null,
+                "name": "CASIO COMPUTER CO LTD",
+                "ename": "Casio Computer Co Ltd",
+                "weights": 0.1,
+                "qty": 11900
+            },
+            {
+                "code": "7752 JT",
+                "ym": null,
+                "name": "RICOH CO LTD",
+                "ename": "Ricoh Co Ltd",
+                "weights": 0.1,
+                "qty": 11900
+            },
+            {
+                "code": "8331 JT",
+                "ym": null,
+                "name": "CHIBA BANK LTD/THE",
+                "ename": "Chiba Bank Ltd/The",
+                "weights": 0.1,
+                "qty": 11900
+            },
+            {
+                "code": "8804 JT",
+                "ym": null,
+                "name": "TOKYO TATEMONO CO LTD",
+                "ename": "Tokyo Tatemono Co Ltd",
+                "weights": 0.1,
+                "qty": 5800
+            },
+            {
+                "code": "9104 JT",
+                "ym": null,
+                "name": "MITSUI OSK LINES LTD",
+                "ename": "Mitsui OSK Lines Ltd",
+                "weights": 0.1,
+                "qty": 3500
+            },
+            {
+                "code": "1801 JT",
+                "ym": null,
+                "name": "TAISEI CORP",
+                "ename": "Taisei Corp",
+                "weights": 0.09,
+                "qty": 2400
+            },
+            {
+                "code": "2501 JT",
+                "ym": null,
+                "name": "SAPPORO HOLDINGS LTD",
+                "ename": "Sapporo Holdings Ltd",
+                "weights": 0.09,
+                "qty": 2400
+            },
+            {
+                "code": "3289 JT",
+                "ym": null,
+                "name": "TOKYU FUDOSAN HOLDINGS CORP",
+                "ename": "Tokyu Fudosan Holdings Corp",
+                "weights": 0.09,
+                "qty": 11900
+            },
+            {
+                "code": "3407 JT",
+                "ym": null,
+                "name": "ASAHI KASEI CORP",
+                "ename": "Asahi Kasei Corp",
+                "weights": 0.09,
+                "qty": 11900
+            },
+            {
+                "code": "5201 JT",
+                "ym": null,
+                "name": "AGC INC",
+                "ename": "AGC Inc",
+                "weights": 0.09,
+                "qty": 2400
+            },
+            {
+                "code": "5214 JT",
+                "ym": null,
+                "name": "NIPPON ELECTRIC GLASS CO LTD",
+                "ename": "Nippon Electric Glass Co Ltd",
+                "weights": 0.09,
+                "qty": 3600
+            },
+            {
+                "code": "6701 JT",
+                "ym": null,
+                "name": "NEC CORP",
+                "ename": "NEC Corp",
+                "weights": 0.09,
+                "qty": 1200
+            },
+            {
+                "code": "6770 JT",
+                "ym": null,
+                "name": "ALPS ALPINE CO LTD",
+                "ename": "Alps Alpine Co Ltd",
+                "weights": 0.09,
+                "qty": 11900
+            },
+            {
+                "code": "8233 JT",
+                "ym": null,
+                "name": "TAKASHIMAYA CO LTD",
+                "ename": "Takashimaya Co Ltd",
+                "weights": 0.09,
+                "qty": 5900
+            },
+            {
+                "code": "8601 JT",
+                "ym": null,
+                "name": "DAIWA SECURITIES GROUP INC",
+                "ename": "Daiwa Securities Group Inc",
+                "weights": 0.09,
+                "qty": 11800
+            },
+            {
+                "code": "9101 JT",
+                "ym": null,
+                "name": "NIPPON YUSEN KK",
+                "ename": "Nippon Yusen KK",
+                "weights": 0.09,
+                "qty": 3500
+            },
+            {
+                "code": "1803 JT",
+                "ym": null,
+                "name": "SHIMIZU CORP",
+                "ename": "Shimizu Corp",
+                "weights": 0.08,
+                "qty": 11900
+            },
+            {
+                "code": "2531 JT",
+                "ym": null,
+                "name": "TAKARA HOLDINGS INC",
+                "ename": "Takara Holdings Inc",
+                "weights": 0.08,
+                "qty": 11900
+            },
+            {
+                "code": "4042 JT",
+                "ym": null,
+                "name": "TOSOH CORP",
+                "ename": "Tosoh Corp",
+                "weights": 0.08,
+                "qty": 5900
+            },
+            {
+                "code": "5301 JT",
+                "ym": null,
+                "name": "TOKAI CARBON CO LTD",
+                "ename": "Tokai Carbon Co Ltd",
+                "weights": 0.08,
+                "qty": 11900
+            },
+            {
+                "code": "5714 JT",
+                "ym": null,
+                "name": "DOWA HOLDINGS CO LTD",
+                "ename": "Dowa Holdings Co Ltd",
+                "weights": 0.08,
+                "qty": 2400
+            },
+            {
+                "code": "7202 JT",
+                "ym": null,
+                "name": "ISUZU MOTORS LTD",
+                "ename": "Isuzu Motors Ltd",
+                "weights": 0.08,
+                "qty": 5900
+            },
+            {
+                "code": "7762 JT",
+                "ym": null,
+                "name": "CITIZEN WATCH CO LTD",
+                "ename": "Citizen Watch Co Ltd",
+                "weights": 0.08,
+                "qty": 11900
+            },
+            {
+                "code": "9007 JT",
+                "ym": null,
+                "name": "ODAKYU ELECTRIC RAILWAY CO",
+                "ename": "Odakyu Electric Railway Co Ltd",
+                "weights": 0.08,
+                "qty": 5800
+            },
+            {
+                "code": "1332 JT",
+                "ym": null,
+                "name": "NISSUI CORP",
+                "ename": "Nissui Corp",
+                "weights": 0.07,
+                "qty": 11900
+            },
+            {
+                "code": "1605 JT",
+                "ym": null,
+                "name": "INPEX CORP",
+                "ename": "Inpex Corp",
+                "weights": 0.07,
+                "qty": 4800
+            },
+            {
+                "code": "4183 JT",
+                "ym": null,
+                "name": "MITSUI CHEMICALS INC",
+                "ename": "Mitsui Chemicals Inc",
+                "weights": 0.07,
+                "qty": 2400
+            },
+            {
+                "code": "4751 JT",
+                "ym": null,
+                "name": "CYBERAGENT INC",
+                "ename": "CyberAgent Inc",
+                "weights": 0.07,
+                "qty": 9500
+            },
+            {
+                "code": "4755 JT",
+                "ym": null,
+                "name": "RAKUTEN GROUP INC",
+                "ename": "Rakuten Group Inc",
+                "weights": 0.07,
+                "qty": 11900
+            },
+            {
+                "code": "6302 JT",
+                "ym": null,
+                "name": "SUMITOMO HEAVY INDUSTRIES",
+                "ename": "Sumitomo Heavy Industries Ltd",
+                "weights": 0.07,
+                "qty": 2400
+            },
+            {
+                "code": "6471 JT",
+                "ym": null,
+                "name": "NSK LTD",
+                "ename": "NSK Ltd",
+                "weights": 0.07,
+                "qty": 11900
+            },
+            {
+                "code": "8316 JT",
+                "ym": null,
+                "name": "SUMITOMO MITSUI FINANCIAL GR",
+                "ename": "Sumitomo Mitsui Financial Group Inc",
+                "weights": 0.07,
+                "qty": 1200
+            },
+            {
+                "code": "8604 JT",
+                "ym": null,
+                "name": "NOMURA HOLDINGS INC",
+                "ename": "Nomura Holdings Inc",
+                "weights": 0.07,
+                "qty": 11800
+            },
+            {
+                "code": "9005 JT",
+                "ym": null,
+                "name": "TOKYU CORP",
+                "ename": "Tokyu Corp",
+                "weights": 0.07,
+                "qty": 5800
+            },
+            {
+                "code": "3086 JT",
+                "ym": null,
+                "name": "J FRONT RETAILING CO LTD",
+                "ename": "J Front Retailing Co Ltd",
+                "weights": 0.06,
+                "qty": 5900
+            },
+            {
+                "code": "3402 JT",
+                "ym": null,
+                "name": "TORAY INDUSTRIES INC",
+                "ename": "Toray Industries Inc",
+                "weights": 0.06,
+                "qty": 11900
+            },
+            {
+                "code": "5020 JT",
+                "ym": null,
+                "name": "ENEOS HOLDINGS INC",
+                "ename": "ENEOS Holdings Inc",
+                "weights": 0.06,
+                "qty": 11900
+            },
+            {
+                "code": "6753 JT",
+                "ym": null,
+                "name": "SHARP CORP",
+                "ename": "Sharp Corp/Japan",
+                "weights": 0.06,
+                "qty": 11900
+            },
+            {
+                "code": "7186 JT",
+                "ym": null,
+                "name": "CONCORDIA FINANCIAL GROUP LT",
+                "ename": "Concordia Financial Group Ltd",
+                "weights": 0.06,
+                "qty": 11900
+            },
+            {
+                "code": "8354 JT",
+                "ym": null,
+                "name": "FUKUOKA FINANCIAL GROUP INC",
+                "ename": "Fukuoka Financial Group Inc",
+                "weights": 0.06,
+                "qty": 2300
+            },
+            {
+                "code": "9001 JT",
+                "ym": null,
+                "name": "TOBU RAILWAY CO LTD",
+                "ename": "Tobu Railway Co Ltd",
+                "weights": 0.06,
+                "qty": 2300
+            },
+            {
+                "code": "9008 JT",
+                "ym": null,
+                "name": "KEIO CORP",
+                "ename": "Keio Corp",
+                "weights": 0.06,
+                "qty": 2300
+            },
+            {
+                "code": "9020 JT",
+                "ym": null,
+                "name": "EAST JAPAN RAILWAY CO",
+                "ename": "East Japan Railway Co",
+                "weights": 0.06,
+                "qty": 3300
+            },
+            {
+                "code": "3861 JT",
+                "ym": null,
+                "name": "OJI HOLDINGS CORP",
+                "ename": "Oji Holdings Corp",
+                "weights": 0.05,
+                "qty": 11900
+            },
+            {
+                "code": "5631 JT",
+                "ym": null,
+                "name": "JAPAN STEEL WORKS LTD",
+                "ename": "Japan Steel Works Ltd/The",
+                "weights": 0.05,
+                "qty": 2400
+            },
+            {
+                "code": "6674 JT",
+                "ym": null,
+                "name": "GS YUASA CORP",
+                "ename": "GS Yuasa Corp",
+                "weights": 0.05,
+                "qty": 2400
+            },
+            {
+                "code": "7201 JT",
+                "ym": null,
+                "name": "NISSAN MOTOR CO LTD",
+                "ename": "Nissan Motor Co Ltd",
+                "weights": 0.05,
+                "qty": 11900
+            },
+            {
+                "code": "8309 JT",
+                "ym": null,
+                "name": "SUMITOMO MITSUI TRUST HOLDIN",
+                "ename": "Sumitomo Mitsui Trust Holdings Inc",
+                "weights": 0.05,
+                "qty": 2400
+            },
+            {
+                "code": "9147 JT",
+                "ym": null,
+                "name": "NIPPON EXPRESS HOLDINGS INC",
+                "ename": "NIPPON EXPRESS HOLDINGS INC",
+                "weights": 0.05,
+                "qty": 1100
+            },
+            {
+                "code": "9531 JT",
+                "ym": null,
+                "name": "TOKYO GAS CO LTD",
+                "ename": "Tokyo Gas Co Ltd",
+                "weights": 0.05,
+                "qty": 2400
+            },
+            {
+                "code": "9532 JT",
+                "ym": null,
+                "name": "OSAKA GAS CO LTD",
+                "ename": "Osaka Gas Co Ltd",
+                "weights": 0.05,
+                "qty": 2400
+            },
+            {
+                "code": "4043 JT",
+                "ym": null,
+                "name": "TOKUYAMA CORP",
+                "ename": "Tokuyama Corp",
+                "weights": 0.04,
+                "qty": 2400
+            },
+            {
+                "code": "4061 JT",
+                "ym": null,
+                "name": "DENKA CO LTD",
+                "ename": "Denka Co Ltd",
+                "weights": 0.04,
+                "qty": 2400
+            },
+            {
+                "code": "4188 JT",
+                "ym": null,
+                "name": "MITSUBISHI CHEMICAL GROUP CO",
+                "ename": "Mitsubishi Chemical Group Corp",
+                "weights": 0.04,
+                "qty": 5900
+            },
+            {
+                "code": "4902 JT",
+                "ym": null,
+                "name": "KONICA MINOLTA INC",
+                "ename": "Konica Minolta Inc",
+                "weights": 0.04,
+                "qty": 11900
+            },
+            {
+                "code": "5706 JT",
+                "ym": null,
+                "name": "MITSUI MINING & SMELTING CO",
+                "ename": "Mitsui Mining & Smelting Co Ltd",
+                "weights": 0.04,
+                "qty": 1200
+            },
+            {
+                "code": "7012 JT",
+                "ym": null,
+                "name": "KAWASAKI HEAVY INDUSTRIES",
+                "ename": "Kawasaki Heavy Industries Ltd",
+                "weights": 0.04,
+                "qty": 1200
+            },
+            {
+                "code": "7205 JT",
+                "ym": null,
+                "name": "HINO MOTORS LTD",
+                "ename": "Hino Motors Ltd",
+                "weights": 0.04,
+                "qty": 11900
+            },
+            {
+                "code": "8795 JT",
+                "ym": null,
+                "name": "T&D HOLDINGS INC",
+                "ename": "T&D Holdings Inc",
+                "weights": 0.04,
+                "qty": 2300
+            },
+            {
+                "code": "9021 JT",
+                "ym": null,
+                "name": "WEST JAPAN RAILWAY CO",
+                "ename": "West Japan Railway Co",
+                "weights": 0.04,
+                "qty": 2200
+            },
+            {
+                "code": "9602 JT",
+                "ym": null,
+                "name": "TOHO CO LTD",
+                "ename": "Toho Co Ltd/Tokyo",
+                "weights": 0.04,
+                "qty": 1200
+            },
+            {
+                "code": "1808 JT",
+                "ym": null,
+                "name": "HASEKO CORP",
+                "ename": "Haseko Corp",
+                "weights": 0.03,
+                "qty": 2400
+            },
+            {
+                "code": "2432 JT",
+                "ym": null,
+                "name": "DENA CO LTD",
+                "ename": "DeNA Co Ltd",
+                "weights": 0.03,
+                "qty": 3600
+            },
+            {
+                "code": "2768 JT",
+                "ym": null,
+                "name": "SOJITZ CORP",
+                "ename": "Sojitz Corp",
+                "weights": 0.03,
+                "qty": 1220
+            },
+            {
+                "code": "4004 JT",
+                "ym": null,
+                "name": "RESONAC HOLDINGS CORP",
+                "ename": "Resonac Holdings Corp",
+                "weights": 0.03,
+                "qty": 1200
+            },
+            {
+                "code": "4005 JT",
+                "ym": null,
+                "name": "SUMITOMO CHEMICAL CO LTD",
+                "ename": "Sumitomo Chemical Co Ltd",
+                "weights": 0.03,
+                "qty": 11900
+            },
+            {
+                "code": "4506 JT",
+                "ym": null,
+                "name": "SUMITOMO PHARMA CO LTD",
+                "ename": "Sumitomo Pharma Co Ltd",
+                "weights": 0.03,
+                "qty": 11900
+            },
+            {
+                "code": "5232 JT",
+                "ym": null,
+                "name": "SUMITOMO OSAKA CEMENT CO LTD",
+                "ename": "Sumitomo Osaka Cement Co Ltd",
+                "weights": 0.03,
+                "qty": 1200
+            },
+            {
+                "code": "5233 JT",
+                "ym": null,
+                "name": "TAIHEIYO CEMENT CORP",
+                "ename": "Taiheiyo Cement Corp",
+                "weights": 0.03,
+                "qty": 1200
+            },
+            {
+                "code": "5401 JT",
+                "ym": null,
+                "name": "NIPPON STEEL CORP",
+                "ename": "Nippon Steel Corp",
+                "weights": 0.03,
+                "qty": 1200
+            },
+            {
+                "code": "7013 JT",
+                "ym": null,
+                "name": "IHI CORP",
+                "ename": "IHI Corp",
+                "weights": 0.03,
+                "qty": 1200
+            },
+            {
+                "code": "7261 JT",
+                "ym": null,
+                "name": "MAZDA MOTOR CORP",
+                "ename": "Mazda Motor Corp",
+                "weights": 0.03,
+                "qty": 2400
+            },
+            {
+                "code": "8750 JT",
+                "ym": null,
+                "name": "DAI-ICHI LIFE HOLDINGS INC",
+                "ename": "Dai-ichi Life Holdings Inc",
+                "weights": 0.03,
+                "qty": 1100
+            },
+            {
+                "code": "3401 JT",
+                "ym": null,
+                "name": "TEIJIN LTD",
+                "ename": "Teijin Ltd",
+                "weights": 0.02,
+                "qty": 2400
+            },
+            {
+                "code": "3436 JT",
+                "ym": null,
+                "name": "SUMCO CORP",
+                "ename": "SUMCO Corp",
+                "weights": 0.02,
+                "qty": 1200
+            },
+            {
+                "code": "4208 JT",
+                "ym": null,
+                "name": "UBE CORP",
+                "ename": "UBE Corp",
+                "weights": 0.02,
+                "qty": 1200
+            },
+            {
+                "code": "4631 JT",
+                "ym": null,
+                "name": "DIC CORP",
+                "ename": "DIC Corp",
+                "weights": 0.02,
+                "qty": 1200
+            },
+            {
+                "code": "5406 JT",
+                "ym": null,
+                "name": "KOBE STEEL LTD",
+                "ename": "Kobe Steel Ltd",
+                "weights": 0.02,
+                "qty": 1200
+            },
+            {
+                "code": "5411 JT",
+                "ym": null,
+                "name": "JFE HOLDINGS INC",
+                "ename": "JFE Holdings Inc",
+                "weights": 0.02,
+                "qty": 1200
+            },
+            {
+                "code": "5711 JT",
+                "ym": null,
+                "name": "MITSUBISHI MATERIALS CORP",
+                "ename": "Mitsubishi Materials Corp",
+                "weights": 0.02,
+                "qty": 1200
+            },
+            {
+                "code": "5801 JT",
+                "ym": null,
+                "name": "FURUKAWA ELECTRIC CO LTD",
+                "ename": "Furukawa Electric Co Ltd",
+                "weights": 0.02,
+                "qty": 1200
+            },
+            {
+                "code": "6472 JT",
+                "ym": null,
+                "name": "NTN CORP",
+                "ename": "NTN Corp",
+                "weights": 0.02,
+                "qty": 11900
+            },
+            {
+                "code": "7004 JT",
+                "ym": null,
+                "name": "HITACHI ZOSEN CORP",
+                "ename": "Hitachi Zosen Corp",
+                "weights": 0.02,
+                "qty": 2400
+            },
+            {
+                "code": "8304 JT",
+                "ym": null,
+                "name": "AOZORA BANK LTD",
+                "ename": "Aozora Bank Ltd",
+                "weights": 0.02,
+                "qty": 1200
+            },
+            {
+                "code": "8411 JT",
+                "ym": null,
+                "name": "MIZUHO FINANCIAL GROUP INC",
+                "ename": "Mizuho Financial Group Inc",
+                "weights": 0.02,
+                "qty": 1110
+            },
+            {
+                "code": "9202 JT",
+                "ym": null,
+                "name": "ANA HOLDINGS INC",
+                "ename": "ANA Holdings Inc",
+                "weights": 0.02,
+                "qty": 1100
+            },
+            {
+                "code": "9502 JT",
+                "ym": null,
+                "name": "CHUBU ELECTRIC POWER CO INC",
+                "ename": "Chubu Electric Power Co Inc",
+                "weights": 0.02,
+                "qty": 1200
+            },
+            {
+                "code": "9503 JT",
+                "ym": null,
+                "name": "KANSAI ELECTRIC POWER CO INC",
+                "ename": "Kansai Electric Power Co Inc/The",
+                "weights": 0.02,
+                "qty": 1200
+            },
+            {
+                "code": "3863 JT",
+                "ym": null,
+                "name": "NIPPON PAPER INDUSTRIES CO L",
+                "ename": "Nippon Paper Industries Co Ltd",
+                "weights": 0.01,
+                "qty": 1200
+            },
+            {
+                "code": "4689 JT",
+                "ym": null,
+                "name": "LY CORP",
+                "ename": "LY Corp",
+                "weights": 0.01,
+                "qty": 4800
+            },
+            {
+                "code": "5541 JT",
+                "ym": null,
+                "name": "PACIFIC METALS CO LTD",
+                "ename": "Pacific Metals Co Ltd",
+                "weights": 0.01,
+                "qty": 1200
+            },
+            {
+                "code": "8308 JT",
+                "ym": null,
+                "name": "RESONA HOLDINGS INC",
+                "ename": "Resona Holdings Inc",
+                "weights": 0.01,
+                "qty": 1200
+            },
+            {
+                "code": "9501 JT",
+                "ym": null,
+                "name": "TOKYO ELECTRIC POWER COMPANY",
+                "ename": "Tokyo Electric Power Co Holdings Inc",
+                "weights": 0.01,
+                "qty": 1200
+            },
+            {
+                "code": "7211 JT",
+                "ym": null,
+                "name": "MITSUBISHI MOTORS CORP",
+                "ename": "Mitsubishi Motors Corp",
+                "weights": 0,
+                "qty": 1200
+            }
+        ],
+        "FutureWeights": [
+            {
+                "code": "NK",
+                "ym": "202406",
+                "name": "日經225指數期貨(SGX)",
+                "ename": "Nikkei Stock Average (225)-SGX",
+                "weights": 6.89,
+                "qty": 53
+            }
+        ],
+        "ETFWeights": [],
+        "BondWeights": []
+    },
+    "Memo": null
+}

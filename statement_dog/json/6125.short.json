@@ -6,19 +6,19 @@
         "main_business": "整廠自動化物流系統整合之工程服務。",
         "website_url": "http://www.kenmec.com",
         "ceo": "柯智鈞",
-        "pe_ratio": 47,
+        "pe_ratio": 26,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 23,
         "eps_negative_percentage": 35,
         "eps_growth_avg": {
-            "last_all": -18.03,
-            "last_2y": -32.11,
-            "last_4y": -66.05,
-            "last_8y": -72.89,
-            "last_12y": -78.31,
-            "last_16y": -43.24,
-            "last_20y": -19.33,
+            "last_all": -10.85,
+            "last_2y": 68.42,
+            "last_4y": -15.79,
+            "last_8y": -47.76,
+            "last_12y": -58.21,
+            "last_16y": -32.07,
+            "last_20y": -11.59,
             "at_2006_last_3y": 34.49,
             "at_2007_last_3y": 9.89,
             "at_2008_last_3y": 19.4,
@@ -36,8 +36,8 @@
             "at_2020_last_3y": -100,
             "at_2021_last_3y": -100,
             "at_2022_last_3y": -100,
-            "at_2023_last_3y": -66.05,
-            "at_2024_last_3y": -66.05,
+            "at_2023_last_3y": -15.79,
+            "at_2024_last_3y": -15.79,
             "at_2006_last_all": 27.34,
             "at_2007_last_all": 22.11,
             "at_2008_last_all": 19.52,
@@ -55,23 +55,23 @@
             "at_2020_last_all": -16.95,
             "at_2021_last_all": -16.95,
             "at_2022_last_all": -16.95,
-            "at_2023_last_all": -18.03,
-            "at_2024_last_all": -18.03
+            "at_2023_last_all": -10.85,
+            "at_2024_last_all": -10.85
         },
-        "latest_eps": 1.68,
-        "latest_price": 78.9,
-        "latest_roe": 10.12,
-        "latest_gross_margin": 22.73,
-        "latest_equity": 5568735,
-        "latest_revenue": 1533517,
-        "latest_gross_profit": 348617,
-        "latest_net_income": 88738,
-        "latest_debt_ratio": 48.07,
-        "latest_current_ratio": 137.4,
-        "latest_account_receivable_turnover_ratio": 3.82,
-        "latest_inventory_turnover_ratio": 1.71,
-        "latest_reinvestment_rate": -115.98,
-        "latest_research_to_sale_ratio": 7.99
+        "latest_eps": 3.2,
+        "latest_price": 82.8,
+        "latest_roe": 11.46,
+        "latest_gross_margin": 9.52,
+        "latest_equity": 5780650,
+        "latest_revenue": 967980,
+        "latest_gross_profit": 92200,
+        "latest_net_income": 259895,
+        "latest_debt_ratio": 50.42,
+        "latest_current_ratio": 143.91,
+        "latest_account_receivable_turnover_ratio": 1.96,
+        "latest_inventory_turnover_ratio": 1.42,
+        "latest_reinvestment_rate": 175.31,
+        "latest_research_to_sale_ratio": 8.84
     },
     "eps_dividends": {
         "2000": {
@@ -192,7 +192,7 @@
         "2023": {
             "cash": 1.62,
             "stock": 0,
-            "eps": 1.29
+            "eps": 3.2
         },
         "2024": {
             "cash": 1.7,
@@ -574,7 +574,11 @@
         "202309": "66.88",
         "202310": "57.62",
         "202311": "55.97",
-        "202312": "59.92"
+        "202312": "59.92",
+        "202401": "59.83",
+        "202402": "72.64",
+        "202403": "82.93",
+        "202404": "無"
     },
     "quarters": {
         "20011": {
@@ -3488,6 +3492,38 @@
             "eps_avg_yearly": 1.79,
             "eps_latest_yearly": 0.8,
             "eps_growth_yearly": 42.78
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": 1.91,
+            "eps_growth_year": 384.31,
+            "eps_4q": 3.2,
+            "eps_4q_growth_year": 68.7,
+            "roe": 4.58,
+            "roe_4q": 11.82,
+            "gross_profit": 92200,
+            "gross_margin": 9.52,
+            "gross_margin_4q_avg": 19.52,
+            "net_income": 259895,
+            "net_income_4q": null,
+            "revenue": 967980,
+            "revenue_4q": null,
+            "common_shares": 2490112,
+            "book_valuer_per_share": 16.11,
+            "book_valuer_per_share_4q_avg": 14.44,
+            "equity": 5780650,
+            "current_ratio": 143.91,
+            "debt_ratio": 50.42,
+            "inventory_turnover_ratio": 1.42,
+            "account_receivable_turnover_ratio": 1.96,
+            "reinvestment_rate": 175.31,
+            "research_to_sale_ratio": 8.84,
+            "price_fair": 92,
+            "eps_avg_yearly": 2.63,
+            "eps_latest_yearly": 7.64,
+            "eps_growth_yearly": 525.24
         }
     },
     "months": {
@@ -4810,6 +4846,16 @@
             "month": "2023-12",
             "price": "59.92",
             "revenue": 300841
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "59.83",
+            "revenue": 181520
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "72.64",
+            "revenue": 155142
         }
     }
 }

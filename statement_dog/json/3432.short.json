@@ -6,7 +6,7 @@
         "main_business": "連接器",
         "website_url": "http://www.taitwun.com.tw",
         "ceo": "林樂賢",
-        "pe_ratio": -1,
+        "pe_ratio": -4,
         "report_year_from": 2004,
         "report_year_to": 2023,
         "age": 20,
@@ -58,20 +58,20 @@
             "at_2023_last_all": -56.91,
             "at_2024_last_all": -56.91
         },
-        "latest_eps": -20.05,
-        "latest_price": 19.9,
-        "latest_roe": -119.12,
-        "latest_gross_margin": 26.1,
-        "latest_equity": 444654,
-        "latest_revenue": 4295,
-        "latest_gross_profit": 1121,
-        "latest_net_income": -5883,
-        "latest_debt_ratio": 11.43,
-        "latest_current_ratio": 1378.95,
-        "latest_account_receivable_turnover_ratio": 0.89,
-        "latest_inventory_turnover_ratio": 11.18,
+        "latest_eps": -5.32,
+        "latest_price": 19.7,
+        "latest_roe": -54.25,
+        "latest_gross_margin": 37.91,
+        "latest_equity": 263639,
+        "latest_revenue": 3039,
+        "latest_gross_profit": 1152,
+        "latest_net_income": -179102,
+        "latest_debt_ratio": 17.28,
+        "latest_current_ratio": 1429.52,
+        "latest_account_receivable_turnover_ratio": 0.79,
+        "latest_inventory_turnover_ratio": 5.16,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 10.31
+        "latest_research_to_sale_ratio": 18.26
     },
     "eps_dividends": {
         "2001": {
@@ -187,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.19
+            "eps": -5.17
         }
     },
     "dividends": {
@@ -524,7 +524,11 @@
         "202309": "11.75",
         "202310": "11.04",
         "202311": "10.97",
-        "202312": "10.97"
+        "202312": "10.97",
+        "202401": "14.14",
+        "202402": "18.74",
+        "202403": "20.03",
+        "202404": "無"
     },
     "quarters": {
         "20011": {
@@ -3438,6 +3442,38 @@
             "eps_avg_yearly": 1.46,
             "eps_latest_yearly": 4.44,
             "eps_growth_yearly": 226.5
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": -4.98,
+            "eps_growth_year": null,
+            "eps_4q": -5.32,
+            "eps_4q_growth_year": null,
+            "roe": -50.57,
+            "roe_4q": -53.419999999999995,
+            "gross_profit": 1152,
+            "gross_margin": 37.91,
+            "gross_margin_4q_avg": 32.47,
+            "net_income": -179102,
+            "net_income_4q": null,
+            "revenue": 3039,
+            "revenue_4q": null,
+            "common_shares": 360000,
+            "book_valuer_per_share": 7.32,
+            "book_valuer_per_share_4q_avg": 6.79,
+            "equity": 263639,
+            "current_ratio": 1429.52,
+            "debt_ratio": 17.28,
+            "inventory_turnover_ratio": 5.16,
+            "account_receivable_turnover_ratio": 0.79,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 18.26,
+            "price_fair": 51.1,
+            "eps_avg_yearly": 1.46,
+            "eps_latest_yearly": 4.44,
+            "eps_growth_yearly": 226.5
         }
     },
     "months": {
@@ -4285,6 +4321,16 @@
             "month": "2023-12",
             "price": "10.97",
             "revenue": 514
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "14.14",
+            "revenue": 2477
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "18.74",
+            "revenue": 1119
         }
     }
 }

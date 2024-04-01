@@ -6,7 +6,7 @@
         "main_business": "其他機械製造業(壓縮機、機械零組件)<br>發電、輸電、配電機械製造業<br>電器製造業、製造輸出業",
         "website_url": "http://www.rechi.com",
         "ceo": "馮明法",
-        "pe_ratio": 17,
+        "pe_ratio": 0,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 23,
@@ -58,20 +58,20 @@
             "at_2023_last_all": -1.36,
             "at_2024_last_all": -1.36
         },
-        "latest_eps": 1.4,
-        "latest_price": 24.4,
-        "latest_roe": 6.81,
-        "latest_gross_margin": 14.46,
-        "latest_equity": 11264768,
-        "latest_revenue": 4067174,
-        "latest_gross_profit": 588020,
-        "latest_net_income": 221671,
-        "latest_debt_ratio": 54.56,
-        "latest_current_ratio": 153.55,
-        "latest_account_receivable_turnover_ratio": 0.54,
-        "latest_inventory_turnover_ratio": 2.18,
-        "latest_reinvestment_rate": -79.67,
-        "latest_research_to_sale_ratio": 3.47
+        "latest_eps": 0,
+        "latest_price": 24.5,
+        "latest_roe": 0,
+        "latest_gross_margin": null,
+        "latest_equity": null,
+        "latest_revenue": null,
+        "latest_gross_profit": null,
+        "latest_net_income": null,
+        "latest_debt_ratio": 56.06,
+        "latest_current_ratio": 142.93,
+        "latest_account_receivable_turnover_ratio": null,
+        "latest_inventory_turnover_ratio": null,
+        "latest_reinvestment_rate": null,
+        "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
         "2001": {
@@ -276,7 +276,7 @@
             "cash": 0.9,
             "stock": 0
         },
-        "2024-03-12": {
+        "2024-05-03": {
             "cash": 1,
             "stock": 0
         }
@@ -557,7 +557,11 @@
         "202309": "19.63",
         "202310": "19.26",
         "202311": "19.94",
-        "202312": "21.25"
+        "202312": "21.25",
+        "202401": "21.33",
+        "202402": "22.90",
+        "202403": "24.13",
+        "202404": "無"
     },
     "quarters": {
         "20011": {
@@ -3471,6 +3475,38 @@
             "eps_avg_yearly": 1.31,
             "eps_latest_yearly": 1.72,
             "eps_growth_yearly": 247.37
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": null,
+            "eps_growth_year": null,
+            "eps_4q": null,
+            "eps_4q_growth_year": null,
+            "roe": null,
+            "roe_4q": 5.73,
+            "gross_profit": null,
+            "gross_margin": null,
+            "gross_margin_4q_avg": 11.05,
+            "net_income": null,
+            "net_income_4q": null,
+            "revenue": null,
+            "revenue_4q": null,
+            "common_shares": 5049151,
+            "book_valuer_per_share": 19.28,
+            "book_valuer_per_share_4q_avg": 18.94,
+            "equity": null,
+            "current_ratio": 142.93,
+            "debt_ratio": 56.06,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": null,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": null,
+            "price_fair": 47.04,
+            "eps_avg_yearly": 1.34,
+            "eps_latest_yearly": 1.72,
+            "eps_growth_yearly": 270.26
         }
     },
     "months": {
@@ -4783,6 +4819,16 @@
             "month": "2023-12",
             "price": "21.25",
             "revenue": 1671793
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "21.33",
+            "revenue": 1668835
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "22.90",
+            "revenue": 1327957
         }
     }
 }

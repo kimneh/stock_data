@@ -6,7 +6,7 @@
         "main_business": "CCL &amp; PCB 自動化設備。<br>Flat Panel Display (簡稱FPD) 自動化設備。<br>物流、其他自動化設備製造及所營相關設備維修與售服。",
         "website_url": "http://www.usuntek.com.tw",
         "ceo": "諶家成",
-        "pe_ratio": 79,
+        "pe_ratio": -16,
         "report_year_from": 2005,
         "report_year_to": 2023,
         "age": 19,
@@ -58,20 +58,20 @@
             "at_2023_last_all": -10.12,
             "at_2024_last_all": -10.12
         },
-        "latest_eps": 0.49,
-        "latest_price": 38.5,
-        "latest_roe": 1.21,
-        "latest_gross_margin": 39.13,
-        "latest_equity": 2456484,
-        "latest_revenue": 435378,
-        "latest_gross_profit": 170349,
-        "latest_net_income": 61808,
-        "latest_debt_ratio": 24.08,
-        "latest_current_ratio": 381.28,
-        "latest_account_receivable_turnover_ratio": 1.52,
-        "latest_inventory_turnover_ratio": 0.74,
+        "latest_eps": -2.42,
+        "latest_price": 39.85,
+        "latest_roe": -6.24,
+        "latest_gross_margin": 40.6,
+        "latest_equity": 2326294,
+        "latest_revenue": 71258,
+        "latest_gross_profit": 28933,
+        "latest_net_income": -99662,
+        "latest_debt_ratio": 24.81,
+        "latest_current_ratio": 348.11,
+        "latest_account_receivable_turnover_ratio": 0.34,
+        "latest_inventory_turnover_ratio": 0.15,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 13.34
+        "latest_research_to_sale_ratio": 77.91
     },
     "eps_dividends": {
         "2001": {
@@ -187,7 +187,7 @@
         "2023": {
             "cash": 2,
             "stock": 0,
-            "eps": -0.77
+            "eps": -2.42
         }
     },
     "dividends": {
@@ -516,7 +516,11 @@
         "202309": "33.94",
         "202310": "31.19",
         "202311": "30.15",
-        "202312": "30.10"
+        "202312": "30.10",
+        "202401": "29.98",
+        "202402": "30.50",
+        "202403": "35.42",
+        "202404": "無"
     },
     "quarters": {
         "20011": {
@@ -3430,6 +3434,38 @@
             "eps_avg_yearly": 4.38,
             "eps_latest_yearly": 5.04,
             "eps_growth_yearly": 116
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": -1.65,
+            "eps_growth_year": -230.28,
+            "eps_4q": -2.42,
+            "eps_4q_growth_year": -242.51,
+            "roe": -4.17,
+            "roe_4q": -6.01,
+            "gross_profit": 28933,
+            "gross_margin": 40.6,
+            "gross_margin_4q_avg": 30.42,
+            "net_income": -99662,
+            "net_income_4q": null,
+            "revenue": 71258,
+            "revenue_4q": null,
+            "common_shares": 628730,
+            "book_valuer_per_share": 38.47,
+            "book_valuer_per_share_4q_avg": 40.23,
+            "equity": 2326294,
+            "current_ratio": 348.11,
+            "debt_ratio": 24.81,
+            "inventory_turnover_ratio": 0.15,
+            "account_receivable_turnover_ratio": 0.34,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 77.91,
+            "price_fair": 153.3,
+            "eps_avg_yearly": 4.38,
+            "eps_latest_yearly": 5.04,
+            "eps_growth_yearly": 116
         }
     },
     "months": {
@@ -4507,6 +4543,16 @@
             "month": "2023-12",
             "price": "30.10",
             "revenue": 29838
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "29.98",
+            "revenue": 30112
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "30.50",
+            "revenue": 23122
         }
     }
 }

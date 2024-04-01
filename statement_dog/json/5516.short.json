@@ -6,7 +6,7 @@
         "main_business": "營造業",
         "website_url": "http://www.sunsea.com.tw/",
         "ceo": "邱宏章",
-        "pe_ratio": -8,
+        "pe_ratio": -5,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 23,
@@ -58,19 +58,19 @@
             "at_2023_last_all": -9.5,
             "at_2024_last_all": -9.5
         },
-        "latest_eps": -2.42,
-        "latest_price": 19.7,
-        "latest_roe": -16.99,
-        "latest_gross_margin": -34.74,
-        "latest_equity": 641375,
-        "latest_revenue": 553377,
-        "latest_gross_profit": -192222,
-        "latest_net_income": -202656,
-        "latest_debt_ratio": 81.08,
-        "latest_current_ratio": 116.37,
-        "latest_account_receivable_turnover_ratio": 1.95,
+        "latest_eps": -3.75,
+        "latest_price": 19.95,
+        "latest_roe": -25.78,
+        "latest_gross_margin": -5.56,
+        "latest_equity": 627641,
+        "latest_revenue": 851700,
+        "latest_gross_profit": -47374,
+        "latest_net_income": -21794,
+        "latest_debt_ratio": 82.92,
+        "latest_current_ratio": 112.42,
+        "latest_account_receivable_turnover_ratio": 2.69,
         "latest_inventory_turnover_ratio": null,
-        "latest_reinvestment_rate": 76.03,
+        "latest_reinvestment_rate": 90.95,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -202,7 +202,7 @@
         "2023": {
             "cash": 0.5,
             "stock": 1,
-            "eps": -3.23
+            "eps": -3.67
         }
     },
     "dividends": {
@@ -523,7 +523,11 @@
         "202309": "30.06",
         "202310": "24.37",
         "202311": "20.25",
-        "202312": "19.85"
+        "202312": "19.85",
+        "202401": "20.90",
+        "202402": "20.04",
+        "202403": "19.67",
+        "202404": "無"
     },
     "quarters": {
         "20011": {
@@ -3437,6 +3441,38 @@
             "eps_avg_yearly": 2.78,
             "eps_latest_yearly": 0.4,
             "eps_growth_yearly": 185.52
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": -0.44,
+            "eps_growth_year": -143.9,
+            "eps_4q": -3.75,
+            "eps_4q_growth_year": -232.59,
+            "roe": -3.43,
+            "roe_4q": -26.41,
+            "gross_profit": -47374,
+            "gross_margin": -5.56,
+            "gross_margin_4q_avg": -6.26,
+            "net_income": -21794,
+            "net_income_4q": null,
+            "revenue": 851700,
+            "revenue_4q": null,
+            "common_shares": 500439,
+            "book_valuer_per_share": 12.54,
+            "book_valuer_per_share_4q_avg": 15.72,
+            "equity": 627641,
+            "current_ratio": 112.42,
+            "debt_ratio": 82.92,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": 2.69,
+            "reinvestment_rate": 90.95,
+            "research_to_sale_ratio": null,
+            "price_fair": 97.2,
+            "eps_avg_yearly": 2.78,
+            "eps_latest_yearly": 0.4,
+            "eps_growth_yearly": 185.52
         }
     },
     "months": {
@@ -4794,6 +4830,16 @@
             "month": "2023-12",
             "price": "19.85",
             "revenue": 397845
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "20.90",
+            "revenue": 138972
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "20.04",
+            "revenue": 64715
         }
     }
 }

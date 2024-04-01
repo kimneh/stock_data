@@ -6,11 +6,11 @@
         "main_business": "針織布",
         "website_url": "http://www.li-cheng.com.tw",
         "ceo": "待補",
-        "pe_ratio": 77,
+        "pe_ratio": -73,
         "report_year_from": 2003,
         "report_year_to": 2023,
         "age": 21,
-        "eps_negative_percentage": 16,
+        "eps_negative_percentage": 21,
         "eps_growth_avg": {
             "last_all": 13.72,
             "last_2y": null,
@@ -58,20 +58,20 @@
             "at_2023_last_all": 13.72,
             "at_2024_last_all": 13.72
         },
-        "latest_eps": 0.23,
-        "latest_price": 17.7,
-        "latest_roe": 1.43,
-        "latest_gross_margin": 19.21,
-        "latest_equity": 2741697,
-        "latest_revenue": 354530,
-        "latest_gross_profit": 68117,
-        "latest_net_income": 20989,
-        "latest_debt_ratio": 43.91,
-        "latest_current_ratio": 140.78,
-        "latest_account_receivable_turnover_ratio": 1.81,
-        "latest_inventory_turnover_ratio": 1.12,
+        "latest_eps": -0.24,
+        "latest_price": 17.6,
+        "latest_roe": -1.57,
+        "latest_gross_margin": 15.71,
+        "latest_equity": 2658659,
+        "latest_revenue": 294304,
+        "latest_gross_profit": 46230,
+        "latest_net_income": -61461,
+        "latest_debt_ratio": 44.27,
+        "latest_current_ratio": 131.33,
+        "latest_account_receivable_turnover_ratio": 1.54,
+        "latest_inventory_turnover_ratio": 1.08,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 0.97
+        "latest_research_to_sale_ratio": 1.38
     },
     "eps_dividends": {
         "2001": {
@@ -187,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 0.12
+            "eps": -0.24
         }
     },
     "dividends": {
@@ -536,7 +536,11 @@
         "202309": "20.70",
         "202310": "20.36",
         "202311": "20.41",
-        "202312": "21.62"
+        "202312": "21.62",
+        "202401": "20.20",
+        "202402": "19.57",
+        "202403": "18.08",
+        "202404": "無"
     },
     "quarters": {
         "20011": {
@@ -3450,6 +3454,38 @@
             "eps_avg_yearly": 0.5,
             "eps_latest_yearly": 0.24,
             "eps_growth_yearly": -145.99
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": -0.36,
+            "eps_growth_year": -419.22,
+            "eps_4q": -0.24,
+            "eps_4q_growth_year": null,
+            "roe": -2.28,
+            "roe_4q": -1.5699999999999998,
+            "gross_profit": 46230,
+            "gross_margin": 15.71,
+            "gross_margin_4q_avg": 17.28,
+            "net_income": -61461,
+            "net_income_4q": null,
+            "revenue": 294304,
+            "revenue_4q": null,
+            "common_shares": 1726773,
+            "book_valuer_per_share": 15.39,
+            "book_valuer_per_share_4q_avg": 15.64,
+            "equity": 2658659,
+            "current_ratio": 131.33,
+            "debt_ratio": 44.27,
+            "inventory_turnover_ratio": 1.08,
+            "account_receivable_turnover_ratio": 1.54,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 1.38,
+            "price_fair": 1.32,
+            "eps_avg_yearly": 0.44,
+            "eps_latest_yearly": 0.24,
+            "eps_growth_yearly": -88.96
         }
     },
     "months": {
@@ -4497,6 +4533,16 @@
             "month": "2023-12",
             "price": "21.62",
             "revenue": 76831
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "20.20",
+            "revenue": 88909
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "19.57",
+            "revenue": 82417
         }
     }
 }

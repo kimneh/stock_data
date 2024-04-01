@@ -1,0 +1,890 @@
+{
+    "PCF": {
+        "fundid": "1191",
+        "fundname": "元大標普美國高息特別股ETF基金",
+        "fullname": "元大標普美國高息特別股ETF證券投資信託基金",
+        "ename": "Yuanta S&P U.S. High Yield Preferred Stock ETF",
+        "markcd": "00771",
+        "trandate": "20240328",
+        "totalav": 341413667,
+        "osunit": 19225000,
+        "nav": 17.76,
+        "baseunit": 500000,
+        "estcvalue": 8879419,
+        "estdvalue": -894926,
+        "issuesdiff": 0,
+        "cashdiff": 0,
+        "preallot": 9780000,
+        "allot": 8895074,
+        "anndate": "20240401",
+        "upddate": "2024-03-29 14:04:47",
+        "preunit": 19225000,
+        "predate": "20240329",
+        "allot_charge_fee": 0,
+        "redem_charge_fee": 0,
+        "Beneficiary": {
+            "doc_ym": "20240229",
+            "bf_cnt_a": 2927,
+            "upd_date": "2024-03-01T08:47:15"
+        }
+    },
+    "InKind": {
+        "FundComposition": null
+    },
+    "Cash": {
+        "TranDate": "20240328",
+        "CashPosition": [
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": 1.1087,
+                "amt": 3785154,
+                "trandate": "20240328"
+            },
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.1207,
+                "amt": 411965.1,
+                "trandate": "20240328"
+            },
+            {
+                "code": "1210",
+                "name": "應收股利",
+                "ename": "DIVIDENDS RECEIVABLES",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.0109,
+                "amt": 37161.03,
+                "trandate": "20240328"
+            }
+        ],
+        "MMF": [],
+        "Margin": [],
+        "RP": [],
+        "ForwardExchange": [],
+        "Currency": [
+            {
+                "fundId": "1191",
+                "cDate": "20240328",
+                "crncy": "NTD",
+                "endRate": 31.996
+            },
+            {
+                "fundId": "1191",
+                "cDate": "20240328",
+                "crncy": "KRW",
+                "endRate": 1348.63
+            },
+            {
+                "fundId": "1191",
+                "cDate": "20240328",
+                "crncy": "JPY",
+                "endRate": 151.44
+            },
+            {
+                "fundId": "1191",
+                "cDate": "20240328",
+                "crncy": "HKD",
+                "endRate": 7.8236
+            },
+            {
+                "fundId": "1191",
+                "cDate": "20240328",
+                "crncy": "EUR",
+                "endRate": 0.9259
+            },
+            {
+                "fundId": "1191",
+                "cDate": "20240328",
+                "crncy": "CNY",
+                "endRate": 7.2264
+            },
+            {
+                "fundId": "1191",
+                "cDate": "20240328",
+                "crncy": "CNH",
+                "endRate": 7.257
+            }
+        ],
+        "CouponRate": [],
+        "InvestArea": [
+            {
+                "TRAN_DATE": "20240328",
+                "FUND_ID": "1191",
+                "name": "美國",
+                "ename": "USA",
+                "HOLD_RTO": 94.79,
+                "CNT": 92
+            },
+            {
+                "TRAN_DATE": "20240328",
+                "FUND_ID": "1191",
+                "name": "現金",
+                "ename": "Cash",
+                "HOLD_RTO": 5.21,
+                "CNT": 0
+            }
+        ],
+        "CreditRating": []
+    },
+    "FundWeights": {
+        "Summary": {
+            "code": "1191",
+            "name": null,
+            "stkvalues": 323617342,
+            "futvalues": 0,
+            "etfvalues": 0,
+            "bndvalues": 0,
+            "fundsize": 341413667
+        },
+        "StockWeights": [
+            {
+                "code": "C N",
+                "ym": null,
+                "name": "C 11.949",
+                "ename": "Citigroup Capital XIII",
+                "weights": 6.36,
+                "qty": 23024
+            },
+            {
+                "code": "WFC Z",
+                "ym": null,
+                "name": "WFC 4 3/4 PERP",
+                "ename": "Wells Fargo & Co",
+                "weights": 4.2,
+                "qty": 20630
+            },
+            {
+                "code": "T C",
+                "ym": null,
+                "name": "T 4 3/4 PERP",
+                "ename": "AT&T Inc",
+                "weights": 3.38,
+                "qty": 17939
+            },
+            {
+                "code": "GS D",
+                "ym": null,
+                "name": "GS 6.23296 PERP",
+                "ename": "Goldman Sachs Group Inc/The",
+                "weights": 2.97,
+                "qty": 13839
+            },
+            {
+                "code": "COF I",
+                "ym": null,
+                "name": "COF 5 PERP",
+                "ename": "Capital One Financial Corp",
+                "weights": 2.95,
+                "qty": 15377
+            },
+            {
+                "code": "ALL H",
+                "ym": null,
+                "name": "ALL 5.1 PERP",
+                "ename": "Allstate Corp/The",
+                "weights": 2.48,
+                "qty": 11789
+            },
+            {
+                "code": "T A",
+                "ym": null,
+                "name": "T 5 PERP",
+                "ename": "AT&T Inc",
+                "weights": 2.46,
+                "qty": 12301
+            },
+            {
+                "code": "WFC A",
+                "ym": null,
+                "name": "WFC 4.7 PERP",
+                "ename": "Wells Fargo & Co",
+                "weights": 2.42,
+                "qty": 11994
+            },
+            {
+                "code": "DUK A",
+                "ym": null,
+                "name": "DUK 5 3/4 PERP",
+                "ename": "Duke Energy Corp",
+                "weights": 2.39,
+                "qty": 10251
+            },
+            {
+                "code": "COF J",
+                "ym": null,
+                "name": "COF 4.8 PERP",
+                "ename": "Capital One Financial Corp",
+                "weights": 2.34,
+                "qty": 12814
+            },
+            {
+                "code": "WFC D",
+                "ym": null,
+                "name": "WFC 4 1/4 PERP",
+                "ename": "Wells Fargo & Co",
+                "weights": 2.34,
+                "qty": 12814
+            },
+            {
+                "code": "WFC C",
+                "ym": null,
+                "name": "WFC 4 3/8 PERP",
+                "ename": "Wells Fargo & Co",
+                "weights": 2.05,
+                "qty": 10764
+            },
+            {
+                "code": "GS K",
+                "ym": null,
+                "name": "GS 6 3/8 PERP",
+                "ename": "Goldman Sachs Group Inc/The",
+                "weights": 1.71,
+                "qty": 7176
+            },
+            {
+                "code": "GS A",
+                "ym": null,
+                "name": "GS 6.31296 PERP",
+                "ename": "Goldman Sachs Group Inc/The",
+                "weights": 1.65,
+                "qty": 7688
+            },
+            {
+                "code": "WFC Y",
+                "ym": null,
+                "name": "WFC 5 5/8 PERP",
+                "ename": "Wells Fargo & Co",
+                "weights": 1.65,
+                "qty": 7073
+            },
+            {
+                "code": "ALL J",
+                "ym": null,
+                "name": "ALL 7 3/8 PERP",
+                "ename": "Allstate Corp/The",
+                "weights": 1.55,
+                "qty": 6151
+            },
+            {
+                "code": "QRTEP",
+                "ym": null,
+                "name": "QRTEA 8",
+                "ename": "Qurate Retail Inc",
+                "weights": 1.52,
+                "qty": 3256
+            },
+            {
+                "code": "JXN A",
+                "ym": null,
+                "name": "JXN 8 PERP",
+                "ename": "Jackson Financial Inc",
+                "weights": 1.4,
+                "qty": 5638
+            },
+            {
+                "code": "SYF A",
+                "ym": null,
+                "name": "SYF 5 5/8 PERP",
+                "ename": "Synchrony Financial",
+                "weights": 1.36,
+                "qty": 7688
+            },
+            {
+                "code": "WCC A",
+                "ym": null,
+                "name": "WCC 10 5/8 PERP",
+                "ename": "WESCO International Inc",
+                "weights": 1.36,
+                "qty": 5519
+            },
+            {
+                "code": "LNC D",
+                "ym": null,
+                "name": "LNC 9 PERP",
+                "ename": "Lincoln National Corp",
+                "weights": 1.32,
+                "qty": 5126
+            },
+            {
+                "code": "ALL B",
+                "ym": null,
+                "name": "ALL 8.7406",
+                "ename": "Allstate Corp/The",
+                "weights": 1.23,
+                "qty": 5126
+            },
+            {
+                "code": "COF L",
+                "ym": null,
+                "name": "COF 4 3/8 PERP",
+                "ename": "Capital One Financial Corp",
+                "weights": 1.19,
+                "qty": 6919
+            },
+            {
+                "code": "BHFAN",
+                "ym": null,
+                "name": "BHF 5 3/8 PERP",
+                "ename": "Brighthouse Financial Inc",
+                "weights": 1.13,
+                "qty": 5894
+            },
+            {
+                "code": "TDS V",
+                "ym": null,
+                "name": "TDS 6 PERP",
+                "ename": "Telephone and Data Systems Inc",
+                "weights": 1.06,
+                "qty": 7073
+            },
+            {
+                "code": "BHFAP",
+                "ym": null,
+                "name": "BHF 6.6 PERP",
+                "ename": "Brighthouse Financial Inc",
+                "weights": 1,
+                "qty": 4357
+            },
+            {
+                "code": "KEY L",
+                "ym": null,
+                "name": "KEY 6.2 PERP",
+                "ename": "KeyCorp",
+                "weights": 0.99,
+                "qty": 4613
+            },
+            {
+                "code": "BHFAO",
+                "ym": null,
+                "name": "BHF 6 3/4 PERP",
+                "ename": "Brighthouse Financial Inc",
+                "weights": 0.97,
+                "qty": 4126
+            },
+            {
+                "code": "SCE L",
+                "ym": null,
+                "name": "EIX 5 PERP",
+                "ename": "SCE Trust VI",
+                "weights": 0.96,
+                "qty": 4869
+            },
+            {
+                "code": "CFG E",
+                "ym": null,
+                "name": "CFG 5 PERP",
+                "ename": "Citizens Financial Group Inc",
+                "weights": 0.94,
+                "qty": 4613
+            },
+            {
+                "code": "AEL A",
+                "ym": null,
+                "name": "AEL 5.95 PERP",
+                "ename": "American Equity Investment Life Holding Co",
+                "weights": 0.93,
+                "qty": 4100
+            },
+            {
+                "code": "HBANP",
+                "ym": null,
+                "name": "HBAN 4 1/2 PERP",
+                "ename": "Huntington Bancshares Inc/OH",
+                "weights": 0.93,
+                "qty": 5126
+            },
+            {
+                "code": "RF B",
+                "ym": null,
+                "name": "RF 6 3/8 PERP",
+                "ename": "Regions Financial Corp",
+                "weights": 0.88,
+                "qty": 3844
+            },
+            {
+                "code": "KEY I",
+                "ym": null,
+                "name": "KEY 6 1/8 PERP",
+                "ename": "KeyCorp",
+                "weights": 0.86,
+                "qty": 3844
+            },
+            {
+                "code": "RF C",
+                "ym": null,
+                "name": "RF 5.7 PERP",
+                "ename": "Regions Financial Corp",
+                "weights": 0.85,
+                "qty": 3844
+            },
+            {
+                "code": "SNV E",
+                "ym": null,
+                "name": "SNV 5 7/8 PERP",
+                "ename": "Synovus Financial Corp",
+                "weights": 0.83,
+                "qty": 3588
+            },
+            {
+                "code": "FITBI",
+                "ym": null,
+                "name": "FITB 9.30177 PERP",
+                "ename": "Fifth Third Bancorp",
+                "weights": 0.82,
+                "qty": 3460
+            },
+            {
+                "code": "HBANL",
+                "ym": null,
+                "name": "HBAN 6 7/8 PERP",
+                "ename": "Huntington Bancshares Inc/OH",
+                "weights": 0.76,
+                "qty": 3332
+            },
+            {
+                "code": "PBI B",
+                "ym": null,
+                "name": "PBI 6.7",
+                "ename": "Pitney Bowes Inc",
+                "weights": 0.76,
+                "qty": 4357
+            },
+            {
+                "code": "FCNCP",
+                "ym": null,
+                "name": "FCNCA 5 3/8 PERP",
+                "ename": "First Citizens BancShares Inc/NC",
+                "weights": 0.74,
+                "qty": 3460
+            },
+            {
+                "code": "TDS U",
+                "ym": null,
+                "name": "TDS 6 5/8 PERP",
+                "ename": "Telephone and Data Systems Inc",
+                "weights": 0.74,
+                "qty": 4305
+            },
+            {
+                "code": "CFG D",
+                "ym": null,
+                "name": "CFG 6.35 PERP",
+                "ename": "Citizens Financial Group Inc",
+                "weights": 0.73,
+                "qty": 3075
+            },
+            {
+                "code": "COF N",
+                "ym": null,
+                "name": "COF 4 1/4 PERP",
+                "ename": "Capital One Financial Corp",
+                "weights": 0.73,
+                "qty": 4357
+            },
+            {
+                "code": "DLR L",
+                "ym": null,
+                "name": "DLR 5.2 PERP",
+                "ename": "Digital Realty Trust Inc",
+                "weights": 0.73,
+                "qty": 3537
+            },
+            {
+                "code": "SCE J",
+                "ym": null,
+                "name": "EIX 5 3/8 PERP",
+                "ename": "SCE Trust IV",
+                "weights": 0.73,
+                "qty": 3332
+            },
+            {
+                "code": "KEY K",
+                "ym": null,
+                "name": "KEY 5 5/8 PERP",
+                "ename": "KeyCorp",
+                "weights": 0.71,
+                "qty": 3460
+            },
+            {
+                "code": "AEL B",
+                "ym": null,
+                "name": "AEL 6 5/8 PERP",
+                "ename": "American Equity Investment Life Holding Co",
+                "weights": 0.7,
+                "qty": 3075
+            },
+            {
+                "code": "WTFCP",
+                "ym": null,
+                "name": "WTFC 6 7/8 PERP",
+                "ename": "Wintrust Financial Corp",
+                "weights": 0.7,
+                "qty": 3027
+            },
+            {
+                "code": "SCE K",
+                "ym": null,
+                "name": "EIX 5.45 PERP",
+                "ename": "SCE Trust V",
+                "weights": 0.69,
+                "qty": 3075
+            },
+            {
+                "code": "VOYA B",
+                "ym": null,
+                "name": "VOYA 5.35 PERP",
+                "ename": "Voya Financial Inc",
+                "weights": 0.68,
+                "qty": 3075
+            },
+            {
+                "code": "AHL C",
+                "ym": null,
+                "name": "AHL 9.65177 PERP",
+                "ename": "Aspen Insurance Holdings Ltd",
+                "weights": 0.67,
+                "qty": 2819
+            },
+            {
+                "code": "SCE H",
+                "ym": null,
+                "name": "EIX 5.29823 PERP",
+                "ename": "SCE Trust III",
+                "weights": 0.67,
+                "qty": 2819
+            },
+            {
+                "code": "ALL I",
+                "ym": null,
+                "name": "ALL 4 3/4 PERP",
+                "ename": "Allstate Corp/The",
+                "weights": 0.65,
+                "qty": 3075
+            },
+            {
+                "code": "KEY J",
+                "ym": null,
+                "name": "KEY 5.65 PERP",
+                "ename": "KeyCorp",
+                "weights": 0.65,
+                "qty": 3268
+            },
+            {
+                "code": "AL A",
+                "ym": null,
+                "name": "AL 6.15 PERP",
+                "ename": "Air Lease Corp",
+                "weights": 0.62,
+                "qty": 2563
+            },
+            {
+                "code": "JSM",
+                "ym": null,
+                "name": "NAVI 6",
+                "ename": "Navient Corp",
+                "weights": 0.61,
+                "qty": 3075
+            },
+            {
+                "code": "OZKAP",
+                "ym": null,
+                "name": "OZK 4 5/8 PERP",
+                "ename": "Bank OZK",
+                "weights": 0.6,
+                "qty": 3685
+            },
+            {
+                "code": "SR A",
+                "ym": null,
+                "name": "SR 5.9 PERP",
+                "ename": "Spire Inc",
+                "weights": 0.59,
+                "qty": 2563
+            },
+            {
+                "code": "TCBIO",
+                "ym": null,
+                "name": "TCBI 5 3/4 PERP",
+                "ename": "Texas Capital Bancshares Inc",
+                "weights": 0.59,
+                "qty": 3075
+            },
+            {
+                "code": "BHFAM",
+                "ym": null,
+                "name": "BHF 4 5/8 PERP",
+                "ename": "Brighthouse Financial Inc",
+                "weights": 0.57,
+                "qty": 3588
+            },
+            {
+                "code": "HPP C",
+                "ym": null,
+                "name": "HPP 4 3/4 PERP",
+                "ename": "Hudson Pacific Properties Inc",
+                "weights": 0.56,
+                "qty": 4357
+            },
+            {
+                "code": "SF D",
+                "ym": null,
+                "name": "SF 4 1/2 PERP",
+                "ename": "Stifel Financial Corp",
+                "weights": 0.56,
+                "qty": 3075
+            },
+            {
+                "code": "RF E",
+                "ym": null,
+                "name": "RF 4.45 PERP",
+                "ename": "Regions Financial Corp",
+                "weights": 0.55,
+                "qty": 3075
+            },
+            {
+                "code": "SF C",
+                "ym": null,
+                "name": "SF 6 1/8 PERP",
+                "ename": "Stifel Financial Corp",
+                "weights": 0.54,
+                "qty": 2306
+            },
+            {
+                "code": "SLG I",
+                "ym": null,
+                "name": "SLG 6 1/2 PERP",
+                "ename": "SL Green Realty Corp",
+                "weights": 0.5,
+                "qty": 2357
+            },
+            {
+                "code": "AHL D",
+                "ym": null,
+                "name": "AHL 5 5/8 PERP",
+                "ename": "Aspen Insurance Holdings Ltd",
+                "weights": 0.49,
+                "qty": 2563
+            },
+            {
+                "code": "AHL E",
+                "ym": null,
+                "name": "AHL 5 5/8 PERP",
+                "ename": "Aspen Insurance Holdings Ltd",
+                "weights": 0.49,
+                "qty": 2563
+            },
+            {
+                "code": "SPNT B",
+                "ym": null,
+                "name": "SPNT 8 PERP",
+                "ename": "SiriusPoint Ltd",
+                "weights": 0.49,
+                "qty": 2050
+            },
+            {
+                "code": "DHCNI",
+                "ym": null,
+                "name": "DHC 5 5/8",
+                "ename": "Diversified Healthcare Trust",
+                "weights": 0.48,
+                "qty": 3588
+            },
+            {
+                "code": "DLR K",
+                "ym": null,
+                "name": "DLR 5.85 PERP",
+                "ename": "Digital Realty Trust Inc",
+                "weights": 0.48,
+                "qty": 2153
+            },
+            {
+                "code": "FITBP",
+                "ym": null,
+                "name": "FITB 6 PERP",
+                "ename": "Fifth Third Bancorp",
+                "weights": 0.48,
+                "qty": 2050
+            },
+            {
+                "code": "SNV D",
+                "ym": null,
+                "name": "SNV 8.91184 PERP",
+                "ename": "Synovus Financial Corp",
+                "weights": 0.48,
+                "qty": 2050
+            },
+            {
+                "code": "VNO M",
+                "ym": null,
+                "name": "VNO 5 1/4 PERP",
+                "ename": "Vornado Realty Trust",
+                "weights": 0.47,
+                "qty": 3275
+            },
+            {
+                "code": "CMS C",
+                "ym": null,
+                "name": "CMS 4.2 PERP",
+                "ename": "CMS Energy Corp",
+                "weights": 0.45,
+                "qty": 2358
+            },
+            {
+                "code": "FCNCO",
+                "ym": null,
+                "name": "FCNCA 5 5/8 PERP",
+                "ename": "First Citizens BancShares Inc/NC",
+                "weights": 0.45,
+                "qty": 2050
+            },
+            {
+                "code": "GS C",
+                "ym": null,
+                "name": "GS 6.30984 PERP",
+                "ename": "Goldman Sachs Group Inc/The",
+                "weights": 0.45,
+                "qty": 2050
+            },
+            {
+                "code": "SCE G",
+                "ym": null,
+                "name": "EIX 5.1 PERP",
+                "ename": "SCE Trust II",
+                "weights": 0.45,
+                "qty": 2255
+            },
+            {
+                "code": "WAFDP",
+                "ym": null,
+                "name": "WAFD 4 7/8 PERP",
+                "ename": "WaFd Inc",
+                "weights": 0.45,
+                "qty": 3075
+            },
+            {
+                "code": "VNO L",
+                "ym": null,
+                "name": "VNO 5.4 PERP",
+                "ename": "Vornado Realty Trust",
+                "weights": 0.43,
+                "qty": 3075
+            },
+            {
+                "code": "VNO N",
+                "ym": null,
+                "name": "VNO 5 1/4 PERP",
+                "ename": "Vornado Realty Trust",
+                "weights": 0.43,
+                "qty": 3075
+            },
+            {
+                "code": "DLR J",
+                "ym": null,
+                "name": "DLR 5 1/4 PERP",
+                "ename": "Digital Realty Trust Inc",
+                "weights": 0.42,
+                "qty": 2050
+            },
+            {
+                "code": "FITBO",
+                "ym": null,
+                "name": "FITB 4.95 PERP",
+                "ename": "Fifth Third Bancorp",
+                "weights": 0.42,
+                "qty": 1922
+            },
+            {
+                "code": "MTB H",
+                "ym": null,
+                "name": "MTB 5 5/8 PERP",
+                "ename": "M&T Bank Corp",
+                "weights": 0.41,
+                "qty": 1922
+            },
+            {
+                "code": "HBANM",
+                "ym": null,
+                "name": "HBAN 5.7 PERP",
+                "ename": "Huntington Bancshares Inc/OH",
+                "weights": 0.38,
+                "qty": 1794
+            },
+            {
+                "code": "VNO O",
+                "ym": null,
+                "name": "VNO 4.45 PERP",
+                "ename": "Vornado Realty Trust",
+                "weights": 0.37,
+                "qty": 3075
+            },
+            {
+                "code": "FULTP",
+                "ym": null,
+                "name": "FULT 5 1/8 PERP",
+                "ename": "Fulton Financial Corp",
+                "weights": 0.36,
+                "qty": 2050
+            },
+            {
+                "code": "ARGO A",
+                "ym": null,
+                "name": "ARGO 7 PERP",
+                "ename": "Argo Group International Holdings Inc",
+                "weights": 0.35,
+                "qty": 1538
+            },
+            {
+                "code": "TRTN E",
+                "ym": null,
+                "name": "TRTN 5 3/4 PERP",
+                "ename": "Triton International Ltd",
+                "weights": 0.33,
+                "qty": 1794
+            },
+            {
+                "code": "ADC A",
+                "ym": null,
+                "name": "ADC 4 1/4 PERP",
+                "ename": "Agree Realty Corp",
+                "weights": 0.3,
+                "qty": 1794
+            },
+            {
+                "code": "WAL A",
+                "ym": null,
+                "name": "WAL 4 1/4 PERP",
+                "ename": "Western Alliance Bancorp",
+                "weights": 0.26,
+                "qty": 1538
+            },
+            {
+                "code": "PSEC A",
+                "ym": null,
+                "name": "PSEC 5.35 PERP",
+                "ename": "Prospect Capital Corp",
+                "weights": 0.25,
+                "qty": 1376
+            },
+            {
+                "code": "FHN F",
+                "ym": null,
+                "name": "FHN 4.7 PERP",
+                "ename": "First Horizon Corp",
+                "weights": 0.18,
+                "qty": 1153
+            }
+        ],
+        "FutureWeights": [],
+        "ETFWeights": [],
+        "BondWeights": []
+    },
+    "Memo": null
+}

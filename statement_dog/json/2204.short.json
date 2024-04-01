@@ -6,7 +6,7 @@
         "main_business": "汽車及相關零組件等之製造、銷售",
         "website_url": "http://www.china-motor.com.tw",
         "ceo": "陳昭文",
-        "pe_ratio": 58,
+        "pe_ratio": 13,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 23,
@@ -58,20 +58,20 @@
             "at_2023_last_all": -8.3,
             "at_2024_last_all": -8.3
         },
-        "latest_eps": 2.26,
-        "latest_price": 131.5,
-        "latest_roe": 3.83,
-        "latest_gross_margin": 15.76,
-        "latest_equity": 37919182,
-        "latest_revenue": 9227686,
-        "latest_gross_profit": 1454403,
-        "latest_net_income": 1404044,
-        "latest_debt_ratio": 22,
-        "latest_current_ratio": 143.85,
-        "latest_account_receivable_turnover_ratio": 3.32,
-        "latest_inventory_turnover_ratio": 2.1,
-        "latest_reinvestment_rate": -234.89,
-        "latest_research_to_sale_ratio": 4.86
+        "latest_eps": 10.21,
+        "latest_price": 129.5,
+        "latest_roe": 15.68,
+        "latest_gross_margin": 14.66,
+        "latest_equity": 39497714,
+        "latest_revenue": 10797551,
+        "latest_gross_profit": 1583386,
+        "latest_net_income": 1326910,
+        "latest_debt_ratio": 21.58,
+        "latest_current_ratio": 151.45,
+        "latest_account_receivable_turnover_ratio": 3.84,
+        "latest_inventory_turnover_ratio": 2.2,
+        "latest_reinvestment_rate": 44.28,
+        "latest_research_to_sale_ratio": 3.35
     },
     "eps_dividends": {
         "1991": {
@@ -237,7 +237,7 @@
         "2023": {
             "cash": 4,
             "stock": 0,
-            "eps": 8
+            "eps": 10.32
         },
         "2024": {
             "cash": 6,
@@ -651,7 +651,11 @@
         "202309": "100.56",
         "202310": "93.50",
         "202311": "100.28",
-        "202312": "114.12"
+        "202312": "114.12",
+        "202401": "108.95",
+        "202402": "119.77",
+        "202403": "128.24",
+        "202404": "無"
     },
     "quarters": {
         "20011": {
@@ -3565,6 +3569,38 @@
             "eps_avg_yearly": 8.08,
             "eps_latest_yearly": 9.84,
             "eps_growth_yearly": 47.53
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": 2.32,
+            "eps_growth_year": null,
+            "eps_4q": 10.21,
+            "eps_4q_growth_year": null,
+            "roe": 3.43,
+            "roe_4q": 16.23,
+            "gross_profit": 1583386,
+            "gross_margin": 14.66,
+            "gross_margin_4q_avg": 15.77,
+            "net_income": 1326910,
+            "net_income_4q": null,
+            "revenue": 10797551,
+            "revenue_4q": null,
+            "common_shares": 5536203,
+            "book_valuer_per_share": 64.7,
+            "book_valuer_per_share_4q_avg": 60.31,
+            "equity": 39497714,
+            "current_ratio": 151.45,
+            "debt_ratio": 21.58,
+            "inventory_turnover_ratio": 2.2,
+            "account_receivable_turnover_ratio": 3.84,
+            "reinvestment_rate": 44.28,
+            "research_to_sale_ratio": 3.35,
+            "price_fair": 286.75,
+            "eps_avg_yearly": 8.19,
+            "eps_latest_yearly": 9.28,
+            "eps_growth_yearly": 41.14
         }
     },
     "months": {
@@ -4922,6 +4958,16 @@
             "month": "2023-12",
             "price": "114.12",
             "revenue": 3327634
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "108.95",
+            "revenue": 4761246
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "119.77",
+            "revenue": 3166100
         }
     }
 }

@@ -6,7 +6,7 @@
         "main_business": "金屬建築材料製造與銷售<br>模組化建材及配套材料之開發、設計、製造與銷售",
         "website_url": "http://www.buima.com.tw",
         "ceo": "莊宏偉",
-        "pe_ratio": -15,
+        "pe_ratio": -18,
         "report_year_from": 2013,
         "report_year_to": 2023,
         "age": 11,
@@ -58,20 +58,20 @@
             "at_2023_last_all": -12.93,
             "at_2024_last_all": -12.93
         },
-        "latest_eps": -3.08,
-        "latest_price": 45.65,
-        "latest_roe": -9.81,
-        "latest_gross_margin": 13.81,
-        "latest_equity": 1258889,
-        "latest_revenue": 761598,
-        "latest_gross_profit": 105207,
-        "latest_net_income": 6406,
-        "latest_debt_ratio": 69.06,
-        "latest_current_ratio": 110.6,
-        "latest_account_receivable_turnover_ratio": 1.05,
-        "latest_inventory_turnover_ratio": 0.7,
-        "latest_reinvestment_rate": 1840.31,
-        "latest_research_to_sale_ratio": 3.58
+        "latest_eps": -2.52,
+        "latest_price": 46.1,
+        "latest_roe": -9.13,
+        "latest_gross_margin": 14.88,
+        "latest_equity": 1201365,
+        "latest_revenue": 855899,
+        "latest_gross_profit": 127366,
+        "latest_net_income": -36426,
+        "latest_debt_ratio": 70.02,
+        "latest_current_ratio": 105.82,
+        "latest_account_receivable_turnover_ratio": 1.13,
+        "latest_inventory_turnover_ratio": 0.9,
+        "latest_reinvestment_rate": null,
+        "latest_research_to_sale_ratio": 3.57
     },
     "eps_dividends": {
         "2001": {
@@ -187,7 +187,7 @@
         "2023": {
             "cash": 0.8,
             "stock": 0,
-            "eps": -1.81
+            "eps": -2.59
         }
     },
     "dividends": {
@@ -512,7 +512,11 @@
         "202309": "46.50",
         "202310": "45.61",
         "202311": "42.11",
-        "202312": "40.28"
+        "202312": "40.28",
+        "202401": "40.54",
+        "202402": "40.55",
+        "202403": "42.86",
+        "202404": "無"
     },
     "quarters": {
         "20011": {
@@ -3426,6 +3430,38 @@
             "eps_avg_yearly": 2.35,
             "eps_latest_yearly": 0.08,
             "eps_growth_yearly": 2003.68
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": -0.78,
+            "eps_growth_year": null,
+            "eps_4q": -2.52,
+            "eps_4q_growth_year": null,
+            "roe": -2.96,
+            "roe_4q": -9.11,
+            "gross_profit": 127366,
+            "gross_margin": 14.88,
+            "gross_margin_4q_avg": 11.76,
+            "net_income": -36426,
+            "net_income_4q": null,
+            "revenue": 855899,
+            "revenue_4q": null,
+            "common_shares": 393045,
+            "book_valuer_per_share": 15.78,
+            "book_valuer_per_share_4q_avg": 16.65,
+            "equity": 1201365,
+            "current_ratio": 105.82,
+            "debt_ratio": 70.02,
+            "inventory_turnover_ratio": 0.9,
+            "account_receivable_turnover_ratio": 1.13,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 3.57,
+            "price_fair": 89.8,
+            "eps_avg_yearly": 2.57,
+            "eps_latest_yearly": 0.08,
+            "eps_growth_yearly": 2251.83
         }
     },
     "months": {
@@ -3888,6 +3924,16 @@
             "month": "2023-12",
             "price": "40.28",
             "revenue": 298102
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "40.54",
+            "revenue": 281841
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "40.55",
+            "revenue": 238540
         }
     }
 }

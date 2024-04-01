@@ -1,0 +1,811 @@
+{
+    "PCF": {
+        "fundid": "1200",
+        "fundname": "元大15年期以上新興市場主權債ETF基金",
+        "fullname": "元大新興債ETF傘型證券投資信託基金之元大15年期以上新興市場主權債ETF證券投資信託基金",
+        "ename": "Yuanta US 15plus Year Emerging Markets Sovereign Bond ETF",
+        "markcd": "00870B",
+        "trandate": "20240320",
+        "totalav": 15638928851,
+        "osunit": 524151000,
+        "nav": 29.8367,
+        "baseunit": 500000,
+        "estcvalue": 14918343,
+        "estdvalue": -726657,
+        "issuesdiff": 0,
+        "cashdiff": 0,
+        "preallot": 15820000,
+        "allot": 14923343,
+        "anndate": "20240322",
+        "upddate": "2024-03-21 14:06:52",
+        "preunit": 524151000,
+        "predate": "20240321",
+        "allot_charge_fee": 0,
+        "redem_charge_fee": 0,
+        "Beneficiary": {
+            "doc_ym": "20240229",
+            "bf_cnt_a": 388,
+            "upd_date": "2024-03-01T08:47:15"
+        }
+    },
+    "InKind": {
+        "FundComposition": null
+    },
+    "Cash": {
+        "TranDate": "20240320",
+        "CashPosition": [
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "NTD",
+                "exrate": 0,
+                "rto": 0.3255,
+                "amt": 50904360,
+                "trandate": "20240320"
+            },
+            {
+                "code": "1500",
+                "name": "現金",
+                "ename": "CASH",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.0249,
+                "amt": 3888013.74,
+                "trandate": "20240320"
+            },
+            {
+                "code": "1220",
+                "name": "應收利息",
+                "ename": "INTEREST RECEIVEABLES",
+                "crncy": "USD",
+                "exrate": 0,
+                "rto": 0.0449,
+                "amt": 7020744.54,
+                "trandate": "20240320"
+            }
+        ],
+        "MMF": [],
+        "Margin": [],
+        "RP": [],
+        "ForwardExchange": [],
+        "Currency": [
+            {
+                "fundId": "1200",
+                "cDate": "20240320",
+                "crncy": "NTD",
+                "endRate": 31.877
+            },
+            {
+                "fundId": "1200",
+                "cDate": "20240320",
+                "crncy": "KRW",
+                "endRate": 1340.31
+            },
+            {
+                "fundId": "1200",
+                "cDate": "20240320",
+                "crncy": "JPY",
+                "endRate": 151.49
+            },
+            {
+                "fundId": "1200",
+                "cDate": "20240320",
+                "crncy": "HKD",
+                "endRate": 7.8228
+            },
+            {
+                "fundId": "1200",
+                "cDate": "20240320",
+                "crncy": "EUR",
+                "endRate": 0.9203
+            },
+            {
+                "fundId": "1200",
+                "cDate": "20240320",
+                "crncy": "CNY",
+                "endRate": 7.1994
+            },
+            {
+                "fundId": "1200",
+                "cDate": "20240320",
+                "crncy": "CNH",
+                "endRate": 7.2127
+            }
+        ],
+        "CouponRate": [
+            {
+                "ConstituentCount": 146,
+                "CurrentWeight": 99.74,
+                "YieldtoMaturity": 5.95,
+                "avgCouponRate": 4.59,
+                "EffectiveDuration": 13.35,
+                "YearstoMaturity": 26.55,
+                "avgOASWorst": 0
+            },
+            {
+                "ConstituentCount": 71,
+                "CurrentWeight": 98.9,
+                "YieldtoMaturity": 5.74,
+                "avgCouponRate": 4.46,
+                "EffectiveDuration": 13.42,
+                "YearstoMaturity": 26.28,
+                "avgOASWorst": 0
+            }
+        ],
+        "InvestArea": [
+            {
+                "TRAN_DATE": "20240320",
+                "FUND_ID": "1200",
+                "name": "沙烏地阿拉伯",
+                "ename": "SAUDI ARABIA",
+                "HOLD_RTO": 12.01,
+                "CNT": 7
+            },
+            {
+                "TRAN_DATE": "20240320",
+                "FUND_ID": "1200",
+                "name": "印尼",
+                "ename": "INDONESIA",
+                "HOLD_RTO": 11.58,
+                "CNT": 8
+            },
+            {
+                "TRAN_DATE": "20240320",
+                "FUND_ID": "1200",
+                "name": "卡達",
+                "ename": "Qatar",
+                "HOLD_RTO": 10.67,
+                "CNT": 4
+            },
+            {
+                "TRAN_DATE": "20240320",
+                "FUND_ID": "1200",
+                "name": "墨西哥",
+                "ename": "Mexico",
+                "HOLD_RTO": 9.91,
+                "CNT": 9
+            },
+            {
+                "TRAN_DATE": "20240320",
+                "FUND_ID": "1200",
+                "name": "阿拉伯聯合大公國",
+                "ename": "United Arab Emirates",
+                "HOLD_RTO": 9.15,
+                "CNT": 5
+            },
+            {
+                "TRAN_DATE": "20240320",
+                "FUND_ID": "1200",
+                "name": "菲律賓",
+                "ename": "PHILIPPINES",
+                "HOLD_RTO": 7.44,
+                "CNT": 7
+            },
+            {
+                "TRAN_DATE": "20240320",
+                "FUND_ID": "1200",
+                "name": "其他",
+                "ename": "other",
+                "HOLD_RTO": 36.71,
+                "CNT": 31
+            },
+            {
+                "TRAN_DATE": "20240320",
+                "FUND_ID": "1200",
+                "name": "現金",
+                "ename": "Cash",
+                "HOLD_RTO": 2.53,
+                "CNT": 0
+            }
+        ],
+        "CreditRating": [
+            {
+                "FUND_ID": "1200",
+                "NAV_DATE": "20240320",
+                "CREDIT_NAME": "AA",
+                "CREDIT_RATIO": 25.23,
+                "CREDIT_COUNT": 17
+            },
+            {
+                "FUND_ID": "1200",
+                "NAV_DATE": "20240320",
+                "CREDIT_NAME": "A",
+                "CREDIT_RATIO": 18.54,
+                "CREDIT_COUNT": 13
+            },
+            {
+                "FUND_ID": "1200",
+                "NAV_DATE": "20240320",
+                "CREDIT_NAME": "BBB",
+                "CREDIT_RATIO": 53.7,
+                "CREDIT_COUNT": 41
+            }
+        ]
+    },
+    "FundWeights": {
+        "Summary": {
+            "code": "1200",
+            "name": null,
+            "stkvalues": 0,
+            "futvalues": 0,
+            "etfvalues": 0,
+            "bndvalues": 15466999532.23,
+            "fundsize": 15638928851
+        },
+        "StockWeights": [],
+        "FutureWeights": [],
+        "ETFWeights": [],
+        "BondWeights": [
+            {
+                "code": "AX5423154",
+                "name": "STATE OF QATAR 4.817% 03/14/2049",
+                "ename": "STATE OF QATAR 4.817% 03/14/2049",
+                "weights": 4.25,
+                "FACE_AMT": 22440000,
+                "qty": 20867778.18
+            },
+            {
+                "code": "EI4660938",
+                "name": "REPUBLIC OF PERU 5.625% 11/18/2050",
+                "ename": "REPUBLIC OF PERU 5.625% 11/18/2050",
+                "weights": 4.11,
+                "FACE_AMT": 20052000,
+                "qty": 20161960.16
+            },
+            {
+                "code": "QZ9368221",
+                "name": "SAUDI INTERNATIONAL BOND 4.5% 10/26/2046",
+                "ename": "SAUDI INTERNATIONAL BOND 4.5% 10/26/2046",
+                "weights": 4,
+                "FACE_AMT": 22781000,
+                "qty": 19628906.94
+            },
+            {
+                "code": "AP4164574",
+                "name": "ABU DHABI GOVT INT`L 4.125% 10/11/2047",
+                "ename": "ABU DHABI GOVT INT`L 4.125% 10/11/2047",
+                "weights": 3.58,
+                "FACE_AMT": 20517000,
+                "qty": 17539518.25
+            },
+            {
+                "code": "BH6210380",
+                "name": "STATE OF QATAR 4.4% 04/16/2050",
+                "ename": "STATE OF QATAR 4.4% 04/16/2050",
+                "weights": 2.98,
+                "FACE_AMT": 16336000,
+                "qty": 14634367.82
+            },
+            {
+                "code": "BH6827852",
+                "name": "ABU DHABI GOVT INT`L 3.875% 04/16/2050",
+                "ename": "ABU DHABI GOVT INT`L 3.875% 04/16/2050",
+                "weights": 2.81,
+                "FACE_AMT": 17016000,
+                "qty": 13803192.5
+            },
+            {
+                "code": "AS1975802",
+                "name": "STATE OF QATAR 5.103% 04/23/2048",
+                "ename": "STATE OF QATAR 5.103% 04/23/2048",
+                "weights": 2.81,
+                "FACE_AMT": 13952000,
+                "qty": 13763341.06
+            },
+            {
+                "code": "AP2859340",
+                "name": "SAUDI INTERNATIONAL BOND 4.625% 10/04/2047",
+                "ename": "SAUDI INTERNATIONAL BOND 4.625% 10/04/2047",
+                "weights": 2.47,
+                "FACE_AMT": 13905000,
+                "qty": 12120235.7
+            },
+            {
+                "code": "AS2148789",
+                "name": "REPUBLICA ORIENT URUGUAY 4.975% 04/20/2055",
+                "ename": "REPUBLICA ORIENT URUGUAY 4.975% 04/20/2055",
+                "weights": 2.47,
+                "FACE_AMT": 12700000,
+                "qty": 12104222.19
+            },
+            {
+                "code": "AQ2862581",
+                "name": "REPUBLIC OF INDONESIA 4.35% 01/11/2048",
+                "ename": "REPUBLIC OF INDONESIA 4.35% 01/11/2048",
+                "weights": 2.44,
+                "FACE_AMT": 13710000,
+                "qty": 11975141.17
+            },
+            {
+                "code": "ZM2329831",
+                "name": "HUNGARY 6.75% 09/25/2052",
+                "ename": "HUNGARY 6.75% 09/25/2052",
+                "weights": 2.42,
+                "FACE_AMT": 10790000,
+                "qty": 11868449.71
+            },
+            {
+                "code": "BU7141734",
+                "name": "REPUBLIC OF CHILE 4.34% 03/07/2042",
+                "ename": "REPUBLIC OF CHILE 4.34% 03/07/2042",
+                "weights": 2.29,
+                "FACE_AMT": 13000000,
+                "qty": 11250275.11
+            },
+            {
+                "code": "EK6947437",
+                "name": "UNITED MEXICAN STATES 4.6% 01/23/2046",
+                "ename": "UNITED MEXICAN STATES 4.6% 01/23/2046",
+                "weights": 2.26,
+                "FACE_AMT": 13860000,
+                "qty": 11101681.36
+            },
+            {
+                "code": "AS1609492",
+                "name": "SAUDI INTERNATIONAL BOND 5% 04/17/2049",
+                "ename": "SAUDI INTERNATIONAL BOND 5% 04/17/2049",
+                "weights": 2.21,
+                "FACE_AMT": 11817000,
+                "qty": 10846362.12
+            },
+            {
+                "code": "EK7127088",
+                "name": "REPUBLIC OF COLOMBIA 5% 06/15/2045",
+                "ename": "REPUBLIC OF COLOMBIA 5% 06/15/2045",
+                "weights": 2.15,
+                "FACE_AMT": 14284000,
+                "qty": 10556809.22
+            },
+            {
+                "code": "EJ0530851",
+                "name": "UNITED MEXICAN STATES 4.75% 03/08/2044",
+                "ename": "UNITED MEXICAN STATES 4.75% 03/08/2044",
+                "weights": 2.04,
+                "FACE_AMT": 12140000,
+                "qty": 10019521.71
+            },
+            {
+                "code": "AF2793459",
+                "name": "REPUBLIC OF KAZAKHSTAN 6.5% 07/21/2045",
+                "ename": "REPUBLIC OF KAZAKHSTAN 6.5% 07/21/2045",
+                "weights": 2.04,
+                "FACE_AMT": 8900000,
+                "qty": 10013410.77
+            },
+            {
+                "code": "JK1532288",
+                "name": "REPUBLIC OF PHILIPPINES 3.7% 03/01/2041",
+                "ename": "REPUBLIC OF PHILIPPINES 3.7% 03/01/2041",
+                "weights": 2.01,
+                "FACE_AMT": 12020000,
+                "qty": 9851081.82
+            },
+            {
+                "code": "BH5785648",
+                "name": "REPUBLIC OF INDONESIA 4.2% 10/15/2050",
+                "ename": "REPUBLIC OF INDONESIA 4.2% 10/15/2050",
+                "weights": 2,
+                "FACE_AMT": 11510000,
+                "qty": 9834754.03
+            },
+            {
+                "code": "EK6339684",
+                "name": "REPUBLIC OF PHILIPPINES 3.95% 01/20/2040",
+                "ename": "REPUBLIC OF PHILIPPINES 3.95% 01/20/2040",
+                "weights": 1.77,
+                "FACE_AMT": 10090000,
+                "qty": 8694503.11
+            },
+            {
+                "code": "EK3264687",
+                "name": "REPUBLICA ORIENT URUGUAY 5.1% 06/18/2050",
+                "ename": "REPUBLICA ORIENT URUGUAY 5.1% 06/18/2050",
+                "weights": 1.67,
+                "FACE_AMT": 8402000,
+                "qty": 8193622
+            },
+            {
+                "code": "AW0128149",
+                "name": "REPUBLIC OF INDONESIA 5.35% 02/11/2049",
+                "ename": "REPUBLIC OF INDONESIA 5.35% 02/11/2049",
+                "weights": 1.62,
+                "FACE_AMT": 7890000,
+                "qty": 7936925.34
+            },
+            {
+                "code": "BN6223950",
+                "name": "REPUBLIC OF CHILE 3.1% 01/22/2061",
+                "ename": "REPUBLIC OF CHILE 3.1% 01/22/2061",
+                "weights": 1.58,
+                "FACE_AMT": 12350000,
+                "qty": 7748557.41
+            },
+            {
+                "code": "EK0386004",
+                "name": "REPUBLIC OF COLOMBIA 5.625% 02/26/2044",
+                "ename": "REPUBLIC OF COLOMBIA 5.625% 02/26/2044",
+                "weights": 1.55,
+                "FACE_AMT": 9549000,
+                "qty": 7597196.34
+            },
+            {
+                "code": "AZ7740204",
+                "name": "UNITED MEXICAN STATES 4.5% 01/31/2050",
+                "ename": "UNITED MEXICAN STATES 4.5% 01/31/2050",
+                "weights": 1.48,
+                "FACE_AMT": 9240000,
+                "qty": 7241766.84
+            },
+            {
+                "code": "ZO1526334",
+                "name": "ABU DHABI GOVT INT`L 2.7% 09/02/2070",
+                "ename": "ABU DHABI GOVT INT`L 2.7% 09/02/2070",
+                "weights": 1.47,
+                "FACE_AMT": 12400000,
+                "qty": 7232771.2
+            },
+            {
+                "code": "AW8918517",
+                "name": "REPUBLIC OF COLOMBIA 5.2% 05/15/2049",
+                "ename": "REPUBLIC OF COLOMBIA 5.2% 05/15/2049",
+                "weights": 1.43,
+                "FACE_AMT": 9348000,
+                "qty": 7013589.4
+            },
+            {
+                "code": "AT0010294",
+                "name": "ROMANIA 5.125% 06/15/2048",
+                "ename": "ROMANIA 5.125% 06/15/2048",
+                "weights": 1.42,
+                "FACE_AMT": 8170000,
+                "qty": 6978803.11
+            },
+            {
+                "code": "AW5997324",
+                "name": "SAUDI INTERNATIONAL BOND 5.25% 01/16/2050",
+                "ename": "SAUDI INTERNATIONAL BOND 5.25% 01/16/2050",
+                "weights": 1.41,
+                "FACE_AMT": 7344000,
+                "qty": 6910749.29
+            },
+            {
+                "code": "ZQ2579709",
+                "name": "REPUBLIC OF INDONESIA 3.7% 10/30/2049",
+                "ename": "REPUBLIC OF INDONESIA 3.7% 10/30/2049",
+                "weights": 1.4,
+                "FACE_AMT": 8787000,
+                "qty": 6872626.11
+            },
+            {
+                "code": "BH5785663",
+                "name": "REPUBLIC OF INDONESIA 4.45% 04/15/2070",
+                "ename": "REPUBLIC OF INDONESIA 4.45% 04/15/2070",
+                "weights": 1.39,
+                "FACE_AMT": 7940000,
+                "qty": 6816492.65
+            },
+            {
+                "code": "ZP6092883",
+                "name": "SAUDI INTERNATIONAL BOND 3.75% 01/21/2055",
+                "ename": "SAUDI INTERNATIONAL BOND 3.75% 01/21/2055",
+                "weights": 1.37,
+                "FACE_AMT": 9390000,
+                "qty": 6743193.75
+            },
+            {
+                "code": "BJ1394326",
+                "name": "REPUBLIC OF PHILIPPINES 2.95% 05/05/2045",
+                "ename": "REPUBLIC OF PHILIPPINES 2.95% 05/05/2045",
+                "weights": 1.32,
+                "FACE_AMT": 9180000,
+                "qty": 6483682.02
+            },
+            {
+                "code": "EI4279358",
+                "name": "UNITED MEXICAN STATES 5.75% 10/12/2110",
+                "ename": "UNITED MEXICAN STATES 5.75% 10/12/2110",
+                "weights": 1.32,
+                "FACE_AMT": 7260000,
+                "qty": 6465820.13
+            },
+            {
+                "code": "ZP3544548",
+                "name": "STATE OF ISRAEL 3.375% 01/15/2050",
+                "ename": "STATE OF ISRAEL 3.375% 01/15/2050",
+                "weights": 1.25,
+                "FACE_AMT": 9110000,
+                "qty": 6137976.38
+            },
+            {
+                "code": "EI9526373",
+                "name": "REPUBLIC OF INDONESIA 5.25% 01/17/2042",
+                "ename": "REPUBLIC OF INDONESIA 5.25% 01/17/2042",
+                "weights": 1.24,
+                "FACE_AMT": 6058000,
+                "qty": 6070202.83
+            },
+            {
+                "code": "BP3918375",
+                "name": "REPUBLIC OF CHILE 3.1% 05/07/2041",
+                "ename": "REPUBLIC OF CHILE 3.1% 05/07/2041",
+                "weights": 1.17,
+                "FACE_AMT": 7700000,
+                "qty": 5726496.84
+            },
+            {
+                "code": "EK0273293",
+                "name": "ROMANIA 6.125% 01/22/2044",
+                "ename": "ROMANIA 6.125% 01/22/2044",
+                "weights": 1.16,
+                "FACE_AMT": 5800000,
+                "qty": 5672192.33
+            },
+            {
+                "code": "EJ4426767",
+                "name": "REPUBLICA ORIENT URUGUAY 4.125% 11/20/2045",
+                "ename": "REPUBLICA ORIENT URUGUAY 4.125% 11/20/2045",
+                "weights": 1.05,
+                "FACE_AMT": 5770000,
+                "qty": 5127104.2
+            },
+            {
+                "code": "BH4742608",
+                "name": "STATE OF ISRAEL 3.875% 07/03/2050",
+                "ename": "STATE OF ISRAEL 3.875% 07/03/2050",
+                "weights": 0.94,
+                "FACE_AMT": 6230000,
+                "qty": 4626073
+            },
+            {
+                "code": "AL5170462",
+                "name": "REPUBLIC OF INDONESIA 5.25% 01/08/2047",
+                "ename": "REPUBLIC OF INDONESIA 5.25% 01/08/2047",
+                "weights": 0.88,
+                "FACE_AMT": 4330000,
+                "qty": 4328141.71
+            },
+            {
+                "code": "BJ8090273",
+                "name": "REPUBLIC OF COLOMBIA 4.125% 05/15/2051",
+                "ename": "REPUBLIC OF COLOMBIA 4.125% 05/15/2051",
+                "weights": 0.88,
+                "FACE_AMT": 6800000,
+                "qty": 4314861.8
+            },
+            {
+                "code": "ZM3203290",
+                "name": "REPUBLIC OF PHILIPPINES 5.5% 01/17/2048",
+                "ename": "REPUBLIC OF PHILIPPINES 5.5% 01/17/2048",
+                "weights": 0.87,
+                "FACE_AMT": 4250000,
+                "qty": 4279103.06
+            },
+            {
+                "code": "BK4157206",
+                "name": "ROMANIA 4% 02/14/2051",
+                "ename": "ROMANIA 4% 02/14/2051",
+                "weights": 0.83,
+                "FACE_AMT": 5800000,
+                "qty": 4089586.44
+            },
+            {
+                "code": "LW2393194",
+                "name": "STATE OF QATAR 4.625% 06/02/2046",
+                "ename": "STATE OF QATAR 4.625% 06/02/2046",
+                "weights": 0.77,
+                "FACE_AMT": 4086000,
+                "qty": 3782551.06
+            },
+            {
+                "code": "ZP3168264",
+                "name": "REPUBLIC OF INDONESIA 3.5% 02/14/2050",
+                "ename": "REPUBLIC OF INDONESIA 3.5% 02/14/2050",
+                "weights": 0.76,
+                "FACE_AMT": 5050000,
+                "qty": 3743359.07
+            },
+            {
+                "code": "BJ0652443",
+                "name": "UNITED MEXICAN STATES 5% 04/27/2051",
+                "ename": "UNITED MEXICAN STATES 5% 04/27/2051",
+                "weights": 0.75,
+                "FACE_AMT": 4350000,
+                "qty": 3695738.25
+            },
+            {
+                "code": "BX3900103",
+                "name": "UAE INT`L GOVT BOND 4.951% 07/07/2052",
+                "ename": "UAE INT`L GOVT BOND 4.951% 07/07/2052",
+                "weights": 0.73,
+                "FACE_AMT": 3750000,
+                "qty": 3597525.21
+            },
+            {
+                "code": "ZK3129325",
+                "name": "UNITED MEXICAN STATES 6.338% 05/04/2053",
+                "ename": "UNITED MEXICAN STATES 6.338% 05/04/2053",
+                "weights": 0.71,
+                "FACE_AMT": 3500000,
+                "qty": 3494346.14
+            },
+            {
+                "code": "BR3518361",
+                "name": "ABU DHABI GOVT INT`L 3% 09/15/2051",
+                "ename": "ABU DHABI GOVT INT`L 3% 09/15/2051",
+                "weights": 0.69,
+                "FACE_AMT": 5050000,
+                "qty": 3400367
+            },
+            {
+                "code": "BO3887219",
+                "name": "REPUBLIC OF PERU 3.55% 03/10/2051",
+                "ename": "REPUBLIC OF PERU 3.55% 03/10/2051",
+                "weights": 0.67,
+                "FACE_AMT": 4600000,
+                "qty": 3300438.92
+            },
+            {
+                "code": "BZ5337911",
+                "name": "REPUBLIC OF PHILIPPINES 5.95% 10/13/2047",
+                "ename": "REPUBLIC OF PHILIPPINES 5.95% 10/13/2047",
+                "weights": 0.67,
+                "FACE_AMT": 3000000,
+                "qty": 3275345.67
+            },
+            {
+                "code": "BM5852033",
+                "name": "UNITED MEXICAN STATES 3.771% 05/24/2061",
+                "ename": "UNITED MEXICAN STATES 3.771% 05/24/2061",
+                "weights": 0.65,
+                "FACE_AMT": 4850000,
+                "qty": 3164943.89
+            },
+            {
+                "code": "BO8615516",
+                "name": "REPUBLIC OF CHILE 3.5% 04/15/2053",
+                "ename": "REPUBLIC OF CHILE 3.5% 04/15/2053",
+                "weights": 0.64,
+                "FACE_AMT": 4250000,
+                "qty": 3116179.33
+            },
+            {
+                "code": "BH4742657",
+                "name": "STATE OF ISRAEL 4.5% 04/03/2120",
+                "ename": "STATE OF ISRAEL 4.5% 04/03/2120",
+                "weights": 0.62,
+                "FACE_AMT": 3975000,
+                "qty": 3027240.75
+            },
+            {
+                "code": "BM7101470",
+                "name": "REPUBLIC OF PERU 2.78% 12/01/2060",
+                "ename": "REPUBLIC OF PERU 2.78% 12/01/2060",
+                "weights": 0.59,
+                "FACE_AMT": 5050000,
+                "qty": 2915367.24
+            },
+            {
+                "code": "EJ5349059",
+                "name": "STATE OF ISRAEL 4.5% 01/30/2043",
+                "ename": "STATE OF ISRAEL 4.5% 01/30/2043",
+                "weights": 0.59,
+                "FACE_AMT": 3340000,
+                "qty": 2886494.8
+            },
+            {
+                "code": "AZ1913575",
+                "name": "REPUBLIC OF CHILE 3.5% 01/25/2050",
+                "ename": "REPUBLIC OF CHILE 3.5% 01/25/2050",
+                "weights": 0.57,
+                "FACE_AMT": 3850000,
+                "qty": 2802097.16
+            },
+            {
+                "code": "BJ1411179",
+                "name": "STATE OF ISRAEL 3.8% 05/13/2060",
+                "ename": "STATE OF ISRAEL 3.8% 05/13/2060",
+                "weights": 0.57,
+                "FACE_AMT": 4000000,
+                "qty": 2789044.44
+            },
+            {
+                "code": "AP3916842",
+                "name": "UNITED MEXICAN STATES 4.6% 02/10/2048",
+                "ename": "UNITED MEXICAN STATES 4.6% 02/10/2048",
+                "weights": 0.57,
+                "FACE_AMT": 3510000,
+                "qty": 2787925.92
+            },
+            {
+                "code": "EK3121275",
+                "name": "REPUBLIC OF KOREA 4.125% 06/10/2044",
+                "ename": "REPUBLIC OF KOREA 4.125% 06/10/2044",
+                "weights": 0.56,
+                "FACE_AMT": 3000000,
+                "qty": 2728466.75
+            },
+            {
+                "code": "AQ6103701",
+                "name": "STATE OF ISRAEL 4.125% 01/17/2048",
+                "ename": "STATE OF ISRAEL 4.125% 01/17/2048",
+                "weights": 0.48,
+                "FACE_AMT": 3000000,
+                "qty": 2354644
+            },
+            {
+                "code": "AM2173855",
+                "name": "REPUBLIC OF PHILIPPINES 3.7% 02/02/2042",
+                "ename": "REPUBLIC OF PHILIPPINES 3.7% 02/02/2042",
+                "weights": 0.47,
+                "FACE_AMT": 2858000,
+                "qty": 2324711.81
+            },
+            {
+                "code": "AU5158111",
+                "name": "REPUBLIC OF KOREA 3.875% 09/20/2048",
+                "ename": "REPUBLIC OF KOREA 3.875% 09/20/2048",
+                "weights": 0.47,
+                "FACE_AMT": 2750000,
+                "qty": 2310785.51
+            },
+            {
+                "code": "ZG0193182",
+                "name": "REPUBLIC OF COLOMBIA 8.75% 11/14/2053",
+                "ename": "REPUBLIC OF COLOMBIA 8.75% 11/14/2053",
+                "weights": 0.45,
+                "FACE_AMT": 2000000,
+                "qty": 2223548.11
+            },
+            {
+                "code": "BH8296148",
+                "name": "SAUDI INTERNATIONAL BOND 4.5% 04/22/2060",
+                "ename": "SAUDI INTERNATIONAL BOND 4.5% 04/22/2060",
+                "weights": 0.44,
+                "FACE_AMT": 2600000,
+                "qty": 2161289
+            },
+            {
+                "code": "BM8782443",
+                "name": "REPUBLIC OF PHILIPPINES 2.65% 12/10/2045",
+                "ename": "REPUBLIC OF PHILIPPINES 2.65% 12/10/2045",
+                "weights": 0.4,
+                "FACE_AMT": 3000000,
+                "qty": 1969625.17
+            },
+            {
+                "code": "BN7443524",
+                "name": "SAUDI INTERNATIONAL BOND 3.45% 02/02/2061",
+                "ename": "SAUDI INTERNATIONAL BOND 3.45% 02/02/2061",
+                "weights": 0.34,
+                "FACE_AMT": 2500000,
+                "qty": 1655267.08
+            },
+            {
+                "code": "ZJ3288298",
+                "name": "REPUBLIC OF CHILE 5.33% 01/05/2054",
+                "ename": "REPUBLIC OF CHILE 5.33% 01/05/2054",
+                "weights": 0.33,
+                "FACE_AMT": 1700000,
+                "qty": 1637642.68
+            },
+            {
+                "code": "BN4925556",
+                "name": "REPUBLIC OF COLOMBIA 3.875% 02/15/2061",
+                "ename": "REPUBLIC OF COLOMBIA 3.875% 02/15/2061",
+                "weights": 0.31,
+                "FACE_AMT": 2650000,
+                "qty": 1534275.8
+            },
+            {
+                "code": "BN2966958",
+                "name": "UNITED MEXICAN STATES 3.75% 04/19/2071",
+                "ename": "UNITED MEXICAN STATES 3.75% 04/19/2071",
+                "weights": 0.26,
+                "FACE_AMT": 2000000,
+                "qty": 1286488.67
+            }
+        ]
+    },
+    "Memo": null
+}

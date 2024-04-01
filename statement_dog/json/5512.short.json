@@ -6,7 +6,7 @@
         "main_business": "住宅及商業大樓投資興建出租出售",
         "website_url": "http://www.rhd.com.tw",
         "ceo": "郭濟綱",
-        "pe_ratio": 41,
+        "pe_ratio": 32,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 23,
@@ -58,19 +58,19 @@
             "at_2023_last_all": 20.38,
             "at_2024_last_all": 20.38
         },
-        "latest_eps": 0.24,
-        "latest_price": 9.85,
-        "latest_roe": 0.17,
-        "latest_gross_margin": 19.72,
-        "latest_equity": 17266813,
-        "latest_revenue": 2606735,
-        "latest_gross_profit": 514128,
-        "latest_net_income": 191164,
-        "latest_debt_ratio": 56.57,
-        "latest_current_ratio": 157.12,
-        "latest_account_receivable_turnover_ratio": 1.68,
-        "latest_inventory_turnover_ratio": 0.15,
-        "latest_reinvestment_rate": 216.28,
+        "latest_eps": 0.33,
+        "latest_price": 10.5,
+        "latest_roe": 0.93,
+        "latest_gross_margin": 14.71,
+        "latest_equity": 17367946,
+        "latest_revenue": 1491188,
+        "latest_gross_profit": 219324,
+        "latest_net_income": 26343,
+        "latest_debt_ratio": 56.88,
+        "latest_current_ratio": 147.74,
+        "latest_account_receivable_turnover_ratio": 0.95,
+        "latest_inventory_turnover_ratio": 0.09,
+        "latest_reinvestment_rate": 157.6,
         "latest_research_to_sale_ratio": 0
     },
     "eps_dividends": {
@@ -197,7 +197,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 0.28
+            "eps": 0.33
         }
     },
     "dividends": {
@@ -562,7 +562,11 @@
         "202309": "9.33",
         "202310": "9.09",
         "202311": "9.34",
-        "202312": "9.85"
+        "202312": "9.85",
+        "202401": "9.53",
+        "202402": "10.05",
+        "202403": "10.05",
+        "202404": "無"
     },
     "quarters": {
         "20011": {
@@ -3476,6 +3480,38 @@
             "eps_avg_yearly": 0.51,
             "eps_latest_yearly": 1,
             "eps_growth_yearly": 377.5
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": 0.05,
+            "eps_growth_year": null,
+            "eps_4q": 0.33,
+            "eps_4q_growth_year": 458.43,
+            "roe": 0.15,
+            "roe_4q": 0.9199999999999999,
+            "gross_profit": 219324,
+            "gross_margin": 14.71,
+            "gross_margin_4q_avg": 14.76,
+            "net_income": 26343,
+            "net_income_4q": null,
+            "revenue": 1491188,
+            "revenue_4q": null,
+            "common_shares": 7439927,
+            "book_valuer_per_share": 18.49,
+            "book_valuer_per_share_4q_avg": 18.23,
+            "equity": 17367946,
+            "current_ratio": 147.74,
+            "debt_ratio": 56.88,
+            "inventory_turnover_ratio": 0.09,
+            "account_receivable_turnover_ratio": 0.95,
+            "reinvestment_rate": 157.6,
+            "research_to_sale_ratio": 0,
+            "price_fair": 17.15,
+            "eps_avg_yearly": 0.49,
+            "eps_latest_yearly": 0.2,
+            "eps_growth_yearly": 350
         }
     },
     "months": {
@@ -4833,6 +4869,16 @@
             "month": "2023-12",
             "price": "9.85",
             "revenue": 477466
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "9.53",
+            "revenue": 884883
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "10.05",
+            "revenue": 255513
         }
     }
 }

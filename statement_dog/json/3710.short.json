@@ -6,7 +6,7 @@
         "main_business": "一般投資業",
         "website_url": "http://www.acon-holding.com",
         "ceo": "陳鴻儀",
-        "pe_ratio": -8,
+        "pe_ratio": -14,
         "report_year_from": 2014,
         "report_year_to": 2023,
         "age": 10,
@@ -58,20 +58,20 @@
             "at_2023_last_all": null,
             "at_2024_last_all": null
         },
-        "latest_eps": -1.18,
-        "latest_price": 9.68,
-        "latest_roe": -13.51,
-        "latest_gross_margin": 18.49,
-        "latest_equity": 2111140,
-        "latest_revenue": 1632400,
-        "latest_gross_profit": 301829,
-        "latest_net_income": 1945,
-        "latest_debt_ratio": 73.5,
-        "latest_current_ratio": 98.51,
-        "latest_account_receivable_turnover_ratio": 0.9,
-        "latest_inventory_turnover_ratio": 1.57,
+        "latest_eps": -0.78,
+        "latest_price": 10.7,
+        "latest_roe": -9.04,
+        "latest_gross_margin": 19.83,
+        "latest_equity": 2029819,
+        "latest_revenue": 1732014,
+        "latest_gross_profit": 343511,
+        "latest_net_income": -9278,
+        "latest_debt_ratio": 74,
+        "latest_current_ratio": 97.98,
+        "latest_account_receivable_turnover_ratio": 0.87,
+        "latest_inventory_turnover_ratio": 1.64,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 6.48
+        "latest_research_to_sale_ratio": 4.93
     },
     "eps_dividends": {
         "2001": {
@@ -187,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -0.74
+            "eps": -0.77
         }
     },
     "dividends": [],
@@ -467,7 +467,11 @@
         "202309": "9.94",
         "202310": "9.47",
         "202311": "9.55",
-        "202312": "10.44"
+        "202312": "10.44",
+        "202401": "10.19",
+        "202402": "10.46",
+        "202403": "9.96",
+        "202404": "無"
     },
     "quarters": {
         "20011": {
@@ -3381,6 +3385,38 @@
             "eps_avg_yearly": 0,
             "eps_latest_yearly": 0,
             "eps_growth_yearly": 0
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": -0.03,
+            "eps_growth_year": null,
+            "eps_4q": -0.78,
+            "eps_4q_growth_year": null,
+            "roe": -0.45,
+            "roe_4q": -8.89,
+            "gross_profit": 343511,
+            "gross_margin": 19.83,
+            "gross_margin_4q_avg": 17.2,
+            "net_income": -9278,
+            "net_income_4q": null,
+            "revenue": 1732014,
+            "revenue_4q": null,
+            "common_shares": 2872507,
+            "book_valuer_per_share": 6.02,
+            "book_valuer_per_share_4q_avg": 6.27,
+            "equity": 2029819,
+            "current_ratio": 97.98,
+            "debt_ratio": 74,
+            "inventory_turnover_ratio": 1.64,
+            "account_receivable_turnover_ratio": 0.87,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 4.93,
+            "price_fair": 0,
+            "eps_avg_yearly": 0,
+            "eps_latest_yearly": 0,
+            "eps_growth_yearly": 0
         }
     },
     "months": {
@@ -3748,6 +3784,16 @@
             "month": "2023-12",
             "price": "10.44",
             "revenue": 579435
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "10.19",
+            "revenue": 558818
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "10.46",
+            "revenue": 444156
         }
     }
 }

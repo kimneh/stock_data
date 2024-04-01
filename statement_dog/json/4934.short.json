@@ -6,17 +6,17 @@
         "main_business": "太陽能電池",
         "website_url": "http://http//www.tainergy.com",
         "ceo": "陳怡光",
-        "pe_ratio": 14,
+        "pe_ratio": -195,
         "report_year_from": 2009,
         "report_year_to": 2023,
         "age": 15,
-        "eps_negative_percentage": 53,
+        "eps_negative_percentage": 60,
         "eps_growth_avg": {
-            "last_all": -31.61,
-            "last_2y": -4.08,
-            "last_4y": -4.08,
-            "last_8y": -15.24,
-            "last_12y": -31.61,
+            "last_all": -63.58,
+            "last_2y": -100,
+            "last_4y": -100,
+            "last_8y": -63.19,
+            "last_12y": -63.58,
             "last_16y": null,
             "last_20y": null,
             "at_2006_last_3y": null,
@@ -36,8 +36,8 @@
             "at_2020_last_3y": null,
             "at_2021_last_3y": -100,
             "at_2022_last_3y": -100,
-            "at_2023_last_3y": -4.08,
-            "at_2024_last_3y": -4.08,
+            "at_2023_last_3y": -100,
+            "at_2024_last_3y": -100,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -55,23 +55,23 @@
             "at_2020_last_all": -45.37,
             "at_2021_last_all": -56.3,
             "at_2022_last_all": -56.3,
-            "at_2023_last_all": -31.61,
-            "at_2024_last_all": -31.61
+            "at_2023_last_all": -63.58,
+            "at_2024_last_all": -63.58
         },
-        "latest_eps": 1.71,
-        "latest_price": 24.35,
-        "latest_roe": 8.26,
-        "latest_gross_margin": 22.57,
-        "latest_equity": 2628379,
-        "latest_revenue": 649208,
-        "latest_gross_profit": 146512,
-        "latest_net_income": 61093,
-        "latest_debt_ratio": 20.87,
-        "latest_current_ratio": 357.66,
-        "latest_account_receivable_turnover_ratio": 23.11,
-        "latest_inventory_turnover_ratio": 2.23,
+        "latest_eps": -0.13,
+        "latest_price": 25.4,
+        "latest_roe": -7.93,
+        "latest_gross_margin": -57.18,
+        "latest_equity": 2290686,
+        "latest_revenue": 154521,
+        "latest_gross_profit": -88358,
+        "latest_net_income": -300038,
+        "latest_debt_ratio": 24.61,
+        "latest_current_ratio": 281.35,
+        "latest_account_receivable_turnover_ratio": 5.2,
+        "latest_inventory_turnover_ratio": 1.58,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 10.5
+        "latest_research_to_sale_ratio": 24.37
     },
     "eps_dividends": {
         "2001": {
@@ -187,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 0.94
+            "eps": -0.13
         }
     },
     "dividends": {
@@ -488,7 +488,11 @@
         "202309": "33.74",
         "202310": "29.12",
         "202311": "27.76",
-        "202312": "27.36"
+        "202312": "27.36",
+        "202401": "26.31",
+        "202402": "25.68",
+        "202403": "25.46",
+        "202404": "無"
     },
     "quarters": {
         "20011": {
@@ -3402,6 +3406,38 @@
             "eps_avg_yearly": 1.71,
             "eps_latest_yearly": 1.76,
             "eps_growth_yearly": 617.09
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": -1.07,
+            "eps_growth_year": -238.06,
+            "eps_4q": -0.13,
+            "eps_4q_growth_year": -125.97,
+            "roe": -12.2,
+            "roe_4q": -7.92,
+            "gross_profit": -88358,
+            "gross_margin": -57.18,
+            "gross_margin_4q_avg": -1.47,
+            "net_income": -300038,
+            "net_income_4q": null,
+            "revenue": 154521,
+            "revenue_4q": null,
+            "common_shares": 2250000,
+            "book_valuer_per_share": 9.39,
+            "book_valuer_per_share_4q_avg": 10,
+            "equity": 2290686,
+            "current_ratio": 281.35,
+            "debt_ratio": 24.61,
+            "inventory_turnover_ratio": 1.58,
+            "account_receivable_turnover_ratio": 5.2,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 24.37,
+            "price_fair": 59.85,
+            "eps_avg_yearly": 1.71,
+            "eps_latest_yearly": 1.76,
+            "eps_growth_yearly": 617.09
         }
     },
     "months": {
@@ -4234,6 +4270,16 @@
             "month": "2023-12",
             "price": "27.36",
             "revenue": 27219
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "26.31",
+            "revenue": 26292
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "25.68",
+            "revenue": 22982
         }
     }
 }

@@ -6,7 +6,7 @@
         "main_business": "各類電子及汽車零件之加工製造買賣之產品業務",
         "website_url": "http://www.cftc.tw",
         "ceo": "黃亦翔",
-        "pe_ratio": -29,
+        "pe_ratio": -48,
         "report_year_from": 2007,
         "report_year_to": 2023,
         "age": 17,
@@ -58,20 +58,20 @@
             "at_2023_last_all": -8.4,
             "at_2024_last_all": -8.4
         },
-        "latest_eps": -1.12,
-        "latest_price": 32.15,
-        "latest_roe": -5.95,
-        "latest_gross_margin": 12.55,
-        "latest_equity": 1467334,
-        "latest_revenue": 587442,
-        "latest_gross_profit": 73729,
-        "latest_net_income": -10381,
-        "latest_debt_ratio": 64.35,
-        "latest_current_ratio": 147.72,
-        "latest_account_receivable_turnover_ratio": 0.89,
-        "latest_inventory_turnover_ratio": 0.86,
-        "latest_reinvestment_rate": 365.8,
-        "latest_research_to_sale_ratio": 4.68
+        "latest_eps": -0.67,
+        "latest_price": 32,
+        "latest_roe": -3.62,
+        "latest_gross_margin": 16.72,
+        "latest_equity": 1459143,
+        "latest_revenue": 696952,
+        "latest_gross_profit": 116562,
+        "latest_net_income": 20851,
+        "latest_debt_ratio": 64.2,
+        "latest_current_ratio": 156.46,
+        "latest_account_receivable_turnover_ratio": 0.96,
+        "latest_inventory_turnover_ratio": 1,
+        "latest_reinvestment_rate": 85.57,
+        "latest_research_to_sale_ratio": 5.24
     },
     "eps_dividends": {
         "2001": {
@@ -187,7 +187,12 @@
         "2023": {
             "cash": 0.2,
             "stock": 0.05,
-            "eps": -0.93
+            "eps": -0.67
+        },
+        "2024": {
+            "cash": 0.1,
+            "stock": 0.03,
+            "eps": 0
         }
     },
     "dividends": {
@@ -250,6 +255,10 @@
         "2023-11-06": {
             "cash": 0.2,
             "stock": 0.05
+        },
+        "2024-03-25": {
+            "cash": 0.1,
+            "stock": 0.03
         }
     },
     "prices": {
@@ -528,7 +537,11 @@
         "202309": "33.33",
         "202310": "32.46",
         "202311": "31.55",
-        "202312": "32.93"
+        "202312": "32.93",
+        "202401": "31.96",
+        "202402": "32.55",
+        "202403": "32.37",
+        "202404": "無"
     },
     "quarters": {
         "20011": {
@@ -3442,6 +3455,38 @@
             "eps_avg_yearly": 1.47,
             "eps_latest_yearly": 1.68,
             "eps_growth_yearly": 517.54
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": 0.26,
+            "eps_growth_year": null,
+            "eps_4q": -0.67,
+            "eps_4q_growth_year": -225.68,
+            "roe": 1.42,
+            "roe_4q": -3.6300000000000003,
+            "gross_profit": 116562,
+            "gross_margin": 16.72,
+            "gross_margin_4q_avg": 10.38,
+            "net_income": 20851,
+            "net_income_4q": null,
+            "revenue": 696952,
+            "revenue_4q": null,
+            "common_shares": 863123,
+            "book_valuer_per_share": 17.96,
+            "book_valuer_per_share_4q_avg": 17.93,
+            "equity": 1459143,
+            "current_ratio": 156.46,
+            "debt_ratio": 64.2,
+            "inventory_turnover_ratio": 1,
+            "account_receivable_turnover_ratio": 0.96,
+            "reinvestment_rate": 85.57,
+            "research_to_sale_ratio": 5.24,
+            "price_fair": 53.06,
+            "eps_avg_yearly": 1.52,
+            "eps_latest_yearly": 1.68,
+            "eps_growth_yearly": 109.29
         }
     },
     "months": {
@@ -4294,6 +4339,16 @@
             "month": "2023-12",
             "price": "32.93",
             "revenue": 231337
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "31.96",
+            "revenue": 245383
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "32.55",
+            "revenue": 174956
         }
     }
 }

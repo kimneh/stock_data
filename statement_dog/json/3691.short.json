@@ -6,7 +6,7 @@
         "main_business": "太陽能導電漿",
         "website_url": "http://www.gigasolar.com.tw",
         "ceo": "黃文瑞",
-        "pe_ratio": -15,
+        "pe_ratio": -13,
         "report_year_from": 2008,
         "report_year_to": 2023,
         "age": 16,
@@ -58,20 +58,20 @@
             "at_2023_last_all": -9.19,
             "at_2024_last_all": -9.19
         },
-        "latest_eps": -7.59,
-        "latest_price": 113.5,
-        "latest_roe": -12.39,
-        "latest_gross_margin": 0.65,
-        "latest_equity": 8059334,
-        "latest_revenue": 596356,
-        "latest_gross_profit": 3868,
-        "latest_net_income": -85740,
-        "latest_debt_ratio": 27.97,
-        "latest_current_ratio": 333.38,
-        "latest_account_receivable_turnover_ratio": 1.08,
-        "latest_inventory_turnover_ratio": 0.7,
+        "latest_eps": -8.82,
+        "latest_price": 117.5,
+        "latest_roe": -15.03,
+        "latest_gross_margin": -3.55,
+        "latest_equity": 7478434,
+        "latest_revenue": 1029086,
+        "latest_gross_profit": -36520,
+        "latest_net_income": -560730,
+        "latest_debt_ratio": 34.88,
+        "latest_current_ratio": 220.18,
+        "latest_account_receivable_turnover_ratio": 1.5,
+        "latest_inventory_turnover_ratio": 0.99,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 12.63
+        "latest_research_to_sale_ratio": 9.59
     },
     "eps_dividends": {
         "2001": {
@@ -187,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -4.1
+            "eps": -8.83
         }
     },
     "dividends": {
@@ -512,7 +512,11 @@
         "202309": "81.61",
         "202310": "78.86",
         "202311": "83.16",
-        "202312": "87.37"
+        "202312": "87.37",
+        "202401": "94.82",
+        "202402": "104.67",
+        "202403": "115.98",
+        "202404": "無"
     },
     "quarters": {
         "20011": {
@@ -3426,6 +3430,38 @@
             "eps_avg_yearly": 3.16,
             "eps_latest_yearly": 2.68,
             "eps_growth_yearly": -207.47
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": -4.73,
+            "eps_growth_year": null,
+            "eps_4q": -8.82,
+            "eps_4q_growth_year": null,
+            "roe": -7.22,
+            "roe_4q": -14.98,
+            "gross_profit": -36520,
+            "gross_margin": -3.55,
+            "gross_margin_4q_avg": -5.48,
+            "net_income": -560730,
+            "net_income_4q": null,
+            "revenue": 1029086,
+            "revenue_4q": null,
+            "common_shares": 918834,
+            "book_valuer_per_share": 72.26,
+            "book_valuer_per_share_4q_avg": 77.06,
+            "equity": 7478434,
+            "current_ratio": 220.18,
+            "debt_ratio": 34.88,
+            "inventory_turnover_ratio": 0.99,
+            "account_receivable_turnover_ratio": 1.5,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 9.59,
+            "price_fair": 9.48,
+            "eps_avg_yearly": 3.16,
+            "eps_latest_yearly": 2.68,
+            "eps_growth_yearly": -207.47
         }
     },
     "months": {
@@ -4283,6 +4319,16 @@
             "month": "2023-12",
             "price": "87.37",
             "revenue": 514004
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "94.82",
+            "revenue": 499412
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "104.67",
+            "revenue": 460422
         }
     }
 }

@@ -6,19 +6,19 @@
         "main_business": "偏光板",
         "website_url": "http://www.optimax.com.tw",
         "ceo": "趙輝生",
-        "pe_ratio": 68,
+        "pe_ratio": 36,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 23,
         "eps_negative_percentage": 48,
         "eps_growth_avg": {
-            "last_all": 7.45,
-            "last_2y": 8.33,
-            "last_4y": 8.33,
-            "last_8y": -23.49,
-            "last_12y": -2.41,
-            "last_16y": -2.41,
-            "last_20y": -1.81,
+            "last_all": 8.98,
+            "last_2y": 13.95,
+            "last_4y": 13.95,
+            "last_8y": -20.12,
+            "last_12y": 0,
+            "last_16y": 0,
+            "last_20y": -0.12,
             "at_2006_last_3y": -0.41,
             "at_2007_last_3y": -16.03,
             "at_2008_last_3y": -100,
@@ -36,8 +36,8 @@
             "at_2020_last_3y": null,
             "at_2021_last_3y": 100,
             "at_2022_last_3y": 51.38,
-            "at_2023_last_3y": 8.33,
-            "at_2024_last_3y": 8.33,
+            "at_2023_last_3y": 13.95,
+            "at_2024_last_3y": 13.95,
             "at_2006_last_all": 24.69,
             "at_2007_last_all": 24.69,
             "at_2008_last_all": 24.69,
@@ -55,23 +55,23 @@
             "at_2020_last_all": 7.12,
             "at_2021_last_all": 17.44,
             "at_2022_last_all": 15.97,
-            "at_2023_last_all": 7.45,
-            "at_2024_last_all": 7.45
+            "at_2023_last_all": 8.98,
+            "at_2024_last_all": 8.98
         },
-        "latest_eps": 0.58,
-        "latest_price": 39.4,
-        "latest_roe": 4.03,
-        "latest_gross_margin": 24.26,
-        "latest_equity": 2374661,
-        "latest_revenue": 537019,
-        "latest_gross_profit": 130262,
-        "latest_net_income": 77998,
-        "latest_debt_ratio": 42.26,
-        "latest_current_ratio": 342.5,
-        "latest_account_receivable_turnover_ratio": 0.93,
-        "latest_inventory_turnover_ratio": 0.73,
-        "latest_reinvestment_rate": -49.53,
-        "latest_research_to_sale_ratio": 2.17
+        "latest_eps": 1.03,
+        "latest_price": 37.4,
+        "latest_roe": 7.07,
+        "latest_gross_margin": 47.95,
+        "latest_equity": 2445686,
+        "latest_revenue": 474811,
+        "latest_gross_profit": 227675,
+        "latest_net_income": 73352,
+        "latest_debt_ratio": 40.95,
+        "latest_current_ratio": 352.29,
+        "latest_account_receivable_turnover_ratio": 0.83,
+        "latest_inventory_turnover_ratio": 0.41,
+        "latest_reinvestment_rate": -45.95,
+        "latest_research_to_sale_ratio": 3.14
     },
     "eps_dividends": {
         "2001": {
@@ -187,7 +187,7 @@
         "2023": {
             "cash": 1.2,
             "stock": 0,
-            "eps": 0.58
+            "eps": 1.02
         },
         "2024": {
             "cash": 1,
@@ -497,7 +497,11 @@
         "202309": "29.52",
         "202310": "31.48",
         "202311": "32.33",
-        "202312": "38.68"
+        "202312": "38.68",
+        "202401": "33.65",
+        "202402": "36.18",
+        "202403": "38.60",
+        "202404": "無"
     },
     "quarters": {
         "20011": {
@@ -3411,6 +3415,38 @@
             "eps_avg_yearly": 2.55,
             "eps_latest_yearly": 1.84,
             "eps_growth_yearly": 953.55
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": 0.44,
+            "eps_growth_year": null,
+            "eps_4q": 1.03,
+            "eps_4q_growth_year": -61.1,
+            "roe": 3.04,
+            "roe_4q": 7.29,
+            "gross_profit": 227675,
+            "gross_margin": 47.95,
+            "gross_margin_4q_avg": 26.82,
+            "net_income": 73352,
+            "net_income_4q": null,
+            "revenue": 474811,
+            "revenue_4q": null,
+            "common_shares": 1700000,
+            "book_valuer_per_share": 14.56,
+            "book_valuer_per_share_4q_avg": 14.26,
+            "equity": 2445686,
+            "current_ratio": 352.29,
+            "debt_ratio": 40.95,
+            "inventory_turnover_ratio": 0.41,
+            "account_receivable_turnover_ratio": 0.83,
+            "reinvestment_rate": -45.95,
+            "research_to_sale_ratio": 3.14,
+            "price_fair": 86.52,
+            "eps_avg_yearly": 2.47,
+            "eps_latest_yearly": 1.76,
+            "eps_growth_yearly": 856.45
         }
     },
     "months": {
@@ -4688,6 +4724,16 @@
             "month": "2023-12",
             "price": "38.68",
             "revenue": 123196
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "33.65",
+            "revenue": 131523
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "36.18",
+            "revenue": 105126
         }
     }
 }

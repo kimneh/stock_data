@@ -6,19 +6,19 @@
         "main_business": "連接器及連接線(組)<br>其他",
         "website_url": "http://www.gbe.com.tw",
         "ceo": "陳君宇",
-        "pe_ratio": 0,
+        "pe_ratio": 100,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 23,
         "eps_negative_percentage": 13,
         "eps_growth_avg": {
-            "last_all": -20.93,
-            "last_2y": -84.62,
-            "last_4y": -48.62,
-            "last_8y": -30.15,
-            "last_12y": -12.3,
-            "last_16y": -29.51,
-            "last_20y": -21.33,
+            "last_all": -21.74,
+            "last_2y": -92.31,
+            "last_4y": -52.47,
+            "last_8y": -32.08,
+            "last_12y": -13.84,
+            "last_16y": -30.61,
+            "last_20y": -22.18,
             "at_2006_last_3y": 7.32,
             "at_2007_last_3y": 16.83,
             "at_2008_last_3y": -14.69,
@@ -36,8 +36,8 @@
             "at_2020_last_3y": 6.19,
             "at_2021_last_3y": -43.81,
             "at_2022_last_3y": -41.75,
-            "at_2023_last_3y": -86.04,
-            "at_2024_last_3y": -86.04,
+            "at_2023_last_3y": -91.17,
+            "at_2024_last_3y": -91.17,
             "at_2006_last_all": 3.09,
             "at_2007_last_all": -0.32,
             "at_2008_last_all": -11.86,
@@ -55,23 +55,23 @@
             "at_2020_last_all": -13.44,
             "at_2021_last_all": -18.25,
             "at_2022_last_all": -18.25,
-            "at_2023_last_all": -20.93,
-            "at_2024_last_all": -20.93
+            "at_2023_last_all": -21.74,
+            "at_2024_last_all": -21.74
         },
-        "latest_eps": 0,
-        "latest_price": 13.9,
+        "latest_eps": 0.09,
+        "latest_price": 14.05,
         "latest_roe": 0,
-        "latest_gross_margin": 22.36,
-        "latest_equity": 1150912,
-        "latest_revenue": 260101,
-        "latest_gross_profit": 58168,
-        "latest_net_income": 16770,
-        "latest_debt_ratio": 42.68,
-        "latest_current_ratio": 126.34,
-        "latest_account_receivable_turnover_ratio": 0.97,
-        "latest_inventory_turnover_ratio": 0.81,
+        "latest_gross_margin": 16.58,
+        "latest_equity": 1111475,
+        "latest_revenue": 245170,
+        "latest_gross_profit": 40658,
+        "latest_net_income": -12261,
+        "latest_debt_ratio": 43.11,
+        "latest_current_ratio": 121.12,
+        "latest_account_receivable_turnover_ratio": 1,
+        "latest_inventory_turnover_ratio": 0.89,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 2.74
+        "latest_research_to_sale_ratio": 2.55
     },
     "eps_dividends": {
         "2000": {
@@ -192,7 +192,7 @@
         "2023": {
             "cash": 0.5,
             "stock": 0,
-            "eps": 0.2
+            "eps": 0.1
         }
     },
     "dividends": {
@@ -545,7 +545,11 @@
         "202309": "14.78",
         "202310": "13.61",
         "202311": "15.82",
-        "202312": "15.67"
+        "202312": "15.67",
+        "202401": "15.00",
+        "202402": "15.22",
+        "202403": "14.35",
+        "202404": "無"
     },
     "quarters": {
         "20011": {
@@ -3459,6 +3463,38 @@
             "eps_avg_yearly": 0.9,
             "eps_latest_yearly": 0.56,
             "eps_growth_yearly": 475.48
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": -0.1,
+            "eps_growth_year": null,
+            "eps_4q": 0.09,
+            "eps_4q_growth_year": null,
+            "roe": -1.08,
+            "roe_4q": 1,
+            "gross_profit": 40658,
+            "gross_margin": 16.58,
+            "gross_margin_4q_avg": 19.35,
+            "net_income": -12261,
+            "net_income_4q": null,
+            "revenue": 245170,
+            "revenue_4q": null,
+            "common_shares": 1170064,
+            "book_valuer_per_share": 9.5,
+            "book_valuer_per_share_4q_avg": 9.82,
+            "equity": 1111475,
+            "current_ratio": 121.12,
+            "debt_ratio": 43.11,
+            "inventory_turnover_ratio": 0.89,
+            "account_receivable_turnover_ratio": 1,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 2.55,
+            "price_fair": 31.5,
+            "eps_avg_yearly": 0.9,
+            "eps_latest_yearly": 0.56,
+            "eps_growth_yearly": 475.48
         }
     },
     "months": {
@@ -4776,6 +4812,16 @@
             "month": "2023-12",
             "price": "15.67",
             "revenue": 86657
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "15.00",
+            "revenue": 85857
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "15.22",
+            "revenue": 45362
         }
     }
 }

@@ -6,7 +6,7 @@
         "main_business": "1.資訊週邊產品,包括:NB金屬機殼及鍵盤,印表機及LCD之機構件等。<br>2.消費性電子產品,包括家庭劇院,環繞式音響及DVD之機構件等。<br>3.上述產品之模具開發。",
         "website_url": "https://www.hamagawa.com.tw/",
         "ceo": "蕭欽群",
-        "pe_ratio": -46,
+        "pe_ratio": -26,
         "report_year_from": 2003,
         "report_year_to": 2023,
         "age": 21,
@@ -58,20 +58,20 @@
             "at_2023_last_all": 1.84,
             "at_2024_last_all": 1.84
         },
-        "latest_eps": -0.53,
+        "latest_eps": -0.95,
         "latest_price": 24.6,
-        "latest_roe": -1.38,
-        "latest_gross_margin": 13,
-        "latest_equity": 3434612,
-        "latest_revenue": 976453,
-        "latest_gross_profit": 126930,
-        "latest_net_income": 54352,
-        "latest_debt_ratio": 48.48,
-        "latest_current_ratio": 126.31,
-        "latest_account_receivable_turnover_ratio": 0.61,
-        "latest_inventory_turnover_ratio": 1.05,
-        "latest_reinvestment_rate": -25.27,
-        "latest_research_to_sale_ratio": 5.06
+        "latest_roe": -3,
+        "latest_gross_margin": 9.47,
+        "latest_equity": 3266372,
+        "latest_revenue": 826920,
+        "latest_gross_profit": 78314,
+        "latest_net_income": -59260,
+        "latest_debt_ratio": 49.49,
+        "latest_current_ratio": 152.31,
+        "latest_account_receivable_turnover_ratio": 0.5,
+        "latest_inventory_turnover_ratio": 0.94,
+        "latest_reinvestment_rate": -41.02,
+        "latest_research_to_sale_ratio": 5.4
     },
     "eps_dividends": {
         "2001": {
@@ -187,7 +187,7 @@
         "2023": {
             "cash": 2,
             "stock": 0,
-            "eps": -0.42
+            "eps": -0.95
         },
         "2024": {
             "cash": 1,
@@ -545,7 +545,11 @@
         "202309": "22.22",
         "202310": "22.70",
         "202311": "22.53",
-        "202312": "22.99"
+        "202312": "22.99",
+        "202401": "24.21",
+        "202402": "24.07",
+        "202403": "24.77",
+        "202404": "無"
     },
     "quarters": {
         "20011": {
@@ -3459,6 +3463,38 @@
             "eps_avg_yearly": 3.22,
             "eps_latest_yearly": 1.92,
             "eps_growth_yearly": 376.91
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": -0.53,
+            "eps_growth_year": null,
+            "eps_4q": -0.95,
+            "eps_4q_growth_year": -129.48,
+            "roe": -1.77,
+            "roe_4q": -2.85,
+            "gross_profit": 78314,
+            "gross_margin": 9.47,
+            "gross_margin_4q_avg": 9.23,
+            "net_income": -59260,
+            "net_income_4q": null,
+            "revenue": 826920,
+            "revenue_4q": null,
+            "common_shares": 1214474,
+            "book_valuer_per_share": 25.94,
+            "book_valuer_per_share_4q_avg": 26.86,
+            "equity": 3266372,
+            "current_ratio": 152.31,
+            "debt_ratio": 49.49,
+            "inventory_turnover_ratio": 0.94,
+            "account_receivable_turnover_ratio": 0.5,
+            "reinvestment_rate": -41.02,
+            "research_to_sale_ratio": 5.4,
+            "price_fair": 115.03,
+            "eps_avg_yearly": 3.29,
+            "eps_latest_yearly": 1.92,
+            "eps_growth_yearly": 325.96
         }
     },
     "months": {
@@ -4626,6 +4662,16 @@
             "month": "2023-12",
             "price": "22.99",
             "revenue": 234855
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "24.21",
+            "revenue": 223263
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "24.07",
+            "revenue": 137692
         }
     }
 }

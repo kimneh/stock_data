@@ -6,7 +6,7 @@
         "main_business": "端點銷售系統 POS SYSTEM",
         "website_url": "http://www.datavan.com.tw/",
         "ceo": "許偉良",
-        "pe_ratio": -11,
+        "pe_ratio": -9,
         "report_year_from": 2006,
         "report_year_to": 2023,
         "age": 18,
@@ -58,20 +58,20 @@
             "at_2023_last_all": -86.14,
             "at_2024_last_all": -86.14
         },
-        "latest_eps": -1.85,
-        "latest_price": 20.7,
-        "latest_roe": -24.67,
-        "latest_gross_margin": 7.25,
-        "latest_equity": 717493,
-        "latest_revenue": 71749,
-        "latest_gross_profit": 5203,
-        "latest_net_income": -64760,
-        "latest_debt_ratio": 48.08,
-        "latest_current_ratio": 373.33,
-        "latest_account_receivable_turnover_ratio": 3,
-        "latest_inventory_turnover_ratio": 0.12,
+        "latest_eps": -2.45,
+        "latest_price": 21.55,
+        "latest_roe": -34.16,
+        "latest_gross_margin": -87.46,
+        "latest_equity": 644981,
+        "latest_revenue": 17159,
+        "latest_gross_profit": -15007,
+        "latest_net_income": -72515,
+        "latest_debt_ratio": 46.87,
+        "latest_current_ratio": 453.41,
+        "latest_account_receivable_turnover_ratio": 0.88,
+        "latest_inventory_turnover_ratio": 0.06,
         "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 6.72
+        "latest_research_to_sale_ratio": 17.74
     },
     "eps_dividends": {
         "2001": {
@@ -187,7 +187,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -1.73
+            "eps": -2.66
         }
     },
     "dividends": {
@@ -476,7 +476,11 @@
         "202309": "22.94",
         "202310": "17.28",
         "202311": "16.69",
-        "202312": "19.25"
+        "202312": "19.25",
+        "202401": "21.46",
+        "202402": "21.37",
+        "202403": "20.84",
+        "202404": "無"
     },
     "quarters": {
         "20011": {
@@ -3390,6 +3394,38 @@
             "eps_avg_yearly": 0,
             "eps_latest_yearly": 0,
             "eps_growth_yearly": 0
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": -0.93,
+            "eps_growth_year": null,
+            "eps_4q": -2.45,
+            "eps_4q_growth_year": null,
+            "roe": -10.64,
+            "roe_4q": -34.21,
+            "gross_profit": -15007,
+            "gross_margin": -87.46,
+            "gross_margin_4q_avg": -9.83,
+            "net_income": -72515,
+            "net_income_4q": null,
+            "revenue": 17159,
+            "revenue_4q": null,
+            "common_shares": 782656,
+            "book_valuer_per_share": 8.24,
+            "book_valuer_per_share_4q_avg": 8.09,
+            "equity": 644981,
+            "current_ratio": 453.41,
+            "debt_ratio": 46.87,
+            "inventory_turnover_ratio": 0.06,
+            "account_receivable_turnover_ratio": 0.88,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": 17.74,
+            "price_fair": 0,
+            "eps_avg_yearly": 0,
+            "eps_latest_yearly": 0,
+            "eps_growth_yearly": 0
         }
     },
     "months": {
@@ -4432,6 +4468,16 @@
             "month": "2023-12",
             "price": "19.25",
             "revenue": 5606
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "21.46",
+            "revenue": 14396
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "21.37",
+            "revenue": 33727
         }
     }
 }

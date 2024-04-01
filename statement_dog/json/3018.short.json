@@ -6,7 +6,7 @@
         "main_business": "機電系統整合工程<br>事業廢棄物處理",
         "website_url": "http://www.lmgte.com.tw",
         "ceo": "呂金晃",
-        "pe_ratio": 0,
+        "pe_ratio": -7,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 23,
@@ -58,17 +58,17 @@
             "at_2023_last_all": -24.52,
             "at_2024_last_all": -24.52
         },
-        "latest_eps": 0,
-        "latest_price": 14.45,
-        "latest_roe": 0,
-        "latest_gross_margin": 0.36,
-        "latest_equity": 47020,
-        "latest_revenue": 108288,
-        "latest_gross_profit": 394,
-        "latest_net_income": -30747,
-        "latest_debt_ratio": 95.24,
-        "latest_current_ratio": 98.48,
-        "latest_account_receivable_turnover_ratio": 0.35,
+        "latest_eps": -2.22,
+        "latest_price": 14.85,
+        "latest_roe": -78.93,
+        "latest_gross_margin": 15.16,
+        "latest_equity": 157034,
+        "latest_revenue": 157562,
+        "latest_gross_profit": 23883,
+        "latest_net_income": -29615,
+        "latest_debt_ratio": 87.05,
+        "latest_current_ratio": 107.87,
+        "latest_account_receivable_turnover_ratio": 0.59,
         "latest_inventory_turnover_ratio": null,
         "latest_reinvestment_rate": null,
         "latest_research_to_sale_ratio": null
@@ -197,7 +197,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": -1.12
+            "eps": -1.7
         }
     },
     "dividends": {
@@ -530,7 +530,11 @@
         "202309": "9.13",
         "202310": "7.68",
         "202311": "8.76",
-        "202312": "14.35"
+        "202312": "14.35",
+        "202401": "15.80",
+        "202402": "15.25",
+        "202403": "14.64",
+        "202404": "無"
     },
     "quarters": {
         "20011": {
@@ -3444,6 +3448,38 @@
             "eps_avg_yearly": 0.06,
             "eps_latest_yearly": 0.08,
             "eps_growth_yearly": -180
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": -0.58,
+            "eps_growth_year": null,
+            "eps_4q": -2.22,
+            "eps_4q_growth_year": null,
+            "roe": -29.03,
+            "roe_4q": -128.60000000000002,
+            "gross_profit": 23883,
+            "gross_margin": 15.16,
+            "gross_margin_4q_avg": 0.68,
+            "net_income": -29615,
+            "net_income_4q": null,
+            "revenue": 157562,
+            "revenue_4q": null,
+            "common_shares": 513736,
+            "book_valuer_per_share": 3.06,
+            "book_valuer_per_share_4q_avg": 1.77,
+            "equity": 157034,
+            "current_ratio": 107.87,
+            "debt_ratio": 87.05,
+            "inventory_turnover_ratio": null,
+            "account_receivable_turnover_ratio": 0.59,
+            "reinvestment_rate": null,
+            "research_to_sale_ratio": null,
+            "price_fair": 0.18,
+            "eps_avg_yearly": 0.06,
+            "eps_latest_yearly": 0.08,
+            "eps_growth_yearly": -180
         }
     },
     "months": {
@@ -4701,6 +4737,16 @@
             "month": "2023-12",
             "price": "14.35",
             "revenue": 33991
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "15.80",
+            "revenue": 13040
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "15.25",
+            "revenue": 13995
         }
     }
 }

@@ -6,19 +6,19 @@
         "main_business": "事務機器電腦傳真機之買賣進出口修理及出租業務<br>電子及機械零組件買賣業務<br>有(無)線通信傳輸設備之買賣及工程承包、裝設",
         "website_url": "http://www.eosasc.com.tw",
         "ceo": "翁國華",
-        "pe_ratio": 15,
+        "pe_ratio": 16,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 23,
         "eps_negative_percentage": 4,
         "eps_growth_avg": {
-            "last_all": 13.81,
-            "last_2y": -9.91,
-            "last_4y": -4.3,
-            "last_8y": -0.95,
-            "last_12y": 7.24,
-            "last_16y": 11.4,
-            "last_20y": 13.81,
+            "last_all": 14.58,
+            "last_2y": -4.51,
+            "last_4y": -1.06,
+            "last_8y": 0.85,
+            "last_12y": 8.49,
+            "last_16y": 12.36,
+            "last_20y": 14.58,
             "at_2006_last_3y": 24.04,
             "at_2007_last_3y": 25.29,
             "at_2008_last_3y": 6.16,
@@ -36,8 +36,8 @@
             "at_2020_last_3y": 8.02,
             "at_2021_last_3y": -0,
             "at_2022_last_3y": 1.89,
-            "at_2023_last_3y": -9.26,
-            "at_2024_last_3y": -9.26,
+            "at_2023_last_3y": -5.21,
+            "at_2024_last_3y": -5.21,
             "at_2006_last_all": 24.04,
             "at_2007_last_all": 39.24,
             "at_2008_last_all": 29.98,
@@ -55,22 +55,22 @@
             "at_2020_last_all": 17.77,
             "at_2021_last_all": 16.66,
             "at_2022_last_all": 15.95,
-            "at_2023_last_all": 13.81,
-            "at_2024_last_all": 13.81
+            "at_2023_last_all": 14.58,
+            "at_2024_last_all": 14.58
         },
-        "latest_eps": 3.48,
-        "latest_price": 53,
-        "latest_roe": 11.54,
-        "latest_gross_margin": 33.18,
-        "latest_equity": 4458427,
-        "latest_revenue": 722952,
-        "latest_gross_profit": 239906,
-        "latest_net_income": 225074,
-        "latest_debt_ratio": 41.75,
-        "latest_current_ratio": 224.63,
-        "latest_account_receivable_turnover_ratio": 2.12,
-        "latest_inventory_turnover_ratio": 2.77,
-        "latest_reinvestment_rate": -39.78,
+        "latest_eps": 3.39,
+        "latest_price": 53.1,
+        "latest_roe": 11.13,
+        "latest_gross_margin": 33.97,
+        "latest_equity": 4528207,
+        "latest_revenue": 729255,
+        "latest_gross_profit": 247756,
+        "latest_net_income": 95370,
+        "latest_debt_ratio": 41.07,
+        "latest_current_ratio": 238.95,
+        "latest_account_receivable_turnover_ratio": 2.23,
+        "latest_inventory_turnover_ratio": 2.31,
+        "latest_reinvestment_rate": -37.72,
         "latest_research_to_sale_ratio": null
     },
     "eps_dividends": {
@@ -202,7 +202,7 @@
         "2023": {
             "cash": 3.6,
             "stock": 0,
-            "eps": 2.76
+            "eps": 3.39
         },
         "2024": {
             "cash": 3,
@@ -588,7 +588,11 @@
         "202309": "51.28",
         "202310": "51.34",
         "202311": "51.66",
-        "202312": "52.24"
+        "202312": "52.24",
+        "202401": "51.67",
+        "202402": "52.03",
+        "202403": "52.68",
+        "202404": "無"
     },
     "quarters": {
         "20011": {
@@ -3502,6 +3506,38 @@
             "eps_avg_yearly": 3.78,
             "eps_latest_yearly": 6.16,
             "eps_growth_yearly": 101.23
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": 0.63,
+            "eps_growth_year": -12.61,
+            "eps_4q": 3.39,
+            "eps_4q_growth_year": -12.63,
+            "roe": 2.12,
+            "roe_4q": 11.6,
+            "gross_profit": 247756,
+            "gross_margin": 33.97,
+            "gross_margin_4q_avg": 34.25,
+            "net_income": 95370,
+            "net_income_4q": null,
+            "revenue": 729255,
+            "revenue_4q": null,
+            "common_shares": 1444960,
+            "book_valuer_per_share": 26.54,
+            "book_valuer_per_share_4q_avg": 25.6,
+            "equity": 4528207,
+            "current_ratio": 238.95,
+            "debt_ratio": 41.07,
+            "inventory_turnover_ratio": 2.31,
+            "account_receivable_turnover_ratio": 2.23,
+            "reinvestment_rate": -37.72,
+            "research_to_sale_ratio": null,
+            "price_fair": 131.16,
+            "eps_avg_yearly": 3.75,
+            "eps_latest_yearly": 2.52,
+            "eps_growth_yearly": 101.67
         }
     },
     "months": {
@@ -4859,6 +4895,16 @@
             "month": "2023-12",
             "price": "52.24",
             "revenue": 251355
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "51.67",
+            "revenue": 239605
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "52.03",
+            "revenue": 218038
         }
     }
 }

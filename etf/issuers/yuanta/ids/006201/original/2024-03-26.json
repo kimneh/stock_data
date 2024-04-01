@@ -1,0 +1,507 @@
+{
+    "PCF": {
+        "fundid": "1099",
+        "fundname": "元大富櫃50基金",
+        "fullname": "元大櫃買ETF傘型證券投資信託基金之富櫃50證券投資信託基金",
+        "ename": "Yuanta/P-shares Taiwan GreTai 50 ETF",
+        "markcd": "006201",
+        "trandate": "20240325",
+        "totalav": 328102514,
+        "osunit": 14946000,
+        "nav": 21.95,
+        "baseunit": 500000,
+        "estcvalue": 10976265,
+        "estdvalue": -1097759,
+        "issuesdiff": 0,
+        "cashdiff": 0,
+        "preallot": 12080000,
+        "allot": 10992241,
+        "anndate": "20240326",
+        "upddate": "2024-03-25 16:59:02",
+        "preunit": 14946000,
+        "predate": "20240325",
+        "allot_charge_fee": 0,
+        "redem_charge_fee": 0,
+        "Beneficiary": {
+            "doc_ym": "20240229",
+            "bf_cnt_a": 1744,
+            "upd_date": "2024-03-01T08:47:15"
+        }
+    },
+    "InKind": {
+        "FundComposition": null
+    },
+    "Cash": {
+        "TranDate": "20240325",
+        "CashPosition": [],
+        "MMF": [],
+        "Margin": [
+            {
+                "code": null,
+                "name": "保證金",
+                "ename": "Margin",
+                "crncy": "NTD",
+                "exrate": 1,
+                "rto": 0,
+                "amt": 3432610,
+                "trandate": "20240325"
+            }
+        ],
+        "RP": [],
+        "ForwardExchange": [],
+        "Currency": [
+            {
+                "fundId": "1099",
+                "cDate": "20240325",
+                "crncy": "NTD",
+                "endRate": 31.865
+            }
+        ],
+        "CouponRate": [],
+        "InvestArea": [
+            {
+                "TRAN_DATE": "20240325",
+                "FUND_ID": "1099",
+                "name": "台灣",
+                "ename": "TAIWAN",
+                "HOLD_RTO": 95.76,
+                "CNT": 50
+            },
+            {
+                "TRAN_DATE": "20240325",
+                "FUND_ID": "1099",
+                "name": "現金",
+                "ename": "Cash",
+                "HOLD_RTO": 4.24,
+                "CNT": 0
+            }
+        ],
+        "CreditRating": []
+    },
+    "FundWeights": {
+        "Summary": {
+            "code": "1099",
+            "name": null,
+            "stkvalues": 314198912,
+            "futvalues": 11004400,
+            "etfvalues": 0,
+            "bndvalues": 0,
+            "fundsize": 328102514
+        },
+        "StockWeights": [
+            {
+                "code": "8069",
+                "ym": null,
+                "name": "元太",
+                "ename": "E INK HOLDINGS INC.",
+                "weights": 9.9,
+                "qty": 137072
+            },
+            {
+                "code": "3529",
+                "ym": null,
+                "name": "力旺",
+                "ename": "eMemory Technology Inc.",
+                "weights": 7.8,
+                "qty": 10219
+            },
+            {
+                "code": "6488",
+                "ym": null,
+                "name": "環球晶",
+                "ename": "GlobalWafers Co. Ltd",
+                "weights": 5.78,
+                "qty": 32607
+            },
+            {
+                "code": "5483",
+                "ym": null,
+                "name": "中美晶",
+                "ename": "Sino-American Silicon Products Inc.",
+                "weights": 5.3,
+                "qty": 79000
+            },
+            {
+                "code": "3293",
+                "ym": null,
+                "name": "鈊象",
+                "ename": "INTERNATIONAL GAMES SYSTEM CO.LTD.",
+                "weights": 5.26,
+                "qty": 17096
+            },
+            {
+                "code": "8299",
+                "ym": null,
+                "name": "群聯",
+                "ename": "Phison Electronics Corp.",
+                "weights": 5.21,
+                "qty": 25146
+            },
+            {
+                "code": "5274",
+                "ym": null,
+                "name": "信驊",
+                "ename": "ASPEED TECHNOLOGY INC.",
+                "weights": 4.15,
+                "qty": 4717
+            },
+            {
+                "code": "5347",
+                "ym": null,
+                "name": "世界",
+                "ename": "Vanguard International Semiconductor Co.",
+                "weights": 3.88,
+                "qty": 147670
+            },
+            {
+                "code": "6121",
+                "ym": null,
+                "name": "新普",
+                "ename": "SIMPLO TECHNOLOGY CO.LTD.",
+                "weights": 3.67,
+                "qty": 27495
+            },
+            {
+                "code": "4966",
+                "ym": null,
+                "name": "譜瑞-KY",
+                "ename": "Parade Technologies Ltd.",
+                "weights": 3.31,
+                "qty": 11220
+            },
+            {
+                "code": "6147",
+                "ym": null,
+                "name": "頎邦",
+                "ename": "CHIPBOND TECHNOLOGY CORPORATION",
+                "weights": 2.55,
+                "qty": 111602
+            },
+            {
+                "code": "3324",
+                "ym": null,
+                "name": "雙鴻",
+                "ename": "AURAS Technology Co.Ltd.",
+                "weights": 2.22,
+                "qty": 10443
+            },
+            {
+                "code": "6274",
+                "ym": null,
+                "name": "台燿",
+                "ename": "TAIWAN UNION TECHNOLOGY CORPORATION",
+                "weights": 2.07,
+                "qty": 36839
+            },
+            {
+                "code": "6643",
+                "ym": null,
+                "name": "M31",
+                "ename": "M31 Technology Corporation",
+                "weights": 1.91,
+                "qty": 4500
+            },
+            {
+                "code": "5904",
+                "ym": null,
+                "name": "寶雅",
+                "ename": "POYA International Co. Ltd.",
+                "weights": 1.84,
+                "qty": 12000
+            },
+            {
+                "code": "3264",
+                "ym": null,
+                "name": "欣銓",
+                "ename": "Ardentec Corporation",
+                "weights": 1.64,
+                "qty": 66045
+            },
+            {
+                "code": "3680",
+                "ym": null,
+                "name": "家登",
+                "ename": "Gudeng Precision Industrial Co. LTD",
+                "weights": 1.55,
+                "qty": 11833
+            },
+            {
+                "code": "5009",
+                "ym": null,
+                "name": "榮剛",
+                "ename": "GLORIA MATERIAL TECHNOLOGY CORP",
+                "weights": 1.23,
+                "qty": 81000
+            },
+            {
+                "code": "6223",
+                "ym": null,
+                "name": "旺矽",
+                "ename": "MPI CORPORATION",
+                "weights": 1.23,
+                "qty": 13000
+            },
+            {
+                "code": "1785",
+                "ym": null,
+                "name": "光洋科",
+                "ename": "Solar Applied Materials Technology Corp.",
+                "weights": 1.22,
+                "qty": 82144
+            },
+            {
+                "code": "3260",
+                "ym": null,
+                "name": "威剛",
+                "ename": "ADATA Technology Co. Ltd.",
+                "weights": 1.2,
+                "qty": 39928
+            },
+            {
+                "code": "5371",
+                "ym": null,
+                "name": "中光電",
+                "ename": "Coretronic Corporation",
+                "weights": 1.2,
+                "qty": 53000
+            },
+            {
+                "code": "6469",
+                "ym": null,
+                "name": "大樹",
+                "ename": "Great Tree Pharmacy Co.Ltd.",
+                "weights": 1.12,
+                "qty": 12208
+            },
+            {
+                "code": "3227",
+                "ym": null,
+                "name": "原相",
+                "ename": "PixArt Imaging Inc.",
+                "weights": 1.11,
+                "qty": 22403
+            },
+            {
+                "code": "3131",
+                "ym": null,
+                "name": "弘塑",
+                "ename": "GR PROCESS TECHNOLOGY CORPORATION",
+                "weights": 1.09,
+                "qty": 4000
+            },
+            {
+                "code": "5289",
+                "ym": null,
+                "name": "宜鼎",
+                "ename": "Innodisk Corporation",
+                "weights": 1.09,
+                "qty": 11551
+            },
+            {
+                "code": "5536",
+                "ym": null,
+                "name": "聖暉*",
+                "ename": "ACTER GROUP CORPORATION LIMITED",
+                "weights": 1.05,
+                "qty": 17000
+            },
+            {
+                "code": "6182",
+                "ym": null,
+                "name": "合晶",
+                "ename": "WAFER WORKS CORPORATION",
+                "weights": 0.98,
+                "qty": 82091
+            },
+            {
+                "code": "3362",
+                "ym": null,
+                "name": "先進光",
+                "ename": "ABILITY OPTO-ELECTRONICS TECHNOLOGY CO.LTD.",
+                "weights": 0.95,
+                "qty": 13000
+            },
+            {
+                "code": "3374",
+                "ym": null,
+                "name": "精材",
+                "ename": "Xintec Inc.",
+                "weights": 0.95,
+                "qty": 24323
+            },
+            {
+                "code": "6188",
+                "ym": null,
+                "name": "廣明",
+                "ename": "Quanta Storage Inc.",
+                "weights": 0.89,
+                "qty": 29000
+            },
+            {
+                "code": "6146",
+                "ym": null,
+                "name": "耕興",
+                "ename": "SPORTON INTERNATIONAL INC.",
+                "weights": 0.86,
+                "qty": 11000
+            },
+            {
+                "code": "4105",
+                "ym": null,
+                "name": "東洋",
+                "ename": "TTY BIOPHARM COMPANY LIMITED",
+                "weights": 0.85,
+                "qty": 34000
+            },
+            {
+                "code": "5425",
+                "ym": null,
+                "name": "台半",
+                "ename": "TAIWAN SEMICONDUCTOR CO. LTD.",
+                "weights": 0.84,
+                "qty": 35985
+            },
+            {
+                "code": "6679",
+                "ym": null,
+                "name": "鈺太",
+                "ename": "ZILLTEK TECHNOLOGY CORP.",
+                "weights": 0.84,
+                "qty": 6000
+            },
+            {
+                "code": "3707",
+                "ym": null,
+                "name": "漢磊",
+                "ename": "EPISIL TECHNOLOGIES INC.",
+                "weights": 0.81,
+                "qty": 45276
+            },
+            {
+                "code": "6125",
+                "ym": null,
+                "name": "廣運",
+                "ename": "KENMEC MECHANICAL ENGINEERING CO.LTD.",
+                "weights": 0.81,
+                "qty": 30000
+            },
+            {
+                "code": "3218",
+                "ym": null,
+                "name": "大學光",
+                "ename": "UNIVERSAL VISION BIOTECHNOLOGY  CO. LTD.",
+                "weights": 0.72,
+                "qty": 8609
+            },
+            {
+                "code": "8436",
+                "ym": null,
+                "name": "大江",
+                "ename": "TCI CO.Ltd",
+                "weights": 0.68,
+                "qty": 14453
+            },
+            {
+                "code": "4979",
+                "ym": null,
+                "name": "華星光",
+                "ename": "LuxNet Corporation",
+                "weights": 0.66,
+                "qty": 15000
+            },
+            {
+                "code": "6548",
+                "ym": null,
+                "name": "長科*",
+                "ename": "CHANG WAH TECHNOLOGY CO. LTD",
+                "weights": 0.61,
+                "qty": 57500
+            },
+            {
+                "code": "3152",
+                "ym": null,
+                "name": "璟德",
+                "ename": "Advanced Ceramic X Corporation",
+                "weights": 0.6,
+                "qty": 8207
+            },
+            {
+                "code": "6279",
+                "ym": null,
+                "name": "胡連",
+                "ename": "HU  LANE  ASSOCIATE  INC.",
+                "weights": 0.59,
+                "qty": 12000
+            },
+            {
+                "code": "8050",
+                "ym": null,
+                "name": "廣積",
+                "ename": "IBASE TECHNOLOGY INC.",
+                "weights": 0.57,
+                "qty": 22000
+            },
+            {
+                "code": "8255",
+                "ym": null,
+                "name": "朋程",
+                "ename": "Actron Technology Corporation",
+                "weights": 0.53,
+                "qty": 9984
+            },
+            {
+                "code": "6712",
+                "ym": null,
+                "name": "長聖",
+                "ename": "Ever Supreme Bio Technology Co. Ltd",
+                "weights": 0.52,
+                "qty": 7896
+            },
+            {
+                "code": "6732",
+                "ym": null,
+                "name": "昇佳電子",
+                "ename": "Sensortek Technology Corp.",
+                "weights": 0.52,
+                "qty": 4000
+            },
+            {
+                "code": "6510",
+                "ym": null,
+                "name": "精測",
+                "ename": "Chunghwa Precision Test Tech. Co. Ltd.",
+                "weights": 0.47,
+                "qty": 2982
+            },
+            {
+                "code": "3693",
+                "ym": null,
+                "name": "營邦",
+                "ename": "AIC Inc.",
+                "weights": 0.46,
+                "qty": 4000
+            },
+            {
+                "code": "4162",
+                "ym": null,
+                "name": "智擎",
+                "ename": "PharmaEngine Inc.",
+                "weights": 0.46,
+                "qty": 15000
+            }
+        ],
+        "FutureWeights": [
+            {
+                "code": "G2F",
+                "ym": "202404",
+                "name": "櫃買富櫃200指數期貨",
+                "ename": "TPEx 200 Futures",
+                "weights": 3.35,
+                "qty": 22
+            }
+        ],
+        "ETFWeights": [],
+        "BondWeights": []
+    },
+    "Memo": null
+}

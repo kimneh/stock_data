@@ -6,15 +6,15 @@
         "main_business": "經營電機、電子零件代理經銷業務<br>工廠自動化設備銷售組裝製品業務<br>嵌入式電腦組裝製品業務",
         "website_url": "http://www.daito-me.com.tw",
         "ceo": "奧山一寸法師",
-        "pe_ratio": -149,
+        "pe_ratio": -350,
         "report_year_from": 2013,
         "report_year_to": 2023,
         "age": 11,
-        "eps_negative_percentage": 11,
+        "eps_negative_percentage": 22,
         "eps_growth_avg": {
-            "last_all": -15.2,
-            "last_2y": -70.67,
-            "last_4y": -61.89,
+            "last_all": -17.58,
+            "last_2y": -79,
+            "last_4y": -66.06,
             "last_8y": null,
             "last_12y": null,
             "last_16y": null,
@@ -36,8 +36,8 @@
             "at_2020_last_3y": -15.76,
             "at_2021_last_3y": -18.47,
             "at_2022_last_3y": -54.74,
-            "at_2023_last_3y": -80.44,
-            "at_2024_last_3y": -80.44,
+            "at_2023_last_3y": -86,
+            "at_2024_last_3y": -86,
             "at_2006_last_all": null,
             "at_2007_last_all": null,
             "at_2008_last_all": null,
@@ -55,22 +55,22 @@
             "at_2020_last_all": 6.99,
             "at_2021_last_all": 6.99,
             "at_2022_last_all": -3.85,
-            "at_2023_last_all": -15.2,
-            "at_2024_last_all": -15.2
+            "at_2023_last_all": -17.58,
+            "at_2024_last_all": -17.58
         },
-        "latest_eps": -0.14,
-        "latest_price": 20.8,
-        "latest_roe": -4.77,
-        "latest_gross_margin": 6.98,
-        "latest_equity": 627022,
-        "latest_revenue": 369536,
-        "latest_gross_profit": 25802,
-        "latest_net_income": -12047,
-        "latest_debt_ratio": 58.36,
-        "latest_current_ratio": 135.08,
-        "latest_account_receivable_turnover_ratio": 0.76,
-        "latest_inventory_turnover_ratio": 2.91,
-        "latest_reinvestment_rate": -391.75,
+        "latest_eps": -0.06,
+        "latest_price": 21,
+        "latest_roe": -4.29,
+        "latest_gross_margin": 9.47,
+        "latest_equity": 617947,
+        "latest_revenue": 325740,
+        "latest_gross_profit": 30839,
+        "latest_net_income": -9682,
+        "latest_debt_ratio": 58.28,
+        "latest_current_ratio": 122.44,
+        "latest_account_receivable_turnover_ratio": 0.67,
+        "latest_inventory_turnover_ratio": 2.56,
+        "latest_reinvestment_rate": -238.25,
         "latest_research_to_sale_ratio": 0.04
     },
     "eps_dividends": {
@@ -187,7 +187,7 @@
         "2023": {
             "cash": 0.12,
             "stock": 0,
-            "eps": 0.07
+            "eps": -0.06
         }
     },
     "dividends": {
@@ -492,7 +492,11 @@
         "202309": "20.77",
         "202310": "21.35",
         "202311": "21.01",
-        "202312": "20.67"
+        "202312": "20.67",
+        "202401": "21.11",
+        "202402": "20.69",
+        "202403": "20.80",
+        "202404": "無"
     },
     "quarters": {
         "20011": {
@@ -3406,6 +3410,38 @@
             "eps_avg_yearly": 0.99,
             "eps_latest_yearly": 0.36,
             "eps_growth_yearly": 89.81
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": -0.13,
+            "eps_growth_year": null,
+            "eps_4q": -0.06,
+            "eps_4q_growth_year": -114.91,
+            "roe": -1.56,
+            "roe_4q": -4.359999999999999,
+            "gross_profit": 30839,
+            "gross_margin": 9.47,
+            "gross_margin_4q_avg": 8.7,
+            "net_income": -9682,
+            "net_income_4q": null,
+            "revenue": 325740,
+            "revenue_4q": null,
+            "common_shares": 252191,
+            "book_valuer_per_share": 20.97,
+            "book_valuer_per_share_4q_avg": 21.3,
+            "equity": 617947,
+            "current_ratio": 122.44,
+            "debt_ratio": 58.28,
+            "inventory_turnover_ratio": 2.56,
+            "account_receivable_turnover_ratio": 0.67,
+            "reinvestment_rate": -238.25,
+            "research_to_sale_ratio": 0.04,
+            "price_fair": 34.6,
+            "eps_avg_yearly": 0.99,
+            "eps_latest_yearly": 0.36,
+            "eps_growth_yearly": 89.81
         }
     },
     "months": {
@@ -3888,6 +3924,16 @@
             "month": "2023-12",
             "price": "20.67",
             "revenue": 93361
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "21.11",
+            "revenue": 97296
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "20.69",
+            "revenue": 117760
         }
     }
 }

@@ -6,7 +6,7 @@
         "main_business": "螺絲<br>球化線材<br>機械零件",
         "website_url": "http://www.tycons.com.tw",
         "ceo": "呂艷娟",
-        "pe_ratio": -177,
+        "pe_ratio": 47,
         "report_year_from": 2001,
         "report_year_to": 2023,
         "age": 23,
@@ -58,20 +58,20 @@
             "at_2023_last_all": -50.31,
             "at_2024_last_all": -50.31
         },
-        "latest_eps": -0.06,
-        "latest_price": 10.6,
-        "latest_roe": 1.28,
-        "latest_gross_margin": 11.31,
-        "latest_equity": 6758031,
-        "latest_revenue": 2287918,
-        "latest_gross_profit": 258693,
-        "latest_net_income": -28468,
-        "latest_debt_ratio": 26.46,
-        "latest_current_ratio": 229.54,
-        "latest_account_receivable_turnover_ratio": 2.91,
-        "latest_inventory_turnover_ratio": 0.85,
-        "latest_reinvestment_rate": null,
-        "latest_research_to_sale_ratio": 0
+        "latest_eps": 0.24,
+        "latest_price": 11.2,
+        "latest_roe": 2.92,
+        "latest_gross_margin": 21.74,
+        "latest_equity": 6904763,
+        "latest_revenue": 1866843,
+        "latest_gross_profit": 405791,
+        "latest_net_income": 111242,
+        "latest_debt_ratio": 22.51,
+        "latest_current_ratio": 271.89,
+        "latest_account_receivable_turnover_ratio": 2.8,
+        "latest_inventory_turnover_ratio": 0.62,
+        "latest_reinvestment_rate": -481.31,
+        "latest_research_to_sale_ratio": 0.64
     },
     "eps_dividends": {
         "1993": {
@@ -222,7 +222,7 @@
         "2023": {
             "cash": 0,
             "stock": 0,
-            "eps": 0.01
+            "eps": 0.19
         }
     },
     "dividends": {
@@ -535,7 +535,11 @@
         "202309": "12.64",
         "202310": "12.37",
         "202311": "11.67",
-        "202312": "12.39"
+        "202312": "12.39",
+        "202401": "11.79",
+        "202402": "11.40",
+        "202403": "10.77",
+        "202404": "無"
     },
     "quarters": {
         "20011": {
@@ -3449,6 +3453,38 @@
             "eps_avg_yearly": 1.08,
             "eps_latest_yearly": 0.92,
             "eps_growth_yearly": -96.61
+        },
+        "20234": {
+            "year_quarter": 20234,
+            "year": 2023,
+            "quarter": 4,
+            "eps": 0.18,
+            "eps_growth_year": null,
+            "eps_4q": 0.24,
+            "eps_4q_growth_year": null,
+            "roe": 1.63,
+            "roe_4q": 2.91,
+            "gross_profit": 405791,
+            "gross_margin": 21.74,
+            "gross_margin_4q_avg": 14.43,
+            "net_income": 111242,
+            "net_income_4q": null,
+            "revenue": 1866843,
+            "revenue_4q": null,
+            "common_shares": 3371682,
+            "book_valuer_per_share": 10.72,
+            "book_valuer_per_share_4q_avg": 9.77,
+            "equity": 6904763,
+            "current_ratio": 271.89,
+            "debt_ratio": 22.51,
+            "inventory_turnover_ratio": 0.62,
+            "account_receivable_turnover_ratio": 2.8,
+            "reinvestment_rate": -481.31,
+            "research_to_sale_ratio": 0.64,
+            "price_fair": 3.24,
+            "eps_avg_yearly": 1.08,
+            "eps_latest_yearly": 0.92,
+            "eps_growth_yearly": -96.61
         }
     },
     "months": {
@@ -4806,6 +4842,16 @@
             "month": "2023-12",
             "price": "12.39",
             "revenue": 494431
+        },
+        "2024-01": {
+            "month": "2024-01",
+            "price": "11.79",
+            "revenue": 658566
+        },
+        "2024-02": {
+            "month": "2024-02",
+            "price": "11.40",
+            "revenue": 645206
         }
     }
 }
